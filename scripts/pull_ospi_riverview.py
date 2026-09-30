@@ -64,11 +64,34 @@ def discover(fam,period):
         if r.get("id") and needle in name.lower(): return r["id"],name
     return None,None
 
-def fetch(did):
+def schema_probe(did):
+    """Fetch one row to learn the API field names without downloading the dataset."""
+    rows=get(f"{BASE}/resource/{did}.json",{"$limit":1}).json()
+    return pd.DataFrame(rows)
+
+def soql_literal(value):
+    return "'" + str(value).replace("'", "''") + "'"
+
+def build_scope_where(sample):
+    """Build a conservative server-side scope from fields proven present."""
+    clauses=[]
+    c=col(sample,"DistrictOrganizationId")
+    if c: clauses.append(f"{c}={soql_literal(ORG_ID)}")
+    c=col(sample,"DistrictCode")
+    if c: clauses.append(f"{c}={soql_literal(DISTRICT_CODE)}")
+    c=col(sample,"DistrictName")
+    if c: clauses.append(f"lower({c})={soql_literal(DISTRICT_NAME.lower())}")
+    c=col(sample,"OrganizationLevel")
+    if c: clauses.append(f"lower({c})='state'")
+    return " OR ".join(dict.fromkeys(clauses))
+
+def fetch(did,where=None):
     rows=[]; off=0
     while True:
         started=time.monotonic()
-        part=get(f"{BASE}/resource/{did}.json",{"$limit":50000,"$offset":off}).json(); rows+=part
+        params={"$limit":50000,"$offset":off}
+        if where: params["$where"]=where
+        part=get(f"{BASE}/resource/{did}.json",params).json(); rows+=part
         log(f"        page {off//50000+1}: {len(part):,} rows ({time.monotonic()-started:.1f}s; {len(rows):,} total)")
         if len(part)<50000:return pd.DataFrame(rows)
         off+=50000
@@ -96,7 +119,7 @@ def digest(p):
         for b in iter(lambda:f.read(1048576),b""):h.update(b)
     return h.hexdigest()
 
-report=[]; files=[]
+report=[]; files=[]; acquisitions=[]
 log(f"Starting OSPI collection: {len(REQUIRED)} required dataset-periods")
 run_started=time.monotonic()
 for idx,(fam,period) in enumerate(REQUIRED,1):
@@ -117,7 +140,13 @@ for idx,(fam,period) in enumerate(REQUIRED,1):
             status=e.response.status_code if e.response is not None else "unknown"
             log(f"        metadata unavailable (HTTP {status}); continuing with dataset ID {did}")
             title=title or f"OSPI dataset {did}"
-        full=fetch(did)
+        sample=schema_probe(did)
+        where=build_scope_where(sample)
+        if not where:
+            raise ValueError(f"cannot construct verified server scope; source columns={list(sample.columns)}")
+        log(f"        server filter: {where}")
+        full=fetch(did,where)
+        acquisitions.append({"family":fam,"period":period,"dataset_id":did,"endpoint":f"{BASE}/resource/{did}.json","where":where,"method":"socrata-soql-filtered-json","local_scope_validation":True})
         # A plausible title/row count is not sufficient: verify the source
         # actually contains the requested school year before accepting it.
         if period != "2024_run" and "_to_" not in period:
@@ -145,7 +174,7 @@ for idx,(fam,period) in enumerate(REQUIRED,1):
 
 rep=pd.DataFrame(report,columns=["family","period","dataset_id","status","scoped_rows","riverview_rows","note"])
 rep.to_csv(OUT/"collection_report.csv",index=False)
-manifest={"schema_version":1,"retrieved_at_utc":datetime.now(timezone.utc).isoformat(),"github_sha":os.getenv("GITHUB_SHA"),"github_run_id":os.getenv("GITHUB_RUN_ID"),"python":platform.python_version(),"district":{"name":DISTRICT_NAME,"organization_id":ORG_ID,"district_code":DISTRICT_CODE},"source_hosts":[BASE,CATALOG],"artifacts":files,"collection_report_sha256":digest(OUT/"collection_report.csv")}
+manifest={"schema_version":1,"retrieved_at_utc":datetime.now(timezone.utc).isoformat(),"github_sha":os.getenv("GITHUB_SHA"),"github_run_id":os.getenv("GITHUB_RUN_ID"),"python":platform.python_version(),"district":{"name":DISTRICT_NAME,"organization_id":ORG_ID,"district_code":DISTRICT_CODE},"source_hosts":[BASE,CATALOG],"acquisitions":acquisitions,"artifacts":files,"collection_report_sha256":digest(OUT/"collection_report.csv")}
 (OUT/"run_manifest.json").write_text(json.dumps(manifest,indent=2))
 with zipfile.ZipFile("ospi_riverview.zip","w",zipfile.ZIP_DEFLATED) as z:
     for f in OUT.rglob("*"):
