@@ -2,6 +2,72 @@
   "extraction_method": "Manual transcription; PDF pages are 1-based physical pages. Decimal strings preserve source precision. Fund is General Fund only. Totals and unassigned balances are distinct measures. No automatic OCR or chart digitization.",
   "reserves": [
     {
+      "evidence_id": "SAO-RSD407-2010-FIN",
+      "period": "2009-10",
+      "basis": "audited actual",
+      "total_balance": "2186100.21",
+      "expenditures": "28282682.78",
+      "pdf_pages": {
+        "total_balance": 16,
+        "expenditures": 15
+      }
+    },
+    {
+      "evidence_id": "SAO-RSD407-2017-FIN",
+      "period": "2016-17",
+      "basis": "audited actual",
+      "total_balance": "4034488.34",
+      "expenditures": "37480441.28",
+      "pdf_pages": {
+        "total_balance": 25,
+        "expenditures": 24
+      }
+    },
+    {
+      "evidence_id": "SAO-RSD407-2019-FIN",
+      "period": "2018-19",
+      "basis": "audited actual",
+      "total_balance": "7340277.12",
+      "expenditures": "45740916.99",
+      "pdf_pages": {
+        "total_balance": 20,
+        "expenditures": 19
+      }
+    },
+    {
+      "evidence_id": "SAO-RSD407-2020-FIN",
+      "period": "2019-20",
+      "basis": "audited actual",
+      "total_balance": "8162657.92",
+      "expenditures": "47257070.37",
+      "pdf_pages": {
+        "total_balance": 21,
+        "expenditures": 21
+      }
+    },
+    {
+      "evidence_id": "SAO-RSD407-2021-FIN",
+      "period": "2020-21",
+      "basis": "audited actual",
+      "total_balance": "8285778.41",
+      "expenditures": "47508443.83",
+      "pdf_pages": {
+        "total_balance": 21,
+        "expenditures": 21
+      }
+    },
+    {
+      "evidence_id": "SAO-RSD407-2022-FIN",
+      "period": "2021-22",
+      "basis": "audited actual",
+      "total_balance": "7310473.12",
+      "expenditures": "51234734.75",
+      "pdf_pages": {
+        "total_balance": 22,
+        "expenditures": 22
+      }
+    },
+    {
       "evidence_id": "SAO-RSD407-2023-FIN",
       "period": "2022-23",
       "basis": "audited actual",
@@ -54,6 +120,39 @@
         "expenditures": 5,
         "unassigned_balance": 5
       }
+    }
+  ],
+  "policy_6000": {
+    "evidence_id": "RSD407-POLICY-6000-2025",
+    "revision_date": "2025-05-13",
+    "total_balance_pct": "5",
+    "unassigned_balance_pct": "2.5",
+    "denominator": "total actual expenditures at fiscal year end",
+    "pdf_pages": {
+      "targets": 1,
+      "revision_date": 4
+    },
+    "qualification": "Board may adopt an annual estimated total ending balance departing from target."
+  },
+  "budget_denominators": [
+    {
+      "evidence_id": "RSD407-FY2025-F195",
+      "period": "2023-24",
+      "expenditures": "56472106",
+      "pdf_page": 5
+    },
+    {
+      "evidence_id": "RSD407-FY2024-FULL",
+      "period": "2023-24",
+      "expenditures": "56472108",
+      "pdf_page": 7,
+      "qualification": "August revised budget table differs by $2 from F196 comparison on physical page 24 and later F195."
+    },
+    {
+      "evidence_id": "RSD407-FY2025-F195",
+      "period": "2024-25",
+      "expenditures": "62082341",
+      "pdf_page": 5
     }
   ]
 }
