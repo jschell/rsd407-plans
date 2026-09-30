@@ -18,6 +18,8 @@ Finance research closes under `docs/plans/complete/02-finance-closeout.md`. Next
 
 Plan 03's [allocation evidence checkpoint](goal-2-resource-allocation.md) records July 2025 district completion assertions and September 2026 recovery-framework tasks. These later materials support the finance classification of an evolving challenge; they do not alter the audited FY2025 numeric comparisons or establish later-year actual attainment.
 
-Plan 03 closes with ALLOC-11: independent implementation and goal attainment Cannot determine, with documented approval/process artifacts and source conflicts retained. Next domain is queued Plan 04 safety implementation.
+Plan 03 closes with ALLOC-11: independent implementation and goal attainment Cannot determine, with documented approval/process artifacts and source conflicts retained. Plan 04 safety findings are now complete below.
 
-Plan 04 is active; the initial [safety evidence checkpoint](goal-2-safety-operations.md) distinguishes completed feasibility/common-practice labels from deployment and safety outcomes. See `docs/plans/active/04-safety-operations.md`; source and page references are recorded in safety provenance.
+Plan 04 is complete; the [safety evidence checkpoint](goal-2-safety-operations.md) distinguishes completed feasibility/common-practice labels from deployment and safety outcomes. See `docs/plans/complete/04-safety-operations.md`; source and page references are recorded in safety provenance.
+
+Plan 04 safety research is closed at SAFE-20; partial access implementation and unverified operational outcomes are recorded in the safety evaluation. Next is queued Plan 05 HR/capacity; Goal 2 remains open.

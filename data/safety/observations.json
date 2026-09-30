@@ -125,5 +125,49 @@
       ],
       "rollout_date": null
     }
+  ],
+  "access_readiness": [
+    {
+      "assertion_id": "SAFE-15",
+      "source_id": "RSD407-AUG12-2025-PACKET",
+      "pages": [
+        3,
+        56
+      ],
+      "amounts_as_reported": [
+        "23199.42",
+        "20897.22",
+        "44096.64"
+      ],
+      "limitation": "Accounting, not commissioning"
+    },
+    {
+      "assertion_id": "SAFE-16",
+      "source_id": "RSD407-IT-2025-NOV",
+      "pages": [
+        2,
+        3
+      ],
+      "status": "Department reports partial completed phases; future schedule retained"
+    },
+    {
+      "assertion_id": "SAFE-17",
+      "source_id": "RSD407-SAFETY-2024-SEP",
+      "pages": [
+        3,
+        5,
+        6
+      ],
+      "transport_source_id": "RSD407-TRANSPORT-2026-MAR",
+      "transport_page": 9,
+      "limitation": "No completed aggregate coverage or after-action closure established"
+    },
+    {
+      "assertion_id": "SAFE-18",
+      "source_id": "RSD407-BASIC-ED-SURVEY-2026",
+      "page": 9,
+      "coop_answer": "Yes",
+      "limitation": "Forward-looking self-report"
+    }
   ]
 }
