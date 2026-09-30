@@ -14,7 +14,7 @@ See `docs/evaluations/goal-2-resource-allocation.md` (ALLOC-01–ALLOC-06), `dat
 - A tracked-change bargaining artifact describes leadership-team recommendations and a future severity matrix. It is a lead, not verified final policy or implementation.
 - Five newly reviewed PDFs have exact URL/hash metadata and individual archive outcomes. No PDFs are committed.
 
-## Remaining tasks
+## Historical checkpoint tasks (closed below)
 
 1. Locate the dated adopted 2025 staffing process/matrix and final bargaining authority; compare dates with July 2025 completion claims.
 2. Trace at least one aggregate or de-identified allocation decision from needs data/process inputs to actual staffing/support output.
@@ -26,7 +26,7 @@ See `docs/evaluations/goal-2-resource-allocation.md` (ALLOC-01–ALLOC-06), `dat
 
 Commit reproducible sources, page references and decision traces or explicitly bounded unavailable-evidence findings. A targeted review of plan updates, adopted agreements/matrices and Board allocation decisions is sufficient to determine whether a public decision trace exists. Stop broad exploration if these yield status assertions without decision/outcome evidence; classify Cannot determine, not Not implemented or Not met. No new OSPI outcome pipeline, no student-specific data, no waiting for future October–November reports. Recovery work extends this review only where tied to allocation decisions.
 
-Next concrete work: final bargaining agreement/severity-matrix authority, then Board budget/personnel decisions around the 2025 completion window. Research is not running in the background after a response ends.
+Historical next step: bargaining agreement/severity-matrix authority and Board decisions. The closeout below records the completed bounded review.
 
 ## Closeout: September 30, 2026
 
@@ -36,4 +36,4 @@ Next concrete work: final bargaining agreement/severity-matrix authority, then B
 - Preserved specialist heading/line-item discrepancy and reproduced its 0.9 FTE difference using Decimal.
 - Final ALLOC-11 classification: Appropriate but incomplete task design; independent implementation and goal attainment Cannot determine; evolving challenge. District-reported Completed labels retained without being promoted to outcome findings.
 
-The stopping rule is satisfied by the targeted source/decision review and explicit unavailable-evidence findings. Search is bounded, not proof public artifacts do not exist. No further broad discovery or student-specific data is required. Reopen for a clean dated process, actual allocation trace and comparable support measures; otherwise proceed to queued Plan 04 safety implementation. Analytical plan completion does not establish task implementation or outcome attainment.
+The stopping rule is satisfied by the targeted source/decision review and explicit unavailable-evidence findings. Search is bounded, not proof public artifacts do not exist. No further broad discovery or student-specific data is required. Reopen for a clean dated process, actual allocation trace and comparable support measures; otherwise retain the closed assessment. Plan 04 and later reviews are complete; see the [final synthesis](../../evaluations/final-synthesis.md). Analytical plan completion does not establish task implementation or outcome attainment.

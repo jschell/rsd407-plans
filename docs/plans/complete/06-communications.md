@@ -19,4 +19,4 @@ Original response hashes/lengths checked; source IDs resolve. Report image chart
 
 Bounded Board/department/audit/report review finished. Reopen only for original audit, dated website/ambassador execution, comparable analytics exports or feedback/accessibility outcomes. No new analytics pipeline, broad social census or waiting for future deadlines. Missing public data are not zero engagement.
 
-Next: Plan 07 final synthesis. Domain research queue is finished; synthesize findings, conflicts and actionable evidence gaps without expanding collection.
+Subsequent plans and final synthesis are complete. See the [final synthesis](../../evaluations/final-synthesis.md) for current project status and reopening conditions.

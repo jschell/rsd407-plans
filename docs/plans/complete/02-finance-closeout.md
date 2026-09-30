@@ -27,7 +27,7 @@ Initial evidence inventory and synthesis committed for review:
 
 See `docs/evaluations/goal-2-finance-evidence-synthesis.md` and `docs/evidence/finance-provenance.md`.
 
-Next: retrieve March 26, 2024 motion 24-30 and applicable budgeted-expenditure denominator; locate the Board adoption/effective date for the 5% objective. Extend earlier plan-era audit/reserve evidence only as needed to support the recurrence determination. No target-attainment determination or plan completion is claimed.
+Historical next step (completed or bounded at closeout): retrieve March 26, 2024 motion 24-30 and applicable budgeted-expenditure denominator; locate the Board adoption/effective date for the 5% objective. Extend earlier plan-era audit/reserve evidence only as needed to support the recurrence determination. At this initial checkpoint, no target-attainment determination or plan completion was claimed.
 
 ## Research checkpoint: 2026-09-30 (policy and historical extension)
 
@@ -38,7 +38,7 @@ Next: retrieve March 26, 2024 motion 24-30 and applicable budgeted-expenditure d
 - Reviewed FY2019–FY2022 audits and FY2017 Title I material weakness. The recent clean audit history is not a claim that all historical reports were clean.
 - New source URLs, hashes and individual archive outcomes are in the manifest; PDFs remain excluded from git.
 
-Next concrete work: FY2018 follow-up to finding 2017-001, early plan-era audit conclusions, then bounded final classification. Historical budget applicability may remain unresolved if the actual motion and surviving budget records do not establish it. This checkpoint supersedes the initial 'Next' paragraph above. Plan remains active.
+Historical next step (completed at closeout): FY2018 follow-up to finding 2017-001, early plan-era audit conclusions, then bounded final classification. Historical budget applicability may remain unresolved if the actual motion and surviving budget records do not establish it. This was an intermediate checkpoint; the completed assessment below supersedes it.
 
 ## Closeout: 2026-09-30
 
@@ -51,4 +51,4 @@ Completed analytical deliverables (FIN-11–FIN-13 in the synthesis):
 
 Tasks 1, 3, 4, 5 and 6 have source-linked deliverables. Task 2 closes with exact candidate budget denominators and calculations, but the original motion's fiscal-year/denominator ambiguity cannot be eliminated by selecting a budget silently. Completion means the finance assessment is reproducible with bounded conclusions, not all district objectives met, every archive request succeeded, or unique policy applicability established where primary evidence is ambiguous.
 
-No further broad finance exploration is needed for current classification. Reopen only for material correcting evidence/new actual-year data. Next work is Plan 03 resource allocation and IEP staffing.
+No further broad finance exploration is needed for current classification. Reopen only for material correcting evidence/new actual-year data. Plan 03 and subsequent domain reviews are also complete. See the [final synthesis](../../evaluations/final-synthesis.md) for current project status and reopening conditions.

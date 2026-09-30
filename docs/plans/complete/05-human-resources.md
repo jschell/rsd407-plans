@@ -19,4 +19,4 @@ All seven original PDFs verified against manifest hashes/lengths; archive result
 
 One bounded process/aggregate-results pass complete. No waiting for 2027 deadlines or new broad pipeline. Reopen only with authoritative dated preparation/rollout, current workforce comparison, retention/vacancy/time-to-fill series or completed learning coverage/application records. Missing public data do not imply zero vacancies or failed retention.
 
-Next: Plan 06 Communications, then Plan 07 final synthesis.
+Subsequent plans and final synthesis are complete. See the [final synthesis](../../evaluations/final-synthesis.md) for current project status and reopening conditions.
