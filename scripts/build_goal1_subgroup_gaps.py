@@ -17,6 +17,7 @@ def parse_dims(s):
 
 # OSPI families use several labels for the student-group dimension.
 GROUP_NAMES={"studentgroup","studentgroupname","studentgroupcategory","studentgroupvalue","group","demographicgroup"}
+GROUP_CONTEXT_FIELDS=GROUP_NAMES | {"studentgrouptype","grouptype","demographictype","studentgrouping"}
 def find_group(d):
     for k,v in d.items():
         if re.sub("[^a-z0-9]","",k.lower()) in GROUP_NAMES:
@@ -28,7 +29,7 @@ for i,r in core.iterrows():
     d=parse_dims(r.dimension_key)
     gfield,gvalue=find_group(d)
     if not gfield or not gvalue: continue
-    base={k:v for k,v in d.items() if k!=gfield}
+    base={k:v for k,v in d.items() if re.sub("[^a-z0-9]","",k.lower()) not in GROUP_CONTEXT_FIELDS}
     context=" | ".join(f"{k}={base[k]}" for k in sorted(base,key=lambda x:re.sub("[^a-z0-9]","",x.lower())))
     records.append({**r.to_dict(),"group_field":gfield,"student_group":gvalue,"gap_context":context})
 
