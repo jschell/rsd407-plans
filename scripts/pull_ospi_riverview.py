@@ -12,10 +12,10 @@ HEADERS={"User-Agent":"rsd407-plans-ospi-collector/1.0"}
 if os.getenv("SOCRATA_APP_TOKEN"): HEADERS["X-App-Token"]=os.environ["SOCRATA_APP_TOKEN"]
 
 KNOWN={
-("assessment","2018-19"):"5y3z-mgxd",("assessment","2021-22"):"v928-8kke",("assessment","2022-23"):"xh7m-utwp",("assessment","2023-24"):"x73g-mrqp",("assessment","2024-25"):"h5d9-vgwi",
+("assessment","2018-19"):"4h5k-di3v",("assessment","2021-22"):"85v8-iyrc",("assessment","2022-23"):"yah4-nq3t",("assessment","2023-24"):"5i5h-c5pk",("assessment","2024-25"):"h5d9-vgwi",
 ("growth","2014-15_to_2018-19"):"ufi5-ki2f",
 ("graduation","2021-22"):"i23g-ymbg",("graduation","2022-23"):"kigx-4b2d",("graduation","2023-24"):"76iv-8ed4",("graduation","2024-25"):"isxb-523t",
-("sqss","2023-24"):"q9gf-prrp",("sqss","2024-25"):"f7j6-nk2h",
+("sqss","2018-19"):"2zsf-krin",("sqss","2021-22"):"tfs4-sdfn",("sqss","2022-23"):"hs5t-6yez",("sqss","2023-24"):"q9gf-prrp",("sqss","2024-25"):"f7j6-nk2h",
 ("el","2022-23"):"43ir-hnt6",("el","2023-24"):"qrns-2pnm",("el","2024-25"):"2mv4-s52p",
 ("enrollment","2022-23"):"dij7-mbxg",("enrollment","2023-24"):"q4ba-s3jc",("enrollment","2024-25"):"2rwv-gs2e",("wsif","2024_run"):"8v2t-vz3j"}
 REQUIRED=[
@@ -118,7 +118,17 @@ for idx,(fam,period) in enumerate(REQUIRED,1):
             log(f"        metadata unavailable (HTTP {status}); continuing with dataset ID {did}")
             title=title or f"OSPI dataset {did}"
         full=fetch(did)
+        # A plausible title/row count is not sufficient: verify the source
+        # actually contains the requested school year before accepting it.
+        if period != "2024_run" and "_to_" not in period:
+            yc=col(full,"SchoolYear")
+            if yc:
+                years=set(full[yc].dropna().astype(str).str.strip())
+                if period not in years:
+                    raise ValueError(f"dataset period mismatch: requested {period}; source SchoolYear values={sorted(years)[:12]}")
         sub=scope(full)
+        if len(sub)==0:
+            log(f"        zero scoped rows; source columns: {', '.join(map(str,full.columns))}")
         log(f"        scope filter: {len(full):,} source rows -> {len(sub):,} Riverview/WA rows")
         c=col(sub,"DistrictName"); riv=int(sub[c].astype(str).str.casefold().eq(DISTRICT_NAME.casefold()).sum()) if c else 0
         raw=RAW/f"{fam}_{period}_{did}.csv";sub.to_csv(raw,index=False)
