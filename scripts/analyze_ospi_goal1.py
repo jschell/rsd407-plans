@@ -25,7 +25,9 @@ def classify_scope(row):
     dname=vals.get("districtname","")
     oname=vals.get("organizationname","")
     if level=="state": return "state"
-    if dname=="riverview school district" or (level=="district" and oname=="riverview school district"):
+    # DistrictName identifies the parent district on school rows; it does not
+    # make the observation district-level. Organization level is authoritative.
+    if level=="district" and (dname=="riverview school district" or oname=="riverview school district"):
         return "district"
     return "school_or_other"
 

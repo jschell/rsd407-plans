@@ -15,6 +15,10 @@ assert not ((obs.value_state.isin(["missing","suppressed"])) & obs.numeric_value
 assert (cmp.district_value-cmp.state_value-cmp.district_minus_state).abs().fillna(0).lt(1e-10).all()
 assert (chg.numeric_value-chg.previous_value-chg.absolute_change).abs().fillna(0).lt(1e-10).all()
 assert obs.source_dataset_id.astype(str).str.len().gt(0).all(), "lost source dataset provenance"
+# School-level rows may carry Riverview as their parent DistrictName, but must
+# never be treated as district observations.
+district_rows=obs[obs.scope.eq("district")]
+assert not district_rows.organization_level.astype(str).str.casefold().eq("school").any(), "school rows entered district scope"
 
 # A period-labelled derived row may not carry a different SchoolYear in its dimensions.
 def year_ok(row):
