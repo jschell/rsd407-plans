@@ -19,9 +19,9 @@ assert obs.source_dataset_id.astype(str).str.len().gt(0).all(), "lost source dat
 # A period-labelled derived row may not carry a different SchoolYear in its dimensions.
 def year_ok(row):
     import re
-    m=re.fullmatch(r"(\\d{4})-(\\d{2})",str(row.source_period))
+    m=re.fullmatch(r"(\d{4})-(\d{2})",str(row.source_period))
     if not m: return True
-    hit=re.search(r"(?:^| \\| )schoolyear=([^|]+)",str(row.dimension_key),re.I)
+    hit=re.search(r"(?:^| \| )schoolyear=([^|]+)",str(row.dimension_key),re.I)
     if not hit: return True
     start=int(m.group(1)); end=2000+int(m.group(2))
     return hit.group(1).strip() in {str(row.source_period),f"{start}-{end}",str(end)}
