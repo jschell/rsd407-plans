@@ -1,0 +1,41 @@
+{
+  "counting_rule": "Manifest records, not independent sources or unique documents; reused/duplicate bytes may exist. Nonverified does not imply content unreviewed. OSPI workflow artifact counted separately.",
+  "manifests": [
+    {
+      "manifest": "data/manifests/finance-sources.json",
+      "records": 30,
+      "capture_verified": 19,
+      "other_preservation_statuses": 11
+    },
+    {
+      "manifest": "data/manifests/allocation-sources.json",
+      "records": 7,
+      "capture_verified": 5,
+      "other_preservation_statuses": 2
+    },
+    {
+      "manifest": "data/manifests/safety-sources.json",
+      "records": 18,
+      "capture_verified": 12,
+      "other_preservation_statuses": 6
+    },
+    {
+      "manifest": "data/manifests/hr-sources.json",
+      "records": 7,
+      "capture_verified": 6,
+      "other_preservation_statuses": 1
+    },
+    {
+      "manifest": "data/manifests/communications-sources.json",
+      "records": 6,
+      "capture_verified": 6,
+      "other_preservation_statuses": 0
+    },
+    {
+      "manifest": "data/manifests/communications-audit-html.json",
+      "records": 1,
+      "capture_verified": 0,
+      "other_preservation_statuses": 1
+    }
+  ]
+}

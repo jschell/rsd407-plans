@@ -1,24 +1,7 @@
 # Goal 1 — Student Outcomes
 
-## Current evidence state
+Status: bounded research complete. The authoritative [Goal 1 evidence synthesis](goal-1-evidence-synthesis.md) contains G1-A–G1-F, the validated OSPI run/artifact/hash, numerical comparisons and methodological limits.
 
-The current plan emphasizes growth for each student, aligned curriculum/supports, and achievement-gap reduction.
+District-wide current outcomes compare favorably with Washington, while material focal-group disparities and mixed grade-level growth remain. Formal attainment is Cannot determine without defined targets. Implementation is not causation.
 
-Evidence already reconstructed supports:
-- PLC/Essential Standards/MTSS implementation work;
-- i-Ready assessment/intervention use;
-- multilingual service revision;
-- fidelity checks;
-- school-level targeted intervention.
-
-Cedarcrest evidence demonstrates meaningful subgroup disparities with mixed improvement. Tolt has independent OSPI improvement-identification evidence.
-
-## Provisional interpretation
-
-The principal academic challenge appears more likely to be **consistency across schools and student groups** than uniformly weak aggregate district performance.
-
-This remains provisional until authoritative OSPI rows are collected and analyzed.
-
-## Required next evidence
-
-See `docs/plans/active/01-ospi-outcome-analysis.md`.
+See the [final cross-domain synthesis](final-synthesis.md) for the master matrix, recurrence findings and reopening evidence. Plans 01/01a are complete; the analytical layer is frozen unless a concrete unresolved assertion requires reopening.

@@ -12,14 +12,10 @@ The published May 2025 policy targets 5% total and 2.5% unassigned against actua
 
 Resource allocation, IEP staffing decisions, Qmlativ effectiveness, key-card feasibility, RFID, and discipline/HIB/threat/CPS procedures require separate implementation and outcome evidence. Completion of a procedure or feasibility study does not prove improved outcomes.
 
-## Next work
+## Completed domain evaluations
 
-Finance research closes under `docs/plans/complete/02-finance-closeout.md`. Next is `docs/plans/complete/03-resource-allocation.md`; operational work is not included in finance closeout.
+- [Finance](goal-2-finance-evidence-synthesis.md): FIN-01–FIN-14.
+- [Resource allocation](goal-2-resource-allocation.md): ALLOC-01–ALLOC-11.
+- [Safety operations](goal-2-safety-operations.md): SAFE-01–SAFE-20.
 
-Plan 03's [allocation evidence checkpoint](goal-2-resource-allocation.md) records July 2025 district completion assertions and September 2026 recovery-framework tasks. These later materials support the finance classification of an evolving challenge; they do not alter the audited FY2025 numeric comparisons or establish later-year actual attainment.
-
-Plan 03 closes with ALLOC-11: independent implementation and goal attainment Cannot determine, with documented approval/process artifacts and source conflicts retained. Plan 04 safety findings are now complete below.
-
-Plan 04 is complete; the [safety evidence checkpoint](goal-2-safety-operations.md) distinguishes completed feasibility/common-practice labels from deployment and safety outcomes. See `docs/plans/complete/04-safety-operations.md`; source and page references are recorded in safety provenance.
-
-Plan 04 safety research is closed at SAFE-20; partial access implementation and unverified operational outcomes are recorded in the safety evaluation. Next is queued Plan 05 HR/capacity; Goal 2 remains open.
+Plans 02–04 are complete. Separate operational effects, including Qmlativ effectiveness, are not inferred from finance evidence. Overall Goal 2 attainment remains Cannot determine under the reviewed evidence. See the [final synthesis](final-synthesis.md) for scope, conflicts and reopening conditions.
