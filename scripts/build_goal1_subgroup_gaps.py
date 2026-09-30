@@ -18,6 +18,8 @@ def parse_dims(s):
 # OSPI families use several labels for the student-group dimension.
 GROUP_NAMES={"studentgroup","studentgroupname","studentgroupcategory","studentgroupvalue","group","demographicgroup"}
 GROUP_CONTEXT_FIELDS=GROUP_NAMES | {"studentgrouptype","grouptype","demographictype","studentgrouping"}
+# Release metadata must not define analytical identity across reporting periods.
+VOLATILE_CONTEXT_FIELDS={"dataasof","datadate","reportdate","updateddate","schoolyear","year"}
 def find_group(d):
     for k,v in d.items():
         if re.sub("[^a-z0-9]","",k.lower()) in GROUP_NAMES:
@@ -29,7 +31,7 @@ for i,r in core.iterrows():
     d=parse_dims(r.dimension_key)
     gfield,gvalue=find_group(d)
     if not gfield or not gvalue: continue
-    base={k:v for k,v in d.items() if re.sub("[^a-z0-9]","",k.lower()) not in GROUP_CONTEXT_FIELDS}
+    base={k:v for k,v in d.items() if re.sub("[^a-z0-9]","",k.lower()) not in GROUP_CONTEXT_FIELDS | VOLATILE_CONTEXT_FIELDS}
     context=" | ".join(f"{k}={base[k]}" for k in sorted(base,key=lambda x:re.sub("[^a-z0-9]","",x.lower())))
     records.append({**r.to_dict(),"group_field":gfield,"student_group":gvalue,"gap_context":context})
 
@@ -78,3 +80,6 @@ report.to_csv(D/"goal1_subgroup_gap_report.csv",index=False)
 print(report.to_string(index=False))
 if len(num) and len(gaps)==0:
     raise SystemExit("Group-bearing numeric observations exist but no exact-context subgroup gaps were formed")
+multi_period=gaps.groupby(["source_family","scope","organization_level","school_name","organization_name","gap_context","metric","student_group"]).source_period.nunique()
+if (multi_period.gt(1).any()) and len(trend)==0:
+    raise SystemExit("Comparable subgroup gaps exist in multiple periods but no longitudinal gap changes were formed")
