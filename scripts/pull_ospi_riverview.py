@@ -34,8 +34,21 @@ def get(url,params=None):
     err=None
     for n in range(5):
         try:
-            r=requests.get(url,params=params,headers=HEADERS,timeout=120); r.raise_for_status(); return r
-        except Exception as e:
+            r=requests.get(url,params=params,headers=HEADERS,timeout=120)
+            if 400 <= r.status_code < 500 and r.status_code != 429:
+                r.raise_for_status()
+            r.raise_for_status()
+            return r
+        except requests.HTTPError as e:
+            err=e
+            status=e.response.status_code if e.response is not None else None
+            if status is not None and 400 <= status < 500 and status != 429:
+                log(f"        request failed without retry: HTTP {status} — {url}")
+                raise
+            wait=min(2**n,16)
+            log(f"        request attempt {n+1}/5 failed: HTTP {status or '?'}; retrying in {wait}s")
+            time.sleep(wait)
+        except requests.RequestException as e:
             err=e
             wait=min(2**n,16)
             log(f"        request attempt {n+1}/5 failed: {type(e).__name__}: {e}; retrying in {wait}s")
@@ -98,7 +111,12 @@ for idx,(fam,period) in enumerate(REQUIRED,1):
             report.append([fam,period,"","NOT_FOUND",0,0,""])
             log(f"        NOT_FOUND ({time.monotonic()-item_started:.1f}s)")
             continue
-        title=get(f"{BASE}/api/views/{did}").json().get("name",title)
+        try:
+            title=get(f"{BASE}/api/views/{did}").json().get("name",title)
+        except requests.HTTPError as e:
+            status=e.response.status_code if e.response is not None else "unknown"
+            log(f"        metadata unavailable (HTTP {status}); continuing with dataset ID {did}")
+            title=title or f"OSPI dataset {did}"
         full=fetch(did)
         sub=scope(full)
         log(f"        scope filter: {len(full):,} source rows -> {len(sub):,} Riverview/WA rows")
