@@ -13,3 +13,16 @@ Close the fiscal-stewardship portion of Goal 2 with independently testable evide
 
 ## Completion criteria
 Reserve chronology, target-to-actual calculations, audit trend, and policy transition are reproducible from committed provenance.
+
+## Progress: 2026-09-30
+
+Initial evidence inventory and synthesis committed for review:
+- ten reviewed primary-source PDFs, exact retrieval metadata and SHA-256 recorded in `data/manifests/finance-sources.json`; PDFs are not committed;
+- Internet Archive capture outcomes recorded individually; preservation is complete only for a hash-verified capture;
+- audited FY2023-FY2025 reserve observations and separate FY2026 budget estimates;
+- reproducible Decimal calculations and explicit 5%/7%/9% documentation conflicts;
+- three years of scope-qualified financial/single-audit and accountability evidence.
+
+See `docs/evaluations/goal-2-finance-evidence-synthesis.md` and `docs/evidence/finance-provenance.md`.
+
+Next: retrieve March 26, 2024 motion 24-30 and applicable budgeted-expenditure denominator; locate the Board adoption/effective date for the 5% objective. Extend earlier plan-era audit/reserve evidence only as needed to support the recurrence determination. No target-attainment determination or plan completion is claimed.

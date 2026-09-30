@@ -2,6 +2,8 @@
 
 ## Finance
 
+The [initial finance evidence synthesis](goal-2-finance-evidence-synthesis.md) now supplies source-linked observations and calculations. The historical conclusions below remain provisional; policy compliance and longer-term improvement are unresolved.
+
 Recent external audit evidence supports classifying financial reporting/control primarily as a **mature recurring responsibility**, not a persistent material control failure.
 
 Key observations already established:
