@@ -20,3 +20,19 @@ An independent evaluator can rerun the collector and reproduce every derived Goa
 
 ## Completion
 Move to `complete` only after source files, normalized outputs, calculations, and assertions are committed.
+
+
+## GitHub Actions execution
+
+Collection now runs through `.github/workflows/ospi-collect.yml` using manual `workflow_dispatch`.
+
+The workflow:
+- installs pinned dependencies from `requirements-ospi.txt`;
+- runs `scripts/pull_ospi_riverview.py`;
+- uploads raw/normalized rows, collection report, run manifest, and ZIP for 90 days;
+- preserves artifacts even on collector failure;
+- fails the job if any required dataset does not validate.
+
+The run manifest records retrieval timestamp, Git commit/run ID, Python version, district identifiers, source hosts, and SHA-256 hashes of collected artifacts.
+
+An independent evaluator can rerun the workflow at the same commit and compare the collection report and hashes.
