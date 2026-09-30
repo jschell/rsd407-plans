@@ -60,12 +60,30 @@ def numeric_candidate(series,name):
     parsed=pd.to_numeric(parseable.str.replace("%","",regex=False).str.replace(",","",regex=False),errors="coerce")
     return parsed.notna().mean() >= 0.70
 
+def period_matches(value,period):
+    """Match common OSPI SchoolYear representations to a requested YYYY-YY period."""
+    text=str(value).strip()
+    m=re.fullmatch(r"(\\d{4})-(\\d{2}|\\d{4})",str(period))
+    if not m: return True
+    start=int(m.group(1)); end=int(m.group(2))
+    if end < 100: end=2000+end
+    normalized={str(period),f"{start}-{str(end)[-2:]}",f"{start}-{end}",str(end)}
+    return text in normalized
+
 rows=[]
 for path in sorted(NORM.glob("*.csv")):
     df=pd.read_csv(path,dtype=str,keep_default_na=False)
     if df.empty: continue
     source_cols=[c for c in df.columns if c.startswith("source_")]
     family=str(df.iloc[0].get("source_family",""))
+    period=str(df.iloc[0].get("source_period",""))
+    # A source dataset may contain multiple school years (notably EL 2021-22).
+    # Preserve the normalized acquisition unchanged; constrain only analytical rows.
+    year_col=next((c for c in df.columns if key(c)=="schoolyear"),None)
+    if year_col and re.fullmatch(r"\\d{4}-\\d{2}",period):
+        df=df[df[year_col].map(lambda v: period_matches(v,period))].copy()
+        if df.empty:
+            raise ValueError(f"{path.name}: no SchoolYear rows match source_period={period}")
     # Family schemas determine measures. Keep a measure even when every value
     # in this scoped extract is blank/suppressed; suppression is evidence, not
     # a reason to silently drop the metric.
