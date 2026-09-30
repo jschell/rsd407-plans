@@ -23,6 +23,26 @@ jobs:
         id: collect
         continue-on-error: true
         run: python scripts/pull_ospi_riverview.py
+      - name: Write Actions summary
+        if: always()
+        run: |
+          echo "## OSPI collection" >> "$GITHUB_STEP_SUMMARY"
+          echo "" >> "$GITHUB_STEP_SUMMARY"
+          if [ -f ospi_riverview/collection_report.csv ]; then
+            python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+import pandas as pd
+df=pd.read_csv("ospi_riverview/collection_report.csv").fillna("")
+print(f"Validated: **{(df.status == 'OK').sum()}/{len(df)}** required dataset-periods")
+print()
+print("| Family | Period | Dataset | Status | Scoped rows | Riverview rows |")
+print("|---|---|---|---|---:|---:|")
+for _,r in df.iterrows():
+    print(f"| {r.family} | {r.period} | {r.dataset_id} | {r.status} | {r.scoped_rows} | {r.riverview_rows} |")
+PY
+          else
+            echo "No collection report was produced." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
       - name: Upload reproducibility package
         if: always()
         uses: actions/upload-artifact@v4
