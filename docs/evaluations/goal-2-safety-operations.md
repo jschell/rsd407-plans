@@ -18,7 +18,7 @@ SAFE-05 (observation): EOP section 8 describes staff training, documented drills
 
 SAFE-06 (observation): published Policy 3225, adopted November 14, 2023, specifies trained multidisciplinary threat-assessment teams and data collection/reporting procedures (RSD407-POLICY-3225, pp1,3). This design predates the September 2024 common-practices task; its existence does not identify what changed or was implemented by July 2025.
 
-SAFE-07 (observation): the retrieved HIB procedure has an August 27, 2019 adoption footer and specifies annual staff training and use of an incident reporting form (RSD407-PROCEDURE-3207-P1-2019, pp3,11). It is a historical published procedural baseline, not yet a determination of the latest procedure or evidence of actual training. Current-version reconciliation and any dated 2024–2025 standardization outputs remain needed. No individual complaint findings are examined in this project checkpoint.
+SAFE-07 (observation): the retrieved HIB procedure has an August 27, 2019 adoption footer and specifies annual staff training and use of an incident reporting form (RSD407-PROCEDURE-3207-P1-2019, pp3,11). It is a historical published procedural baseline, not yet a determination of the latest procedure or evidence of actual training. The subsequent bounded version review and its unresolved applicability/rollout gaps are recorded at SAFE-09–SAFE-14 below. No individual complaint findings are examined in this project checkpoint.
 
 ## Initial evaluation and bounded next evidence
 
@@ -61,4 +61,4 @@ SAFE-19 (evaluation): under the documented framework, task design is **Appropria
 
 SAFE-20 (evaluation): recurrence is principally **Sustained responsibility**, with access-control and emergency projects an **Evolving challenge** (SAFE-03,16–18). The public evidence leaves a **Measurement failure** in independent evaluation of fidelity and outcomes; that classification concerns the available measurement trace, not a finding that internal measurement does not exist. **Persistent unresolved problem** and **Recurrent implementation failure** are not established. Research is closed at the bounded stopping rule: future deadlines and unlocated internal logs do not justify indefinite exploration.
 
-Reopen only for an authoritative acceptance/coverage record, reconciled procedure and dated rollout package, completed aggregate drill/after-action closure record, or comparable baseline/outcome series. Plan 05 (HR and capacity) is next; Goal 2 as a whole is not yet closed.
+Reopen only for an authoritative acceptance/coverage record, reconciled procedure and dated rollout package, completed aggregate drill/after-action closure record, or comparable baseline/outcome series. Plans 05–07 are also complete. Overall Goal 2 attainment remains Cannot determine; see the [final synthesis](final-synthesis.md).

@@ -21,4 +21,4 @@ All registered originals checked against URL-manifest byte count/hash. Source ID
 
 Targeted Board/department/policy/accounting/readiness review complete. Do not wait for 2027 deadlines or search indefinitely for unpublished logs. Reopen only with authoritative acceptance/coverage evidence, reconciled procedures and dated rollout, completed aggregate drills/after-action closure, or comparable outcome series. Missing public evidence does not mean zero incidents or failed execution.
 
-Next queued work: Plan 05 — HR and Capacity.
+Subsequent plans and final synthesis are complete. See the [final synthesis](../../evaluations/final-synthesis.md) for current project status and reopening conditions.

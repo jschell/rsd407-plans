@@ -12,4 +12,4 @@
 - 2020–25 district plan confirmed; public strategic plan plus separate business-plan implementation structure.
 - 2022–27 current plan confirmed.
 
-Detailed task reconstruction should be split into era-specific files as archival work continues rather than returning to a monolithic chronology.
+Bounded research is complete. The unresolved 2014–19 adoption gap remains a limitation, not an active archival task. A concrete authoritative adoption artifact can reopen this history; any new reconstruction should use era-specific files. See the [final synthesis](../evaluations/final-synthesis.md).
