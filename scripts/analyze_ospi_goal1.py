@@ -33,8 +33,11 @@ def numeric_candidate(series,name):
     k=key(name)
     if any(h in k for h in ID_HINTS): return False
     cleaned=series.dropna().astype(str).str.strip()
+    cleaned=cleaned[cleaned.ne("")]
     if cleaned.empty: return False
-    parsed=pd.to_numeric(cleaned.str.replace("%","",regex=False).str.replace(",","",regex=False),errors="coerce")
+    parseable=cleaned[~cleaned.str.contains(SUPPRESS,na=False)]
+    if parseable.empty: return False
+    parsed=pd.to_numeric(parseable.str.replace("%","",regex=False).str.replace(",","",regex=False),errors="coerce")
     return parsed.notna().mean() >= 0.70
 
 rows=[]
