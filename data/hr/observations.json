@@ -1,0 +1,90 @@
+{
+  "scope": "District-level public HR evidence; no employee-level reconstruction; physical PDF pages.",
+  "chronology": [
+    {
+      "source_id": "RSD407-SP-2025-JAN",
+      "pages": [
+        10,
+        11
+      ],
+      "period": "2025-01",
+      "recruitment_statuses": [
+        "Completed",
+        "In Progress",
+        "In Progress"
+      ],
+      "learning_statuses": [
+        "In Progress",
+        "In Progress",
+        "In Progress"
+      ]
+    },
+    {
+      "source_id": "RSD407-SP-2025-JUL",
+      "pages": [
+        10,
+        11
+      ],
+      "period": "2025-07",
+      "recruitment_statuses": [
+        "Completed",
+        "Completed",
+        "Completed"
+      ],
+      "learning_statuses": [
+        "Completed",
+        "Completed",
+        "Completed"
+      ]
+    },
+    {
+      "source_id": "RSD407-SP-2026-SEP",
+      "pages": [
+        9,
+        10
+      ],
+      "period": "2026-09",
+      "recruitment_statuses": [
+        "In progress",
+        "In progress",
+        "In progress"
+      ],
+      "learning_statuses": [
+        "In progress",
+        "In progress",
+        "In progress",
+        "In progress"
+      ],
+      "future_deadlines": [
+        "July 2027",
+        "January 2027"
+      ]
+    }
+  ],
+  "historical_composition": {
+    "source_id": "RSD407-PROCEDURE-5010-P1",
+    "page": 2,
+    "staff_snapshot": "2013-10-01",
+    "comparison_pool": "2000 Census EEO Special File",
+    "excludes": [
+      "substitute employees",
+      "temporary employees"
+    ],
+    "current_staff_student_match": null
+  },
+  "para_event": {
+    "source_id": "RSD407-PARA-PATHWAYS",
+    "pages": [
+      2,
+      3,
+      5,
+      6
+    ],
+    "date_as_reported": "December 2",
+    "year": null,
+    "vacancy_count": null,
+    "attendance": null,
+    "hires": null,
+    "scope": "Proposed paraeducator community event, not certificated teacher grow-your-own"
+  }
+}
