@@ -1,24 +1,82 @@
 {
   "reserves": [
     {
+      "evidence_id": "SAO-RSD407-2010-FIN",
+      "period": "2009-10",
+      "basis": "audited actual",
+      "total_balance_pct_of_expenditures": "7.7295"
+    },
+    {
+      "evidence_id": "SAO-RSD407-2017-FIN",
+      "period": "2016-17",
+      "basis": "audited actual",
+      "total_balance_pct_of_expenditures": "10.7642",
+      "change_in_total_balance": "1848388.13",
+      "comparison_to_fiscal_year": 2010,
+      "comparison_is_consecutive": false
+    },
+    {
+      "evidence_id": "SAO-RSD407-2019-FIN",
+      "period": "2018-19",
+      "basis": "audited actual",
+      "total_balance_pct_of_expenditures": "16.0475",
+      "change_in_total_balance": "3305788.78",
+      "comparison_to_fiscal_year": 2017,
+      "comparison_is_consecutive": false
+    },
+    {
+      "evidence_id": "SAO-RSD407-2020-FIN",
+      "period": "2019-20",
+      "basis": "audited actual",
+      "total_balance_pct_of_expenditures": "17.2729",
+      "change_in_total_balance": "822380.80",
+      "comparison_to_fiscal_year": 2019,
+      "comparison_is_consecutive": true
+    },
+    {
+      "evidence_id": "SAO-RSD407-2021-FIN",
+      "period": "2020-21",
+      "basis": "audited actual",
+      "total_balance_pct_of_expenditures": "17.4406",
+      "change_in_total_balance": "123120.49",
+      "comparison_to_fiscal_year": 2020,
+      "comparison_is_consecutive": true
+    },
+    {
+      "evidence_id": "SAO-RSD407-2022-FIN",
+      "period": "2021-22",
+      "basis": "audited actual",
+      "total_balance_pct_of_expenditures": "14.2686",
+      "change_in_total_balance": "-975305.29",
+      "comparison_to_fiscal_year": 2021,
+      "comparison_is_consecutive": true
+    },
+    {
       "evidence_id": "SAO-RSD407-2023-FIN",
       "period": "2022-23",
       "basis": "audited actual",
-      "total_balance_pct_of_expenditures": "11.8552"
+      "total_balance_pct_of_expenditures": "11.8552",
+      "change_in_total_balance": "-1030419.26",
+      "comparison_to_fiscal_year": 2022,
+      "comparison_is_consecutive": true
     },
     {
       "evidence_id": "SAO-RSD407-2024-FIN",
       "period": "2023-24",
       "basis": "audited actual",
       "total_balance_pct_of_expenditures": "11.0721",
-      "change_in_total_balance": "-96167.47"
+      "change_in_total_balance": "-96167.47",
+      "comparison_to_fiscal_year": 2023,
+      "comparison_is_consecutive": true
     },
     {
       "evidence_id": "SAO-RSD407-2025-FIN",
       "period": "2024-25",
       "basis": "audited actual",
       "total_balance_pct_of_expenditures": "8.3887",
-      "change_in_total_balance": "-1217998.36"
+      "change_in_total_balance": "-1217998.36",
+      "comparison_to_fiscal_year": 2024,
+      "comparison_is_consecutive": true
     },
     {
       "evidence_id": "RSD407-FY2026-BUDGET-SUMMARY",
@@ -32,6 +90,38 @@
     "actual_expenditure_5pct": "2959858.9435",
     "actual_expenditure_7pct": "4143802.5209",
     "listed_reserve_pct_of_actual_expenditure": "7.0000",
-    "policy_compliance_determination": "Cannot determine: effective policy and applicable budget denominator unresolved"
-  }
+    "numeric_target_determination": "FY2025 balances exceed published May 2025 Policy 6000 numeric targets; audited note reserve-row inconsistency remains",
+    "policy_evidence_id": "RSD407-POLICY-6000-2025",
+    "total_target_amount": "2959858.9435",
+    "unassigned_target_amount": "1479929.47175",
+    "unassigned_pct_of_actual_expenditures": "8.2762",
+    "total_target_met": true,
+    "unassigned_target_met": true
+  },
+  "historical_budget_comparators": [
+    {
+      "evidence_id": "RSD407-FY2025-F195",
+      "period": "2023-24",
+      "expenditures": "56472106",
+      "pdf_page": 5,
+      "seven_pct_amount": "3953047.42",
+      "qualification": " Historical comparator; motion does not specify fiscal year or denominator."
+    },
+    {
+      "evidence_id": "RSD407-FY2024-FULL",
+      "period": "2023-24",
+      "expenditures": "56472108",
+      "pdf_page": 7,
+      "qualification": "August revised budget table differs by $2 from F196 comparison on physical page 24 and later F195. Historical comparator; motion does not specify fiscal year or denominator.",
+      "seven_pct_amount": "3953047.56"
+    },
+    {
+      "evidence_id": "RSD407-FY2025-F195",
+      "period": "2024-25",
+      "expenditures": "62082341",
+      "pdf_page": 5,
+      "seven_pct_amount": "4345763.87",
+      "qualification": " Historical comparator; motion does not specify fiscal year or denominator."
+    }
+  ]
 }
