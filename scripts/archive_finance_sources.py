@@ -42,9 +42,10 @@ def capture(source):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--output', type=Path, required=True)
+    parser.add_argument('--manifest', default='data/manifests/finance-sources.json', help='Repository-relative source manifest')
     parser.add_argument('--evidence-id', help='Limit submission to one manifest source')
     args = parser.parse_args()
-    sources = json.loads((ROOT / 'data/manifests/finance-sources.json').read_text())
+    sources = json.loads((ROOT / args.manifest).read_text())
     selected = [s for s in sources if not args.evidence_id or s['evidence_id'] == args.evidence_id]
     if not selected:
         parser.error('Unknown evidence ID')

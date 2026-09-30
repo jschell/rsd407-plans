@@ -1,0 +1,74 @@
+{
+  "scope": "Public district-level process and allocation evidence; no individual student records. Pages are 1-based physical PDF pages. Status labels preserved as reported.",
+  "status_observations": [
+    {
+      "evidence_id": "RSD407-SP-2024-SEP",
+      "manifest": "data/manifests/finance-sources.json",
+      "pdf_page": 8,
+      "period": "2024-09",
+      "task": "Goal 2A resource analysis",
+      "status": "In Progress"
+    },
+    {
+      "evidence_id": "RSD407-SP-2024-SEP",
+      "manifest": "data/manifests/finance-sources.json",
+      "pdf_page": 8,
+      "period": "2024-09",
+      "task": "Goal 2A data-based additional IEP staff support process",
+      "status": "In Progress"
+    },
+    {
+      "evidence_id": "RSD407-SP-2025-JAN",
+      "pdf_page": 7,
+      "period": "2025-01",
+      "task": "Goal 2A resource analysis",
+      "status": "In Progress"
+    },
+    {
+      "evidence_id": "RSD407-SP-2025-JAN",
+      "pdf_page": 7,
+      "period": "2025-01",
+      "task": "Goal 2A data-based additional IEP staff support process",
+      "status": "In Progress"
+    },
+    {
+      "evidence_id": "RSD407-SP-2025-JUL",
+      "pdf_page": 7,
+      "period": "2025-07",
+      "task": "Goal 2A resource analysis",
+      "status": "Completed"
+    },
+    {
+      "evidence_id": "RSD407-SP-2025-JUL",
+      "pdf_page": 7,
+      "period": "2025-07",
+      "task": "Goal 2A data-based additional IEP staff support process",
+      "status": "Completed"
+    },
+    {
+      "evidence_id": "RSD407-SP-2026-SEP",
+      "pdf_page": 6,
+      "period": "2026-09",
+      "task": "Financial Recovery Framework aligns budgeting, forecasting and staffing allocations",
+      "status": "In progress",
+      "timeline": "August 2027"
+    }
+  ],
+  "process_leads": [
+    {
+      "evidence_id": "RSD407-REA-2025-REDLINE",
+      "pdf_page": 54,
+      "content": "Proposed leadership-team recommendations, workload committee and severity matrix for 2026-2027; committee dates October 15 2025 to January 15 2026.",
+      "evidence_state": "Tracked-change proposal; ratification/final terms and implementation not established"
+    },
+    {
+      "evidence_id": "RSD407-FY2027-BUDGET-PRESENTATION",
+      "pdf_pages": [
+        21,
+        23
+      ],
+      "content": "Recovery-framework overview, staffing aligned with funded levels, enrollment-based set-aside, later detailed presentation stated for October-November 2026.",
+      "evidence_state": "District presentation, intentions and design assertions; not actual decisions/outcomes"
+    }
+  ]
+}
