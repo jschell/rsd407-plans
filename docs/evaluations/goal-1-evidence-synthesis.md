@@ -183,7 +183,7 @@ Each completed assertion must include:
 
 The generalized OSPI analytical layer is frozen. Do not add datasets, metrics, models, or exploratory transformations unless one of the assertions above exposes a specific unresolved evidence requirement.
 
-The 2021–22 EL multi-year source must pass the period-integrity workflow before EL-derived assertions are populated.
+The 2021–22 EL multi-year source period-integrity correction is complete. Raw/normalized acquisition remains preserved while analytical rows are constrained to the requested reporting period.
 
 ## Completion criteria
 
