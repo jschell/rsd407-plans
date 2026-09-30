@@ -29,6 +29,26 @@ def classify_scope(row):
         return "district"
     return "school_or_other"
 
+def family_metric(family,name):
+    k=key(name)
+    if family=="assessment": return k.startswith("count") or k.startswith("percent")
+    if family=="growth": return k=="mediansgp" or k=="studentcount" or k.startswith("number") or k.startswith("percent")
+    if family=="graduation": return k in {"beginninggrade9","transferin","transferout","finalcohort","graduate","continuing","dropout","graduationrate"} or re.fullmatch(r"year\\d+dropout",k) is not None
+    if family=="sqss": return k in {"numerator","denominator","percent"} or k.endswith("coursenumber") or k.endswith("coursepercent")
+    if family=="el": return k.endswith("dat") and not k.endswith("notes")
+    if family=="enrollment": return k not in ORG_FIELDS and not any(h in k for h in ID_HINTS) and k!="dat"
+    return False
+
+def parse_numeric(metric,raw):
+    text=str(raw).strip()
+    value=pd.to_numeric(text.replace("%","").replace(",",""),errors="coerce")
+    if pd.isna(value): return None
+    value=float(value)
+    k=key(metric)
+    if "%" in text or (("percent" in k or "rate" in k) and abs(value)>1 and abs(value)<=100):
+        value/=100.0
+    return value
+
 def numeric_candidate(series,name):
     k=key(name)
     if any(h in k for h in ID_HINTS): return False
@@ -45,7 +65,8 @@ for path in sorted(NORM.glob("*.csv")):
     df=pd.read_csv(path,dtype=str,keep_default_na=False)
     if df.empty: continue
     source_cols=[c for c in df.columns if c.startswith("source_")]
-    candidates=[c for c in df.columns if c not in source_cols and numeric_candidate(df[c],c)]
+    family=str(df.iloc[0].get("source_family",""))
+    candidates=[c for c in df.columns if c not in source_cols and family_metric(family,c) and numeric_candidate(df[c],c)]
     dimensions=[c for c in df.columns if c not in source_cols and c not in candidates]
     for _,r in df.iterrows():
         scope=classify_scope(r)
@@ -61,9 +82,8 @@ for path in sorted(NORM.glob("*.csv")):
             if not raw: state="missing"; value=None
             elif SUPPRESS.search(raw): state="suppressed"; value=None
             else:
-                value=pd.to_numeric(raw.replace("%","").replace(",",""),errors="coerce")
-                state="numeric" if pd.notna(value) else "non_numeric"
-                value=float(value) if state=="numeric" else None
+                value=parse_numeric(metric,raw)
+                state="numeric" if value is not None else "non_numeric"
             rows.append({
                 "source_family":r.get("source_family",""),
                 "source_period":r.get("source_period",""),
