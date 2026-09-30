@@ -62,5 +62,68 @@
       ],
       "observation": "Annual staff training and incident-form use specified; adoption footer August 27 2019."
     }
+  ],
+  "procedure_reconciliation": [
+    {
+      "assertion_id": "SAFE-09",
+      "source_id": "RSD407-POLICY-3241-2024",
+      "pages": [
+        2,
+        3,
+        4
+      ],
+      "approval_source_id": "RSD407-NOV26-2024-MINUTES",
+      "approval_page": 4,
+      "motion": "24-102",
+      "revised": "2024-11-26"
+    },
+    {
+      "assertion_id": "SAFE-10",
+      "source_id": "RSD407-PROCEDURE-3241-P1-2021",
+      "page": 25,
+      "pdf_revision": "May 2021",
+      "portal_revision": "June 2021",
+      "applicability": "unconfirmed"
+    },
+    {
+      "assertion_id": "SAFE-11",
+      "source_id": "RSD407-POLICY-3421-2025",
+      "pages": [
+        1,
+        2
+      ],
+      "adopted": "2025-06-10",
+      "approval_source_id": "RSD407-JUN10-2025-MINUTES",
+      "approval_page": 6,
+      "motion": "25-78",
+      "minutes_watermark": "Draft"
+    },
+    {
+      "assertion_id": "SAFE-12",
+      "source_id": "RSD407-PROCEDURE-3410-P3",
+      "pages": [
+        2,
+        3,
+        6
+      ],
+      "revised": "2014-06-06",
+      "renumbered": "2024-04-18",
+      "link_to_3421": "unconfirmed"
+    },
+    {
+      "assertion_id": "SAFE-13",
+      "source_id": "RSD407-POLICY-3207-2024",
+      "pages": [
+        2,
+        3
+      ],
+      "revised": "2024-02-13",
+      "form_source_id": "RSD407-FORM-3207-F1",
+      "form_pages": [
+        1,
+        2
+      ],
+      "rollout_date": null
+    }
   ]
 }

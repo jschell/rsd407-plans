@@ -24,3 +24,9 @@ Evaluate key-card/RFID and discipline/HIB/threat/CPS practices from problem defi
 Targeted Board/department/adoption/rollout evidence review is sufficient. If no completed execution/outcome trace is established, close Cannot determine findings rather than undertake broad case searches or new data pipelines. No student-specific complaints, no sensitive site annexes, no waiting for future 2027 deadlines. Completion of research does not equal task or safety outcome attainment.
 
 Next concrete work: version reconciliation and common-practice rollout, then access-control/aggregate readiness reports.
+
+## Procedure checkpoint (SAFE-09–SAFE-14)
+
+Published discipline policy revised November 26, 2024 and child-abuse policy adopted June 10, 2025 are paired with approval records. HIB policy/form reviewed. Distinct procedure dates/numbers and a portal/PDF date conflict are retained; latest applicability and actual common-practice rollout remain unconfirmed. The bounded version search is complete with those gaps, rather than an unrestricted search for unpublished procedures.
+
+Next: one targeted access/RFID and aggregate readiness review, then final classification and Plan 04 closeout. Do not reopen broad procedure searches without a concrete authoritative lead.
