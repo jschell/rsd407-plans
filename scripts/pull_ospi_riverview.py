@@ -27,12 +27,19 @@ REQUIRED=[
 ("enrollment","2018-19"),("enrollment","2021-22"),("enrollment","2022-23"),("enrollment","2023-24"),("enrollment","2024-25"),("wsif","2024_run")]
 TERMS={"assessment":"Report Card Assessment Data {y}","growth":"Report Card Growth {y}","graduation":"Report Card Graduation {y}","sqss":"Report Card SQSS {y}","el":"Report Card English Learner Assessment {y}","enrollment":"Report Card Enrollment {y}","wsif":"Washington School Improvement Framework 2024"}
 
+def log(msg):
+    print(msg, flush=True)
+
 def get(url,params=None):
     err=None
     for n in range(5):
         try:
             r=requests.get(url,params=params,headers=HEADERS,timeout=120); r.raise_for_status(); return r
-        except Exception as e: err=e; time.sleep(min(2**n,16))
+        except Exception as e:
+            err=e
+            wait=min(2**n,16)
+            log(f"        request attempt {n+1}/5 failed: {type(e).__name__}: {e}; retrying in {wait}s")
+            time.sleep(wait)
     raise RuntimeError(f"GET failed {url}: {err}")
 
 def discover(fam,period):
@@ -47,7 +54,9 @@ def discover(fam,period):
 def fetch(did):
     rows=[]; off=0
     while True:
+        started=time.monotonic()
         part=get(f"{BASE}/resource/{did}.json",{"$limit":50000,"$offset":off}).json(); rows+=part
+        log(f"        page {off//50000+1}: {len(part):,} rows ({time.monotonic()-started:.1f}s; {len(rows):,} total)")
         if len(part)<50000:return pd.DataFrame(rows)
         off+=50000
 
@@ -75,11 +84,20 @@ def digest(p):
     return h.hexdigest()
 
 report=[]; files=[]
-for fam,period in REQUIRED:
+log(f"Starting OSPI collection: {len(REQUIRED)} required dataset-periods")
+run_started=time.monotonic()
+for idx,(fam,period) in enumerate(REQUIRED,1):
+    item_started=time.monotonic()
     did=KNOWN.get((fam,period)); title=""
+    log(f"[{idx:02d}/{len(REQUIRED)}] {fam} {period}" + (f" — known dataset {did}" if did else " — discovering dataset"))
     try:
-        if not did:did,title=discover(fam,period)
-        if not did:report.append([fam,period,"","NOT_FOUND",0,0,""]);continue
+        if not did:
+            did,title=discover(fam,period)
+            log(f"        discovery result: {did or 'NOT FOUND'}" + (f" — {title}" if title else ""))
+        if not did:
+            report.append([fam,period,"","NOT_FOUND",0,0,""])
+            log(f"        NOT_FOUND ({time.monotonic()-item_started:.1f}s)")
+            continue
         title=get(f"{BASE}/api/views/{did}").json().get("name",title)
         full=fetch(did)
         sub=scope(full)
@@ -92,7 +110,10 @@ for fam,period in REQUIRED:
         status="OK" if len(sub) and riv else "VALIDATION_WARNING"
         report.append([fam,period,did,status,len(sub),riv,title])
         files.extend([{"path":str(raw),"sha256":digest(raw)},{"path":str(np),"sha256":digest(np)}])
-    except Exception as e:report.append([fam,period,did or "","FETCH_FAILED",0,0,str(e)])
+        log(f"        {status} — Riverview rows: {riv:,} — {time.monotonic()-item_started:.1f}s")
+    except Exception as e:
+        report.append([fam,period,did or "","FETCH_FAILED",0,0,str(e)])
+        log(f"        FETCH_FAILED — {type(e).__name__}: {e} — {time.monotonic()-item_started:.1f}s")
 
 rep=pd.DataFrame(report,columns=["family","period","dataset_id","status","scoped_rows","riverview_rows","note"])
 rep.to_csv(OUT/"collection_report.csv",index=False)

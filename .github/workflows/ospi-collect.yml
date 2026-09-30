@@ -2,6 +2,13 @@ name: OSPI data collection
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/pull_ospi_riverview.py"
+      - "requirements-ospi.txt"
+      - ".github/workflows/ospi-collect.yml"
 
 permissions:
   contents: read
