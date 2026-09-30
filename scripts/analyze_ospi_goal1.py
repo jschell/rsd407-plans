@@ -63,7 +63,7 @@ def numeric_candidate(series,name):
 def period_matches(value,period):
     """Match common OSPI SchoolYear representations to a requested YYYY-YY period."""
     text=str(value).strip()
-    m=re.fullmatch(r"(\\d{4})-(\\d{2}|\\d{4})",str(period))
+    m=re.fullmatch(r"(\d{4})-(\d{2}|\d{4})",str(period))
     if not m: return True
     start=int(m.group(1)); end=int(m.group(2))
     if end < 100: end=2000+end
@@ -80,7 +80,7 @@ for path in sorted(NORM.glob("*.csv")):
     # A source dataset may contain multiple school years (notably EL 2021-22).
     # Preserve the normalized acquisition unchanged; constrain only analytical rows.
     year_col=next((c for c in df.columns if key(c)=="schoolyear"),None)
-    if year_col and re.fullmatch(r"\\d{4}-\\d{2}",period):
+    if year_col and re.fullmatch(r"\d{4}-\d{2}",period):
         df=df[df[year_col].map(lambda v: period_matches(v,period))].copy()
         if df.empty:
             raise ValueError(f"{path.name}: no SchoolYear rows match source_period={period}")
