@@ -36,3 +36,14 @@ The workflow:
 The run manifest records retrieval timestamp, Git commit/run ID, Python version, district identifiers, source hosts, and SHA-256 hashes of collected artifacts.
 
 An independent evaluator can rerun the workflow at the same commit and compare the collection report and hashes.
+
+
+## Closeout
+
+**Status:** Complete.
+
+Final validated analytical execution: GitHub Actions run `36744065183`, artifact `11111512770`, SHA-256 `a20428371aa7a9ed24d8fa6b48c57adde7025562fc798199dc022d07604a29f3`.
+
+The run validated 29/29 required acquisitions and produced 22,215 district/WA comparisons, 16,684 district longitudinal changes, 13,783 core district/WA comparisons, 11,170 core longitudinal changes, 81,106 subgroup gaps, and 39,312 subgroup-gap changes. The final Goal 1 assertions are recorded in `docs/evaluations/goal-1-evidence-synthesis.md`.
+
+Known limitations are retained in the synthesis rather than treated as unfinished engineering work, including assessment-release comparability, suppression, and the absence of a single numerical Goal 1 attainment threshold.
