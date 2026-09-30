@@ -86,5 +86,45 @@
     "attendance": null,
     "hires": null,
     "scope": "Proposed paraeducator community event, not certificated teacher grow-your-own"
-  }
+  },
+  "rollout_review": [
+    {
+      "assertion_id": "HR-08",
+      "source_id": "RSD407-AUG26-2025-MINUTES",
+      "pages": [
+        2,
+        5
+      ],
+      "orientation_date": "2025-08-18",
+      "minutes_status": "Draft",
+      "coverage_denominator": null
+    },
+    {
+      "assertion_id": "HR-09",
+      "source_id": "RSD407-TLSL-2026-APR",
+      "pages": [
+        5,
+        8
+      ],
+      "reported_activities": [
+        "coalitions",
+        "team time",
+        "dashboards",
+        "Bite Size PD",
+        "learning walks",
+        "ProDev platform"
+      ],
+      "training_application_measure": null
+    },
+    {
+      "assertion_id": "HR-10",
+      "source_id": "RSD407-NOV25-2025-MINUTES",
+      "page": 2,
+      "frontline_context": "suicide-prevention training",
+      "turnover_source_id": "RSD407-JUN24-2025-MINUTES",
+      "turnover_page": 3,
+      "turnover_context": "public-comment topic",
+      "turnover_rate": null
+    }
+  ]
 }

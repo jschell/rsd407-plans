@@ -30,3 +30,5 @@ Plan 04 procedure reconciliation adds eight locally reviewed policy, procedure, 
 Plan 04 closeout: six additional department/accounting/assessment/survey PDFs complete the eighteen-source safety manifest. SAFE-15–SAFE-20 document partial access work, readiness limits and final classifications. Provenance and archive outcomes remain explicit; no original PDFs or individual case records committed.
 
 Plan 05 HR initial checkpoint: three newly reviewed policy/procedure/recruitment-event PDFs in `data/manifests/hr-sources.json`, plus reused strategic sources. HR-01–HR-07 distinguish task completion from current workforce composition, retention, recruiting efficiency and learning coverage. Historical 2013 workforce/2000 pool data and undated event year are explicit; originals are not committed.
+
+Plan 05 closeout adds four reviewed Board/department PDFs, completing seven HR sources. HR-08–HR-13 attribute dated orientation and professional-learning activity while retaining absent matched aggregate outcome measures. Bounded research is complete; Plan 06 Communications is next. Exact hashes and archive outcomes remain in HR manifest.

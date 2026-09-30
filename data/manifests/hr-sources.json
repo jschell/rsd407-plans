@@ -73,5 +73,105 @@
       "capture_url": "https://web.archive.org/web/20260930222938/https://rsd407.community.diligentoneplatform.com/document/6137/",
       "archived_sha256": "99e3d711ec47fed228ec5c0541c86b3838ef79c56f2fb7bbcd9952538d7be847"
     }
+  },
+  {
+    "evidence_id": "RSD407-AUG26-2025-MINUTES",
+    "publisher": "Riverview School District No. 407",
+    "title": "August 26 2025 Board Minutes",
+    "url": "https://rsd407.community.diligentoneplatform.com/document/12125/",
+    "resource_id": "12125",
+    "entity": "Riverview School District No. 407, WA; OSPI org 100222",
+    "period": "2025-08-26",
+    "retrieved_at": "2026-09-30T22:34:25.995697+00:00",
+    "method": "HTTPS GET original PDF bytes; registration timestamp after local review",
+    "sha256": "0574f190d88ed44498a2e9b5e44e4e9cd8ab1fd3651bbc23486905fd205775aa",
+    "byte_count": 101107,
+    "expected_filename": "RSD407-AUG26-2025-MINUTES.pdf",
+    "extraction": "pdftotext -layout; review of cited physical PDF pages; visual footer/approval checks",
+    "limitations": "Draft minutes. Reported orientation event does not establish coverage, mid-year improvements or effectiveness.",
+    "retention": "PDF reviewed locally, not committed; retrieve URL or verified archived bytes and check SHA-256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-AUG26-2025-MINUTES",
+      "requested_at": "2026-09-30T22:34:26.003637+00:00",
+      "request_url": "https://web.archive.org/save/https://rsd407.community.diligentoneplatform.com/document/12125/",
+      "status": "capture_verified",
+      "capture_url": "https://web.archive.org/web/20260930223432/https://rsd407.community.diligentoneplatform.com/document/12125/",
+      "archived_sha256": "0574f190d88ed44498a2e9b5e44e4e9cd8ab1fd3651bbc23486905fd205775aa"
+    }
+  },
+  {
+    "evidence_id": "RSD407-TLSL-2026-APR",
+    "publisher": "Riverview School District No. 407",
+    "title": "Teaching and Learning Program Updates and Proposed Projects",
+    "url": "https://rsd407.community.diligentoneplatform.com/document/14525/",
+    "resource_id": "14525",
+    "entity": "Riverview School District No. 407, WA; OSPI org 100222",
+    "period": "April 28 2026",
+    "retrieved_at": "2026-09-30T22:34:26.000074+00:00",
+    "method": "HTTPS GET original PDF bytes; registration timestamp after local review",
+    "sha256": "8fd8f2e52ace48c018d9d224dccfdf2d69fba948ac351f1937a68b564808eee1",
+    "byte_count": 1084518,
+    "expected_filename": "RSD407-TLSL-2026-APR.pdf",
+    "extraction": "pdftotext -layout; review of cited physical PDF pages; visual footer/approval checks",
+    "limitations": "Department-reported learning structures/highlights; not attendance denominators, fidelity audit or causal impact.",
+    "retention": "PDF reviewed locally, not committed; retrieve URL or verified archived bytes and check SHA-256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-TLSL-2026-APR",
+      "requested_at": "2026-09-30T22:34:26.004509+00:00",
+      "request_url": "https://web.archive.org/save/https://rsd407.community.diligentoneplatform.com/document/14525/",
+      "status": "capture_verified",
+      "capture_url": "https://web.archive.org/web/20260930223432/https://rsd407.community.diligentoneplatform.com/document/14525/",
+      "archived_sha256": "8fd8f2e52ace48c018d9d224dccfdf2d69fba948ac351f1937a68b564808eee1"
+    }
+  },
+  {
+    "evidence_id": "RSD407-NOV25-2025-MINUTES",
+    "publisher": "Riverview School District No. 407",
+    "title": "November 25 2025 Board Minutes",
+    "url": "https://rsd407.community.diligentoneplatform.com/document/13297/",
+    "resource_id": "13297",
+    "entity": "Riverview School District No. 407, WA; OSPI org 100222",
+    "period": "2025-11-25",
+    "retrieved_at": "2026-09-30T22:34:26.000304+00:00",
+    "method": "HTTPS GET original PDF bytes; registration timestamp after local review",
+    "sha256": "005fc2c22d28125066abd12229baa02a194887087f15e8946f3ba597db01ffb9",
+    "byte_count": 122145,
+    "expected_filename": "RSD407-NOV25-2025-MINUTES.pdf",
+    "extraction": "pdftotext -layout; review of cited physical PDF pages; visual footer/approval checks",
+    "limitations": "Frontline reference is suicide-prevention training, not HR hiring-software evidence.",
+    "retention": "PDF reviewed locally, not committed; retrieve URL or verified archived bytes and check SHA-256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-NOV25-2025-MINUTES",
+      "requested_at": "2026-09-30T22:34:26.005814+00:00",
+      "request_url": "https://web.archive.org/save/https://rsd407.community.diligentoneplatform.com/document/13297/",
+      "status": "capture_verified",
+      "capture_url": "https://web.archive.org/web/20260930223432/https://rsd407.community.diligentoneplatform.com/document/13297/",
+      "archived_sha256": "005fc2c22d28125066abd12229baa02a194887087f15e8946f3ba597db01ffb9"
+    }
+  },
+  {
+    "evidence_id": "RSD407-JUN24-2025-MINUTES",
+    "publisher": "Riverview School District No. 407",
+    "title": "June 24 2025 Board Minutes",
+    "url": "https://rsd407.community.diligentoneplatform.com/document/11040/",
+    "resource_id": "11040",
+    "entity": "Riverview School District No. 407, WA; OSPI org 100222",
+    "period": "2025-06-24",
+    "retrieved_at": "2026-09-30T22:34:26.000439+00:00",
+    "method": "HTTPS GET original PDF bytes; registration timestamp after local review",
+    "sha256": "31f7d7edb13bd4d59cbce58f4254f040609f2ad410d2029071749082506fafd1",
+    "byte_count": 118890,
+    "expected_filename": "RSD407-JUN24-2025-MINUTES.pdf",
+    "extraction": "pdftotext -layout; review of cited physical PDF pages; visual footer/approval checks",
+    "limitations": "Public comment topic on principal turnover is not validated workforce turnover series; no individual personnel inference.",
+    "retention": "PDF reviewed locally, not committed; retrieve URL or verified archived bytes and check SHA-256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-JUN24-2025-MINUTES",
+      "requested_at": "2026-09-30T22:34:48.610001+00:00",
+      "request_url": "https://web.archive.org/save/https://rsd407.community.diligentoneplatform.com/document/11040/",
+      "status": "submission_failed",
+      "capture_url": null,
+      "error": "HTTPError: HTTP Error 429: TOO MANY REQUESTS"
+    }
   }
 ]
