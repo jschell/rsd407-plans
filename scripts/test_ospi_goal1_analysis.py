@@ -10,6 +10,8 @@ chg=pd.read_csv(D/"goal1_district_changes.csv")
 
 assert set(obs.value_state.unique()) <= {"numeric","suppressed","missing","non_numeric"}
 assert obs.loc[obs.value_state!="numeric","numeric_value"].isna().all(), "non-numeric source values became numbers"
+# Missing/suppressed measure cells must remain observations; neither may become zero.
+assert not ((obs.value_state.isin(["missing","suppressed"])) & obs.numeric_value.notna()).any()
 assert (cmp.district_value-cmp.state_value-cmp.district_minus_state).abs().fillna(0).lt(1e-10).all()
 assert (chg.numeric_value-chg.previous_value-chg.absolute_change).abs().fillna(0).lt(1e-10).all()
 assert obs.source_dataset_id.astype(str).str.len().gt(0).all(), "lost source dataset provenance"
