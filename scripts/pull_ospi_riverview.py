@@ -65,9 +65,18 @@ def discover(fam,period):
     return None,None
 
 def schema_probe(did):
-    """Fetch one row to learn the API field names without downloading the dataset."""
-    rows=get(f"{BASE}/resource/{did}.json",{"$limit":1}).json()
-    return pd.DataFrame(rows)
+    """Learn API fields without assuming the first JSON row contains non-null keys."""
+    try:
+        meta=get(f"{BASE}/api/views/{did}").json()
+        fields=[c.get("fieldName") for c in meta.get("columns",[]) if c.get("fieldName")]
+        if fields:
+            return pd.DataFrame(columns=fields)
+    except requests.HTTPError:
+        pass
+    # Socrata omits null keys from JSON rows, so union several rows as fallback.
+    rows=get(f"{BASE}/resource/{did}.json",{"$limit":100}).json()
+    fields=sorted({k for row in rows for k in row})
+    return pd.DataFrame(columns=fields)
 
 def soql_literal(value):
     return "'" + str(value).replace("'", "''") + "'"
