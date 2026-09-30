@@ -1,0 +1,29 @@
+[
+  {
+    "evidence_id": "RSD407-NSPRA-PRESENTATION-2024",
+    "publisher": "Riverview School District No. 407",
+    "title": "NSPRA Audit Presentation",
+    "url": "https://rsd407.community.diligentoneplatform.com/document/5986/",
+    "portal_link": "https://rsd407.community.diligentoneplatform.com/home/public/document/5986",
+    "resource_id": "5986",
+    "period": "Presentation reports audit October/November 2023",
+    "retrieved_at": "2026-09-30T22:40:55.555119+00:00",
+    "method": "HTTPS GET portal-rendered HTML; original response bytes reviewed locally",
+    "sha256": "a7c23b5ff6179f2bb9d93d5aa7d32d013be575789a70c124a744677895f4b755",
+    "byte_count": 2396751,
+    "content_type": "text/html",
+    "portal_extension": ".pptx",
+    "expected_filename": "RSD407-NSPRA-PRESENTATION-2024.html",
+    "extraction": "HTML text headings and embedded chart images; not a PDF or original PPTX",
+    "limitations": "Presentation summary, not full independent audit report. Survey denominators/response methodology unavailable in reviewed summary. Mutable portal-rendered HTML may change bytes.",
+    "retention": "Response reviewed locally, not committed; URL/hash and archive attempt retained. PDF-only finance helper does not support this HTML source.",
+    "internet_archive": {
+      "evidence_id": "RSD407-NSPRA-PRESENTATION-2024",
+      "requested_at": "2026-09-30T22:40:55.558330+00:00",
+      "request_url": "https://web.archive.org/save/https://rsd407.community.diligentoneplatform.com/document/5986/",
+      "status": "submission_failed",
+      "capture_url": null,
+      "error": "HTTPError: HTTP Error 520: UNKNOWN"
+    }
+  }
+]
