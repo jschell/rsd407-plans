@@ -1,0 +1,171 @@
+{
+  "as_of": "2026-09-30",
+  "scope": "Bounded evaluation of reviewed evidence; no overall composite score or new source acquisition. Implementation fields apply to each stated scope.",
+  "rows": [
+    {
+      "assertion_id": "SYN-01",
+      "layer": "evaluation",
+      "domain": "Goal 1 student outcomes",
+      "evidence_document": "docs/evaluations/goal-1-evidence-synthesis.md",
+      "supporting_assertion_ids": [
+        "G1-A1",
+        "G1-A2",
+        "G1-A3",
+        "G1-B1/G1-B2",
+        "G1-C1",
+        "G1-D1",
+        "G1-D2",
+        "G1-D3",
+        "G1-F"
+      ],
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "recurrence": [
+        "Sustained responsibility",
+        "Evolving challenge"
+      ],
+      "finding": "Favorable current All Students comparisons and graduation; mixed grade growth and large observable subgroup gaps. Exact implementation fidelity/causation and formal target attainment not established.",
+      "reopening_evidence": "Defined outcome thresholds and comparable focal-group gap series; no invented composite."
+    },
+    {
+      "assertion_id": "SYN-02",
+      "layer": "evaluation",
+      "domain": "Goal 2A reserves",
+      "evidence_document": "docs/evaluations/goal-2-finance-evidence-synthesis.md",
+      "supporting_assertion_ids": [
+        "FIN-01",
+        "FIN-02",
+        "FIN-03",
+        "FIN-04",
+        "FIN-10",
+        "FIN-13",
+        "FIN-14"
+      ],
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Partially implemented",
+      "goal_attainment": "Cannot determine",
+      "recurrence": [
+        "Sustained responsibility",
+        "Evolving challenge",
+        "Measurement failure"
+      ],
+      "finding": "FY2025 revised-policy numeric 5% total/2.5% unassigned targets Met; original 7% uncommitted strategic target Cannot determine. Four annual total-balance declines after FY2021.",
+      "reopening_evidence": "Resolve balance definitions, motion denominator and audited reserve-note conflict; new actual-year outcomes."
+    },
+    {
+      "assertion_id": "SYN-03",
+      "layer": "evaluation",
+      "domain": "Specific FY2017 Title I audit issue",
+      "evidence_document": "docs/evaluations/goal-2-finance-evidence-synthesis.md",
+      "supporting_assertion_ids": [
+        "FIN-08",
+        "FIN-11"
+      ],
+      "task_design": "Insufficient evidence",
+      "implementation": "Implemented",
+      "goal_attainment": "Cannot determine",
+      "recurrence": [
+        "Resolved or institutionalized",
+        "Sustained responsibility"
+      ],
+      "finding": "FY2018 management reports Fully Corrected and auditor tests Title I with no reported finding. Qualified correction of that issue, not all controls or final repayment.",
+      "reopening_evidence": "Corrected conflicting prior expenditure values and questioned-cost disposition; reopen for recurrence in an authoritative audit."
+    },
+    {
+      "assertion_id": "SYN-04",
+      "layer": "evaluation",
+      "domain": "Goal 2A equitable allocation",
+      "evidence_document": "docs/evaluations/goal-2-resource-allocation.md",
+      "supporting_assertion_ids": [
+        "ALLOC-02",
+        "ALLOC-07",
+        "ALLOC-08",
+        "ALLOC-09",
+        "ALLOC-10",
+        "ALLOC-11"
+      ],
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "recurrence": [
+        "Evolving challenge"
+      ],
+      "finding": "Board authorization Implemented narrowly; actual process use, deployed staffing and equitable support outcomes unverified. Exhibit and matrix ambiguities retained.",
+      "reopening_evidence": "Dated adopted process, de-identified decision trace and reconciled deployed FTE/service access."
+    },
+    {
+      "assertion_id": "SYN-05",
+      "layer": "evaluation",
+      "domain": "Goal 2B safety operations",
+      "evidence_document": "docs/evaluations/goal-2-safety-operations.md",
+      "supporting_assertion_ids": [
+        "SAFE-02",
+        "SAFE-04",
+        "SAFE-09",
+        "SAFE-16",
+        "SAFE-19",
+        "SAFE-20"
+      ],
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Partially implemented",
+      "goal_attainment": "Cannot determine",
+      "recurrence": [
+        "Sustained responsibility",
+        "Evolving challenge",
+        "Measurement failure"
+      ],
+      "finding": "Partial access-control work; formal adoption established. RFID, common-practice fidelity and operational readiness unverified.",
+      "reopening_evidence": "Acceptance/coverage, dated common-practice rollout, completed aggregate drills and after-action closure."
+    },
+    {
+      "assertion_id": "SYN-06",
+      "layer": "evaluation",
+      "domain": "Goal 3A/3B HR and learning",
+      "evidence_document": "docs/evaluations/goal-3-human-resources.md",
+      "supporting_assertion_ids": [
+        "HR-02",
+        "HR-03",
+        "HR-05",
+        "HR-08",
+        "HR-09",
+        "HR-12",
+        "HR-13"
+      ],
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Partially implemented",
+      "goal_attainment": "Cannot determine",
+      "recurrence": [
+        "Sustained responsibility",
+        "Evolving challenge",
+        "Measurement failure"
+      ],
+      "finding": "Partial broad onboarding/learning; current workforce match, retention and hiring efficiency unverified. Historical staff data and proposed events not current results.",
+      "reopening_evidence": "Current matched aggregate workforce/retention/vacancy series and completed learning coverage/application."
+    },
+    {
+      "assertion_id": "SYN-07",
+      "layer": "evaluation",
+      "domain": "Goal 3C communications",
+      "evidence_document": "docs/evaluations/goal-3-communications.md",
+      "supporting_assertion_ids": [
+        "COMM-01",
+        "COMM-05",
+        "COMM-08",
+        "COMM-09",
+        "COMM-12",
+        "COMM-13"
+      ],
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Partially implemented",
+      "goal_attainment": "Cannot determine",
+      "recurrence": [
+        "Sustained responsibility",
+        "Evolving challenge",
+        "Measurement failure"
+      ],
+      "finding": "Metrics-report delivery Implemented narrowly. Displayed traffic increases but period/definition and growth-arithmetic conflicts preclude validated increased reach.",
+      "reopening_evidence": "Comparable analytics exports, dated website/ambassador execution and feedback/accessibility outcomes."
+    }
+  ]
+}
