@@ -34,3 +34,5 @@ Plan 05 HR initial checkpoint: three newly reviewed policy/procedure/recruitment
 Plan 05 closeout adds four reviewed Board/department PDFs, completing seven HR sources. HR-08–HR-13 attribute dated orientation and professional-learning activity while retaining absent matched aggregate outcome measures. Bounded research is complete; Plan 06 Communications is next. Exact hashes and archive outcomes remain in HR manifest.
 
 Plan 06 initial checkpoint: two reviewed communications-plan PDFs and one portal-rendered NSPRA presentation HTML have URL/hash/archive provenance in communications manifests. COMM-01–COMM-07 preserve status labels, format limits, plan cadence/name conflicts and the attributed 133% download claim without deriving unique reach. No original responses committed.
+
+Plan 06 closeout adds four reviewed PDFs including the end-of-year report and separate presentation record. COMM-08–COMM-13 retain actual screenshots, period/denominator limits and growth-arithmetic discrepancy; derived checks are reproducible. Six total communications PDFs plus one audit-summary HTML have provenance; Plan 07 synthesis is next.

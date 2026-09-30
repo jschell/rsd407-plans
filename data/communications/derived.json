@@ -1,0 +1,40 @@
+{
+  "evidence_id": "COMM-09",
+  "source_id": "RSD407-COMMS-EOY-2025",
+  "pages": [
+    4,
+    3,
+    5
+  ],
+  "limitation": "unconfirmed; raw exports and exact snapshot dates not supplied",
+  "metrics": {
+    "site_sessions": {
+      "earlier": "179000",
+      "later": "250400",
+      "rounded_source": true,
+      "baseline_denominator_growth_percent": "39.89",
+      "ending_denominator_share_percent": "28.51"
+    },
+    "unique_visitors": {
+      "earlier": "53272",
+      "later": "80729",
+      "rounded_source": false,
+      "baseline_denominator_growth_percent": "51.54",
+      "ending_denominator_share_percent": "34.01"
+    },
+    "new_visitors": {
+      "earlier": "47312",
+      "later": "74155",
+      "rounded_source": false,
+      "baseline_denominator_growth_percent": "56.74",
+      "ending_denominator_share_percent": "36.20"
+    },
+    "returning_visitors": {
+      "earlier": "5960",
+      "later": "6574",
+      "rounded_source": false,
+      "baseline_denominator_growth_percent": "10.30",
+      "ending_denominator_share_percent": "9.34"
+    }
+  }
+}

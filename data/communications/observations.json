@@ -73,5 +73,76 @@
     "portal_extension": ".pptx",
     "retrieved_format": "HTML",
     "full_audit_recovered": false
-  }
+  },
+  "website_snapshots": {
+    "source_id": "RSD407-COMMS-EOY-2025",
+    "earlier_page": 4,
+    "later_page": 3,
+    "earlier_period_label": "2022-23",
+    "later_period_labels": [
+      "2024-2025 Daily Site Visits",
+      "Past 365 Days"
+    ],
+    "site_sessions": {
+      "earlier_as_reported": "179K",
+      "later_as_reported": "250.4K",
+      "earlier_scaled": "179000",
+      "later_scaled": "250400",
+      "rounded": true
+    },
+    "unique_visitors": {
+      "earlier_as_reported": "53272",
+      "later_as_reported": "80729",
+      "earlier_scaled": "53272",
+      "later_scaled": "80729",
+      "rounded": false
+    },
+    "new_visitors": {
+      "earlier_as_reported": "47312",
+      "later_as_reported": "74155",
+      "earlier_scaled": "47312",
+      "later_scaled": "74155",
+      "rounded": false
+    },
+    "returning_visitors": {
+      "earlier_as_reported": "5960",
+      "later_as_reported": "6574",
+      "earlier_scaled": "5960",
+      "later_scaled": "6574",
+      "rounded": false
+    },
+    "claim_page": 5,
+    "claimed_interval": "last 16 months",
+    "growth_claims_percent": [
+      "29 visits",
+      "34 unique (first time)",
+      "10 returning"
+    ],
+    "comparability": "unconfirmed; raw exports and exact snapshot dates not supplied"
+  },
+  "other_metrics": {
+    "source_id": "RSD407-COMMS-EOY-2025",
+    "social_page": 6,
+    "views_as_reported": "214.4K",
+    "social_interval_as_reported": "July 16 to Today",
+    "social_unique_reach": null,
+    "podcast_page": 7,
+    "podcast_scope": "Direct downloads from website/Facebook using Captivate player; excludes Spotify/Apple Podcasts etc.",
+    "podcast_exact_episode_counts": null
+  },
+  "implementation_traces": [
+    {
+      "source_id": "RSD407-OCT14-2025-MINUTES",
+      "page": 6,
+      "event": "End of year metrics report presented",
+      "date": "2025-10-14"
+    },
+    {
+      "source_id": "RSD407-NOV12-2025-MINUTES",
+      "page": 3,
+      "event": "Ambassadors Bond Bootcamp planned",
+      "planned_date": "2025-12-06",
+      "attendance": null
+    }
+  ]
 }
