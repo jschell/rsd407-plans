@@ -31,6 +31,7 @@ def year_ok(row):
     return hit.group(1).strip() in {str(row.source_period),f"{start}-{end}",str(end)}
 assert obs.apply(year_ok,axis=1).all(), "derived observations contain SchoolYear outside source_period"
 assert len(cmp) > 0, "no district/state matches; comparison dimensions likely include organization identity"
+assert len(chg) > 0, "no district longitudinal changes; comparison dimensions likely include period/release metadata"
 expected={"assessment","growth","graduation","sqss"}
 missing=expected-set(cmp.source_family.unique())
 assert not missing, f"missing expected district/state comparison families: {sorted(missing)}"

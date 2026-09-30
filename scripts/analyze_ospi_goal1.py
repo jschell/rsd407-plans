@@ -15,6 +15,9 @@ DERIVED.mkdir(parents=True,exist_ok=True)
 
 ID_HINTS=("id","code","year","grade","level","name","group","race","ethnic","gender","sex","test","subject","measure","indicator","cohort","type","status","notes","label","dataasof")
 ORG_FIELDS={"organizationlevel","orglevel","organizationname","organizationid","county","esdname","esdorganizationid","districtname","districtcode","districtorganizationid","schoolname","schoolcode","schoolorganizationid","currentschooltype","schooltype","organization","organizationtype","organizationcode","organizationnumber","district","school","state"}
+# Release/year metadata identifies an extract, not the same analytical indicator
+# across reporting periods.
+VOLATILE_CONTEXT_FIELDS={"dataasof","datadate","reportdate","updateddate","schoolyear","year"}
 SUPPRESS=re.compile(r"(suppress|privacy|small|n/?a|not available|not reported|<\s*\d+|\*)",re.I)
 
 def key(x): return re.sub("[^a-z0-9]","",str(x).lower())
@@ -95,7 +98,7 @@ for path in sorted(NORM.glob("*.csv")):
         scope=classify_scope(r)
         # Organization identity belongs in scope, not in the analytical match key.
         # Otherwise a State Total row can never match the corresponding district row.
-        dim={c:r[c] for c in dimensions if key(c) not in ORG_FIELDS and str(r[c]).strip()!=""}
+        dim={c:r[c] for c in dimensions if key(c) not in ORG_FIELDS | VOLATILE_CONTEXT_FIELDS and str(r[c]).strip()!=""}
         dim_key=" | ".join(f"{c}={dim[c]}" for c in sorted(dim,key=key))
         org_level=r.get("organizationlevel",r.get("orglevel",""))
         school_name=r.get("schoolname","")
