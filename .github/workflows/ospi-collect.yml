@@ -7,6 +7,9 @@ on:
       - main
     paths:
       - "scripts/pull_ospi_riverview.py"
+      - "scripts/analyze_ospi_goal1.py"
+      - "scripts/test_ospi_goal1_analysis.py"
+      - "scripts/write_ospi_actions_summary.py"
       - "requirements-ospi.txt"
       - ".github/workflows/ospi-collect.yml"
 
@@ -30,10 +33,14 @@ jobs:
         id: collect
         continue-on-error: true
         run: python scripts/pull_ospi_riverview.py
+      - name: Analyze Goal 1 outcomes
+        if: steps.collect.outcome == 'success'
+        run: |
+          python scripts/analyze_ospi_goal1.py
+          python scripts/test_ospi_goal1_analysis.py
       - name: Write Actions summary
         if: always()
         run: python scripts/write_ospi_actions_summary.py
-
       - name: Upload reproducibility package
         if: always()
         uses: actions/upload-artifact@v4
