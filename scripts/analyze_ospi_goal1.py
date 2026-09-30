@@ -66,7 +66,10 @@ for path in sorted(NORM.glob("*.csv")):
     if df.empty: continue
     source_cols=[c for c in df.columns if c.startswith("source_")]
     family=str(df.iloc[0].get("source_family",""))
-    candidates=[c for c in df.columns if c not in source_cols and family_metric(family,c) and numeric_candidate(df[c],c)]
+    # Family schemas determine measures. Keep a measure even when every value
+    # in this scoped extract is blank/suppressed; suppression is evidence, not
+    # a reason to silently drop the metric.
+    candidates=[c for c in df.columns if c not in source_cols and family_metric(family,c)]
     dimensions=[c for c in df.columns if c not in source_cols and c not in candidates]
     for _,r in df.iterrows():
         scope=classify_scope(r)
