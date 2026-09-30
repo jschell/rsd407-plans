@@ -1,0 +1,37 @@
+{
+  "reserves": [
+    {
+      "evidence_id": "SAO-RSD407-2023-FIN",
+      "period": "2022-23",
+      "basis": "audited actual",
+      "total_balance_pct_of_expenditures": "11.8552"
+    },
+    {
+      "evidence_id": "SAO-RSD407-2024-FIN",
+      "period": "2023-24",
+      "basis": "audited actual",
+      "total_balance_pct_of_expenditures": "11.0721",
+      "change_in_total_balance": "-96167.47"
+    },
+    {
+      "evidence_id": "SAO-RSD407-2025-FIN",
+      "period": "2024-25",
+      "basis": "audited actual",
+      "total_balance_pct_of_expenditures": "8.3887",
+      "change_in_total_balance": "-1217998.36"
+    },
+    {
+      "evidence_id": "RSD407-FY2026-BUDGET-SUMMARY",
+      "period": "2025-26",
+      "basis": "budget / estimated ending balance",
+      "total_balance_pct_of_expenditures": "5.0141"
+    }
+  ],
+  "fy2025_policy_diagnostic": {
+    "evidence_id": "SAO-RSD407-2025-FIN",
+    "actual_expenditure_5pct": "2959858.9435",
+    "actual_expenditure_7pct": "4143802.5209",
+    "listed_reserve_pct_of_actual_expenditure": "7.0000",
+    "policy_compliance_determination": "Cannot determine: effective policy and applicable budget denominator unresolved"
+  }
+}

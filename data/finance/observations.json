@@ -1,0 +1,59 @@
+{
+  "extraction_method": "Manual transcription; PDF pages are 1-based physical pages. Decimal strings preserve source precision. Fund is General Fund only. Totals and unassigned balances are distinct measures. No automatic OCR or chart digitization.",
+  "reserves": [
+    {
+      "evidence_id": "SAO-RSD407-2023-FIN",
+      "period": "2022-23",
+      "basis": "audited actual",
+      "total_balance": "6280053.86",
+      "expenditures": "52972914.74",
+      "unassigned_balance": "5812719.61",
+      "pdf_pages": {
+        "total_balance": 22,
+        "expenditures": 22,
+        "unassigned_balance": 20
+      }
+    },
+    {
+      "evidence_id": "SAO-RSD407-2024-FIN",
+      "period": "2023-24",
+      "basis": "audited actual",
+      "total_balance": "6183886.39",
+      "expenditures": "55851151.36",
+      "pdf_pages": {
+        "total_balance": 22,
+        "expenditures": 22
+      }
+    },
+    {
+      "evidence_id": "SAO-RSD407-2025-FIN",
+      "period": "2024-25",
+      "basis": "audited actual",
+      "total_balance": "4965888.03",
+      "expenditures": "59197178.87",
+      "unassigned_balance": "4899256.79",
+      "policy_reserve_amount_rounded": "4143803",
+      "policy_prose_pct": "5",
+      "pdf_pages": {
+        "total_balance": 21,
+        "expenditures": 21,
+        "unassigned_balance": 19,
+        "policy_reserve_amount_rounded": 46,
+        "policy_prose_pct": 46
+      }
+    },
+    {
+      "evidence_id": "RSD407-FY2026-BUDGET-SUMMARY",
+      "period": "2025-26",
+      "basis": "budget / estimated ending balance",
+      "total_balance": "3134254",
+      "expenditures": "62508931",
+      "unassigned_balance": "3127254",
+      "pdf_pages": {
+        "total_balance": 5,
+        "expenditures": 5,
+        "unassigned_balance": 5
+      }
+    }
+  ]
+}
