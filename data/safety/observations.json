@@ -1,0 +1,66 @@
+{
+  "extraction_method": "Manual transcription from cited original PDF pages; statuses retained verbatim; no individual cases included.",
+  "task_statuses": [
+    {
+      "evidence_id": "RSD407-SP-2024-SEP",
+      "manifest": "data/manifests/finance-sources.json",
+      "pdf_page": 9,
+      "period": "2024-09",
+      "key_card_feasibility": "In Progress",
+      "rfid_system_identification": "In Progress",
+      "discipline_hib_threat_cps_common_practices": "In Progress"
+    },
+    {
+      "evidence_id": "RSD407-SP-2025-JUL",
+      "manifest": "data/manifests/allocation-sources.json",
+      "pdf_page": 8,
+      "period": "2025-07",
+      "key_card_feasibility": "Completed",
+      "rfid_system_identification": "In Progress",
+      "discipline_hib_threat_cps_common_practices": "Completed"
+    },
+    {
+      "evidence_id": "RSD407-SP-2026-SEP",
+      "manifest": "data/manifests/allocation-sources.json",
+      "pdf_page": 7,
+      "period": "2026-09",
+      "expanded_access_control": "In progress",
+      "emergency_camera_access_mou": "In progress",
+      "dam_failure_response_plan_annexation": "In progress",
+      "sis_tools_including_reunification": "In progress"
+    }
+  ],
+  "approval": {
+    "evidence_id": "RSD407-JUL28-2026-MINUTES",
+    "pdf_page": 3,
+    "motion": "26-53",
+    "action": "Adopt revised Emergency Operations Plan as presented",
+    "status": "Carried"
+  },
+  "control_design": [
+    {
+      "evidence_id": "RSD407-EOP-2026",
+      "pdf_pages": [
+        18,
+        19
+      ],
+      "observation": "Staff training, drill documentation and after-action review/improvement plan are described; completed records not supplied by these pages."
+    },
+    {
+      "evidence_id": "RSD407-POLICY-3225",
+      "pdf_pages": [
+        1,
+        3
+      ],
+      "observation": "Multidisciplinary team training and threat-assessment data/reporting procedures specified."
+    },
+    {
+      "evidence_id": "RSD407-PROCEDURE-3207-P1-2019",
+      "pdf_pages": [
+        3,
+        11
+      ],
+      "observation": "Annual staff training and incident-form use specified; adoption footer August 27 2019."
+    }
+  ]
+}

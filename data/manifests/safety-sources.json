@@ -1,0 +1,102 @@
+[
+  {
+    "evidence_id": "RSD407-EOP-2026",
+    "publisher": "Riverview School District No. 407",
+    "title": "Emergency Operations Plan Version 2.0",
+    "url": "https://rsd407.community.diligentoneplatform.com/document/15799/",
+    "resource_id": "15799",
+    "entity": "Riverview School District No. 407, WA; OSPI org 100222",
+    "period": "Revised July 20 2026",
+    "retrieved_at": "2026-09-30T18:09:15.612775+00:00",
+    "method": "HTTPS GET original PDF bytes; registration timestamp after local review",
+    "sha256": "78924e4d46d509da8b4274c718d8ea67ed06b83d3998e4beca00cb54867d1692",
+    "byte_count": 383944,
+    "expected_filename": "RSD407-EOP-2026.pdf",
+    "extraction": "pdftotext -layout; visual review of cited 1-based physical PDF pages",
+    "limitations": "Cover adoption date and footer month/year are placeholders; approval record separate. Training/drill design is not a completed log or outcome.",
+    "retention": "PDF reviewed locally, not committed; retrieve URL or verified archived bytes and check SHA-256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-EOP-2026",
+      "requested_at": "2026-09-30T18:09:15.658830+00:00",
+      "request_url": "https://web.archive.org/save/https://rsd407.community.diligentoneplatform.com/document/15799/",
+      "status": "submission_failed",
+      "capture_url": null,
+      "error": "HTTPError: HTTP Error 404: NOT FOUND"
+    }
+  },
+  {
+    "evidence_id": "RSD407-JUL28-2026-MINUTES",
+    "publisher": "Riverview School District No. 407",
+    "title": "Regular School Board Minutes July 28 2026",
+    "url": "https://rsd407.community.diligentoneplatform.com/document/15922/",
+    "resource_id": "15922",
+    "entity": "Riverview School District No. 407, WA; OSPI org 100222",
+    "period": "2026-07-28",
+    "retrieved_at": "2026-09-30T18:09:15.613480+00:00",
+    "method": "HTTPS GET original PDF bytes; registration timestamp after local review",
+    "sha256": "d04be985c24d81c3cfc1d7bbe0bd81bad95688520ec8be5a72be2eaff7d070f7",
+    "byte_count": 99397,
+    "expected_filename": "RSD407-JUL28-2026-MINUTES.pdf",
+    "extraction": "pdftotext -layout; visual review of cited 1-based physical PDF pages",
+    "limitations": "Recorded motion establishes approval event, not actual deployment, training completion or drill fidelity.",
+    "retention": "PDF reviewed locally, not committed; retrieve URL or verified archived bytes and check SHA-256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-JUL28-2026-MINUTES",
+      "requested_at": "2026-09-30T18:09:15.659445+00:00",
+      "request_url": "https://web.archive.org/save/https://rsd407.community.diligentoneplatform.com/document/15922/",
+      "status": "capture_verified",
+      "capture_url": "https://web.archive.org/web/20260930180951/https://rsd407.community.diligentoneplatform.com/document/15922/",
+      "archived_sha256": "d04be985c24d81c3cfc1d7bbe0bd81bad95688520ec8be5a72be2eaff7d070f7"
+    }
+  },
+  {
+    "evidence_id": "RSD407-POLICY-3225",
+    "publisher": "Riverview School District No. 407",
+    "title": "School-Based Threat Assessment Policy 3225",
+    "url": "https://rsd407.community.diligentoneplatform.com/document/4369/",
+    "resource_id": "4369",
+    "entity": "Riverview School District No. 407, WA; OSPI org 100222",
+    "period": "Adopted November 14 2023",
+    "retrieved_at": "2026-09-30T18:09:15.613734+00:00",
+    "method": "HTTPS GET original PDF bytes; registration timestamp after local review",
+    "sha256": "f3e9cb915ec23d314da771cb11b86c77dda37f1022bfe9dde938035654d8e10b",
+    "byte_count": 81348,
+    "expected_filename": "RSD407-POLICY-3225.pdf",
+    "extraction": "pdftotext -layout; visual review of cited 1-based physical PDF pages",
+    "limitations": "Published policy requirements are not evidence of team training, execution, reporting or outcomes.",
+    "retention": "PDF reviewed locally, not committed; retrieve URL or verified archived bytes and check SHA-256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-POLICY-3225",
+      "requested_at": "2026-09-30T18:09:15.660015+00:00",
+      "request_url": "https://web.archive.org/save/https://rsd407.community.diligentoneplatform.com/document/4369/",
+      "status": "capture_verified",
+      "capture_url": "https://web.archive.org/web/20260930180923/https://rsd407.community.diligentoneplatform.com/document/4369/",
+      "archived_sha256": "f3e9cb915ec23d314da771cb11b86c77dda37f1022bfe9dde938035654d8e10b"
+    }
+  },
+  {
+    "evidence_id": "RSD407-PROCEDURE-3207-P1-2019",
+    "publisher": "Riverview School District No. 407",
+    "title": "HIB Procedure 3207-P1",
+    "url": "https://rsd407.community.diligentoneplatform.com/document/4364/",
+    "resource_id": "4364",
+    "entity": "Riverview School District No. 407, WA; OSPI org 100222",
+    "period": "Adopted August 27 2019",
+    "retrieved_at": "2026-09-30T18:09:15.614010+00:00",
+    "method": "HTTPS GET original PDF bytes; registration timestamp after local review",
+    "sha256": "b6739d2abfaea4118533ba9733327696cb10df10a1035047a11fa5fa827282bd",
+    "byte_count": 218600,
+    "expected_filename": "RSD407-PROCEDURE-3207-P1-2019.pdf",
+    "extraction": "pdftotext -layout; visual review of cited 1-based physical PDF pages",
+    "limitations": "Historical published version; latest procedural applicability not yet reconciled. Formal training/reporting requirements do not establish implementation.",
+    "retention": "PDF reviewed locally, not committed; retrieve URL or verified archived bytes and check SHA-256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-PROCEDURE-3207-P1-2019",
+      "requested_at": "2026-09-30T18:09:34.904855+00:00",
+      "request_url": "https://web.archive.org/save/https://rsd407.community.diligentoneplatform.com/document/4364/",
+      "status": "submission_failed",
+      "capture_url": null,
+      "error": "HTTPError: HTTP Error 429: TOO MANY REQUESTS"
+    }
+  }
+]
