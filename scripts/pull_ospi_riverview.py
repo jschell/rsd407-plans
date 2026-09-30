@@ -81,7 +81,9 @@ for fam,period in REQUIRED:
         if not did:did,title=discover(fam,period)
         if not did:report.append([fam,period,"","NOT_FOUND",0,0,""]);continue
         title=get(f"{BASE}/api/views/{did}").json().get("name",title)
-        sub=scope(fetch(did))
+        full=fetch(did)
+        sub=scope(full)
+        log(f"        scope filter: {len(full):,} source rows -> {len(sub):,} Riverview/WA rows")
         c=col(sub,"DistrictName"); riv=int(sub[c].astype(str).str.casefold().eq(DISTRICT_NAME.casefold()).sum()) if c else 0
         raw=RAW/f"{fam}_{period}_{did}.csv";sub.to_csv(raw,index=False)
         norm=sub.copy()
@@ -99,5 +101,8 @@ manifest={"schema_version":1,"retrieved_at_utc":datetime.now(timezone.utc).isofo
 with zipfile.ZipFile("ospi_riverview.zip","w",zipfile.ZIP_DEFLATED) as z:
     for f in OUT.rglob("*"):
         if f.is_file():z.write(f,f)
-ok=int((rep.status=="OK").sum());print(rep.to_string(index=False));print(f"Validated {ok}/{len(REQUIRED)}")
+ok=int((rep.status=="OK").sum())
+log("")
+log(rep.to_string(index=False))
+log(f"Validated {ok}/{len(REQUIRED)} in {time.monotonic()-run_started:.1f}s")
 sys.exit(0 if ok==len(REQUIRED) else 2)
