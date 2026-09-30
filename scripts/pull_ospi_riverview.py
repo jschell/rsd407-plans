@@ -81,8 +81,14 @@ def build_scope_where(sample):
     if c: clauses.append(f"{c}={soql_literal(DISTRICT_CODE)}")
     c=col(sample,"DistrictName")
     if c: clauses.append(f"lower({c})={soql_literal(DISTRICT_NAME.lower())}")
-    c=col(sample,"OrganizationLevel")
+    c=col(sample,"OrganizationLevel","OrgLevel")
     if c: clauses.append(f"lower({c})='state'")
+    # Some OSPI families (notably EL and some SQSS releases) use a generic
+    # organization schema rather than district-prefixed fields.
+    oc=col(sample,"OrganizationName")
+    lc=col(sample,"OrganizationLevel","OrgLevel")
+    if oc and lc:
+        clauses.append(f"(lower({lc})='district' AND lower({oc})={soql_literal(DISTRICT_NAME.lower())})")
     return " OR ".join(dict.fromkeys(clauses))
 
 def fetch(did,where=None):
@@ -106,8 +112,12 @@ def scope(df):
     for name,val in [("DistrictOrganizationId",ORG_ID),("DistrictCode",DISTRICT_CODE),("DistrictName",DISTRICT_NAME)]:
         c=col(df,name)
         if c:masks.append(df[c].astype(str).str.replace(r"\.0$","",regex=True).str.casefold().eq(val.casefold()))
-    c=col(df,"OrganizationLevel")
+    c=col(df,"OrganizationLevel","OrgLevel")
     if c:masks.append(df[c].astype(str).str.casefold().eq("state"))
+    oc=col(df,"OrganizationName")
+    lc=col(df,"OrganizationLevel","OrgLevel")
+    if oc and lc:
+        masks.append(df[lc].astype(str).str.casefold().eq("district") & df[oc].astype(str).str.casefold().eq(DISTRICT_NAME.casefold()))
     if not masks:return df.iloc[0:0].copy()
     m=masks[0]
     for x in masks[1:]:m|=x
@@ -153,13 +163,21 @@ for idx,(fam,period) in enumerate(REQUIRED,1):
             yc=col(full,"SchoolYear")
             if yc:
                 years=set(full[yc].dropna().astype(str).str.strip())
-                if period not in years:
+                # Most Report Card datasets store YYYY-YY. Some releases,
+                # including SQSS 2024-25, store only the ending year ("2025").
+                end_year=str(2000+int(period[-2:])) if re.fullmatch(r"\d{4}-\d{2}",period) else None
+                if period not in years and (not end_year or end_year not in years):
                     raise ValueError(f"dataset period mismatch: requested {period}; source SchoolYear values={sorted(years)[:12]}")
         sub=scope(full)
         if len(sub)==0:
             log(f"        zero scoped rows; source columns: {', '.join(map(str,full.columns))}")
         log(f"        scope filter: {len(full):,} source rows -> {len(sub):,} Riverview/WA rows")
-        c=col(sub,"DistrictName"); riv=int(sub[c].astype(str).str.casefold().eq(DISTRICT_NAME.casefold()).sum()) if c else 0
+        c=col(sub,"DistrictName")
+        if c:
+            riv=int(sub[c].astype(str).str.casefold().eq(DISTRICT_NAME.casefold()).sum())
+        else:
+            oc=col(sub,"OrganizationName"); lc=col(sub,"OrganizationLevel","OrgLevel")
+            riv=int((sub[lc].astype(str).str.casefold().eq("district") & sub[oc].astype(str).str.casefold().eq(DISTRICT_NAME.casefold())).sum()) if oc and lc else 0
         raw=RAW/f"{fam}_{period}_{did}.csv";sub.to_csv(raw,index=False)
         norm=sub.copy()
         for n,v in reversed([("source_family",fam),("source_period",period),("source_dataset_id",did),("source_dataset_title",title)]):norm.insert(0,n,v)
