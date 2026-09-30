@@ -38,10 +38,15 @@ if g.empty:
 
 def norm(v): return re.sub("[^a-z0-9]","",str(v).lower())
 g["group_norm"]=g.student_group.map(norm)
-all_labels={"allstudents","allstudent","all"}
+# OSPI uses several aggregate labels across Report Card families/releases.
+# Normalize punctuation/case and accept only explicit aggregate labels.
+all_labels={"allstudents","allstudent","all","allstudentscombined","allstudentgroups","allstudentsgroup","total"}
 keys=["source_family","source_period","scope","organization_level","school_name","organization_name","gap_context","metric"]
 num=g[g.value_state.eq("numeric")].copy()
-baseline=num[num.group_norm.isin(all_labels)].groupby(keys).numeric_value.agg(["count","first"]).reset_index()
+baseline_rows=num[num.group_norm.isin(all_labels)].copy()
+print("student-group labels:", sorted(g.student_group.drop_duplicates().astype(str).tolist())[:80])
+print("aggregate baseline rows:", len(baseline_rows))
+baseline=baseline_rows.groupby(keys).numeric_value.agg(["count","first"]).reset_index()
 sub=num[~num.group_norm.isin(all_labels)].copy()
 gaps=sub.merge(baseline,on=keys,suffixes=("","_all"))
 gaps=gaps[gaps["count"].eq(1)].copy()
@@ -70,3 +75,5 @@ report=pd.DataFrame([
 ])
 report.to_csv(D/"goal1_subgroup_gap_report.csv",index=False)
 print(report.to_string(index=False))
+if len(num) and len(gaps)==0:
+    raise SystemExit("Group-bearing numeric observations exist but no exact-context subgroup gaps were formed")
