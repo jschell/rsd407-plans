@@ -20,3 +20,7 @@ The thirty reviewed finance sources, exact URLs, retrieval metadata, source hash
 ## Resource allocation initial inventory
 
 Seven reviewed allocation PDFs resolve through `data/manifests/allocation-sources.json` and [allocation provenance](allocation-provenance.md). ALLOC-01–ALLOC-11 distinguish task-status claims from allocation decisions and outcomes. FIN-14 uses the same manifest for later recovery context. Plan 03 assessment is complete within its bounds; no independent outcome-attainment claim is made.
+
+## Safety initial inventory
+
+Four reviewed primary PDFs resolve through `data/manifests/safety-sources.json` and [safety provenance](safety-provenance.md). SAFE-01–SAFE-08 reuse the plan-status sources and distinguish control design/adoption from completed execution and outcomes. Plan 04 is active.
