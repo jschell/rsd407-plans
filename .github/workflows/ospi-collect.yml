@@ -9,6 +9,7 @@ on:
       - "scripts/pull_ospi_riverview.py"
       - "scripts/analyze_ospi_goal1.py"
       - "scripts/test_ospi_goal1_analysis.py"
+      - "scripts/build_goal1_core_indicators.py"
       - "scripts/write_ospi_actions_summary.py"
       - "requirements-ospi.txt"
       - ".github/workflows/ospi-collect.yml"
@@ -38,6 +39,9 @@ jobs:
         run: |
           python scripts/analyze_ospi_goal1.py
           python scripts/test_ospi_goal1_analysis.py
+      - name: Build Goal 1 core indicators
+        if: steps.collect.outcome == 'success'
+        run: python scripts/build_goal1_core_indicators.py
       - name: Write Actions summary
         if: always()
         run: python scripts/write_ospi_actions_summary.py
