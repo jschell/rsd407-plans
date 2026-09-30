@@ -10,6 +10,7 @@ on:
       - "scripts/analyze_ospi_goal1.py"
       - "scripts/test_ospi_goal1_analysis.py"
       - "scripts/build_goal1_core_indicators.py"
+      - "scripts/build_goal1_subgroup_gaps.py"
       - "scripts/write_ospi_actions_summary.py"
       - "requirements-ospi.txt"
       - ".github/workflows/ospi-collect.yml"
@@ -42,6 +43,9 @@ jobs:
       - name: Build Goal 1 core indicators
         if: steps.collect.outcome == 'success'
         run: python scripts/build_goal1_core_indicators.py
+      - name: Build Goal 1 subgroup gaps
+        if: steps.collect.outcome == 'success'
+        run: python scripts/build_goal1_subgroup_gaps.py
       - name: Write Actions summary
         if: always()
         run: python scripts/write_ospi_actions_summary.py
