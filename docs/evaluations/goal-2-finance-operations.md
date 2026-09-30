@@ -14,6 +14,8 @@ Resource allocation, IEP staffing decisions, Qmlativ effectiveness, key-card fea
 
 ## Next work
 
-Finance research closes under `docs/plans/complete/02-finance-closeout.md`. Next is `docs/plans/active/03-resource-allocation.md`; operational work is not included in finance closeout.
+Finance research closes under `docs/plans/complete/02-finance-closeout.md`. Next is `docs/plans/complete/03-resource-allocation.md`; operational work is not included in finance closeout.
 
-Plan 03's initial [allocation evidence checkpoint](goal-2-resource-allocation.md) records July 2025 district completion assertions and September 2026 recovery-framework tasks. These later materials support the finance classification of an evolving challenge; they do not alter the audited FY2025 numeric comparisons or establish later-year actual attainment.
+Plan 03's [allocation evidence checkpoint](goal-2-resource-allocation.md) records July 2025 district completion assertions and September 2026 recovery-framework tasks. These later materials support the finance classification of an evolving challenge; they do not alter the audited FY2025 numeric comparisons or establish later-year actual attainment.
+
+Plan 03 closes with ALLOC-11: independent implementation and goal attainment Cannot determine, with documented approval/process artifacts and source conflicts retained. Next domain is queued Plan 04 safety implementation.
