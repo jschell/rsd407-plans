@@ -13,17 +13,17 @@ ROOT = Path(__file__).resolve().parents[1]
 def read(path):
     return json.loads((ROOT / path).read_text())
 
-def verify(destination):
-    for s in read('data/manifests/finance-sources.json'):
+def verify(destination, manifest='data/manifests/finance-sources.json'):
+    for s in read(manifest):
         b = (destination / s['expected_filename']).read_bytes()
         if len(b) != s['byte_count'] or hashlib.sha256(b).hexdigest() != s['sha256']:
             raise ValueError('Source changed: ' + s['evidence_id'])
-    print(f"Verified {len(read('data/manifests/finance-sources.json'))} PDFs against the committed source manifest")
+    print(f"Verified {len(read(manifest))} PDFs against the committed source manifest")
 
-def retrieve(destination, archived=False):
+def retrieve(destination, archived=False, manifest='data/manifests/finance-sources.json'):
     destination.mkdir(parents=True, exist_ok=True)
     # Exclusive creation prevents overwriting any prior download.
-    for s in read('data/manifests/finance-sources.json'):
+    for s in read(manifest):
         path = destination / s['expected_filename']
         url = s['url']
         if archived:
@@ -90,17 +90,18 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('action', choices=['verify', 'calculate', 'retrieve'])
     parser.add_argument('--destination', type=Path)
+    parser.add_argument('--manifest', default='data/manifests/finance-sources.json', help='Repository-relative source manifest for verify/retrieve')
     parser.add_argument('--output', type=Path)
     parser.add_argument('--archive', action='store_true', help='Retrieve hash-verified archive instead of publisher URL')
     args = parser.parse_args()
     if args.action == 'verify':
         if args.destination is None:
             parser.error('verify requires --destination')
-        verify(args.destination)
+        verify(args.destination, args.manifest)
     elif args.action == 'retrieve':
         if args.destination is None:
             parser.error('retrieve requires --destination')
-        retrieve(args.destination, args.archive)
+        retrieve(args.destination, args.archive, args.manifest)
     else:
         output = calculate()
         if args.output:

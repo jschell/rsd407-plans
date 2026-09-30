@@ -15,4 +15,8 @@ Expand this ledger whenever evidence is added.
 
 ## Finance primary-source inventory
 
-The ten reviewed finance sources, exact URLs, retrieval metadata, source hashes and Internet Archive request outcomes are recorded in `data/manifests/finance-sources.json`. Page-level references and reproduction instructions are in [finance provenance](finance-provenance.md). Material finance assertions are FIN-01 through FIN-07 in `docs/evaluations/goal-2-finance-evidence-synthesis.md`; they supersede broad source references for those assertions.
+The thirty reviewed finance sources, exact URLs, retrieval metadata, source hashes and Internet Archive request outcomes are recorded in `data/manifests/finance-sources.json`. Page-level references and reproduction instructions are in [finance provenance](finance-provenance.md). Material finance assertions are FIN-01 through FIN-13 in `docs/evaluations/goal-2-finance-evidence-synthesis.md`; they supersede broad source references for those assertions.
+
+## Resource allocation initial inventory
+
+Five newly reviewed PDFs resolve through `data/manifests/allocation-sources.json` and [allocation provenance](allocation-provenance.md). ALLOC-01–ALLOC-06 distinguish task-status claims from allocation decisions and outcomes. FIN-14 uses the same manifest for later recovery context. Plan 03 is active; no independent outcome-attainment claim is made.
