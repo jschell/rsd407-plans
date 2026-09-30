@@ -1,6 +1,6 @@
 # Plan 03 — Resource Allocation and IEP Staffing
 
-Status: active, started September 30, 2026. Plan 02 finance assessment is complete.
+Status: completed bounded assessment, September 30, 2026. Historical initial checkpoint below is superseded by closeout. Plan 02 finance assessment is complete.
 
 ## Objective
 Evaluate whether Goal 2A resource-analysis and IEP staffing processes changed actual allocation decisions and reduced learning barriers. Distinguish district-reported task completion, adopted rules, actual decisions and outcomes.
@@ -27,3 +27,13 @@ See `docs/evaluations/goal-2-resource-allocation.md` (ALLOC-01–ALLOC-06), `dat
 Commit reproducible sources, page references and decision traces or explicitly bounded unavailable-evidence findings. A targeted review of plan updates, adopted agreements/matrices and Board allocation decisions is sufficient to determine whether a public decision trace exists. Stop broad exploration if these yield status assertions without decision/outcome evidence; classify Cannot determine, not Not implemented or Not met. No new OSPI outcome pipeline, no student-specific data, no waiting for future October–November reports. Recovery work extends this review only where tied to allocation decisions.
 
 Next concrete work: final bargaining agreement/severity-matrix authority, then Board budget/personnel decisions around the 2025 completion window. Research is not running in the background after a response ends.
+
+## Closeout: September 30, 2026
+
+- Reviewed September 2025 recorded agreement approval; Draft qualification retained.
+- Visually reviewed and transcribed embedded severity image tables. Numeric CBA alias hash matches the existing UUID original.
+- Reviewed May 2025 reduction resolution, approval motion and Exhibit A. Trace reaches authorization with stated financial inputs; actual deployment and connection to completed collaborative analysis remain unverified.
+- Preserved specialist heading/line-item discrepancy and reproduced its 0.9 FTE difference using Decimal.
+- Final ALLOC-11 classification: Appropriate but incomplete task design; independent implementation and goal attainment Cannot determine; evolving challenge. District-reported Completed labels retained without being promoted to outcome findings.
+
+The stopping rule is satisfied by the targeted source/decision review and explicit unavailable-evidence findings. Search is bounded, not proof public artifacts do not exist. No further broad discovery or student-specific data is required. Reopen for a clean dated process, actual allocation trace and comparable support measures; otherwise proceed to queued Plan 04 safety implementation. Analytical plan completion does not establish task implementation or outcome attainment.

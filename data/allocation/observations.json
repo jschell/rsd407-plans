@@ -70,5 +70,99 @@
       "content": "Recovery-framework overview, staffing aligned with funded levels, enrollment-based set-aside, later detailed presentation stated for October-November 2026.",
       "evidence_state": "District presentation, intentions and design assertions; not actual decisions/outcomes"
     }
-  ]
+  ],
+  "severity_worksheet": {
+    "evidence_id": "RSD407-REA-2025-REDLINE",
+    "pdf_page": 126,
+    "printed_page": 121,
+    "authority": "Tracked-change agreement; September 9 approval recorded in Draft minutes; actual use not verified",
+    "extraction": "Visual transcription of image tables, not text-only extraction",
+    "service_time": [
+      {
+        "original_range": "Less than 5 hours/week",
+        "weight": "1"
+      },
+      {
+        "original_range": "5-12.5 hours/week",
+        "weight": "2"
+      },
+      {
+        "original_range": "12.5-24 hours/week",
+        "weight": "3"
+      },
+      {
+        "original_range": "25-30 hours/week",
+        "weight": "4"
+      }
+    ],
+    "instructional_support": [
+      {
+        "label": "Independent or needs intermittent assistance",
+        "weight": "0"
+      },
+      {
+        "label": "Needs frequent assistance",
+        "weight": "1"
+      },
+      {
+        "label": "Needs one-to-one assistance",
+        "weight": "2"
+      }
+    ],
+    "behavioral_support": [
+      {
+        "label": "Self-regulates behavior or needs intermittent support",
+        "weight": "0"
+      },
+      {
+        "label": "Needs frequent behavior supports and interventions (BIP)",
+        "weight": "1"
+      },
+      {
+        "label": "Needs targeted behavior supports and interventions (BIP)",
+        "weight": "2"
+      }
+    ],
+    "limitations": "Endpoint 12.5 appears in two bands; 24-to-25 interval and values above 30 are not specified. Do not silently invent boundary rules. No numeric mapping from total weight to staff FTE established on this page."
+  },
+  "staff_reduction": {
+    "evidence_id": "RSD407-MOTION-25-65",
+    "manifest": "data/manifests/finance-sources.json",
+    "pdf_pages": {
+      "motion_25_60": 5,
+      "resolution": 140,
+      "exhibit_a": 143
+    },
+    "standalone_resolution_evidence_id": "RSD407-RESOLUTION-25-02",
+    "date": "2025-05-13",
+    "state": "Approval recorded in Draft minutes; resolution directs implementation; final staffing actuals not established",
+    "specialists_heading_total_fte": "1.5",
+    "specialists_line_items": [
+      {
+        "role": "ESA Nurse",
+        "reduction_fte": "1.0"
+      },
+      {
+        "role": "Mental Health Counselor",
+        "reduction_fte": "0.5"
+      },
+      {
+        "role": "LAP Teacher",
+        "reduction_fte": "0.9"
+      }
+    ],
+    "instructional_paraeducator_reduction_fte": "1.1",
+    "limits": "Instructional paraeducator line does not identify special education; reductions not tied to severity inputs or completed collaborative analysis."
+  },
+  "agreement_approval": {
+    "evidence_id": "RSD407-SEP09-2025-MINUTES",
+    "pdf_pages": [
+      4,
+      5
+    ],
+    "date": "2025-09-09",
+    "motion": "25-102",
+    "status": "Carried",
+    "qualification": "Draft minutes; amended consent includes 2025-2027 REA agreement. Later than July 2025 process-completion report."
+  }
 }

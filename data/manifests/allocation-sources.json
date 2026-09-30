@@ -88,7 +88,7 @@
     "byte_count": 1819199,
     "expected_filename": "RSD407-REA-2025-REDLINE.pdf",
     "extraction": "pdftotext -layout plus visual review of cited physical pages; pages 1-based",
-    "limitations": "Tracked-change text. Adoption, final effective terms, completed matrix and implementation not established.",
+    "limitations": "Tracked-change text. Adoption, final effective terms, completed matrix and implementation not established. Embedded weighting tables on physical page 126 require visual review; text-only extraction misses them.",
     "retention": "Reviewed locally, not committed. Retrieve URL or hash-verified archive and check SHA-256.",
     "internet_archive": {
       "evidence_id": "RSD407-REA-2025-REDLINE",
@@ -97,7 +97,9 @@
       "status": "submission_failed",
       "capture_url": null,
       "error": "HTTPError: HTTP Error 429: TOO MANY REQUESTS"
-    }
+    },
+    "alternate_url": "https://rsd407.community.diligentoneplatform.com/document/12156/",
+    "alternate_url_verified_sha256": "06a00e5035ad39bade937bfa8b444ac2413eb008974e90e497c2ea6e7fd10133"
   },
   {
     "evidence_id": "RSD407-FY2027-BUDGET-PRESENTATION",
@@ -122,6 +124,56 @@
       "status": "submission_failed",
       "capture_url": null,
       "error": "HTTPError: HTTP Error 429: TOO MANY REQUESTS"
+    }
+  },
+  {
+    "evidence_id": "RSD407-SEP09-2025-MINUTES",
+    "publisher": "Riverview School District No. 407",
+    "title": "September 9 2025 minutes packet (Draft)",
+    "url": "https://rsd407.community.diligentoneplatform.com/document/12163/",
+    "resource_id": "12163",
+    "entity": "Riverview School District No. 407, WA; OSPI org 100222",
+    "period": "2025-09-09",
+    "retrieved_at": "2026-09-30T17:59:59.173131+00:00",
+    "method": "HTTPS GET original PDF bytes; registration timestamp after review",
+    "sha256": "a2003d61b634b8d7ba0f54211bc2b9d34803dab783b27bd12b43f8e94a479ca0",
+    "byte_count": 5184353,
+    "expected_filename": "RSD407-SEP09-2025-MINUTES.pdf",
+    "extraction": "pdftotext -layout; cited pages visually reviewed, 1-based physical pages",
+    "limitations": "Minutes marked Draft; approval record does not verify a clean signed contract or actual deployment.",
+    "retention": "Reviewed locally; original PDFs not committed; verify URL or archived original bytes using SHA-256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-SEP09-2025-MINUTES",
+      "requested_at": "2026-09-30T17:59:59.244686+00:00",
+      "request_url": "https://web.archive.org/save/https://rsd407.community.diligentoneplatform.com/document/12163/",
+      "status": "capture_verified",
+      "capture_url": "https://web.archive.org/web/20260930180040/https://rsd407.community.diligentoneplatform.com/document/12163/",
+      "archived_sha256": "a2003d61b634b8d7ba0f54211bc2b9d34803dab783b27bd12b43f8e94a479ca0"
+    }
+  },
+  {
+    "evidence_id": "RSD407-RESOLUTION-25-02",
+    "publisher": "Riverview School District No. 407",
+    "title": "2025-2026 Staff Reduction Reduced Education Program Resolution 25-02",
+    "url": "https://rsd407.community.diligentoneplatform.com/document/10166/",
+    "resource_id": "10166",
+    "entity": "Riverview School District No. 407, WA; OSPI org 100222",
+    "period": "2025-05-13",
+    "retrieved_at": "2026-09-30T17:59:59.185945+00:00",
+    "method": "HTTPS GET original PDF bytes; registration timestamp after review",
+    "sha256": "226b501b10774c79decb0af6df7984e7148f56846f08126516a8ce2d772343b4",
+    "byte_count": 120789,
+    "expected_filename": "RSD407-RESOLUTION-25-02.pdf",
+    "extraction": "pdftotext -layout; cited pages visually reviewed, 1-based physical pages",
+    "limitations": "Three-page resolution omits referenced Exhibit A; exhibit reviewed in previously preserved May 13 packet. Signature spaces unexecuted.",
+    "retention": "Reviewed locally; original PDFs not committed; verify URL or archived original bytes using SHA-256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-RESOLUTION-25-02",
+      "requested_at": "2026-09-30T17:59:59.245239+00:00",
+      "request_url": "https://web.archive.org/save/https://rsd407.community.diligentoneplatform.com/document/10166/",
+      "status": "capture_verified",
+      "capture_url": "https://web.archive.org/web/20260930180016/https://rsd407.community.diligentoneplatform.com/document/10166/",
+      "archived_sha256": "226b501b10774c79decb0af6df7984e7148f56846f08126516a8ce2d772343b4"
     }
   }
 ]
