@@ -2,26 +2,16 @@
 
 ## Finance
 
-The [initial finance evidence synthesis](goal-2-finance-evidence-synthesis.md) now supplies source-linked observations and calculations. The historical conclusions below remain provisional; policy compliance and longer-term improvement are unresolved.
+The [finance evidence synthesis](goal-2-finance-evidence-synthesis.md) is the authoritative closeout assessment, with observations FIN-01–FIN-12 and classification FIN-13. Source URLs, original byte hashes, PDF pages and deterministic calculations support independent review.
 
-Recent external audit evidence supports classifying financial reporting/control primarily as a **mature recurring responsibility**, not a persistent material control failure.
+Financial reporting/auditing is a **Sustained responsibility**, with a specific FY2017 Title I weakness and qualified FY2018 correction evidence. Reserve stewardship is an **Evolving challenge**: balances declined for four consecutive years after FY2021 despite exceeding FY2025 revised-policy numeric targets.
 
-Key observations already established:
-- historical reserve target approximately 5%;
-- Board action in March 2024 established a 7% minimum tied to budgeting/strategic planning;
-- recent audited statements show substantial unassigned General Fund balances;
-- FY2024 and FY2025 external audits reported no material control/compliance findings in the areas described in the evidence ledger;
-- a 2025 documentation inconsistency exists between 5% policy prose and an identified policy amount approximating 7% of actual expenditures;
-- 2025–26 materials indicate a move to a 5% target.
-
-### Provisional classification
-Sustained responsibility / successful fiscal-control implementation, with a reserve-policy documentation/transition issue requiring reconciliation.
+The published May 2025 policy targets 5% total and 2.5% unassigned against actual expenditures. FY2025 numeric attainment is **Met**. The original September 2024 7% uncommitted strategic objective remains **Cannot determine** because its definitions are not interchangeable. Reserve-note and target-documentation conflicts remain explicit. These findings do not establish overall Goal 2 attainment or strategic-plan causation.
 
 ## Operations
 
-Current tasks include resource allocation, IEP staffing decisions, Qmlativ effectiveness, key-card feasibility, RFID, and standardization of discipline/HIB/threat/CPS procedures.
-
-These require separate implementation/fidelity evidence; completion of a feasibility study or procedure does not prove operational outcome improvement.
+Resource allocation, IEP staffing decisions, Qmlativ effectiveness, key-card feasibility, RFID, and discipline/HIB/threat/CPS procedures require separate implementation and outcome evidence. Completion of a procedure or feasibility study does not prove improved outcomes.
 
 ## Next work
-See `docs/plans/active/02-finance-closeout.md` and queue plans for operations.
+
+Finance research closes under `docs/plans/complete/02-finance-closeout.md`. Next is `docs/plans/queue/03-resource-allocation.md`; operational work is not included in finance closeout.

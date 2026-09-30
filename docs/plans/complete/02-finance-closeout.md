@@ -1,5 +1,7 @@
 # Plan 02 — Finance Closeout
 
+Status: completed analytical assessment, 2026-09-30. Historical checkpoints below describe then-current status; the final closeout supersedes their next-work items.
+
 ## Objective
 Close the fiscal-stewardship portion of Goal 2 with independently testable evidence.
 
@@ -37,3 +39,16 @@ Next: retrieve March 26, 2024 motion 24-30 and applicable budgeted-expenditure d
 - New source URLs, hashes and individual archive outcomes are in the manifest; PDFs remain excluded from git.
 
 Next concrete work: FY2018 follow-up to finding 2017-001, early plan-era audit conclusions, then bounded final classification. Historical budget applicability may remain unresolved if the actual motion and surviving budget records do not establish it. This checkpoint supersedes the initial 'Next' paragraph above. Plan remains active.
+
+## Closeout: 2026-09-30
+
+Completed analytical deliverables (FIN-11–FIN-13 in the synthesis):
+- FY2018 prior-finding schedule reviewed: management reports Fully Corrected; auditor tested Title I and reported no new findings. Statements distinguished; $181,537/$381,537 historical-spending discrepancy preserved.
+- FY2010 financial/federal and 2008–2010 accountability conclusions reviewed as early-era anchors.
+- FY2018 reserve added, making FY2017–FY2025 continuous; FY2010 remains a separate anchor.
+- Final component classifications committed for review: sustained reporting responsibility, evolving reserve challenge, revised FY2025 numeric targets met, original 7% uncommitted objective cannot determine.
+- Thirty original PDFs hash-verified; calculations reproduced and evidence IDs checked. PDFs excluded from git; failed archive submissions remain explicit preservation gaps.
+
+Tasks 1, 3, 4, 5 and 6 have source-linked deliverables. Task 2 closes with exact candidate budget denominators and calculations, but the original motion's fiscal-year/denominator ambiguity cannot be eliminated by selecting a budget silently. Completion means the finance assessment is reproducible with bounded conclusions, not all district objectives met, every archive request succeeded, or unique policy applicability established where primary evidence is ambiguous.
+
+No further broad finance exploration is needed for current classification. Reopen only for material correcting evidence/new actual-year data. Next work is Plan 03 resource allocation and IEP staffing.

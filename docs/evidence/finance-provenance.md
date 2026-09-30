@@ -1,6 +1,6 @@
 # Finance evidence and reproduction
 
-Plan 02 is in progress. Sources are identified in `data/manifests/finance-sources.json` by exact URL, report/document ID, publisher, period, retrieval timestamp, byte count and SHA-256. PDFs are reviewed locally and are **not stored in the repository**. Internet Archive request outcomes are recorded individually; a submission attempt is not a confirmed capture.
+Plan 02 finance assessment is closed within documented limits. Sources are identified in `data/manifests/finance-sources.json` by exact URL, report/document ID, publisher, period, retrieval timestamp, byte count and SHA-256. PDFs are reviewed locally and are **not stored in the repository**. Internet Archive request outcomes are recorded individually; a submission attempt is not a confirmed capture.
 
 ## Reproduce
 
@@ -45,7 +45,7 @@ Exact downloadable URLs and hashes reside in the manifest. The 2025-26 budget do
 
 ## Preservation status at this checkpoint
 
-Nine of ten source captures have been hash-verified. The FY2026 budget-summary capture request returned HTTP 404; it remains an explicit preservation gap. Do not mark Plan 02 fully reproducible until this source is preserved or a verified equivalent is obtained. The publisher URL remains available for hash-checked retrieval.
+Nine of ten source captures have been hash-verified. The FY2026 budget-summary capture request returned HTTP 404; it remains an explicit preservation gap. This source is reproducible through its reviewed publisher URL and SHA-256, but its archive preservation is unverified; analytical completion does not mean every source is durably preserved. The publisher URL remains available for hash-checked retrieval.
 
 ## Policy and historical extension checkpoint
 
@@ -56,3 +56,7 @@ Physical review pages and original decimal strings are in `data/finance/observat
 Historical report discovery is reproducible through the public SAO index: `https://portal.sao.wa.gov/ReportSearch/Home/GetEntities?NameStartsWith=Riverview` returns district MCAG 1915. Search `https://portal.sao.wa.gov/ReportSearch/Home/SearchReports?pageSize=100&pageNumber=1&MCAGList=1915&HasFindings=false&StateGovernment=false&LocalGovernment=false&PerformanceAudits=false&SpecialInvestigations=false&UseOfDeadlyForceInvestigation=false&PoliceCertificationAudit=false`. Select financial/federal and accountability records by their actual audit period, not release year. The index is discovery only; observations cite reviewed report PDFs. `(n/a)` in index Findings is not translated into zero findings.
 
 District discovery uses public portal search `GET /Services/ItemsService.svc/portal/search?criteria=6000&showDocuments=true&showTrackerItems=false&showMeetingItems=true`, followed by the portal's read-only search-details POST with returned IDs. Manifest URLs identify the exact reviewed PDF; duplicate/draft minutes are not silently treated as certified final minutes.
+
+## Closeout verification
+
+Thirty PDFs have been reviewed locally and checked against the committed manifest. Added FY2018 sources distinguish management's prior-finding correction schedule from the auditor's independent conclusions. The FY2010 accountability report covers two fiscal years; its historical no-findings statement is attributed rather than expanded into unreviewed observations. Archive outcomes remain per-source, including failed submissions. Offline calculations reproduce exactly; publisher retrieval still requires access to unchanged bytes for sources without a verified capture. PDFs are not committed.

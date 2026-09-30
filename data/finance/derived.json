@@ -16,13 +16,22 @@
       "comparison_is_consecutive": false
     },
     {
+      "evidence_id": "SAO-RSD407-2018-FIN",
+      "period": "2017-18",
+      "basis": "audited actual",
+      "total_balance_pct_of_expenditures": "10.5253",
+      "change_in_total_balance": "242255.59",
+      "comparison_to_fiscal_year": 2017,
+      "comparison_is_consecutive": true
+    },
+    {
       "evidence_id": "SAO-RSD407-2019-FIN",
       "period": "2018-19",
       "basis": "audited actual",
       "total_balance_pct_of_expenditures": "16.0475",
-      "change_in_total_balance": "3305788.78",
-      "comparison_to_fiscal_year": 2017,
-      "comparison_is_consecutive": false
+      "change_in_total_balance": "3063533.19",
+      "comparison_to_fiscal_year": 2018,
+      "comparison_is_consecutive": true
     },
     {
       "evidence_id": "SAO-RSD407-2020-FIN",

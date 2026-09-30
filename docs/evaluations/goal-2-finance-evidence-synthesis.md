@@ -1,6 +1,6 @@
 # Goal 2 finance: evidence synthesis
 
-Status: provisional; Plan 02 remains active. Source IDs resolve through `docs/evidence/finance-provenance.md` and `data/manifests/finance-sources.json`. Calculations are in `data/finance/derived.json` and reproducible with `scripts/finance_evidence.py`.
+Status: finance closeout assessment complete within the documented evidence limits; operational Goal 2 work remains separate. Source IDs resolve through `docs/evidence/finance-provenance.md` and `data/manifests/finance-sources.json`. Calculations are in `data/finance/derived.json` and reproducible with `scripts/finance_evidence.py`.
 
 ## Observations and derived results
 
@@ -27,7 +27,7 @@ FIN-06 (observation): FY2023, FY2024 and FY2025 financial/single-audit reports l
 
 FIN-07 (observation/evaluation): FY2019–FY2022 financial/single-audit reports also list no financial-statement or federal-award findings (SAO-RSD407-2019/2020/2021/2022-FIN, p5). Their accountability reports describe material compliance and adequate safeguards in selected areas (corresponding ACC IDs, p4). Major federal programs differ: FY2019–FY2020 IDEA; FY2021 Education Stabilization Fund; FY2022 Child Nutrition and Education Stabilization. This supports continuity before the recent three-year slice, with scope qualifications.
 
-FIN-08 (observation): FY2017 contains federal finding 2017-001: inadequate Title I time-and-effort and paraprofessional controls, a material weakness, and $50,312 questioned costs (SAO-RSD407-2017-FIN, pp5–6,16). Financial-statement findings were absent (p5). Questioned costs are an audit category, not a determination of theft or a final repayment. Later reports with different major programs cannot alone establish correction of this specific finding. FY2018 follow-up remains to be reviewed.
+FIN-08 (observation): FY2017 contains federal finding 2017-001: inadequate Title I time-and-effort and paraprofessional controls, a material weakness, and $50,312 questioned costs (SAO-RSD407-2017-FIN, pp5–6,16). Financial-statement findings were absent (p5). Questioned costs are an audit category, not a determination of theft or a final repayment. Later reports with different major programs cannot alone establish correction of this specific finding. FY2018 follow-up is reviewed below (FIN-11).
 
 ## Earlier reserve anchors
 
@@ -37,16 +37,38 @@ FIN-09 (observation/derived): audited General Fund totals and expenditure ratios
 |---|---:|---:|---:|---|
 | 2010 | $2,186,100.21 | $28,282,682.78 | 7.7295% | SAO-RSD407-2010-FIN, pp15–16; scanned tables visually reviewed |
 | 2017 | $4,034,488.34 | $37,480,441.28 | 10.7642% | SAO-RSD407-2017-FIN, pp24–25 |
+| 2018 | $4,276,743.93 | $40,632,892.55 | 10.5253% | SAO-RSD407-2018-FIN, pp21–22 |
 | 2019 | $7,340,277.12 | $45,740,916.99 | 16.0475% | SAO-RSD407-2019-FIN, pp19–20 |
 | 2020 | $8,162,657.92 | $47,257,070.37 | 17.2729% | SAO-RSD407-2020-FIN, p21; rotated table visually reviewed |
 | 2021 | $8,285,778.41 | $47,508,443.83 | 17.4406% | SAO-RSD407-2021-FIN, p21 |
 | 2022 | $7,310,473.12 | $51,234,734.75 | 14.2686% | SAO-RSD407-2022-FIN, p22 |
 
-FIN-10 (evaluation): the continuous FY2019–FY2025 series shows growth through FY2021 followed by four annual declines, rather than decline only beginning FY2024. FY2010 and FY2017 are earlier plan-era anchors; missing FY2011–FY2016 and FY2018 observations are not interpolated. Changes across gaps are explicitly tagged nonconsecutive by the calculator. Nominal dollar growth between distant anchors is not inflation-adjusted improvement or evidence of strategic-plan causation.
+FIN-10 (evaluation): the continuous FY2017–FY2025 series shows growth through FY2021 followed by four annual declines, rather than decline only beginning FY2024. FY2010 and FY2017 are earlier plan-era anchors; missing FY2011–FY2016 observations are not interpolated. Changes across gaps are explicitly tagged nonconsecutive by the calculator. Nominal dollar growth between distant anchors is not inflation-adjusted improvement or evidence of strategic-plan causation.
 
-## Bounded remaining work
+## Follow-up and early audit baseline
 
-1. Review FY2018 prior-finding follow-up and early plan-era audit conclusions before classifying correction/recurrence.
-2. Determine whether surviving Board budget/adoption evidence resolves motion 24-30's fiscal-year applicability; otherwise retain a bounded uncertainty.
-3. Make the final fiscal-stewardship classification, preserving the uncommitted/unassigned distinction and 5%/7%/9% documentation conflicts.
-4. Record remaining archive failures as preservation gaps; no failed capture is described as preserved. Plan 02 remains active until final review.
+FIN-11 (observation): the FY2018 management-supplied prior-finding schedule marks 2017-001 Fully Corrected, describing adoption of an internal audit process and ongoing implementation of a Business Office procedure (SAO-RSD407-2018-FIN, pp6–7). Separately, the auditor selected Title I and IDEA as major programs, issued an unmodified compliance opinion, and reported no financial-statement or federal-award findings (p5). The management assertion and auditor's findings are distinct: together they support correction by the following audit, without certifying every control indefinitely or establishing final repayment of questioned costs. The schedule reproduces prior Title I spending as $181,537 (p6), whereas the original FY2017 finding states $381,537 (SAO-RSD407-2017-FIN, p6). Preserve both; the original report governs its original observation.
+
+FIN-12 (observation): FY2010 financial/federal summary reports no significant deficiencies, material weaknesses or reportable federal findings under OMB Circular A-133 (SAO-RSD407-2010-FIN, p4). The corresponding accountability report covers September 2008–August 2010 and reports adequate safeguarding and compliance in selected areas (SAO-RSD407-2010-ACC, p4); it also states the district had been free of findings for five years (p7), a source-reported historical statement rather than independent review of five additional reports. Standards, thresholds, programs and accountability periods differ from later audits. FY2018 accountability conclusions also report compliance and adequate safeguards in selected areas (SAO-RSD407-2018-ACC, p4).
+
+## Finance closeout classification
+
+FIN-13 (evaluation under `docs/methodology/evaluation-framework.md`):
+
+| Component | Classification | Evidence and limit |
+|---|---|---|
+| Financial reporting and recurring audit responsibilities | Sustained responsibility | Early clean baseline (FIN-12), specific FY2017 weakness (FIN-08), FY2018 follow-up (FIN-11), and subsequent scoped results (FIN-06/07). Not uninterrupted historical absence of findings or proof of plan causation. |
+| Title I control issue | Resolved or institutionalized, supported as of FY2018 audit | Management reported correction and auditor retested Title I without new findings (FIN-11). Long-term implementation fidelity and questioned-cost settlement not established. |
+| Reserve stewardship | Evolving challenge | Reserve ratio rose to 17.4406% in FY2021, then fell to 8.3887% in FY2025 (FIN-09/10). Numeric FY2025 revised-policy targets met (FIN-04); decline still matters. |
+| Original September 2024 7% uncommitted objective | Cannot determine goal attainment | Strategic-plan uncommitted numerator is not demonstrably identical to audited unassigned or total; denominator unspecified (FIN-02). Revised-policy numeric attainment does not retroactively prove this objective met. |
+| Revised 2025 5% total / 2.5% unassigned objective | Met for FY2025 numeric balances | Reproducible actual-expenditure comparison (FIN-04), limited to the published definition and fiscal year. FY2026 budget is a forecast, not an achieved outcome. |
+| Documentation of reserve targets | Measurement failure in reconciliation | The 5% note versus 7% amount, 9% dashboard, unspecified motion denominator, and $2 budget discrepancy remain explicit (FIN-02/03/05). This classification concerns consistency of evidence, not a finding of financial misstatement materiality. |
+| Task design and implementation | Appropriate but incomplete / Partially implemented at the evidence level | Board motion, policy revision and audited balances establish actions; causal improvement and full control/process fidelity are not demonstrated. |
+
+## Closeout boundaries
+
+Plan 02 ends with the original strategic objective's attainment **Cannot determine**, the revised policy's FY2025 numeric targets **Met**, and fiscal stewardship an **Evolving challenge** within a **Sustained responsibility**. There is no single unqualified claim of overall Goal 2 attainment.
+
+The exact budget intended by motion 24-30 remains unspecified in the retrieved primary motion. Documented FY2024 and FY2025 denominators and separate calculations are available; choosing one as the unique governed budget would exceed the evidence. This is a closed analytical limitation, not a missing calculation. Audited unassigned remains distinct from strategic-plan uncommitted.
+
+No inflation-adjusted or peer-district comparison is claimed. FY2011–FY2016 annual reserves remain unreviewed between anchors. Archive failures remain preservation gaps with publisher URLs and byte hashes available; no capture is labelled preserved without a matching hash. Reopen this finance assessment if corrected policy/audit notes, certified minutes changing the motion, questioned-cost disposition, or new actual-year data changes a material conclusion. Operations and allocation outcomes proceed under Plan 03 and later plans.
