@@ -14,7 +14,7 @@ DERIVED=ROOT/"derived"
 DERIVED.mkdir(parents=True,exist_ok=True)
 
 ID_HINTS=("id","code","year","grade","level","name","group","race","ethnic","gender","sex","test","subject","measure","indicator","cohort","type","status","notes","label","dataasof")
-ORG_FIELDS={"organizationlevel","orglevel","organizationname","organizationid","county","esdname","esdorganizationid","districtname","districtcode","districtorganizationid","schoolname","schoolcode","schoolorganizationid","currentschooltype","schooltype"}
+ORG_FIELDS={"organizationlevel","orglevel","organizationname","organizationid","county","esdname","esdorganizationid","districtname","districtcode","districtorganizationid","schoolname","schoolcode","schoolorganizationid","currentschooltype","schooltype","organization","organizationtype","organizationcode","organizationnumber","district","school","state"}
 SUPPRESS=re.compile(r"(suppress|privacy|small|n/?a|not available|not reported|<\s*\d+|\*)",re.I)
 
 def key(x): return re.sub("[^a-z0-9]","",str(x).lower())
