@@ -28,3 +28,5 @@ Four reviewed primary PDFs resolve through `data/manifests/safety-sources.json` 
 Plan 04 procedure reconciliation adds eight locally reviewed policy, procedure, blank-form and approval PDFs to `data/manifests/safety-sources.json` (SAFE-09–SAFE-14). Exact URLs, byte counts, SHA-256 and capture outcomes are recorded; no original PDFs are committed. Portal/PDF date differences and Draft approval status are explicit in the safety evaluation.
 
 Plan 04 closeout: six additional department/accounting/assessment/survey PDFs complete the eighteen-source safety manifest. SAFE-15–SAFE-20 document partial access work, readiness limits and final classifications. Provenance and archive outcomes remain explicit; no original PDFs or individual case records committed.
+
+Plan 05 HR initial checkpoint: three newly reviewed policy/procedure/recruitment-event PDFs in `data/manifests/hr-sources.json`, plus reused strategic sources. HR-01–HR-07 distinguish task completion from current workforce composition, retention, recruiting efficiency and learning coverage. Historical 2013 workforce/2000 pool data and undated event year are explicit; originals are not committed.

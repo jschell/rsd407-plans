@@ -1,0 +1,77 @@
+[
+  {
+    "evidence_id": "RSD407-PARA-PATHWAYS",
+    "publisher": "Riverview School District No. 407",
+    "title": "Pathways to Becoming a Paraeducator",
+    "url": "https://rsd407.community.diligentoneplatform.com/document/12680/",
+    "resource_id": "12680",
+    "entity": "Riverview School District No. 407, WA; OSPI org 100222",
+    "period": "Undated presentation; December 2 event planned",
+    "retrieved_at": "2026-09-30T22:29:30.428684+00:00",
+    "method": "HTTPS GET original PDF bytes; registration timestamp after local review",
+    "sha256": "7be841054c810fe0ef83dd82fbf8c07bebf7bb75d9ff13d486cf1404f8fcad63",
+    "byte_count": 705098,
+    "expected_filename": "RSD407-PARA-PATHWAYS.pdf",
+    "extraction": "pdftotext -layout; review of cited physical PDF pages; visual footer/approval checks",
+    "limitations": "No year on event slide; shortage assertion not quantified; proposed para recruitment event is distinct from certificated teacher grow-your-own implementation.",
+    "retention": "PDF reviewed locally, not committed; retrieve URL or verified archived bytes and check SHA-256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-PARA-PATHWAYS",
+      "requested_at": "2026-09-30T22:29:30.431535+00:00",
+      "request_url": "https://web.archive.org/save/https://rsd407.community.diligentoneplatform.com/document/12680/",
+      "status": "capture_verified",
+      "capture_url": "https://web.archive.org/web/20260930222938/https://rsd407.community.diligentoneplatform.com/document/12680/",
+      "archived_sha256": "7be841054c810fe0ef83dd82fbf8c07bebf7bb75d9ff13d486cf1404f8fcad63"
+    }
+  },
+  {
+    "evidence_id": "RSD407-PROCEDURE-5010-P1",
+    "publisher": "Riverview School District No. 407",
+    "title": "Nondiscrimination and Affirmative Action Procedure 5010-P1",
+    "url": "https://rsd407.community.diligentoneplatform.com/document/4523/",
+    "resource_id": "4523",
+    "entity": "Riverview School District No. 407, WA; OSPI org 100222",
+    "period": "Revised September 30 2015; staff snapshot October 1 2013",
+    "retrieved_at": "2026-09-30T22:29:30.429685+00:00",
+    "method": "HTTPS GET original PDF bytes; registration timestamp after local review",
+    "sha256": "710293ef1804511cb3051eeade5ca29c6f94fc05c509df2deacf4eeafa3a2ec5",
+    "byte_count": 247201,
+    "expected_filename": "RSD407-PROCEDURE-5010-P1.pdf",
+    "extraction": "pdftotext -layout; review of cited physical PDF pages; visual footer/approval checks",
+    "limitations": "Historical workforce data uses 2000 Census recruitment pool and 2013 regular staff; not a current workforce/student match. Physical pages differ from appended section page labels.",
+    "retention": "PDF reviewed locally, not committed; retrieve URL or verified archived bytes and check SHA-256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-PROCEDURE-5010-P1",
+      "requested_at": "2026-09-30T22:29:30.432494+00:00",
+      "request_url": "https://web.archive.org/save/https://rsd407.community.diligentoneplatform.com/document/4523/",
+      "status": "capture_verified",
+      "capture_url": "https://web.archive.org/web/20260930222938/https://rsd407.community.diligentoneplatform.com/document/4523/",
+      "archived_sha256": "710293ef1804511cb3051eeade5ca29c6f94fc05c509df2deacf4eeafa3a2ec5"
+    }
+  },
+  {
+    "evidence_id": "RSD407-POLICY-5000",
+    "publisher": "Riverview School District No. 407",
+    "title": "Recruitment and Selection of Staff Policy 5000",
+    "url": "https://rsd407.community.diligentoneplatform.com/document/6137/",
+    "resource_id": "6137",
+    "entity": "Riverview School District No. 407, WA; OSPI org 100222",
+    "period": "Adopted February 27 2024",
+    "retrieved_at": "2026-09-30T22:29:30.429852+00:00",
+    "method": "HTTPS GET original PDF bytes; registration timestamp after local review",
+    "sha256": "99e3d711ec47fed228ec5c0541c86b3838ef79c56f2fb7bbcd9952538d7be847",
+    "byte_count": 130640,
+    "expected_filename": "RSD407-POLICY-5000.pdf",
+    "extraction": "pdftotext -layout; review of cited physical PDF pages; visual footer/approval checks",
+    "limitations": "Formal screening/evaluation requirements do not establish completed implementation or hiring performance.",
+    "retention": "PDF reviewed locally, not committed; retrieve URL or verified archived bytes and check SHA-256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-POLICY-5000",
+      "requested_at": "2026-09-30T22:29:30.433103+00:00",
+      "request_url": "https://web.archive.org/save/https://rsd407.community.diligentoneplatform.com/document/6137/",
+      "status": "capture_verified",
+      "capture_url": "https://web.archive.org/web/20260930222938/https://rsd407.community.diligentoneplatform.com/document/6137/",
+      "archived_sha256": "99e3d711ec47fed228ec5c0541c86b3838ef79c56f2fb7bbcd9952538d7be847"
+    }
+  }
+]
