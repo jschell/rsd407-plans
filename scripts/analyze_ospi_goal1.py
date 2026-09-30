@@ -14,6 +14,7 @@ DERIVED=ROOT/"derived"
 DERIVED.mkdir(parents=True,exist_ok=True)
 
 ID_HINTS=("id","code","year","grade","level","name","group","race","ethnic","gender","sex","test","subject","measure","indicator","cohort","type","status","notes","label","dataasof")
+ORG_FIELDS={"organizationlevel","orglevel","organizationname","organizationid","county","esdname","esdorganizationid","districtname","districtcode","districtorganizationid","schoolname","schoolcode","schoolorganizationid","currentschooltype","schooltype"}
 SUPPRESS=re.compile(r"(suppress|privacy|small|n/?a|not available|not reported|<\s*\d+|\*)",re.I)
 
 def key(x): return re.sub("[^a-z0-9]","",str(x).lower())
@@ -45,8 +46,13 @@ for path in sorted(NORM.glob("*.csv")):
     dimensions=[c for c in df.columns if c not in source_cols and c not in candidates]
     for _,r in df.iterrows():
         scope=classify_scope(r)
-        dim={c:r[c] for c in dimensions if str(r[c]).strip()!=""}
+        # Organization identity belongs in scope, not in the analytical match key.
+        # Otherwise a State Total row can never match the corresponding district row.
+        dim={c:r[c] for c in dimensions if key(c) not in ORG_FIELDS and str(r[c]).strip()!=""}
         dim_key=" | ".join(f"{c}={dim[c]}" for c in sorted(dim,key=key))
+        org_level=r.get("organizationlevel",r.get("orglevel",""))
+        school_name=r.get("schoolname","")
+        organization_name=r.get("organizationname","")
         for metric in candidates:
             raw=str(r[metric]).strip()
             if not raw: state="missing"; value=None
@@ -60,6 +66,9 @@ for path in sorted(NORM.glob("*.csv")):
                 "source_period":r.get("source_period",""),
                 "source_dataset_id":r.get("source_dataset_id",""),
                 "scope":scope,
+                "organization_level":org_level,
+                "school_name":school_name,
+                "organization_name":organization_name,
                 "dimension_key":dim_key,
                 "metric":metric,
                 "source_value":raw,
