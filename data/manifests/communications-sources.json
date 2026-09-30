@@ -1,0 +1,52 @@
+[
+  {
+    "evidence_id": "RSD407-COMMS-PLAN-2024",
+    "publisher": "Riverview School District No. 407",
+    "title": "RSD Communications Plan 2024-2025",
+    "url": "https://rsd407.community.diligentoneplatform.com/document/8019/",
+    "resource_id": "8019",
+    "entity": "Riverview School District No. 407, WA; OSPI org 100222",
+    "period": "2024-2025",
+    "retrieved_at": "2026-09-30T22:40:54.344110+00:00",
+    "method": "HTTPS GET original PDF bytes; registration timestamp after local review",
+    "sha256": "42bc29a17ebb1325b61ced97c4100db397b187939ebe62256d6508158353210c",
+    "byte_count": 1857739,
+    "expected_filename": "RSD407-COMMS-PLAN-2024.pdf",
+    "extraction": "pdftotext -layout; review of cited physical PDF pages; visual footer/approval checks",
+    "limitations": "Implementation plan and attributed 133 percent podcast download growth; no raw counts, stable period or unique-listener definition.",
+    "retention": "PDF reviewed locally, not committed; retrieve URL or verified archived bytes and check SHA-256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-COMMS-PLAN-2024",
+      "requested_at": "2026-09-30T22:40:54.346295+00:00",
+      "request_url": "https://web.archive.org/save/https://rsd407.community.diligentoneplatform.com/document/8019/",
+      "status": "capture_verified",
+      "capture_url": "https://web.archive.org/web/20260930224101/https://rsd407.community.diligentoneplatform.com/document/8019/",
+      "archived_sha256": "42bc29a17ebb1325b61ced97c4100db397b187939ebe62256d6508158353210c"
+    }
+  },
+  {
+    "evidence_id": "RSD407-COMMS-PLAN-SLIDES",
+    "publisher": "Riverview School District No. 407",
+    "title": "RSD Communications Plan Presentation",
+    "url": "https://rsd407.community.diligentoneplatform.com/document/8044/",
+    "resource_id": "8044",
+    "entity": "Riverview School District No. 407, WA; OSPI org 100222",
+    "period": "Portal title 2024-2024; written plan 2024-2025",
+    "retrieved_at": "2026-09-30T22:40:54.344984+00:00",
+    "method": "HTTPS GET original PDF bytes; registration timestamp after local review",
+    "sha256": "cf54545bc05bbaca9874e6ba4e0250463293b67b6223e82e1819b9dbf81fa9ce",
+    "byte_count": 155045,
+    "expected_filename": "RSD407-COMMS-PLAN-SLIDES.pdf",
+    "extraction": "pdftotext -layout; review of cited physical PDF pages; visual footer/approval checks",
+    "limitations": "Presentation reiterates plan; not an independent performance validation. Portal year typo retained.",
+    "retention": "PDF reviewed locally, not committed; retrieve URL or verified archived bytes and check SHA-256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-COMMS-PLAN-SLIDES",
+      "requested_at": "2026-09-30T22:40:54.347101+00:00",
+      "request_url": "https://web.archive.org/save/https://rsd407.community.diligentoneplatform.com/document/8044/",
+      "status": "capture_verified",
+      "capture_url": "https://web.archive.org/web/20260930224101/https://rsd407.community.diligentoneplatform.com/document/8044/",
+      "archived_sha256": "cf54545bc05bbaca9874e6ba4e0250463293b67b6223e82e1819b9dbf81fa9ce"
+    }
+  }
+]

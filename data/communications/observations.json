@@ -1,0 +1,77 @@
+{
+  "scope": "Public communications design/status evidence; no new analytics collection.",
+  "chronology": [
+    {
+      "source_id": "RSD407-SP-2025-JAN",
+      "page": 12,
+      "period": "2025-01",
+      "statuses": [
+        "Completed",
+        "In Progress",
+        "Completed",
+        "In Progress",
+        "In Progress"
+      ]
+    },
+    {
+      "source_id": "RSD407-SP-2025-JUL",
+      "page": 12,
+      "period": "2025-07",
+      "statuses": [
+        "Completed",
+        "In Progress",
+        "Completed",
+        "In Progress",
+        "In Progress"
+      ]
+    },
+    {
+      "source_id": "RSD407-SP-2026-SEP",
+      "page": 11,
+      "period": "2026-09",
+      "statuses": [
+        "In progress",
+        "In Progress",
+        "In Progress",
+        "In Progress",
+        "Not started"
+      ]
+    }
+  ],
+  "podcast_claim": {
+    "source_id": "RSD407-COMMS-PLAN-2024",
+    "page": 6,
+    "growth_percent_as_reported": "133",
+    "baseline_count": null,
+    "ending_count": null,
+    "unique_listeners": null,
+    "fixed_end_date": null
+  },
+  "design_conflicts": [
+    {
+      "source_id": "RSD407-COMMS-PLAN-2024",
+      "pages": [
+        5,
+        11
+      ],
+      "values": [
+        "407inside staff newsletter",
+        "407news employee update"
+      ]
+    },
+    {
+      "source_id": "RSD407-COMMS-PLAN-2024",
+      "page": 8,
+      "values": [
+        "annual direct communications survey",
+        "bi-Annually cadence"
+      ]
+    }
+  ],
+  "audit_format": {
+    "source_id": "RSD407-NSPRA-PRESENTATION-2024",
+    "portal_extension": ".pptx",
+    "retrieved_format": "HTML",
+    "full_audit_recovered": false
+  }
+}
