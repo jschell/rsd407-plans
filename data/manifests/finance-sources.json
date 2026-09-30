@@ -673,5 +673,80 @@
       "capture_url": null,
       "error": "HTTPError: HTTP Error 429: TOO MANY REQUESTS"
     }
+  },
+  {
+    "evidence_id": "SAO-RSD407-2018-FIN",
+    "publisher": "WA State Auditor",
+    "url": "https://portal.sao.wa.gov/ReportSearch/Home/ViewReportFile?arn=1023925&isFinding=false&sp=false",
+    "period": "2017-18",
+    "resource_id": "1023925",
+    "entity": "Riverview School District No. 407, WA; OSPI org 100222",
+    "retrieved_at": "2026-09-30T17:28:35.793581+00:00",
+    "method": "HTTPS GET; original PDF bytes",
+    "sha256": "cd4fe98f3620c2092c78db5ee71414293a5930812d69d5448cc8ae232ac586d8",
+    "byte_count": 1714380,
+    "extraction": "pdftotext -layout; manually transcribed page-specific fields; original PDF authoritative",
+    "limitations": "Physical PDF pages are 1-based. Prior-finding schedule is management-supplied; auditor conclusions and management correction status are distinguished. Registration timestamp follows local review.",
+    "expected_filename": "SAO-RSD407-2018-FIN.pdf",
+    "retention": "PDF reviewed locally; original bytes are not committed. Re-fetch URL or confirmed archive and verify SHA-256.",
+    "title": "Financial Statements and Federal Single Audit Report",
+    "internet_archive": {
+      "evidence_id": "SAO-RSD407-2018-FIN",
+      "requested_at": "2026-09-30T17:28:35.853223+00:00",
+      "request_url": "https://web.archive.org/save/https://portal.sao.wa.gov/ReportSearch/Home/ViewReportFile?arn=1023925&isFinding=false&sp=false",
+      "status": "submission_failed",
+      "capture_url": null,
+      "error": "HTTPError: HTTP Error 404: NOT FOUND"
+    }
+  },
+  {
+    "evidence_id": "SAO-RSD407-2018-ACC",
+    "publisher": "WA State Auditor",
+    "url": "https://portal.sao.wa.gov/ReportSearch/Home/ViewReportFile?arn=1023851&isFinding=false&sp=false",
+    "period": "2017-18",
+    "resource_id": "1023851",
+    "entity": "Riverview School District No. 407, WA; OSPI org 100222",
+    "retrieved_at": "2026-09-30T17:28:35.794929+00:00",
+    "method": "HTTPS GET; original PDF bytes",
+    "sha256": "ca5a42beb929efa45f3a98da6356568377c21db882be85baf4644c626518fe52",
+    "byte_count": 191686,
+    "extraction": "pdftotext -layout; manually transcribed page-specific fields; original PDF authoritative",
+    "limitations": "Physical PDF pages are 1-based. Prior-finding schedule is management-supplied; auditor conclusions and management correction status are distinguished. Registration timestamp follows local review.",
+    "expected_filename": "SAO-RSD407-2018-ACC.pdf",
+    "retention": "PDF reviewed locally; original bytes are not committed. Re-fetch URL or confirmed archive and verify SHA-256.",
+    "title": "Accountability Audit Report",
+    "internet_archive": {
+      "evidence_id": "SAO-RSD407-2018-ACC",
+      "requested_at": "2026-09-30T17:28:35.853921+00:00",
+      "request_url": "https://web.archive.org/save/https://portal.sao.wa.gov/ReportSearch/Home/ViewReportFile?arn=1023851&isFinding=false&sp=false",
+      "status": "capture_verified",
+      "capture_url": "https://web.archive.org/web/20260930172843/https://portal.sao.wa.gov/ReportSearch/Home/ViewReportFile?arn=1023851&isFinding=false&sp=false",
+      "archived_sha256": "ca5a42beb929efa45f3a98da6356568377c21db882be85baf4644c626518fe52"
+    }
+  },
+  {
+    "evidence_id": "SAO-RSD407-2010-ACC",
+    "publisher": "WA State Auditor",
+    "url": "https://portal.sao.wa.gov/ReportSearch/Home/ViewReportFile?arn=1005158&isFinding=false&sp=false",
+    "period": "2008-09 through 2009-10",
+    "resource_id": "1005158",
+    "entity": "Riverview School District No. 407, WA; OSPI org 100222",
+    "retrieved_at": "2026-09-30T17:28:35.795349+00:00",
+    "method": "HTTPS GET; original PDF bytes",
+    "sha256": "a17c6fa4bb113196631bcd8e613891019008314f068ef6d8726f0e788b75547f",
+    "byte_count": 225975,
+    "extraction": "pdftotext -layout; manually transcribed page-specific fields; original PDF authoritative",
+    "limitations": "Physical PDF pages are 1-based. Prior-finding schedule is management-supplied; auditor conclusions and management correction status are distinguished. Registration timestamp follows local review.",
+    "expected_filename": "SAO-RSD407-2010-ACC.pdf",
+    "retention": "PDF reviewed locally; original bytes are not committed. Re-fetch URL or confirmed archive and verify SHA-256.",
+    "title": "Accountability Audit Report",
+    "internet_archive": {
+      "evidence_id": "SAO-RSD407-2010-ACC",
+      "requested_at": "2026-09-30T17:28:35.854642+00:00",
+      "request_url": "https://web.archive.org/save/https://portal.sao.wa.gov/ReportSearch/Home/ViewReportFile?arn=1005158&isFinding=false&sp=false",
+      "status": "capture_verified",
+      "capture_url": "https://web.archive.org/web/20260930172843/https://portal.sao.wa.gov/ReportSearch/Home/ViewReportFile?arn=1005158&isFinding=false&sp=false",
+      "archived_sha256": "a17c6fa4bb113196631bcd8e613891019008314f068ef6d8726f0e788b75547f"
+    }
   }
 ]

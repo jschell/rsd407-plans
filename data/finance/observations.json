@@ -24,6 +24,17 @@
       }
     },
     {
+      "evidence_id": "SAO-RSD407-2018-FIN",
+      "period": "2017-18",
+      "basis": "audited actual",
+      "total_balance": "4276743.93",
+      "expenditures": "40632892.55",
+      "pdf_pages": {
+        "total_balance": 22,
+        "expenditures": 21
+      }
+    },
+    {
       "evidence_id": "SAO-RSD407-2019-FIN",
       "period": "2018-19",
       "basis": "audited actual",
@@ -154,5 +165,28 @@
       "expenditures": "62082341",
       "pdf_page": 5
     }
-  ]
+  ],
+  "audit_followup": {
+    "evidence_id": "SAO-RSD407-2018-FIN",
+    "prior_finding": "2017-001",
+    "management_status": "Fully Corrected",
+    "management_status_pdf_page": 7,
+    "management_action": "Internal audit process adopted; Business Office procedure being implemented",
+    "auditor_financial_statement_findings": "None reported",
+    "auditor_federal_award_findings": "None reported",
+    "auditor_findings_pdf_page": 5,
+    "major_programs": [
+      "84.010 Title I",
+      "84.027/84.173 IDEA"
+    ],
+    "source_conflict": {
+      "FY2017_report_title_I_spending": "381537",
+      "FY2018_prior_finding_schedule_title_I_spending": "181537",
+      "source_pages": {
+        "SAO-RSD407-2017-FIN": 6,
+        "SAO-RSD407-2018-FIN": 6
+      },
+      "resolution": "Preserved; original finding governs its original spending figure."
+    }
+  }
 }
