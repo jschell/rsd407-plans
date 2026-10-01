@@ -1,0 +1,320 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-10-01",
+  "purpose": "Plan08 inventory and boundaries; no historical attainment ratings",
+  "classification_rules": {
+    "confirmed_document": "original district document identity/period verified; not necessarily separate adoption motion",
+    "reconstructed": "official partial description; governing authority incomplete",
+    "unresolved": "discovery lead or bridge only"
+  },
+  "iterations": [
+    {
+      "iteration_id": "ITER-2008",
+      "title": "Precursor/support review",
+      "effective_years": "2008\u20132009",
+      "status": "unresolved",
+      "source_ids": [
+        "RSD407-ITER-HISTORY-LEAD"
+      ],
+      "locators": [
+        "docs/strategic-plans/plan-history.md, legacy discovery list"
+      ],
+      "authority": "Legacy reconstruction has no page-specific original provenance. Annual update cannot establish a distinct strategic plan.",
+      "adoption_date": null,
+      "revision_date": null,
+      "predecessor": null,
+      "successor": null,
+      "confidence": "provisional",
+      "coverage": {
+        "goals": "not independently recovered",
+        "task_updates": "not independently recovered",
+        "period_matched_outcomes": "not assembled"
+      },
+      "rating": null
+    },
+    {
+      "iteration_id": "ITER-2009",
+      "title": "Candidate annual plan/status iteration",
+      "effective_years": "2009\u20132010",
+      "status": "unresolved",
+      "source_ids": [
+        "RSD407-ITER-HISTORY-LEAD"
+      ],
+      "locators": [
+        "docs/strategic-plans/plan-history.md, legacy discovery list"
+      ],
+      "authority": "Legacy reconstruction has no page-specific original provenance. Annual update cannot establish a distinct strategic plan.",
+      "adoption_date": null,
+      "revision_date": null,
+      "predecessor": null,
+      "successor": null,
+      "confidence": "provisional",
+      "coverage": {
+        "goals": "not independently recovered",
+        "task_updates": "not independently recovered",
+        "period_matched_outcomes": "not assembled"
+      },
+      "rating": null
+    },
+    {
+      "iteration_id": "ITER-2010",
+      "title": "Candidate annual plan/status iteration",
+      "effective_years": "2010\u20132011",
+      "status": "unresolved",
+      "source_ids": [
+        "RSD407-ITER-HISTORY-LEAD"
+      ],
+      "locators": [
+        "docs/strategic-plans/plan-history.md, legacy discovery list"
+      ],
+      "authority": "Legacy reconstruction has no page-specific original provenance. Annual update cannot establish a distinct strategic plan.",
+      "adoption_date": null,
+      "revision_date": null,
+      "predecessor": null,
+      "successor": null,
+      "confidence": "provisional",
+      "coverage": {
+        "goals": "not independently recovered",
+        "task_updates": "not independently recovered",
+        "period_matched_outcomes": "not assembled"
+      },
+      "rating": null
+    },
+    {
+      "iteration_id": "ITER-2011",
+      "title": "Candidate annual plan/status iteration",
+      "effective_years": "2011\u20132012",
+      "status": "unresolved",
+      "source_ids": [
+        "RSD407-ITER-HISTORY-LEAD"
+      ],
+      "locators": [
+        "docs/strategic-plans/plan-history.md, legacy discovery list"
+      ],
+      "authority": "Legacy reconstruction has no page-specific original provenance. Annual update cannot establish a distinct strategic plan.",
+      "adoption_date": null,
+      "revision_date": null,
+      "predecessor": null,
+      "successor": null,
+      "confidence": "provisional",
+      "coverage": {
+        "goals": "not independently recovered",
+        "task_updates": "not independently recovered",
+        "period_matched_outcomes": "not assembled"
+      },
+      "rating": null
+    },
+    {
+      "iteration_id": "ITER-2012",
+      "title": "Candidate annual plan/status iteration",
+      "effective_years": "2012\u20132013",
+      "status": "unresolved",
+      "source_ids": [
+        "RSD407-ITER-HISTORY-LEAD"
+      ],
+      "locators": [
+        "docs/strategic-plans/plan-history.md, legacy discovery list"
+      ],
+      "authority": "Legacy reconstruction has no page-specific original provenance. Annual update cannot establish a distinct strategic plan.",
+      "adoption_date": null,
+      "revision_date": null,
+      "predecessor": null,
+      "successor": null,
+      "confidence": "provisional",
+      "coverage": {
+        "goals": "not independently recovered",
+        "task_updates": "not independently recovered",
+        "period_matched_outcomes": "not assembled"
+      },
+      "rating": null
+    },
+    {
+      "iteration_id": "ITER-2013",
+      "title": "Candidate annual plan/status iteration",
+      "effective_years": "2013\u20132014",
+      "status": "unresolved",
+      "source_ids": [
+        "RSD407-ITER-HISTORY-LEAD"
+      ],
+      "locators": [
+        "docs/strategic-plans/plan-history.md, legacy discovery list"
+      ],
+      "authority": "Legacy reconstruction has no page-specific original provenance. Annual update cannot establish a distinct strategic plan.",
+      "adoption_date": null,
+      "revision_date": null,
+      "predecessor": null,
+      "successor": null,
+      "confidence": "provisional",
+      "coverage": {
+        "goals": "not independently recovered",
+        "task_updates": "not independently recovered",
+        "period_matched_outcomes": "not assembled"
+      },
+      "rating": null
+    },
+    {
+      "iteration_id": "ITER-2014",
+      "title": "Unresolved bridge before 2015 adoption",
+      "effective_years": "2014\u20132015",
+      "status": "unresolved",
+      "source_ids": [
+        "RSD407-ITER-2015"
+      ],
+      "locators": [
+        "PDF pp.8\u201312, retrospective 2014\u20132015 accomplishments"
+      ],
+      "authority": "Retrospective accomplishments identify activity, not governing plan authority.",
+      "adoption_date": null,
+      "revision_date": null,
+      "predecessor": null,
+      "successor": null,
+      "confidence": "provisional",
+      "coverage": {
+        "goals": "not independently recovered",
+        "task_updates": "not independently recovered",
+        "period_matched_outcomes": "not assembled"
+      },
+      "rating": null
+    },
+    {
+      "iteration_id": "ITER-2015",
+      "title": "Strategic Plan 2015\u20132020; reviewed revision",
+      "effective_years": "2015\u20132020",
+      "status": "confirmed_document",
+      "source_ids": [
+        "RSD407-ITER-2015"
+      ],
+      "locators": [
+        "PDF p.1 adoption; p.30 objectives; pp.31\u201347 tasks; p.54 revisions; pp.55\u201357 timeline"
+      ],
+      "authority": "Official district PDF recovered from archive; adoption stated within plan, Board motion not independently recovered.",
+      "adoption_date": "2015-06-09",
+      "revision_date": "2016-07-11",
+      "predecessor": null,
+      "successor": "ITER-2019",
+      "confidence": "high for document identity; unresolved for separate adoption motion",
+      "coverage": {
+        "goals": "three goals and 12 objectives, p.30",
+        "task_updates": "task register pp.31\u201347, timeline pp.55\u201357; completion marks are self-reports",
+        "period_matched_outcomes": "retrospective 2014\u20132015 accomplishments pp.8\u201312; audit/finance FY2017\u20132019 available separately; not a matched outcome matrix"
+      },
+      "rating": null
+    },
+    {
+      "iteration_id": "ITER-2016-2017",
+      "title": "Page-labeled 2016\u20132020 and 2017\u20132020 revisions",
+      "effective_years": "2016\u20132020 / 2017\u20132020",
+      "status": "unresolved",
+      "source_ids": [
+        "RSD407-ITER-PAGE2017"
+      ],
+      "locators": [
+        "HTML Strategic Plan heading and two relative PDF links"
+      ],
+      "authority": "Archived official page confirms labels; linked documents not recovered in this bounded pass. Do not count two new plans from link wording.",
+      "adoption_date": null,
+      "revision_date": null,
+      "predecessor": null,
+      "successor": null,
+      "confidence": "provisional",
+      "coverage": {
+        "goals": "not independently recovered",
+        "task_updates": "not independently recovered",
+        "period_matched_outcomes": "not assembled"
+      },
+      "rating": null
+    },
+    {
+      "iteration_id": "ITER-2019",
+      "title": "2015\u20132020 plan, year five: 2019\u20132020",
+      "effective_years": "2019\u20132020",
+      "status": "confirmed_document",
+      "source_ids": [
+        "RSD407-ITER-2019"
+      ],
+      "locators": [
+        "PDF p.1 title; p.19 objectives; pp.20\u201336 tasks; p.39 revision record; pp.40\u201342 timeline"
+      ],
+      "authority": "Annual revision explicitly within five-year plan; cover Adopted May 28, 2019 conflicts with p.39 School Board approval effective May 14, 2019.",
+      "adoption_date": null,
+      "revision_date": null,
+      "predecessor": "ITER-2015",
+      "successor": null,
+      "confidence": "high for document identity; unresolved for separate adoption motion",
+      "coverage": {
+        "goals": "three goals and seven objectives, p.19",
+        "task_updates": "pp.20\u201336 and40\u201342; deadline and completion fields present, self-reported",
+        "period_matched_outcomes": "not assembled; FY2019/FY2020 financial evidence available separately"
+      },
+      "rating": null
+    },
+    {
+      "iteration_id": "ITER-2020",
+      "title": "Publicly labeled 2020\u20132025 strategic plan",
+      "effective_years": "2020\u20132025",
+      "status": "reconstructed",
+      "source_ids": [
+        "RSD407-ITER-CHS"
+      ],
+      "locators": [
+        "HTML District Strategic Plan link, Goals 1\u20133"
+      ],
+      "authority": "Official school HTML labels period and describes business-plan structure; SharePoint PDF denied 403; adoption/replacement date unresolved.",
+      "adoption_date": null,
+      "revision_date": null,
+      "predecessor": null,
+      "successor": null,
+      "confidence": "provisional",
+      "coverage": {
+        "goals": "three high-level goals on HTML; version-specific tasks missing",
+        "task_updates": "separate business plan described but not recovered",
+        "period_matched_outcomes": "FY2020\u20132025 financial series available; matching against this plan remains undone"
+      },
+      "rating": null
+    },
+    {
+      "iteration_id": "ITER-2022",
+      "title": "2022\u20132027 strategic plan",
+      "effective_years": "2022\u20132027",
+      "status": "confirmed_document",
+      "source_ids": [
+        "RSD407-SP-2024-SEP"
+      ],
+      "locators": [
+        "PDF p.1 title; p.3 revision narrative"
+      ],
+      "authority": "Existing district PDF confirms version label and 2024 revision process; precise supersession of 2020\u20132025 unresolved.",
+      "adoption_date": null,
+      "revision_date": null,
+      "predecessor": null,
+      "successor": null,
+      "confidence": "high for document identity; unresolved for separate adoption motion",
+      "coverage": {
+        "goals": "existing current-plan research",
+        "task_updates": "existing current-plan research; p.3 status count internally inconsistent (17 + 11 versus 26)",
+        "period_matched_outcomes": "bounded current evaluation complete; see final-synthesis.md"
+      },
+      "rating": null
+    }
+  ],
+  "evaluation_windows": {
+    "early": "2009\u20132014 school-year-specific baselines/endpoints conditional on recovered adoption and own task deadlines; 2008\u20132009 precursor only",
+    "middle": "2015\u20132020 named five-year window; 2019\u20132020 separate annual revision; 2014\u20132015 bridge unresolved. Never treat the July2016 revision as pristine June2015 baseline. Follow-up through2020\u20132021 only for documented carry-forward; not an extension of deadlines.",
+    "transition": "2020\u20132025 nominal period, baseline2019\u20132020 conditional on targets; 2022 supersession not established. Divide overlap by documented task lineage, do not assume older plan completed or failed. Follow-up2025\u20132026 only for specific delayed outcomes."
+  },
+  "handoff": {
+    "plan09": [
+      "Recover August25,2009 Motion09-46 original and actual plan; indexed third-party transcription is a lead only.",
+      "Recover annual original goal/task registers2010\u20132014 before rating; own assessment instruments and denominators."
+    ],
+    "plan10": [
+      "Recover June9,2015 Board motion; obtain archived2016/2017 links; resolve May14 versusMay28,2019.",
+      "Match2015\u20132020 andyear-five tasks to outcomes; preserve 5% reserve task in2016 revision versus9% in2019 revision.",
+      "Do not extrapolate2015 plan into2014; distinguish retrospective accomplishments from baseline."
+    ],
+    "plan11": [
+      "Recover SharePoint2020\u20132025 PDF and business plan; locate2022 adoption/replacement record.",
+      "Resolve stale-current page versus newer plan label without assuming simultaneous authority."
+    ]
+  }
+}

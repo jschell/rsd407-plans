@@ -1,6 +1,6 @@
 # Plan 10 — Reconstruct and Evaluate the 2014–2019 Era
 
-Status: queued. Depends on Plan 08. Authority/adoption gap is unresolved; do not assume a single 2014–2019 plan exists.
+Status: queued. Depends on Plan 08. Plan 08 recovered the 2015–2020 plan and its 2019–2020 year-five revision; the 2014–2015 bridge, intermediate revisions and separate adoption motions remain unresolved. Do not assume a single 2014–2019 plan exists.
 
 ## Objective
 
@@ -21,3 +21,7 @@ Authority/gap narrative, objective matrix where supportable, assertion IDs, sour
 ## Stop
 
 Close after targeted authority search plus one objective-specific evidence pass where feasible. Insufficient authority is a valid research result. No indefinite archive crawl, guessed plan, interpolated outcomes or employee/student profiles.
+
+## Plan 08 handoff
+
+Use RSD407-ITER-2015 and RSD407-ITER-2019 with cited inventory pages. Recover the June 2015 motion and 2016/2017 linked revisions; resolve May 14 versus May 28, 2019 adoption dates. Include the full named cycle through 2019–2020; the original 2014–2019 discovery label does not truncate the plan endpoint. Preserve the reserve task change from 5% to 9%, with matching definitions and periods.

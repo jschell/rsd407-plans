@@ -1,0 +1,713 @@
+{
+  "searched_at": "2026-10-01",
+  "boundary": "One repository provenance inventory; four Board portal queries (first30detailresults each); targeted web queries recorded below (including three stronger-engine checks); one district school plan page/link; two archive host index queries plus barehost strategic wildcard; three indexed archive documents retrieved. No exhaustive historical Board crawl.",
+  "queries": [
+    "strategic plan",
+    "2009",
+    "2013",
+    "2020"
+  ],
+  "portal_endpoint": "https://rsd407.community.diligentoneplatform.com/Services/ItemsService.svc/portal/search?criteria={term}&showDocuments=true&showTrackerItems=false&showMeetingItems=true",
+  "portal_details_method": "POST IDs[:30] to /portal/search/details with same query, JSON content type",
+  "portal_results": {
+    "strategic plan": {
+      "response_sha256": "04c906492fb1d203990180b527fe1253a712f24a58026c1e36ecde43ca543797",
+      "records": [
+        {
+          "Id": 16405,
+          "TitleHtml": "RSD <strong>Strategic</strong> <strong>Plan</strong> Update 09.2026",
+          "LinkUrl": "/document/16405?modified=1789772069000"
+        },
+        {
+          "Id": 15364,
+          "TitleHtml": "RSD <strong>Strategic</strong> <strong>Plan</strong> Update 06.2026",
+          "LinkUrl": "/document/15364?modified=1782257398000"
+        },
+        {
+          "Id": 13677,
+          "TitleHtml": "RSD <strong>Strategic</strong> <strong>Plan</strong> Update - January 2026",
+          "LinkUrl": "/document/13677?modified=1769213922000"
+        },
+        {
+          "Id": 6968,
+          "TitleHtml": "RSD 2022-2027 <strong>Strategic</strong> <strong>Plan</strong> Status Update Presentation",
+          "LinkUrl": "/document/6968?modified=1727106935000"
+        },
+        {
+          "Id": 12117,
+          "TitleHtml": "RSD <strong>Strategic</strong> <strong>Plan</strong> Update - September 2025",
+          "LinkUrl": "/document/12117?modified=1757346128000"
+        },
+        {
+          "Id": 8650,
+          "TitleHtml": "RSD <strong>Strategic</strong> <strong>Plan</strong> Update  - January 28, 2025",
+          "LinkUrl": "/document/8650?modified=1737757294000"
+        },
+        {
+          "Id": 11081,
+          "TitleHtml": "<strong>Strategic</strong> <strong>Plan</strong> Status Report July 2025",
+          "LinkUrl": "/document/11081?modified=1752710527000"
+        },
+        {
+          "Id": 3555,
+          "TitleHtml": "1120 - Commitment to <strong>Strategic</strong> Planning - Revised July 20, 2010",
+          "LinkUrl": "/document/3555?modified=1706133416000"
+        },
+        {
+          "Id": 16439,
+          "TitleHtml": "Board of Directors - September 22, 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/16439?modified=1790282528000"
+        },
+        {
+          "Id": 5986,
+          "TitleHtml": "NSPRA Audit Presentation",
+          "LinkUrl": "/home/public/document/5986"
+        },
+        {
+          "Id": 16414,
+          "TitleHtml": "Board of Directors - September 22, 2026 - Agenda - Pdf",
+          "LinkUrl": "/document/16414?modified=1790117636000"
+        },
+        {
+          "Id": 16438,
+          "TitleHtml": "Board of Directors - September 22, 2026 - Minutes - Html",
+          "LinkUrl": "/home/public/document/16438"
+        },
+        {
+          "Id": 8019,
+          "TitleHtml": "RSD Communications <strong>Plan</strong> 2024-2025",
+          "LinkUrl": "/document/8019?modified=1732655117000"
+        },
+        {
+          "Id": 8044,
+          "TitleHtml": "RSD Communications <strong>Plan</strong> 2024-2024 Presentation",
+          "LinkUrl": "/document/8044?modified=1732663682000"
+        },
+        {
+          "Id": 15847,
+          "TitleHtml": "Board of Directors - June 23, 2026 - Jun 23 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/15847?modified=1785445734000"
+        },
+        {
+          "Id": 15845,
+          "TitleHtml": "Board of Directors - June 23, 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/15845?modified=1785445590000"
+        },
+        {
+          "Id": 15369,
+          "TitleHtml": "Board of Directors - June 23, 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/15369?modified=1785445667000"
+        },
+        {
+          "Id": 15353,
+          "TitleHtml": "Board of Directors - June 23, 2026 - Agenda - Pdf",
+          "LinkUrl": "/document/15353?modified=1782258633000"
+        },
+        {
+          "Id": 13681,
+          "TitleHtml": "Board of Directors - January 27, 2026 - Agenda - Pdf",
+          "LinkUrl": "/document/13681?modified=1769539668000"
+        },
+        {
+          "Id": 13895,
+          "TitleHtml": "Board of Directors - January 27, 2026 - Jan 27 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/13895?modified=1770953728000"
+        },
+        {
+          "Id": 13893,
+          "TitleHtml": "Board of Directors - January 27, 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/13893?modified=1770953679000"
+        },
+        {
+          "Id": 15786,
+          "TitleHtml": "Board of Directors - June 23, 2026 - Minutes",
+          "LinkUrl": "/document/15786?modified=1784847430000"
+        },
+        {
+          "Id": 13700,
+          "TitleHtml": "Board of Directors - January 27, 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/13700?modified=1770754163000"
+        },
+        {
+          "Id": 14525,
+          "TitleHtml": "Teaching and Learning 2025-2026 Progress",
+          "LinkUrl": "/document/14525?modified=1777058319000"
+        },
+        {
+          "Id": 16380,
+          "TitleHtml": "Board Work Study Minutes for September 8th, 2026",
+          "LinkUrl": "/document/16380?modified=1789762636000"
+        },
+        {
+          "Id": 13884,
+          "TitleHtml": "Minutes for January 27, 2026 Board Meeting",
+          "LinkUrl": "/document/13884?modified=1770754248000"
+        },
+        {
+          "Id": 11375,
+          "TitleHtml": "Minutes for July 22, 2025 Board Meeting",
+          "LinkUrl": "/document/11375?modified=1754700949000"
+        },
+        {
+          "Id": 16187,
+          "TitleHtml": "Board Work Study - Sep 08 2026 - Agenda - Pdf",
+          "LinkUrl": "/document/16187?modified=1788548182000"
+        },
+        {
+          "Id": 5949,
+          "TitleHtml": "Regular Board Meeting - June 25, 2024 - Agenda - Pdf",
+          "LinkUrl": "/document/5949?modified=1721336474000"
+        },
+        {
+          "Id": 16379,
+          "TitleHtml": "Regular School Board Minutes for September 8th, 2026",
+          "LinkUrl": "/document/16379?modified=1789762391000"
+        }
+      ]
+    },
+    "2009": {
+      "response_sha256": "c44440a4e07a9f584b0b2973ac72b3c3f284de9552367260d1092acaa92d77d0",
+      "records": [
+        {
+          "Id": 14977,
+          "TitleHtml": "260512_Riverview SD_Study & Survey",
+          "LinkUrl": "/document/14977?modified=1779482828000"
+        },
+        {
+          "Id": 4408,
+          "TitleHtml": "3422-P1 - Student Sports - Concussion and Head Injuries Procedure - Adopted October 13, <strong>2009</strong>",
+          "LinkUrl": "/document/4408?modified=1713429334000"
+        },
+        {
+          "Id": 4452,
+          "TitleHtml": "2110 - Transitional Bilingual Instruction - Revised August 25, <strong>2009</strong>",
+          "LinkUrl": "/document/4452?modified=1713429432000"
+        },
+        {
+          "Id": 4548,
+          "TitleHtml": "5404-P1 - Family Leave Procedure - Adopted August 25, <strong>2009</strong>",
+          "LinkUrl": "/document/4548?modified=1713430070000"
+        },
+        {
+          "Id": 14969,
+          "TitleHtml": "260526_RiverviewSD_Board Presentation",
+          "LinkUrl": "/document/14969?modified=1779479551000"
+        },
+        {
+          "Id": 9438,
+          "TitleHtml": "3419 - Self-Administratino of Asthma and Anaphylaxis Medication - First Reading March 11, 2025",
+          "LinkUrl": "/document/9438?modified=1741402943000"
+        },
+        {
+          "Id": 9684,
+          "TitleHtml": "3419 - Self-Administratino of Asthma and Anaphylaxis Medication - Second Reading March 25, 2025",
+          "LinkUrl": "/document/9684?modified=1742581326000"
+        },
+        {
+          "Id": 5065,
+          "TitleHtml": "Final Financial State and Federal Single Audit Report 2024",
+          "LinkUrl": "/document/5065?modified=1715380634000"
+        },
+        {
+          "Id": 9685,
+          "TitleHtml": "2024-2025 Riverview Asset Preservation Program Report",
+          "LinkUrl": "/document/9685?modified=1742581464000"
+        },
+        {
+          "Id": 9794,
+          "TitleHtml": "3419 - Self-Administration of Asthma and Anaphylaxis Medication - Adopted March 25, 2025",
+          "LinkUrl": "/document/9794?modified=1743112819000"
+        },
+        {
+          "Id": 5069,
+          "TitleHtml": "Regular Board Meeting - May 14, 2024 - Agenda - Pdf",
+          "LinkUrl": "/document/5069?modified=1715727567000"
+        },
+        {
+          "Id": 5172,
+          "TitleHtml": "Regular Board Meeting - May 14, 2024 - Minutes - Pdf",
+          "LinkUrl": "/document/5172?modified=1715899850000"
+        },
+        {
+          "Id": 5476,
+          "TitleHtml": "Regular Board Meeting - May 14, 2024 - Minutes - Pdf",
+          "LinkUrl": "/document/5476?modified=1717105862000"
+        },
+        {
+          "Id": 5478,
+          "TitleHtml": "Regular Board Meeting - May 14, 2024 - May 14 2024 - Minutes - Pdf",
+          "LinkUrl": "/document/5478?modified=1717105922000"
+        },
+        {
+          "Id": 10038,
+          "TitleHtml": "Board of Directors - March 25, 2025 - Minutes - Pdf",
+          "LinkUrl": "/document/10038?modified=1745446951000"
+        },
+        {
+          "Id": 10040,
+          "TitleHtml": "Board of Directors - March 25, 2025 - Mar 25 2025 - Minutes - Pdf",
+          "LinkUrl": "/document/10040?modified=1745447006000"
+        },
+        {
+          "Id": 9793,
+          "TitleHtml": "Board of Directors - March 25, 2025 - Minutes - Pdf",
+          "LinkUrl": "/document/9793?modified=1744913141000"
+        },
+        {
+          "Id": 9692,
+          "TitleHtml": "Board of Directors - March 25, 2025 - Agenda - Pdf",
+          "LinkUrl": "/document/9692?modified=1742940442000"
+        },
+        {
+          "Id": 11581,
+          "TitleHtml": "F195 for Riverview School District 2025-2026 Fiscal Year",
+          "LinkUrl": "/document/11581?modified=1755910398000"
+        }
+      ]
+    },
+    "2013": {
+      "response_sha256": "94f8c26a30250d09178f97dd0aafa98b1adc54fd305edd600f4d624bacee1970",
+      "records": [
+        {
+          "Id": 4532,
+          "TitleHtml": "5240 - Evaluation of Staff - Adopted August 27, <strong>2013</strong>",
+          "LinkUrl": "/document/4532?modified=1713430052000"
+        },
+        {
+          "Id": 4285,
+          "TitleHtml": "6510-P1 - Safety Procedure - Revised November 7, <strong>2013</strong>",
+          "LinkUrl": "/document/4285?modified=1713428570000"
+        },
+        {
+          "Id": 4286,
+          "TitleHtml": "6511 - Staff Safety - Reviewed November 7, <strong>2013</strong>",
+          "LinkUrl": "/document/4286?modified=1713428571000"
+        },
+        {
+          "Id": 4287,
+          "TitleHtml": "6511-P1 - Staff Safety Procedure - Revised November 7, <strong>2013</strong>",
+          "LinkUrl": "/document/4287?modified=1713428572000"
+        },
+        {
+          "Id": 4295,
+          "TitleHtml": "6605-P1 - Student Safety Walking, Biking, and Riding Buses to School Procedure - Revised November 14, <strong>2013</strong>",
+          "LinkUrl": "/document/4295?modified=1713428579000"
+        },
+        {
+          "Id": 4296,
+          "TitleHtml": "6608 - Video Cameras on School Buses - Reviewed November 7, <strong>2013</strong>",
+          "LinkUrl": "/document/4296?modified=1713428580000"
+        },
+        {
+          "Id": 4300,
+          "TitleHtml": "6620 - Special Transportation - Revised December 10, <strong>2013</strong>",
+          "LinkUrl": "/document/4300?modified=1713428584000"
+        },
+        {
+          "Id": 4302,
+          "TitleHtml": "6640 - School-Owned Vehicles - Revised December 10, <strong>2013</strong>",
+          "LinkUrl": "/document/4302?modified=1713428586000"
+        },
+        {
+          "Id": 4303,
+          "TitleHtml": "6640-P1 - School-Owned Vehicles Procedure - Revised November 7, <strong>2013</strong>",
+          "LinkUrl": "/document/4303?modified=1713428587000"
+        },
+        {
+          "Id": 4313,
+          "TitleHtml": "6890 - State Environmental Policy Act Compliance - Reviewed November 7, <strong>2013</strong>",
+          "LinkUrl": "/document/4313?modified=1713428597000"
+        },
+        {
+          "Id": 4315,
+          "TitleHtml": "6895-P1 - Pesticide Notification, Posting, and Record Keeping Procedure - Revised November 7, <strong>2013</strong>",
+          "LinkUrl": "/document/4315?modified=1713428598000"
+        },
+        {
+          "Id": 4316,
+          "TitleHtml": "6900 - Facilities Planning - Reviewed November 7, <strong>2013</strong>",
+          "LinkUrl": "/document/4316?modified=1713428599000"
+        },
+        {
+          "Id": 4320,
+          "TitleHtml": "6920-P1 - Construction Design Procedure - Reviewed November 7, <strong>2013</strong>",
+          "LinkUrl": "/document/4320?modified=1713428603000"
+        },
+        {
+          "Id": 4322,
+          "TitleHtml": "6950 - Contractor Assurances, Surety Bonds, Insurance, and Change Orders - Reviewed November 7, <strong>2013</strong>",
+          "LinkUrl": "/document/4322?modified=1713428605000"
+        },
+        {
+          "Id": 4345,
+          "TitleHtml": "3110-P6 - Student Immunization and Life Threatening Health Conditions Procedure - Revised February 12, <strong>2013</strong>",
+          "LinkUrl": "/document/4345?modified=1713429269000"
+        },
+        {
+          "Id": 4375,
+          "TitleHtml": "3231-P1 - Management of Student Records Procedure - Reviewed March 28, <strong>2013</strong>",
+          "LinkUrl": "/document/4375?modified=1713429299000"
+        },
+        {
+          "Id": 4419,
+          "TitleHtml": "2000 - Student Learning Goals- Reviewed August 9, <strong>2013</strong>",
+          "LinkUrl": "/document/4419?modified=1713429402000"
+        },
+        {
+          "Id": 4437,
+          "TitleHtml": "2022-P1 - Electronic Resources Procedure - Revised August 27, <strong>2013</strong>",
+          "LinkUrl": "/document/4437?modified=1713429419000"
+        },
+        {
+          "Id": 4444,
+          "TitleHtml": "2036 - District Social Network - Adopted August 27, <strong>2013</strong>",
+          "LinkUrl": "/document/4444?modified=1713429426000"
+        },
+        {
+          "Id": 4445,
+          "TitleHtml": "2036-P1 - District Social Network Sites and Interactive Media - Adopted August 27, <strong>2013</strong>",
+          "LinkUrl": "/document/4445?modified=1713429426000"
+        },
+        {
+          "Id": 4283,
+          "TitleHtml": "6500-P1 - Risk Management Procedure - Adopted November 7, <strong>2013</strong>",
+          "LinkUrl": "/document/4283?modified=1713428569000"
+        },
+        {
+          "Id": 4284,
+          "TitleHtml": "6510 - Safety - Revised November 7, <strong>2013</strong>",
+          "LinkUrl": "/document/4284?modified=1713428570000"
+        },
+        {
+          "Id": 4253,
+          "TitleHtml": "6020-P1 - System of Funds and Accounts Procedure - Reviewed November 7, <strong>2013</strong>",
+          "LinkUrl": "/document/4253?modified=1713428544000"
+        },
+        {
+          "Id": 4268,
+          "TitleHtml": "6125-P1 - Growth Management Impact Fees Administration Procedure - Reviewed November 11, <strong>2013</strong>",
+          "LinkUrl": "/document/4268?modified=1713428556000"
+        },
+        {
+          "Id": 4454,
+          "TitleHtml": "2121 - Substance Abuse Program - Revised July 23, <strong>2013</strong>",
+          "LinkUrl": "/document/4454?modified=1713429434000"
+        },
+        {
+          "Id": 4478,
+          "TitleHtml": "2414 - Community Service - Adopted August 27, <strong>2013</strong>",
+          "LinkUrl": "/document/4478?modified=1713429462000"
+        },
+        {
+          "Id": 4479,
+          "TitleHtml": "2414-P1 - Communicty Service Procedure - Adopted August 27, <strong>2013</strong>",
+          "LinkUrl": "/document/4479?modified=1713429463000"
+        },
+        {
+          "Id": 4489,
+          "TitleHtml": "4001-P3 - School-Support Organizations - Revised January 15, <strong>2013</strong>",
+          "LinkUrl": "/document/4489?modified=1713429646000"
+        },
+        {
+          "Id": 4510,
+          "TitleHtml": "4310 - District Relationships with Law Enforcement and Other Government Agencies - Revised July 23, <strong>2013</strong>",
+          "LinkUrl": "/document/4510?modified=1713429666000"
+        },
+        {
+          "Id": 4514,
+          "TitleHtml": "4400 - Election Activities - Reviewed January 11, <strong>2013</strong>",
+          "LinkUrl": "/document/4514?modified=1713429671000"
+        }
+      ]
+    },
+    "2020": {
+      "response_sha256": "bb58ad9532aae1d7422bf74f787a734a148b3f48ff376cfdd3ad5cb60ed2fc8a",
+      "records": [
+        {
+          "Id": 12285,
+          "TitleHtml": "<strong>2020</strong> - Course Design, Selection, and Adoption of Instructional Materials - Redline for Frist Reading September 23, 2025",
+          "LinkUrl": "/document/12285?modified=1758313733000"
+        },
+        {
+          "Id": 12512,
+          "TitleHtml": "<strong>2020</strong> - Course Design, Selection and Adoption of Instructional Materials - Second Reading October 14, 2025",
+          "LinkUrl": "/document/12512?modified=1759266392000"
+        },
+        {
+          "Id": 13344,
+          "TitleHtml": "<strong>2020</strong>-P1 - Course Design, Selection, and Adoption of Instructional Material Procedure - Revised October 15, 2025",
+          "LinkUrl": "/document/13344?modified=1767746970000"
+        },
+        {
+          "Id": 13343,
+          "TitleHtml": "<strong>2020</strong> - Course Design, Selection and Adoption of Instructional Materials - Revised October 14, 2025",
+          "LinkUrl": "/document/13343?modified=1767746968000"
+        },
+        {
+          "Id": 15932,
+          "TitleHtml": "iReady 2025-2026 End f Year Report",
+          "LinkUrl": "/document/15932?modified=1786135430000"
+        },
+        {
+          "Id": 4426,
+          "TitleHtml": "<strong>2020</strong>-P2 - Instructional Resources Procedure - Reviewed June 17, 2005",
+          "LinkUrl": "/document/4426?modified=1713429409000"
+        },
+        {
+          "Id": 4430,
+          "TitleHtml": "<strong>2020</strong>-P8 - Home or Hospital Instruction Procedure - Adopted May 22, 2001",
+          "LinkUrl": "/document/4430?modified=1713429412000"
+        },
+        {
+          "Id": 4423,
+          "TitleHtml": "<strong>2020</strong>-F1 - Instructional Material Evaluation Selection Criteria - Revised May 25, 2016",
+          "LinkUrl": "/document/4423?modified=1713429406000"
+        },
+        {
+          "Id": 4424,
+          "TitleHtml": "<strong>2020</strong>-F7 - Extended Field Trip District Form",
+          "LinkUrl": "/document/4424?modified=1713429407000"
+        },
+        {
+          "Id": 3887,
+          "TitleHtml": "<strong>2020</strong> - 2021 School Year - COMING SOON!",
+          "LinkUrl": "/home/public/document/3887"
+        },
+        {
+          "Id": 15959,
+          "TitleHtml": "Board of Directors - August 11, 2026 - Agenda - Pdf",
+          "LinkUrl": "/document/15959?modified=1786475711000"
+        },
+        {
+          "Id": 15981,
+          "TitleHtml": "Board of Directors - August 11, 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/15981?modified=1786680131000"
+        },
+        {
+          "Id": 16080,
+          "TitleHtml": "Board of Directors - August 11, 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/16080?modified=1787874110000"
+        },
+        {
+          "Id": 16082,
+          "TitleHtml": "Board of Directors - August 11, 2026 - Aug 11 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/16082?modified=1787874210000"
+        },
+        {
+          "Id": 8349,
+          "TitleHtml": "Flo Analytics RSD 10-Year Enrollment Forecast",
+          "LinkUrl": "/document/8349?modified=1736542237000"
+        },
+        {
+          "Id": 4456,
+          "TitleHtml": "2140 - Guidance and Counseling - Adopted February 11, <strong>2020</strong>",
+          "LinkUrl": "/document/4456?modified=1713429436000"
+        },
+        {
+          "Id": 4457,
+          "TitleHtml": "2145 - Suicide Prevention - Adopted February 11, <strong>2020</strong>",
+          "LinkUrl": "/document/4457?modified=1713429437000"
+        },
+        {
+          "Id": 4483,
+          "TitleHtml": "2421- Promotion and Retention - Revised February 11, <strong>2020</strong>",
+          "LinkUrl": "/document/4483?modified=1713429467000"
+        },
+        {
+          "Id": 4484,
+          "TitleHtml": "2421-P1 - Promotion and Retention Procedure - Revised February 11, <strong>2020</strong>",
+          "LinkUrl": "/document/4484?modified=1713429468000"
+        },
+        {
+          "Id": 4367,
+          "TitleHtml": "3211 - Gender-Inclusive Schools - Revised February 11, <strong>2020</strong>",
+          "LinkUrl": "/document/4367?modified=1713429291000"
+        },
+        {
+          "Id": 4368,
+          "TitleHtml": "3211-P1 - Gender-Inclusive Schools Procedure - Revised February 11, <strong>2020</strong>",
+          "LinkUrl": "/document/4368?modified=1713429292000"
+        },
+        {
+          "Id": 4397,
+          "TitleHtml": "3410-P1.2 - Respiratory Protection Program Procedure - Adopted November 19, <strong>2020</strong>",
+          "LinkUrl": "/document/4397?modified=1713429323000"
+        },
+        {
+          "Id": 3553,
+          "TitleHtml": "1115 - Board Meeting Schedule - Revised June 9, <strong>2020</strong>",
+          "LinkUrl": "/document/3553?modified=1706133414000"
+        },
+        {
+          "Id": 3564,
+          "TitleHtml": "1200 - Student Representative to the Board of Directors - Revised May 12, <strong>2020</strong>",
+          "LinkUrl": "/document/3564?modified=1706133423000"
+        },
+        {
+          "Id": 13075,
+          "TitleHtml": "2024-2025 Year End Financial Report",
+          "LinkUrl": "/document/13075?modified=1763783977000"
+        },
+        {
+          "Id": 8017,
+          "TitleHtml": "2023-2024 Year End Financial Report",
+          "LinkUrl": "/document/8017?modified=1732654972000"
+        },
+        {
+          "Id": 8042,
+          "TitleHtml": "2023-2024 Year End Financial Report Presentation",
+          "LinkUrl": "/document/8042?modified=1732663468000"
+        },
+        {
+          "Id": 8043,
+          "TitleHtml": "2023-2024 Year End Financial Report",
+          "LinkUrl": "/document/8043?modified=1732663477000"
+        },
+        {
+          "Id": 13879,
+          "TitleHtml": "Student Conduct Report - February 10, 2026",
+          "LinkUrl": "/document/13879?modified=1770677353000"
+        },
+        {
+          "Id": 9685,
+          "TitleHtml": "2024-2025 Riverview Asset Preservation Program Report",
+          "LinkUrl": "/document/9685?modified=1742581464000"
+        }
+      ]
+    }
+  },
+  "archive_queries": [
+    {
+      "url": "https://web.archive.org/cdx/search/cdx?url=rsd407.org/*strategic*&output=json&filter=statuscode:200&collapse=urlkey&filter=mimetype:application/pdf",
+      "result": "empty",
+      "response_sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "response": []
+    },
+    {
+      "url": "https://web.archive.org/cdx/search/cdx?url=www.rsd407.org/*&output=json&filter=statuscode:200&filter=urlkey:.*strategic.*&collapse=urlkey",
+      "result": "9rows; three relevant archive sources retrieved",
+      "response_sha256": "9b80066089b1d699b769e2bfb9f895bb4b075e7678d3ac7c3c054095844e7801",
+      "response": [
+        [
+          "urlkey",
+          "timestamp",
+          "original",
+          "mimetype",
+          "statuscode",
+          "digest",
+          "length"
+        ],
+        [
+          "org,rsd407)/districtinfo/strategicplan/default.aspx",
+          "20170727170257",
+          "http://www.rsd407.org:80/districtinfo/strategicplan/default.aspx",
+          "text/html",
+          "200",
+          "UWUQ5VSF5AX4LS6RVKKE2GLUX4VVU55F",
+          "4854"
+        ],
+        [
+          "org,rsd407)/districtinfo/strategicplan/strategic%20plan%202019-2020%20-%20final.pdf",
+          "20210119123645",
+          "http://rsd407.org/districtinfo/strategicplan/Strategic%20Plan%202019-2020%20-%20FINAL.pdf",
+          "application/pdf",
+          "200",
+          "NTIZ7CKR4CUVQIPN3FASQKZUOETY3ID5",
+          "306275"
+        ],
+        [
+          "org,rsd407)/districtinfo/strategicplan/strategic_plan.pdf",
+          "20201117040135",
+          "http://rsd407.org/districtinfo/strategicplan/strategic_plan.pdf",
+          "application/pdf",
+          "200",
+          "PTDIW3FFBPJLGINY5DCUT6WOW35SSZWQ",
+          "389017"
+        ],
+        [
+          "org,rsd407)/es/posts/the-riverview-way-outlines-mission,-vision-and-strategic-direction-for-riverview-school-district",
+          "20251030061324",
+          "https://www.rsd407.org/es/posts/the-riverview-way-outlines-mission%25252c-vision-and-strategic-direction-for-riverview-school-district",
+          "text/html",
+          "200",
+          "7HXJY7T7VY4VEJ3AWIUPTBD3B2WKHNIR",
+          "179972"
+        ],
+        [
+          "org,rsd407)/es/strategicplan",
+          "20251029032610",
+          "https://www.rsd407.org/es/strategicplan",
+          "text/html",
+          "200",
+          "LGVUJJV3OMOGZ3YKKSDTJKBUSW43IENM",
+          "130753"
+        ],
+        [
+          "org,rsd407)/post/the-riverview-way-outlines-mission-vision-and-strategic-direction-for-riverview-school-district",
+          "20241213080101",
+          "https://www.rsd407.org/post/the-riverview-way-outlines-mission-vision-and-strategic-direction-for-riverview-school-district",
+          "text/html",
+          "200",
+          "3ERVVI3BPL6FJJX2GRLTIW6QTA7WNYFM",
+          "212182"
+        ],
+        [
+          "org,rsd407)/posts/the-riverview-way-outlines-mission,-vision-and-strategic-direction-for-riverview-school-district",
+          "20251030043559",
+          "https://www.rsd407.org/posts/the-riverview-way-outlines-mission%25252c-vision-and-strategic-direction-for-riverview-school-district",
+          "text/html",
+          "200",
+          "XGAGK7TX476YY3HDQZXP3KGOQ2BU4NVA",
+          "179803"
+        ],
+        [
+          "org,rsd407)/schoolboard/goals/strategic%20plan%202019-2020%20-%20final.pdf",
+          "20210119104224",
+          "http://rsd407.org/schoolboard/goals/Strategic%20Plan%202019-2020%20-%20FINAL.pdf",
+          "application/pdf",
+          "200",
+          "NTIZ7CKR4CUVQIPN3FASQKZUOETY3ID5",
+          "306276"
+        ],
+        [
+          "org,rsd407)/strategicplan",
+          "20211128061359",
+          "https://www.rsd407.org/strategicplan",
+          "text/html",
+          "200",
+          "J2TTSGNS5QJDJYZGNVVY5MGQJRI3U6QC",
+          "105889"
+        ]
+      ]
+    },
+    {
+      "url": "https://web.archive.org/cdx/search/cdx?url=www.riverview.wednet.edu/*&output=json&filter=statuscode:200&filter=urlkey:.*strategic.*&collapse=urlkey",
+      "result": "timeout"
+    }
+  ],
+  "failed_retrievals": [
+    {
+      "url": "https://www.rsd407.org/district/strategicplan/default.aspx",
+      "result": "404; guessed path, not evidence of document absence"
+    },
+    {
+      "url": "https://rsd407-my.sharepoint.com/:b:/g/personal/chsweb_rsd407_org/Ec-SNdLhBNlHn5v0zsIMTFkBO05PrFGg-U89mN1r0QrYeA?e=PAv2db&download=1",
+      "result": "403"
+    },
+    {
+      "url": "https://studylib.net/doc/13977813/riverview-school-district-no.-407-carnation--wa-98014",
+      "result": "403; indexed Motion09-46 transcription not adopted as original evidence"
+    }
+  ],
+  "web_search_queries": [
+    "site:rsd407.org strategic 2013",
+    "Riverview school district 2020-2025 strategic plan",
+    "Riverview school district 2009 strategic plan",
+    "site:rsd407.org strategic 2015-2020",
+    "site:rsd407.org strategic 2013-14",
+    "site:rsd407.org strategic 2020-2025",
+    "Riverview strategic plan 2013-2014",
+    "Riverview strategic plan 2015-2020",
+    "Riverview strategic plan 2020-2025 pdf"
+  ]
+}
