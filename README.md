@@ -4,9 +4,11 @@ Evidence-driven evaluation of Riverview School District No. 407 strategic plans,
 
 ## Research status
 
-Bounded research complete as of September 30, 2026. Plans 00–07 and the Goal 1 follow-up are in `docs/plans/complete`; no active or queued research remains. Completion refers to research, not overall strategic-goal attainment.
+The bounded **2022–2027 plan evaluation** is complete. Earlier plans were reconstructed for context but have not yet received equivalent objective-by-objective ratings. Plans 08–12 are queued to close that scope gap; no historical research is running yet.
 
-Start with the [final evaluation and master matrix](docs/evaluations/final-synthesis.md). It links student outcomes, finance, allocation, safety, HR and communications findings, unresolved conflicts and specific reopening conditions. Machine-readable matrix: [master-evaluation-matrix.json](data/synthesis/master-evaluation-matrix.json). No new source collection is scheduled or running.
+Start with the [current-plan evaluation and master matrix](docs/evaluations/final-synthesis.md). Prior-iteration work starts at [Plan 08: inventory and boundaries](docs/plans/queue/08-prior-plan-inventory.md), followed by [early iterations](docs/plans/queue/09-early-plan-iterations.md), [2014–2019 reconstruction](docs/plans/queue/10-middle-era-reconstruction.md), [2020–2025 evaluation](docs/plans/queue/11-plan-2020-2025-evaluation.md), and [cross-era synthesis](docs/plans/queue/12-cross-era-evaluation.md).
+
+Plans 00–07 remain complete within their original bounded scope. Research completion is not overall strategic-goal attainment.
 
 ## Principles
 

@@ -1,6 +1,6 @@
-# Final Strategic-Plan Evaluation
+# Bounded 2022–2027 Strategic-Plan Evaluation
 
-Status: bounded research complete, September 30, 2026. Plans 00–07 and the Goal 1 integrity follow-up are closed. This evaluates the reviewed evidence, not every district activity or every historical plan task. No overall attainment score is calculated.
+Status: current-plan bounded research complete, September 30, 2026. Prior-iteration formal reviews are queued under Plans 08–12. Plans 00–07 and the Goal 1 integrity follow-up are closed. This evaluates the reviewed evidence, not every district activity or every historical plan task. No overall attainment score is calculated.
 
 The evidence supports favorable district-wide academic comparisons alongside substantial current focal-group disparities. Financial and operational records establish several narrow actions and targets, while independent fidelity and overall outcome attainment remain uncertain. Recurring work generally reflects ongoing responsibility or an evolving challenge; the reviewed evidence does not justify a blanket finding of recurrent implementation failure.
 
@@ -76,4 +76,4 @@ Document manifests record publisher URLs, original byte hashes and honest captur
 
 Run finance, allocation and communications calculations using the repository scripts and compare committed derived artifacts. Source IDs, local original hashes, calculation outputs, matrix references and repository links were checked for this closeout. Archive gaps and historical/source-definition limits remain reviewable. No new sources, social/analytics pipeline or future-date waiting were introduced in synthesis.
 
-Research is complete at the bounded scope. Future work requires one of the reopening artifacts above; no background research or scheduled collection is implied.
+This current-plan review is complete at its bounded scope. Prior-iteration ratings are a separately authorized extension under queued Plans 08–12, not completed findings. Current-plan reopening still requires material authoritative evidence. No background research or scheduled collection is implied.

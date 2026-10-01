@@ -12,4 +12,4 @@
 - 2020–25 district plan confirmed; public strategic plan plus separate business-plan implementation structure.
 - 2022–27 current plan confirmed.
 
-Bounded research is complete. The unresolved 2014–19 adoption gap remains a limitation, not an active archival task. A concrete authoritative adoption artifact can reopen this history; any new reconstruction should use era-specific files. See the [final synthesis](../evaluations/final-synthesis.md).
+The bounded current-plan review is complete; formal earlier-iteration reviews are queued in Plans 08–12. Plan 08 first verifies versions and authority, including the unresolved 2014–2019 gap and 2020–2025/2022–2027 transition. This history list is a discovery inventory, not a rating of each prior plan. See [Plan 08](../plans/queue/08-prior-plan-inventory.md).
