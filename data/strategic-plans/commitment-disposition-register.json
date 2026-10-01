@@ -1,0 +1,4625 @@
+{
+  "schema_version": 1,
+  "assertion_id": "DISP-REGISTER-01",
+  "kind": "evaluation",
+  "as_of": "2026-10-01",
+  "scope": "54 version-specific objectives,14 original2020\u20132025 metrics and1 historical bond criterion. Overlapping units, not69 independent goals or a complete task census.",
+  "input_sha256": {
+    "data/synthesis/cross-era-evaluation.json": "93b9a2e1f3f2956d6a592e328e547fb30d1a5ca50e2f0611b7e34b08722bb862",
+    "data/strategic-plans/transition-objective-matrix.json": "432264fe1c4aef4d9c3af513ab0077b18a76f17560d4802e7cf43e71c75671ff",
+    "data/strategic-plans/middle-objective-matrix.json": "000c03e7b05b8901a9faa9173c7413939455d260edfb49978174809ddb3284eb",
+    "data/strategic-plans/commitment-disposition-reviews.json": "55e2540b72722a614cb675be134cb9c85d5931f909dbd06e5de7f906e201beb4"
+  },
+  "rules": [
+    "Absence requires a complete relevant successor list; partial Board reports cannot prove disappearance.",
+    "A complete objective list is not a complete goal-metric list.",
+    "Observed thematic revision is distinct from formally adopted replacement or retirement.",
+    "Closure requires cited evidence and rationale; no automatic closure from deadline passage, related work or an X mark.",
+    "Confirmed retirement does not change an original Not met result into Met.",
+    "Open means an evidence question, not a finding of overdue work, failed execution or intentional abandonment."
+  ],
+  "counts": {
+    "units": {
+      "Version-specific objective": 54,
+      "Original goal metric": 14,
+      "Original success criterion": 1
+    },
+    "observed_disposition": {
+      "Unknown": 28,
+      "Revised": 39,
+      "Absent from reviewed successor": 2
+    },
+    "attainment": {
+      "Cannot determine": 67,
+      "Not met (state-assessment component)": 1,
+      "Not met": 1
+    }
+  },
+  "rows": [
+    {
+      "origin_assertion_id": "EARLY-01",
+      "unit": "Version-specific objective",
+      "version": "2012\u20132013",
+      "code": "1A",
+      "commitment_raw": "Continue implementation of Student Learning Protocols and Learning Targets district-wide.",
+      "attainment": "Cannot determine",
+      "implementation": "Partially implemented",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-MAY-28",
+          "pdf_pages": [
+            4
+          ]
+        }
+      ],
+      "result_basis": "Seminar occurred, but practice observations do not measure district-wide fidelity or student outcomes.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/0"
+      },
+      "assertion_id": "DISP-EARLY-01",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "EARLY-14",
+          "EARLY-15",
+          "EARLY-16",
+          "EARLY-17",
+          "EARLY-18",
+          "EARLY-19",
+          "EARLY-20",
+          "EARLY-21"
+        ],
+        "successor_objective_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "No supported exact successor match; partial/missing annual records prevent a retirement or completion inference.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/EARLY-01"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment closure and successor disposition unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "EARLY-02",
+      "unit": "Version-specific objective",
+      "version": "2012\u20132013",
+      "code": "1B",
+      "commitment_raw": "Improve K-12 district-wide assessment score averages in reading, writing, math, and science by spring of 2013.",
+      "attainment": "Cannot determine",
+      "implementation": "Partially implemented",
+      "deadline_raw": "spring 2013",
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-JANUARY-22",
+          "pdf_pages": [
+            7
+          ]
+        },
+        {
+          "source_id": "RSD407-EARLY-MAY-28",
+          "pdf_pages": [
+            5
+          ]
+        }
+      ],
+      "result_basis": "Assessment/alignment work is relevant, but baseline, subject-by-grade score series, state comparator and final target evidence were not recovered. Later score-posting claim is not this endpoint.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/1"
+      },
+      "assertion_id": "DISP-EARLY-02",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "EARLY-14",
+          "EARLY-15",
+          "EARLY-16",
+          "EARLY-17",
+          "EARLY-18",
+          "EARLY-19",
+          "EARLY-20",
+          "EARLY-21"
+        ],
+        "successor_objective_list_complete": false,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "EARLY-14"
+        ],
+        "basis": "Assessment-improvement wording recurs with spring2013 changed to spring2014. No original endpoint closure established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/13"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/EARLY-02"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "EARLY-03",
+      "unit": "Version-specific objective",
+      "version": "2012\u20132013",
+      "code": "1C",
+      "commitment_raw": "Implement K-12 Academically Talented/Honors program review recommendations.",
+      "attainment": "Cannot determine",
+      "implementation": "Partially implemented",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-MAY-28",
+          "pdf_pages": [
+            5
+          ]
+        },
+        {
+          "source_id": "RSD407-EARLY-JUNE-25-2013",
+          "pdf_pages": [
+            3
+          ]
+        }
+      ],
+      "result_basis": "Committee work/use reported, but final schedule, coverage/fidelity and matched student outcomes unavailable.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/2"
+      },
+      "assertion_id": "DISP-EARLY-03",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "EARLY-14",
+          "EARLY-15",
+          "EARLY-16",
+          "EARLY-17",
+          "EARLY-18",
+          "EARLY-19",
+          "EARLY-20",
+          "EARLY-21"
+        ],
+        "successor_objective_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "No supported exact successor match; partial/missing annual records prevent a retirement or completion inference.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/EARLY-03"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment closure and successor disposition unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "EARLY-04",
+      "unit": "Version-specific objective",
+      "version": "2012\u20132013",
+      "code": "1D",
+      "commitment_raw": "Refine current interventions for all students to support student learning.",
+      "attainment": "Cannot determine",
+      "implementation": "Partially implemented",
+      "deadline_raw": {
+        "original": null,
+        "revised": "2013-06-15"
+      },
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-MAY-28",
+          "pdf_pages": [
+            5
+          ]
+        },
+        {
+          "source_id": "RSD407-EARLY-JUNE-25-2013",
+          "pdf_pages": [
+            3
+          ]
+        }
+      ],
+      "result_basis": "Specific report task was not fully implemented at June25 observation even after extension; growth values/report contents unavailable. This is not evidence that all interventions failed.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/3"
+      },
+      "assertion_id": "DISP-EARLY-04",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "EARLY-14",
+          "EARLY-15",
+          "EARLY-16",
+          "EARLY-17",
+          "EARLY-18",
+          "EARLY-19",
+          "EARLY-20",
+          "EARLY-21"
+        ],
+        "successor_objective_list_complete": false,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "EARLY-15"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/14"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/EARLY-04"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "EARLY-05",
+      "unit": "Version-specific objective",
+      "version": "2012\u20132013",
+      "code": "1E",
+      "commitment_raw": "Improve on the partnership between technology and teaching through technology integration.",
+      "attainment": "Cannot determine",
+      "implementation": "Partially implemented",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-JANUARY-22",
+          "pdf_pages": [
+            7
+          ]
+        },
+        {
+          "source_id": "RSD407-EARLY-JUNE-25-2013",
+          "pdf_pages": [
+            3
+          ]
+        }
+      ],
+      "result_basis": "Equipment and sessions establish reported activity, not verified classroom usage or causal learning improvement. January all-classroom claim versus June rollout completion cannot establish installation chronology.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/4"
+      },
+      "assertion_id": "DISP-EARLY-05",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "EARLY-14",
+          "EARLY-15",
+          "EARLY-16",
+          "EARLY-17",
+          "EARLY-18",
+          "EARLY-19",
+          "EARLY-20",
+          "EARLY-21"
+        ],
+        "successor_objective_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "No supported exact successor match; partial/missing annual records prevent a retirement or completion inference.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/EARLY-05"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment closure and successor disposition unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "EARLY-06",
+      "unit": "Version-specific objective",
+      "version": "2012\u20132013",
+      "code": "1F",
+      "commitment_raw": "Operationalize Riverview School District 21st century outcomes and indicators, and publish new thinking skills model.",
+      "attainment": "Cannot determine",
+      "implementation": "Partially implemented",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-JANUARY-22",
+          "pdf_pages": [
+            7
+          ]
+        }
+      ],
+      "result_basis": "Draft posters do not establish operationalization, application or student thinking-skill outcomes.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/5"
+      },
+      "assertion_id": "DISP-EARLY-06",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "EARLY-14",
+          "EARLY-15",
+          "EARLY-16",
+          "EARLY-17",
+          "EARLY-18",
+          "EARLY-19",
+          "EARLY-20",
+          "EARLY-21"
+        ],
+        "successor_objective_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "No supported exact successor match; partial/missing annual records prevent a retirement or completion inference.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/EARLY-06"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment closure and successor disposition unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "EARLY-07",
+      "unit": "Version-specific objective",
+      "version": "2012\u20132013",
+      "code": "1G",
+      "commitment_raw": "Create a three-year plan for implementing the legislatively mandated (E2SSB) teacher and principal evaluation system.",
+      "attainment": "Cannot determine",
+      "implementation": "Partially implemented",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-JANUARY-22",
+          "pdf_pages": [
+            7
+          ]
+        },
+        {
+          "source_id": "RSD407-EARLY-AUGUST-27",
+          "pdf_pages": [
+            4
+          ]
+        }
+      ],
+      "result_basis": "Committee/organizational transfer and later policy adoption do not establish a full three-year plan or evaluation-system fidelity at the earlier deadline.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/6"
+      },
+      "assertion_id": "DISP-EARLY-07",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "EARLY-14",
+          "EARLY-15",
+          "EARLY-16",
+          "EARLY-17",
+          "EARLY-18",
+          "EARLY-19",
+          "EARLY-20",
+          "EARLY-21"
+        ],
+        "successor_objective_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "No supported exact successor match; partial/missing annual records prevent a retirement or completion inference.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/EARLY-07"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment closure and successor disposition unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "EARLY-08",
+      "unit": "Version-specific objective",
+      "version": "2012\u20132013",
+      "code": "2A",
+      "commitment_raw": "Provide a financial process that strengthens student learning despite state funding uncertainties.",
+      "attainment": "Cannot determine",
+      "implementation": "Partially implemented",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-APRIL-23",
+          "pdf_pages": [
+            4
+          ]
+        },
+        {
+          "source_id": "RSD407-EARLY-JUNE-25-2013",
+          "pdf_pages": [
+            3
+          ]
+        }
+      ],
+      "result_basis": "Audit-related reporting is supported, but broad financial process and effects on student learning not measured. FY2010 audits remain available anchors, not substitutions for this year.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/7"
+      },
+      "assertion_id": "DISP-EARLY-08",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "EARLY-14",
+          "EARLY-15",
+          "EARLY-16",
+          "EARLY-17",
+          "EARLY-18",
+          "EARLY-19",
+          "EARLY-20",
+          "EARLY-21"
+        ],
+        "successor_objective_list_complete": false,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "EARLY-16"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/15"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/EARLY-08"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "EARLY-09",
+      "unit": "Version-specific objective",
+      "version": "2012\u20132013",
+      "code": "2C",
+      "commitment_raw": "Monitor and exercise the Comprehensive Safety Plan.",
+      "attainment": "Cannot determine",
+      "implementation": "Partially implemented",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-MAY-28",
+          "pdf_pages": [
+            5
+          ]
+        }
+      ],
+      "result_basis": "Inventory self-report does not test comprehensive safety plan exercises/readiness.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/8"
+      },
+      "assertion_id": "DISP-EARLY-09",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "EARLY-14",
+          "EARLY-15",
+          "EARLY-16",
+          "EARLY-17",
+          "EARLY-18",
+          "EARLY-19",
+          "EARLY-20",
+          "EARLY-21"
+        ],
+        "successor_objective_list_complete": false,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "EARLY-17"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/16"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/EARLY-09"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "EARLY-10",
+      "unit": "Version-specific objective",
+      "version": "2012\u20132013",
+      "code": "2D",
+      "commitment_raw": "Implement an annual district policy review process.",
+      "attainment": "Cannot determine",
+      "implementation": "Partially implemented",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-JANUARY-22",
+          "pdf_pages": [
+            7
+          ]
+        },
+        {
+          "source_id": "RSD407-EARLY-MAY-28",
+          "pdf_pages": [
+            5
+          ]
+        }
+      ],
+      "result_basis": "4000review documented,5000review deferred; no all-series completion inference. Later review may be routine recurrence or unresolved task, not automatic failure.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/9"
+      },
+      "assertion_id": "DISP-EARLY-10",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "EARLY-14",
+          "EARLY-15",
+          "EARLY-16",
+          "EARLY-17",
+          "EARLY-18",
+          "EARLY-19",
+          "EARLY-20",
+          "EARLY-21"
+        ],
+        "successor_objective_list_complete": false,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "EARLY-18"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/17"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/EARLY-10"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "EARLY-11",
+      "unit": "Version-specific objective",
+      "version": "2012\u20132013",
+      "code": "3A",
+      "commitment_raw": "Continue to implement a five-year Human Resources (HR) plan.",
+      "attainment": "Cannot determine",
+      "implementation": "Partially implemented",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-MAY-28",
+          "pdf_pages": [
+            5,
+            6
+          ]
+        }
+      ],
+      "result_basis": "External-consultant presentation occurred, but underlying review/report and whole-plan fidelity unavailable. Follow-up retention values are reported below without causal attribution.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/10"
+      },
+      "assertion_id": "DISP-EARLY-11",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "EARLY-14",
+          "EARLY-15",
+          "EARLY-16",
+          "EARLY-17",
+          "EARLY-18",
+          "EARLY-19",
+          "EARLY-20",
+          "EARLY-21"
+        ],
+        "successor_objective_list_complete": false,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "EARLY-19"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/18"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/EARLY-11"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "EARLY-12",
+      "unit": "Version-specific objective",
+      "version": "2012\u20132013",
+      "code": "3B",
+      "commitment_raw": "Continue to implement the district\u2019s 5-year Communication Plan.",
+      "attainment": "Cannot determine",
+      "implementation": "Partially implemented",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-JUNE-25-2013",
+          "pdf_pages": [
+            4,
+            5
+          ]
+        }
+      ],
+      "result_basis": "Reports and social-media activity are supported; potential reach is not actual unique readership, comprehension or learning impact.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/11"
+      },
+      "assertion_id": "DISP-EARLY-12",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "EARLY-14",
+          "EARLY-15",
+          "EARLY-16",
+          "EARLY-17",
+          "EARLY-18",
+          "EARLY-19",
+          "EARLY-20",
+          "EARLY-21"
+        ],
+        "successor_objective_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "No supported exact successor match; partial/missing annual records prevent a retirement or completion inference.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/EARLY-12"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment closure and successor disposition unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "EARLY-13",
+      "unit": "Version-specific objective",
+      "version": "2012\u20132013",
+      "code": "3C",
+      "commitment_raw": "Develop and implement a parent and community relations program.",
+      "attainment": "Cannot determine",
+      "implementation": "Partially implemented",
+      "deadline_raw": "End of 2012\u20132013 for first-site task; end of 2013\u20132014 for remaining sites.",
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-JANUARY-22",
+          "pdf_pages": [
+            8
+          ]
+        },
+        {
+          "source_id": "RSD407-EARLY-APRIL-23",
+          "pdf_pages": [
+            4
+          ]
+        },
+        {
+          "source_id": "RSD407-EARLY-JUNE-25-2013",
+          "pdf_pages": [
+            5
+          ]
+        }
+      ],
+      "result_basis": "Elementary site revisions are reported, remaining rollout is future work, audience/relationship outcomes unavailable. Later November report repeats2012\u20132013deadline, not a new task deadline.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/12"
+      },
+      "assertion_id": "DISP-EARLY-13",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "EARLY-14",
+          "EARLY-15",
+          "EARLY-16",
+          "EARLY-17",
+          "EARLY-18",
+          "EARLY-19",
+          "EARLY-20",
+          "EARLY-21"
+        ],
+        "successor_objective_list_complete": false,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "EARLY-20"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/19"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/EARLY-13"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "EARLY-14",
+      "unit": "Version-specific objective",
+      "version": "2013\u20132014 revision",
+      "code": "1B",
+      "commitment_raw": "Improve K-12 district-wide assessment score averages in reading, writing, math, and science by spring of 2014.",
+      "attainment": "Cannot determine",
+      "implementation": "Partially implemented",
+      "deadline_raw": "spring 2014",
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-NOVEMBER-26",
+          "pdf_pages": [
+            4
+          ]
+        }
+      ],
+      "result_basis": "Posting results does not demonstrate improvement; no period-matched score baseline/endpoint or state series recovered. Spring2013 wording differs from spring2014; do not erase the older deadline.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/13"
+      },
+      "assertion_id": "DISP-EARLY-14",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "MIDDLE-01",
+          "MIDDLE-02",
+          "MIDDLE-03",
+          "MIDDLE-04",
+          "MIDDLE-05",
+          "MIDDLE-06",
+          "MIDDLE-07",
+          "MIDDLE-08",
+          "MIDDLE-09",
+          "MIDDLE-10",
+          "MIDDLE-11",
+          "MIDDLE-12"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "MIDDLE-02"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/22"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/EARLY-14"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "EARLY-15",
+      "unit": "Version-specific objective",
+      "version": "2013\u20132014 revision",
+      "code": "1C",
+      "commitment_raw": "Refine current interventions for all students to support student learning",
+      "attainment": "Cannot determine",
+      "implementation": "Cannot determine",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-NOVEMBER-26",
+          "pdf_pages": [
+            4
+          ]
+        }
+      ],
+      "result_basis": "Task was rewritten, not shown completed. Objective 1C now refers to interventions formerly 1D; code identity alone cannot establish continuity.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/14"
+      },
+      "assertion_id": "DISP-EARLY-15",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "MIDDLE-01",
+          "MIDDLE-02",
+          "MIDDLE-03",
+          "MIDDLE-04",
+          "MIDDLE-05",
+          "MIDDLE-06",
+          "MIDDLE-07",
+          "MIDDLE-08",
+          "MIDDLE-09",
+          "MIDDLE-10",
+          "MIDDLE-11",
+          "MIDDLE-12"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "MIDDLE-03"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/23"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/EARLY-15"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "EARLY-16",
+      "unit": "Version-specific objective",
+      "version": "2013\u20132014 revision",
+      "code": "2A",
+      "commitment_raw": "Provide a financial process that strengthens student learning despite state funding uncertainties.",
+      "attainment": "Cannot determine",
+      "implementation": "Partially implemented",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-NOVEMBER-26",
+          "pdf_pages": [
+            4,
+            5
+          ]
+        }
+      ],
+      "result_basis": "Finance and publication activities documented. The 7.06% 2012\u20132013 total ending balance is unaudited context, not uncommitted reserve proof or a causal student-learning result.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/15"
+      },
+      "assertion_id": "DISP-EARLY-16",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "MIDDLE-01",
+          "MIDDLE-02",
+          "MIDDLE-03",
+          "MIDDLE-04",
+          "MIDDLE-05",
+          "MIDDLE-06",
+          "MIDDLE-07",
+          "MIDDLE-08",
+          "MIDDLE-09",
+          "MIDDLE-10",
+          "MIDDLE-11",
+          "MIDDLE-12"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "MIDDLE-06"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/26"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/EARLY-16"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "EARLY-17",
+      "unit": "Version-specific objective",
+      "version": "2013\u20132014 revision",
+      "code": "2C",
+      "commitment_raw": "Monitor the Comprehensive Safety Plan and adopt the Emergency Operations Plan.",
+      "attainment": "Cannot determine",
+      "implementation": "Partially implemented",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-SEPTEMBER-24",
+          "pdf_pages": [
+            4
+          ]
+        }
+      ],
+      "result_basis": "Schedules received establish planning activity; actual drill execution, Emergency Operations Plan adoption and readiness are not established.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/16"
+      },
+      "assertion_id": "DISP-EARLY-17",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "MIDDLE-01",
+          "MIDDLE-02",
+          "MIDDLE-03",
+          "MIDDLE-04",
+          "MIDDLE-05",
+          "MIDDLE-06",
+          "MIDDLE-07",
+          "MIDDLE-08",
+          "MIDDLE-09",
+          "MIDDLE-10",
+          "MIDDLE-11",
+          "MIDDLE-12"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "MIDDLE-08"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/28"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/EARLY-17"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "EARLY-18",
+      "unit": "Version-specific objective",
+      "version": "2013\u20132014 revision",
+      "code": "2D",
+      "commitment_raw": "Continue to conduct reviews of district policies.",
+      "attainment": "Cannot determine",
+      "implementation": "Partially implemented",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-NOVEMBER-26",
+          "pdf_pages": [
+            5,
+            7
+          ]
+        }
+      ],
+      "result_basis": "6000 review and first reading recorded; 5000 review remains future work. First reading does not establish final adoption.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/17"
+      },
+      "assertion_id": "DISP-EARLY-18",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "MIDDLE-01",
+          "MIDDLE-02",
+          "MIDDLE-03",
+          "MIDDLE-04",
+          "MIDDLE-05",
+          "MIDDLE-06",
+          "MIDDLE-07",
+          "MIDDLE-08",
+          "MIDDLE-09",
+          "MIDDLE-10",
+          "MIDDLE-11",
+          "MIDDLE-12"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "MIDDLE-09"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/29"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/EARLY-18"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "EARLY-19",
+      "unit": "Version-specific objective",
+      "version": "2013\u20132014 revision",
+      "code": "3A",
+      "commitment_raw": "Implement the new 2013-2018 Human Resources (HR) plan.",
+      "attainment": "Cannot determine",
+      "implementation": "Partially implemented",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": "Turnover baseline 2011\u20132012; reported endpoint 2012\u20132013 predates the new plan.",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-NOVEMBER-26",
+          "pdf_pages": [
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "result_basis": "Mixed staff turnover changes are observations, not target attainment. The report cannot establish fidelity or success of the 2013\u20132018 HR plan; comparisons vary by category and retirements.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/18"
+      },
+      "assertion_id": "DISP-EARLY-19",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "MIDDLE-01",
+          "MIDDLE-02",
+          "MIDDLE-03",
+          "MIDDLE-04",
+          "MIDDLE-05",
+          "MIDDLE-06",
+          "MIDDLE-07",
+          "MIDDLE-08",
+          "MIDDLE-09",
+          "MIDDLE-10",
+          "MIDDLE-11",
+          "MIDDLE-12"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "MIDDLE-10"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/30"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/EARLY-19"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "EARLY-20",
+      "unit": "Version-specific objective",
+      "version": "2013\u20132014 revision",
+      "code": "3C",
+      "commitment_raw": "Develop and implement a parent and community relations program.",
+      "attainment": "Cannot determine",
+      "implementation": "Partially implemented",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-SEPTEMBER-24",
+          "pdf_pages": [
+            4
+          ]
+        },
+        {
+          "source_id": "RSD407-EARLY-NOVEMBER-26",
+          "pdf_pages": [
+            7
+          ]
+        }
+      ],
+      "result_basis": "Reported products and activities do not establish parent/community access, understanding or effects on learning.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/19"
+      },
+      "assertion_id": "DISP-EARLY-20",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "MIDDLE-01",
+          "MIDDLE-02",
+          "MIDDLE-03",
+          "MIDDLE-04",
+          "MIDDLE-05",
+          "MIDDLE-06",
+          "MIDDLE-07",
+          "MIDDLE-08",
+          "MIDDLE-09",
+          "MIDDLE-10",
+          "MIDDLE-11",
+          "MIDDLE-12"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "MIDDLE-12"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/32"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/EARLY-20"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "EARLY-21",
+      "unit": "Version-specific objective",
+      "version": "2013\u20132014 revision",
+      "code": "4C",
+      "commitment_raw": "Evaluate the Superintendent using the WSSDA (Washington State School Directors\u2019 Association) standards-based evaluation pilot tool.",
+      "attainment": "Cannot determine",
+      "implementation": "Cannot determine",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-SEPTEMBER-24",
+          "pdf_pages": [
+            4
+          ]
+        }
+      ],
+      "result_basis": "Training and evaluation completion not established. Subsequent entry report describes 2013\u20132014 phases but is not the WSSDA evaluation result.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/20"
+      },
+      "assertion_id": "DISP-EARLY-21",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "MIDDLE-01",
+          "MIDDLE-02",
+          "MIDDLE-03",
+          "MIDDLE-04",
+          "MIDDLE-05",
+          "MIDDLE-06",
+          "MIDDLE-07",
+          "MIDDLE-08",
+          "MIDDLE-09",
+          "MIDDLE-10",
+          "MIDDLE-11",
+          "MIDDLE-12"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "No supported exact successor match; partial/missing annual records prevent a retirement or completion inference.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/EARLY-21"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment closure and successor disposition unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "MIDDLE-01",
+      "unit": "Version-specific objective",
+      "version": "2015\u20132020 July2016 revision",
+      "code": "1A",
+      "commitment_raw": "Develop a collaborative process integrating department perspectives to\n             focus on student outcomes.",
+      "attainment": "Cannot determine",
+      "implementation": "Reported implemented",
+      "deadline_raw": null,
+      "deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-ITER-2015",
+          "pdf_pages": [
+            32
+          ]
+        }
+      ],
+      "result_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/21"
+      },
+      "assertion_id": "DISP-MIDDLE-01",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "MIDDLE-13",
+          "MIDDLE-14",
+          "MIDDLE-15",
+          "MIDDLE-16",
+          "MIDDLE-17",
+          "MIDDLE-18",
+          "MIDDLE-19"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "MIDDLE-14"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/34"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/MIDDLE-01"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "MIDDLE-02",
+      "unit": "Version-specific objective",
+      "version": "2015\u20132020 July2016 revision",
+      "code": "1B",
+      "commitment_raw": "Improve student growth for all students in all areas.",
+      "attainment": "Cannot determine",
+      "implementation": "Reported implemented",
+      "deadline_raw": null,
+      "deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-ITER-2015",
+          "pdf_pages": [
+            33
+          ]
+        }
+      ],
+      "result_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/22"
+      },
+      "assertion_id": "DISP-MIDDLE-02",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "MIDDLE-13",
+          "MIDDLE-14",
+          "MIDDLE-15",
+          "MIDDLE-16",
+          "MIDDLE-17",
+          "MIDDLE-18",
+          "MIDDLE-19"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "MIDDLE-13"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/33"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/MIDDLE-02"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "MIDDLE-03",
+      "unit": "Version-specific objective",
+      "version": "2015\u20132020 July2016 revision",
+      "code": "1C",
+      "commitment_raw": "Improve student growth for at-risk students in all areas.",
+      "attainment": "Cannot determine",
+      "implementation": "Reported implemented",
+      "deadline_raw": null,
+      "deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-ITER-2015",
+          "pdf_pages": [
+            34
+          ]
+        }
+      ],
+      "result_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/23"
+      },
+      "assertion_id": "DISP-MIDDLE-03",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "MIDDLE-13",
+          "MIDDLE-14",
+          "MIDDLE-15",
+          "MIDDLE-16",
+          "MIDDLE-17",
+          "MIDDLE-18",
+          "MIDDLE-19"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "MIDDLE-13"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/33"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/MIDDLE-03"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "MIDDLE-04",
+      "unit": "Version-specific objective",
+      "version": "2015\u20132020 July2016 revision",
+      "code": "1D",
+      "commitment_raw": "Use technology to promote student growth.",
+      "attainment": "Cannot determine",
+      "implementation": "Reported implemented",
+      "deadline_raw": null,
+      "deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-ITER-2015",
+          "pdf_pages": [
+            35
+          ]
+        }
+      ],
+      "result_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/24"
+      },
+      "assertion_id": "DISP-MIDDLE-04",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "MIDDLE-13",
+          "MIDDLE-14",
+          "MIDDLE-15",
+          "MIDDLE-16",
+          "MIDDLE-17",
+          "MIDDLE-18",
+          "MIDDLE-19"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "MIDDLE-14"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/34"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/MIDDLE-04"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "MIDDLE-05",
+      "unit": "Version-specific objective",
+      "version": "2015\u20132020 July2016 revision",
+      "code": "1E",
+      "commitment_raw": "Identify and plan for the Classroom of the Future.",
+      "attainment": "Cannot determine",
+      "implementation": "Reported implemented",
+      "deadline_raw": null,
+      "deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-ITER-2015",
+          "pdf_pages": [
+            36
+          ]
+        }
+      ],
+      "result_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/25"
+      },
+      "assertion_id": "DISP-MIDDLE-05",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "MIDDLE-13",
+          "MIDDLE-14",
+          "MIDDLE-15",
+          "MIDDLE-16",
+          "MIDDLE-17",
+          "MIDDLE-18",
+          "MIDDLE-19"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "MIDDLE-13"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/33"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/MIDDLE-05"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "MIDDLE-06",
+      "unit": "Version-specific objective",
+      "version": "2015\u20132020 July2016 revision",
+      "code": "2A",
+      "commitment_raw": "Provide a financial process that strengthens student learning and leverages\n             financial markets to the benefit of the district taxpayers.",
+      "attainment": "Cannot determine",
+      "implementation": "Reported partial",
+      "deadline_raw": null,
+      "deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-ITER-2015",
+          "pdf_pages": [
+            38
+          ]
+        }
+      ],
+      "result_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/26"
+      },
+      "assertion_id": "DISP-MIDDLE-06",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "MIDDLE-13",
+          "MIDDLE-14",
+          "MIDDLE-15",
+          "MIDDLE-16",
+          "MIDDLE-17",
+          "MIDDLE-18",
+          "MIDDLE-19"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "MIDDLE-15"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/35"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/MIDDLE-06"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "MIDDLE-07",
+      "unit": "Version-specific objective",
+      "version": "2015\u20132020 July2016 revision",
+      "code": "2B",
+      "commitment_raw": "Establish and implement a prioritized list of property acquisition and projects\n             consistent with capital projects levy financing with the consent of the School\n             Board.",
+      "attainment": "Cannot determine",
+      "implementation": "Reported partial",
+      "deadline_raw": null,
+      "deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-ITER-2015",
+          "pdf_pages": [
+            39,
+            40
+          ]
+        }
+      ],
+      "result_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/27"
+      },
+      "assertion_id": "DISP-MIDDLE-07",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "MIDDLE-13",
+          "MIDDLE-14",
+          "MIDDLE-15",
+          "MIDDLE-16",
+          "MIDDLE-17",
+          "MIDDLE-18",
+          "MIDDLE-19"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "MIDDLE-16"
+        ],
+        "basis": "Property acquisition disappears from the successor title while capital-project scope remains. Four boundary tasks were reported postponed; their later closure is unverified.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/36"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/MIDDLE-07"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "MIDDLE-08",
+      "unit": "Version-specific objective",
+      "version": "2015\u20132020 July2016 revision",
+      "code": "2C",
+      "commitment_raw": "Manage all aspects of the district\u2019s Safety and Emergency Operations\n             Plans.",
+      "attainment": "Cannot determine",
+      "implementation": "Reported partial",
+      "deadline_raw": null,
+      "deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-ITER-2015",
+          "pdf_pages": [
+            41,
+            42
+          ]
+        }
+      ],
+      "result_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/28"
+      },
+      "assertion_id": "DISP-MIDDLE-08",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "MIDDLE-13",
+          "MIDDLE-14",
+          "MIDDLE-15",
+          "MIDDLE-16",
+          "MIDDLE-17",
+          "MIDDLE-18",
+          "MIDDLE-19"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "MIDDLE-17"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/37"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/MIDDLE-08"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "MIDDLE-09",
+      "unit": "Version-specific objective",
+      "version": "2015\u20132020 July2016 revision",
+      "code": "2D",
+      "commitment_raw": "Continue to conduct reviews of the School Board\u2019s policies.",
+      "attainment": "Cannot determine",
+      "implementation": "Reported implemented",
+      "deadline_raw": null,
+      "deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-ITER-2015",
+          "pdf_pages": [
+            43
+          ]
+        }
+      ],
+      "result_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/29"
+      },
+      "assertion_id": "DISP-MIDDLE-09",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "MIDDLE-13",
+          "MIDDLE-14",
+          "MIDDLE-15",
+          "MIDDLE-16",
+          "MIDDLE-17",
+          "MIDDLE-18",
+          "MIDDLE-19"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Absent from reviewed successor",
+        "related_successor_ids": [],
+        "basis": "Dedicated policy-review objective absent from complete year-five objective list. Retrospective policy-review activity remains reported, not independently verified full objective attainment.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01",
+        "supporting_assertion_ids": [
+          "MIDDLE-CROSSWALK-01"
+        ]
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/MIDDLE-09"
+      },
+      "unverified_and_absent": true,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Unverified attainment; dedicated objective absent from reviewed successor"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "MIDDLE-10",
+      "unit": "Version-specific objective",
+      "version": "2015\u20132020 July2016 revision",
+      "code": "3A",
+      "commitment_raw": "Continue to implement the 2013-2018 Human Resources (HR) Plan.",
+      "attainment": "Cannot determine",
+      "implementation": "Reported implemented",
+      "deadline_raw": null,
+      "deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-ITER-2015",
+          "pdf_pages": [
+            45
+          ]
+        }
+      ],
+      "result_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/30"
+      },
+      "assertion_id": "DISP-MIDDLE-10",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "MIDDLE-13",
+          "MIDDLE-14",
+          "MIDDLE-15",
+          "MIDDLE-16",
+          "MIDDLE-17",
+          "MIDDLE-18",
+          "MIDDLE-19"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "MIDDLE-18"
+        ],
+        "basis": "Named HR subplan changes2013\u20132018 to2018\u20132023; attainment of original subplan remains unverified.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/38"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/MIDDLE-10"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "MIDDLE-11",
+      "unit": "Version-specific objective",
+      "version": "2015\u20132020 July2016 revision",
+      "code": "3B",
+      "commitment_raw": "Develop and implement the district\u2019s 2016 Communications Plan process.",
+      "attainment": "Cannot determine",
+      "implementation": "Reported partial",
+      "deadline_raw": null,
+      "deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-ITER-2015",
+          "pdf_pages": [
+            46,
+            47
+          ]
+        }
+      ],
+      "result_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/31"
+      },
+      "assertion_id": "DISP-MIDDLE-11",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "MIDDLE-13",
+          "MIDDLE-14",
+          "MIDDLE-15",
+          "MIDDLE-16",
+          "MIDDLE-17",
+          "MIDDLE-18",
+          "MIDDLE-19"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "MIDDLE-19"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/39"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/MIDDLE-11"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "MIDDLE-12",
+      "unit": "Version-specific objective",
+      "version": "2015\u20132020 July2016 revision",
+      "code": "3C",
+      "commitment_raw": "Cultivate increased community outreach.",
+      "attainment": "Cannot determine",
+      "implementation": "Reported partial",
+      "deadline_raw": null,
+      "deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-ITER-2015",
+          "pdf_pages": [
+            48,
+            49
+          ]
+        }
+      ],
+      "result_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/32"
+      },
+      "assertion_id": "DISP-MIDDLE-12",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "MIDDLE-13",
+          "MIDDLE-14",
+          "MIDDLE-15",
+          "MIDDLE-16",
+          "MIDDLE-17",
+          "MIDDLE-18",
+          "MIDDLE-19"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "MIDDLE-19"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/39"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/MIDDLE-12"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "MIDDLE-13",
+      "unit": "Version-specific objective",
+      "version": "2015\u20132020 year-five2019\u20132020",
+      "code": "1A",
+      "commitment_raw": "Further develop curriculum and supports for student learning.",
+      "attainment": "Cannot determine",
+      "implementation": "Reported partial",
+      "deadline_raw": null,
+      "deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-ITER-2019",
+          "pdf_pages": [
+            21,
+            22
+          ]
+        }
+      ],
+      "result_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/33"
+      },
+      "assertion_id": "DISP-MIDDLE-13",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "TRANS-OBJ-01",
+          "TRANS-OBJ-02",
+          "TRANS-OBJ-03",
+          "TRANS-OBJ-04",
+          "TRANS-OBJ-05",
+          "TRANS-OBJ-06",
+          "TRANS-OBJ-07"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "TRANS-OBJ-01"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/40"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/MIDDLE-13"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "MIDDLE-14",
+      "unit": "Version-specific objective",
+      "version": "2015\u20132020 year-five2019\u20132020",
+      "code": "1B",
+      "commitment_raw": "Integrate priorities of Information Technology, Student Services, and Teaching\n            and Learning where appropriate and feasible.",
+      "attainment": "Cannot determine",
+      "implementation": "Reported partial",
+      "deadline_raw": null,
+      "deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-ITER-2019",
+          "pdf_pages": [
+            23
+          ]
+        }
+      ],
+      "result_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/34"
+      },
+      "assertion_id": "DISP-MIDDLE-14",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "TRANS-OBJ-01",
+          "TRANS-OBJ-02",
+          "TRANS-OBJ-03",
+          "TRANS-OBJ-04",
+          "TRANS-OBJ-05",
+          "TRANS-OBJ-06",
+          "TRANS-OBJ-07"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "TRANS-OBJ-03"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/42"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/MIDDLE-14"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "MIDDLE-15",
+      "unit": "Version-specific objective",
+      "version": "2015\u20132020 year-five2019\u20132020",
+      "code": "2A",
+      "commitment_raw": "Provide a financial and operational process that strengthens student learning\n            and leverages financial markets to benefit the district taxpayers.",
+      "attainment": "Cannot determine",
+      "implementation": "Reported partial",
+      "deadline_raw": null,
+      "deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-ITER-2019",
+          "pdf_pages": [
+            25
+          ]
+        }
+      ],
+      "result_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/35"
+      },
+      "assertion_id": "DISP-MIDDLE-15",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "TRANS-OBJ-01",
+          "TRANS-OBJ-02",
+          "TRANS-OBJ-03",
+          "TRANS-OBJ-04",
+          "TRANS-OBJ-05",
+          "TRANS-OBJ-06",
+          "TRANS-OBJ-07"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "TRANS-OBJ-04"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/43"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/MIDDLE-15"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "MIDDLE-16",
+      "unit": "Version-specific objective",
+      "version": "2015\u20132020 year-five2019\u20132020",
+      "code": "2B",
+      "commitment_raw": "Establish and implement a prioritized list of projects consistent with capital\n            projects levy financing with the consent of the School Board.",
+      "attainment": "Cannot determine",
+      "implementation": "Reported partial",
+      "deadline_raw": null,
+      "deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-ITER-2019",
+          "pdf_pages": [
+            26
+          ]
+        }
+      ],
+      "result_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/36"
+      },
+      "assertion_id": "DISP-MIDDLE-16",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "TRANS-OBJ-01",
+          "TRANS-OBJ-02",
+          "TRANS-OBJ-03",
+          "TRANS-OBJ-04",
+          "TRANS-OBJ-05",
+          "TRANS-OBJ-06",
+          "TRANS-OBJ-07"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "TRANS-OBJ-04"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/43"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/MIDDLE-16"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "MIDDLE-17",
+      "unit": "Version-specific objective",
+      "version": "2015\u20132020 year-five2019\u20132020",
+      "code": "2C",
+      "commitment_raw": "Manage all aspects of the District\u2019s Safety and Emergency Operations Plans.",
+      "attainment": "Cannot determine",
+      "implementation": "Reported partial",
+      "deadline_raw": null,
+      "deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-ITER-2019",
+          "pdf_pages": [
+            27,
+            28
+          ]
+        }
+      ],
+      "result_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/37"
+      },
+      "assertion_id": "DISP-MIDDLE-17",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "TRANS-OBJ-01",
+          "TRANS-OBJ-02",
+          "TRANS-OBJ-03",
+          "TRANS-OBJ-04",
+          "TRANS-OBJ-05",
+          "TRANS-OBJ-06",
+          "TRANS-OBJ-07"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "TRANS-OBJ-05"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/44"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/MIDDLE-17"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "MIDDLE-18",
+      "unit": "Version-specific objective",
+      "version": "2015\u20132020 year-five2019\u20132020",
+      "code": "3A",
+      "commitment_raw": "Implement the 2018-2023 Human Resources (HR) Plan.",
+      "attainment": "Cannot determine",
+      "implementation": "Reported partial",
+      "deadline_raw": null,
+      "deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-ITER-2019",
+          "pdf_pages": [
+            30
+          ]
+        }
+      ],
+      "result_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/38"
+      },
+      "assertion_id": "DISP-MIDDLE-18",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "TRANS-OBJ-01",
+          "TRANS-OBJ-02",
+          "TRANS-OBJ-03",
+          "TRANS-OBJ-04",
+          "TRANS-OBJ-05",
+          "TRANS-OBJ-06",
+          "TRANS-OBJ-07"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "TRANS-OBJ-06"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/45"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/MIDDLE-18"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "MIDDLE-19",
+      "unit": "Version-specific objective",
+      "version": "2015\u20132020 year-five2019\u20132020",
+      "code": "3B",
+      "commitment_raw": "Management of the Riverview School District\u2019s Communications Program.",
+      "attainment": "Cannot determine",
+      "implementation": "Cannot determine",
+      "deadline_raw": null,
+      "deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-ITER-2019",
+          "pdf_pages": [
+            31
+          ]
+        }
+      ],
+      "result_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/39"
+      },
+      "assertion_id": "DISP-MIDDLE-19",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "TRANS-OBJ-01",
+          "TRANS-OBJ-02",
+          "TRANS-OBJ-03",
+          "TRANS-OBJ-04",
+          "TRANS-OBJ-05",
+          "TRANS-OBJ-06",
+          "TRANS-OBJ-07"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "TRANS-OBJ-07"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/46"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/MIDDLE-19"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "TRANS-OBJ-01",
+      "unit": "Version-specific objective",
+      "version": "2020\u20132025 year-one2020\u20132021",
+      "code": "1A",
+      "commitment_raw": "Review, develop and implement aligned curriculum and supports for\n            student learning.",
+      "attainment": "Cannot determine",
+      "implementation": "Cannot determine",
+      "deadline_raw": null,
+      "deadline_reference": "transition-task-register.json",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-TRANS-PLAN2020",
+          "pdf_pages": [
+            23,
+            24
+          ]
+        }
+      ],
+      "result_basis": "See individual2025 target tests. One state-assessment benchmark result or contextual diagnostics does not settle every part of an objective.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/40"
+      },
+      "assertion_id": "DISP-TRANS-OBJ-01",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "CROSS-CURRENT-1A",
+          "CROSS-CURRENT-1B",
+          "CROSS-CURRENT-2A",
+          "CROSS-CURRENT-2B",
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B",
+          "CROSS-CURRENT-3C"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "CROSS-CURRENT-1A"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/47"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/TRANS-OBJ-01"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "TRANS-OBJ-02",
+      "unit": "Version-specific objective",
+      "version": "2020\u20132025 year-one2020\u20132021",
+      "code": "1B",
+      "commitment_raw": "Reduce achievement gaps that exist in students who receive English\n            Language, Low Income, Homelessness, and Students with Disabilities\n            Services.",
+      "attainment": "Cannot determine",
+      "implementation": "Cannot determine",
+      "deadline_raw": null,
+      "deadline_reference": "transition-task-register.json",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-TRANS-PLAN2020",
+          "pdf_pages": [
+            25,
+            26
+          ]
+        }
+      ],
+      "result_basis": "See individual2025 target tests. One state-assessment benchmark result or contextual diagnostics does not settle every part of an objective.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/41"
+      },
+      "assertion_id": "DISP-TRANS-OBJ-02",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "CROSS-CURRENT-1A",
+          "CROSS-CURRENT-1B",
+          "CROSS-CURRENT-2A",
+          "CROSS-CURRENT-2B",
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B",
+          "CROSS-CURRENT-3C"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "CROSS-CURRENT-1B"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/48"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/TRANS-OBJ-02"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "TRANS-OBJ-03",
+      "unit": "Version-specific objective",
+      "version": "2020\u20132025 year-one2020\u20132021",
+      "code": "1C",
+      "commitment_raw": "Increase Integration of Information Technology, Student Services and\n            Teaching and Learning to support student and staff learning.",
+      "attainment": "Cannot determine",
+      "implementation": "Reported partial",
+      "deadline_raw": null,
+      "deadline_reference": "transition-task-register.json",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-TRANS-PLAN2020",
+          "pdf_pages": [
+            27,
+            28
+          ]
+        }
+      ],
+      "result_basis": "See individual2025 target tests. One state-assessment benchmark result or contextual diagnostics does not settle every part of an objective.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/42"
+      },
+      "assertion_id": "DISP-TRANS-OBJ-03",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "CROSS-CURRENT-1A",
+          "CROSS-CURRENT-1B",
+          "CROSS-CURRENT-2A",
+          "CROSS-CURRENT-2B",
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B",
+          "CROSS-CURRENT-3C"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Absent from reviewed successor",
+        "related_successor_ids": [],
+        "basis": "Dedicated department-integration objective absent from complete September2024 objective list. Related learning/technology activities continue within other objectives; disappearance of a dedicated objective does not establish retirement.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01",
+        "supporting_assertion_ids": [
+          "TRANS-CROSSWALK-01",
+          "CROSS-FAMILY-03"
+        ]
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/TRANS-OBJ-03"
+      },
+      "unverified_and_absent": true,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Unverified attainment; dedicated objective absent from reviewed successor"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "TRANS-OBJ-04",
+      "unit": "Version-specific objective",
+      "version": "2020\u20132025 year-one2020\u20132021",
+      "code": "2A",
+      "commitment_raw": "Increase allocation of resources (people, time, money) equitably based on\n            school and community needs to reduce barriers that inhibit student\n            learning.",
+      "attainment": "Cannot determine",
+      "implementation": "Cannot determine",
+      "deadline_raw": null,
+      "deadline_reference": "transition-task-register.json",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-TRANS-PLAN2020",
+          "pdf_pages": [
+            31
+          ]
+        }
+      ],
+      "result_basis": "See individual2025 target tests. One state-assessment benchmark result or contextual diagnostics does not settle every part of an objective.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/43"
+      },
+      "assertion_id": "DISP-TRANS-OBJ-04",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "CROSS-CURRENT-1A",
+          "CROSS-CURRENT-1B",
+          "CROSS-CURRENT-2A",
+          "CROSS-CURRENT-2B",
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B",
+          "CROSS-CURRENT-3C"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "CROSS-CURRENT-2A"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/49"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/TRANS-OBJ-04"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "TRANS-OBJ-05",
+      "unit": "Version-specific objective",
+      "version": "2020\u20132025 year-one2020\u20132021",
+      "code": "2B",
+      "commitment_raw": "Strengthen and communicate district wide operations to support the safety\n            and wellness of students.",
+      "attainment": "Cannot determine",
+      "implementation": "Cannot determine",
+      "deadline_raw": null,
+      "deadline_reference": "transition-task-register.json",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-TRANS-PLAN2020",
+          "pdf_pages": [
+            32
+          ]
+        }
+      ],
+      "result_basis": "See individual2025 target tests. One state-assessment benchmark result or contextual diagnostics does not settle every part of an objective.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/44"
+      },
+      "assertion_id": "DISP-TRANS-OBJ-05",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "CROSS-CURRENT-1A",
+          "CROSS-CURRENT-1B",
+          "CROSS-CURRENT-2A",
+          "CROSS-CURRENT-2B",
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B",
+          "CROSS-CURRENT-3C"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "CROSS-CURRENT-2B"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/50"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/TRANS-OBJ-05"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "TRANS-OBJ-06",
+      "unit": "Version-specific objective",
+      "version": "2020\u20132025 year-one2020\u20132021",
+      "code": "3A",
+      "commitment_raw": "Provide Human Resources and Communication practices to improve\n            student learning.",
+      "attainment": "Cannot determine",
+      "implementation": "Cannot determine",
+      "deadline_raw": null,
+      "deadline_reference": "transition-task-register.json",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-TRANS-PLAN2020",
+          "pdf_pages": [
+            35,
+            36
+          ]
+        }
+      ],
+      "result_basis": "See individual2025 target tests. One state-assessment benchmark result or contextual diagnostics does not settle every part of an objective.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/45"
+      },
+      "assertion_id": "DISP-TRANS-OBJ-06",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "CROSS-CURRENT-1A",
+          "CROSS-CURRENT-1B",
+          "CROSS-CURRENT-2A",
+          "CROSS-CURRENT-2B",
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B",
+          "CROSS-CURRENT-3C"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/51"
+        },
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/52"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/TRANS-OBJ-06"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "TRANS-OBJ-07",
+      "unit": "Version-specific objective",
+      "version": "2020\u20132025 year-one2020\u20132021",
+      "code": "3B",
+      "commitment_raw": "Increase the Reach of the Riverview School District\u2019s Communications\n            program.",
+      "attainment": "Cannot determine",
+      "implementation": "Cannot determine",
+      "deadline_raw": null,
+      "deadline_reference": "transition-task-register.json",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-TRANS-PLAN2020",
+          "pdf_pages": [
+            37,
+            38
+          ]
+        }
+      ],
+      "result_basis": "See individual2025 target tests. One state-assessment benchmark result or contextual diagnostics does not settle every part of an objective.",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/46"
+      },
+      "assertion_id": "DISP-TRANS-OBJ-07",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "CROSS-CURRENT-1A",
+          "CROSS-CURRENT-1B",
+          "CROSS-CURRENT-2A",
+          "CROSS-CURRENT-2B",
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B",
+          "CROSS-CURRENT-3C"
+        ],
+        "successor_objective_list_complete": true,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "CROSS-CURRENT-3C"
+        ],
+        "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/synthesis/cross-era-evaluation.json",
+          "json_pointer": "/objective_matrix/53"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/TRANS-OBJ-07"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "CROSS-CURRENT-1A",
+      "unit": "Version-specific objective",
+      "version": "2022\u20132027 September2024 revised snapshot with later bounded domain evidence",
+      "code": "1A",
+      "commitment_raw": "Review, develop, and implement aligned curriculum and supports for student learning.",
+      "attainment": "Cannot determine",
+      "implementation": "Cannot determine full objective; see component scopes",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-SP-2024-SEP",
+          "pdf_pages": [
+            5
+          ]
+        }
+      ],
+      "result_basis": "Current snapshot definition plus completed bounded domain review; no combined rating invented",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/47"
+      },
+      "assertion_id": "DISP-CROSS-CURRENT-1A",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [],
+        "successor_objective_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "No later complete objective register is included in this bounded comparison. Current cycle continues through2027; no omission or deadline failure inferred.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/CROSS-CURRENT-1A"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Current objective; no later complete register comparison"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "CROSS-CURRENT-1B",
+      "unit": "Version-specific objective",
+      "version": "2022\u20132027 September2024 revised snapshot with later bounded domain evidence",
+      "code": "1B",
+      "commitment_raw": "Reduce achievement gaps that exist in students who receive Multilingual, Low Income, Homelessness, and Students with Disabilities services.",
+      "attainment": "Cannot determine",
+      "implementation": "Cannot determine full objective; see component scopes",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-SP-2024-SEP",
+          "pdf_pages": [
+            6
+          ]
+        }
+      ],
+      "result_basis": "Current snapshot definition plus completed bounded domain review; no combined rating invented",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/48"
+      },
+      "assertion_id": "DISP-CROSS-CURRENT-1B",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [],
+        "successor_objective_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "No later complete objective register is included in this bounded comparison. Current cycle continues through2027; no omission or deadline failure inferred.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/CROSS-CURRENT-1B"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Current objective; no later complete register comparison"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "CROSS-CURRENT-2A",
+      "unit": "Version-specific objective",
+      "version": "2022\u20132027 September2024 revised snapshot with later bounded domain evidence",
+      "code": "2A",
+      "commitment_raw": "Increase allocation of resources (people, time, money) equitably based on school and community needs to reduce barriers that inhibit student learning.",
+      "attainment": "Cannot determine",
+      "implementation": "Cannot determine full objective; see component scopes",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-SP-2024-SEP",
+          "pdf_pages": [
+            8
+          ]
+        }
+      ],
+      "result_basis": "Current snapshot definition plus completed bounded domain review; no combined rating invented",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/49"
+      },
+      "assertion_id": "DISP-CROSS-CURRENT-2A",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [],
+        "successor_objective_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "No later complete objective register is included in this bounded comparison. Current cycle continues through2027; no omission or deadline failure inferred.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/CROSS-CURRENT-2A"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Current objective; no later complete register comparison"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "CROSS-CURRENT-2B",
+      "unit": "Version-specific objective",
+      "version": "2022\u20132027 September2024 revised snapshot with later bounded domain evidence",
+      "code": "2B",
+      "commitment_raw": "Strengthen and communicate district wide operations to support the safety and wellness of students.",
+      "attainment": "Cannot determine",
+      "implementation": "Cannot determine full objective; see component scopes",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-SP-2024-SEP",
+          "pdf_pages": [
+            9
+          ]
+        }
+      ],
+      "result_basis": "Current snapshot definition plus completed bounded domain review; no combined rating invented",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/50"
+      },
+      "assertion_id": "DISP-CROSS-CURRENT-2B",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [],
+        "successor_objective_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "No later complete objective register is included in this bounded comparison. Current cycle continues through2027; no omission or deadline failure inferred.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/CROSS-CURRENT-2B"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Current objective; no later complete register comparison"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "CROSS-CURRENT-3A",
+      "unit": "Version-specific objective",
+      "version": "2022\u20132027 September2024 revised snapshot with later bounded domain evidence",
+      "code": "3A",
+      "commitment_raw": "Recruit, select, and retain a diverse qualified staff that closely matches our student demographic.",
+      "attainment": "Cannot determine",
+      "implementation": "Cannot determine full objective; see component scopes",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-SP-2024-SEP",
+          "pdf_pages": [
+            11
+          ]
+        }
+      ],
+      "result_basis": "Current snapshot definition plus completed bounded domain review; no combined rating invented",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/51"
+      },
+      "assertion_id": "DISP-CROSS-CURRENT-3A",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [],
+        "successor_objective_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "No later complete objective register is included in this bounded comparison. Current cycle continues through2027; no omission or deadline failure inferred.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/CROSS-CURRENT-3A"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Current objective; no later complete register comparison"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "CROSS-CURRENT-3B",
+      "unit": "Version-specific objective",
+      "version": "2022\u20132027 September2024 revised snapshot with later bounded domain evidence",
+      "code": "3B",
+      "commitment_raw": "Develop and implement staff professional learning.",
+      "attainment": "Cannot determine",
+      "implementation": "Cannot determine full objective; see component scopes",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-SP-2024-SEP",
+          "pdf_pages": [
+            12
+          ]
+        }
+      ],
+      "result_basis": "Current snapshot definition plus completed bounded domain review; no combined rating invented",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/52"
+      },
+      "assertion_id": "DISP-CROSS-CURRENT-3B",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [],
+        "successor_objective_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "No later complete objective register is included in this bounded comparison. Current cycle continues through2027; no omission or deadline failure inferred.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/CROSS-CURRENT-3B"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Current objective; no later complete register comparison"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "CROSS-CURRENT-3C",
+      "unit": "Version-specific objective",
+      "version": "2022\u20132027 September2024 revised snapshot with later bounded domain evidence",
+      "code": "3C",
+      "commitment_raw": "Increase the reach of the Riverview School District\u2019s Communication program.",
+      "attainment": "Cannot determine",
+      "implementation": "Cannot determine full objective; see component scopes",
+      "deadline_raw": null,
+      "deadline_reference": null,
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-SP-2024-SEP",
+          "pdf_pages": [
+            13
+          ]
+        }
+      ],
+      "result_basis": "Current snapshot definition plus completed bounded domain review; no combined rating invented",
+      "origin": {
+        "file": "data/synthesis/cross-era-evaluation.json",
+        "json_pointer": "/objective_matrix/53"
+      },
+      "assertion_id": "DISP-CROSS-CURRENT-3C",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [],
+        "successor_objective_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "No later complete objective register is included in this bounded comparison. Current cycle continues through2027; no omission or deadline failure inferred.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/CROSS-CURRENT-3C"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Current objective; no later complete register comparison"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "TRANS-TARGET-01",
+      "unit": "Original goal metric",
+      "version": "2020\u20132025 year-one specification",
+      "code": "Goal1",
+      "commitment_raw": "By 2025, course standards, curriculum and assessments will be identified and\n        implemented.",
+      "attainment": "Cannot determine",
+      "implementation": null,
+      "deadline_raw": "2025",
+      "deadline_reference": "Original wording retained in commitment_raw",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-TRANS-PLAN2020",
+          "pdf_pages": [
+            21
+          ]
+        }
+      ],
+      "result_basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "origin": {
+        "file": "data/strategic-plans/transition-objective-matrix.json",
+        "json_pointer": "/goal_targets/0"
+      },
+      "assertion_id": "DISP-TRANS-TARGET-01",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "CROSS-CURRENT-1A",
+          "CROSS-CURRENT-1B",
+          "CROSS-CURRENT-2A",
+          "CROSS-CURRENT-2B",
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B",
+          "CROSS-CURRENT-3C"
+        ],
+        "successor_objective_list_complete": true,
+        "successor_target_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/TRANS-TARGET-01"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment closure and successor disposition unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "TRANS-TARGET-02",
+      "unit": "Original goal metric",
+      "version": "2020\u20132025 year-one specification",
+      "code": "Goal1",
+      "commitment_raw": "By 2025, students receiving both English Language and Special Education\n        services will be reduced to 12.9%.",
+      "attainment": "Cannot determine",
+      "implementation": null,
+      "deadline_raw": "2025",
+      "deadline_reference": "Original wording retained in commitment_raw",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-TRANS-PLAN2020",
+          "pdf_pages": [
+            21
+          ]
+        }
+      ],
+      "result_basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "origin": {
+        "file": "data/strategic-plans/transition-objective-matrix.json",
+        "json_pointer": "/goal_targets/1"
+      },
+      "assertion_id": "DISP-TRANS-TARGET-02",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "CROSS-CURRENT-1A",
+          "CROSS-CURRENT-1B",
+          "CROSS-CURRENT-2A",
+          "CROSS-CURRENT-2B",
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B",
+          "CROSS-CURRENT-3C"
+        ],
+        "successor_objective_list_complete": true,
+        "successor_target_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/TRANS-TARGET-02"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment closure and successor disposition unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "TRANS-TARGET-03",
+      "unit": "Original goal metric",
+      "version": "2020\u20132025 year-one specification",
+      "code": "Goal1",
+      "commitment_raw": "By 2025, 85% of grade 3 students will be meeting or exceeding grade-level\n        standards in ELA, as measured by district and state assessments.",
+      "attainment": "Not met (state-assessment component)",
+      "implementation": null,
+      "deadline_raw": "2025",
+      "deadline_reference": "Original wording retained in commitment_raw",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-TRANS-PLAN2020",
+          "pdf_pages": [
+            21
+          ]
+        }
+      ],
+      "result_basis": "2024\u20132025 grade03 All Students SBAC ELA54.8% versus85%. District assessment component unrecovered; governing replacement unresolved.",
+      "origin": {
+        "file": "data/strategic-plans/transition-objective-matrix.json",
+        "json_pointer": "/goal_targets/2"
+      },
+      "assertion_id": "DISP-TRANS-TARGET-03",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "CROSS-CURRENT-1A",
+          "CROSS-CURRENT-1B",
+          "CROSS-CURRENT-2A",
+          "CROSS-CURRENT-2B",
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B",
+          "CROSS-CURRENT-3C"
+        ],
+        "successor_objective_list_complete": true,
+        "successor_target_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/TRANS-TARGET-03"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment closure and successor disposition unresolved",
+        "Documented criterion miss; disposition/closure unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "TRANS-TARGET-04",
+      "unit": "Original goal metric",
+      "version": "2020\u20132025 year-one specification",
+      "code": "Goal1",
+      "commitment_raw": "By 2025, 95% of seniors will graduate on time with college credits or certification.",
+      "attainment": "Cannot determine",
+      "implementation": null,
+      "deadline_raw": "2025",
+      "deadline_reference": "Original wording retained in commitment_raw",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-TRANS-PLAN2020",
+          "pdf_pages": [
+            21
+          ]
+        }
+      ],
+      "result_basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "origin": {
+        "file": "data/strategic-plans/transition-objective-matrix.json",
+        "json_pointer": "/goal_targets/3"
+      },
+      "assertion_id": "DISP-TRANS-TARGET-04",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "CROSS-CURRENT-1A",
+          "CROSS-CURRENT-1B",
+          "CROSS-CURRENT-2A",
+          "CROSS-CURRENT-2B",
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B",
+          "CROSS-CURRENT-3C"
+        ],
+        "successor_objective_list_complete": true,
+        "successor_target_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/TRANS-TARGET-04"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment closure and successor disposition unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "TRANS-TARGET-05",
+      "unit": "Original goal metric",
+      "version": "2020\u20132025 year-one specification",
+      "code": "Goal1",
+      "commitment_raw": "By 2025, International Society for Technology in Education (ISTE) Student\n        Standards will be incorporated into 80% of instructional lesson design.",
+      "attainment": "Cannot determine",
+      "implementation": null,
+      "deadline_raw": "2025",
+      "deadline_reference": "Original wording retained in commitment_raw",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-TRANS-PLAN2020",
+          "pdf_pages": [
+            21
+          ]
+        }
+      ],
+      "result_basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "origin": {
+        "file": "data/strategic-plans/transition-objective-matrix.json",
+        "json_pointer": "/goal_targets/4"
+      },
+      "assertion_id": "DISP-TRANS-TARGET-05",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "CROSS-CURRENT-1A",
+          "CROSS-CURRENT-1B",
+          "CROSS-CURRENT-2A",
+          "CROSS-CURRENT-2B",
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B",
+          "CROSS-CURRENT-3C"
+        ],
+        "successor_objective_list_complete": true,
+        "successor_target_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/TRANS-TARGET-05"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment closure and successor disposition unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "TRANS-TARGET-06",
+      "unit": "Original goal metric",
+      "version": "2020\u20132025 year-one specification",
+      "code": "Goal1",
+      "commitment_raw": "By 2025, all district software will go through a standardized audit process for\n        privacy and security.",
+      "attainment": "Cannot determine",
+      "implementation": null,
+      "deadline_raw": "2025",
+      "deadline_reference": "Original wording retained in commitment_raw",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-TRANS-PLAN2020",
+          "pdf_pages": [
+            21
+          ]
+        }
+      ],
+      "result_basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "origin": {
+        "file": "data/strategic-plans/transition-objective-matrix.json",
+        "json_pointer": "/goal_targets/5"
+      },
+      "assertion_id": "DISP-TRANS-TARGET-06",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "CROSS-CURRENT-1A",
+          "CROSS-CURRENT-1B",
+          "CROSS-CURRENT-2A",
+          "CROSS-CURRENT-2B",
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B",
+          "CROSS-CURRENT-3C"
+        ],
+        "successor_objective_list_complete": true,
+        "successor_target_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/TRANS-TARGET-06"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment closure and successor disposition unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "TRANS-TARGET-07",
+      "unit": "Original goal metric",
+      "version": "2020\u20132025 year-one specification",
+      "code": "Goal1",
+      "commitment_raw": "By 2025, all schools will implement Tier 1 and Tier 2 Positive Behavior\n        Intervention Supports (PBIS) with 80% fidelity, as measured by the Tiered\n        Fidelity Inventory.",
+      "attainment": "Cannot determine",
+      "implementation": null,
+      "deadline_raw": "2025",
+      "deadline_reference": "Original wording retained in commitment_raw",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-TRANS-PLAN2020",
+          "pdf_pages": [
+            21
+          ]
+        }
+      ],
+      "result_basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "origin": {
+        "file": "data/strategic-plans/transition-objective-matrix.json",
+        "json_pointer": "/goal_targets/6"
+      },
+      "assertion_id": "DISP-TRANS-TARGET-07",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "CROSS-CURRENT-1A",
+          "CROSS-CURRENT-1B",
+          "CROSS-CURRENT-2A",
+          "CROSS-CURRENT-2B",
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B",
+          "CROSS-CURRENT-3C"
+        ],
+        "successor_objective_list_complete": true,
+        "successor_target_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/TRANS-TARGET-07"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment closure and successor disposition unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "TRANS-TARGET-08",
+      "unit": "Original goal metric",
+      "version": "2020\u20132025 year-one specification",
+      "code": "Goal1",
+      "commitment_raw": "By 2025, staff will understand and implement equitable instructional, planning,\n        and resource allocation practices to support student learning.",
+      "attainment": "Cannot determine",
+      "implementation": null,
+      "deadline_raw": "2025",
+      "deadline_reference": "Original wording retained in commitment_raw",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-TRANS-PLAN2020",
+          "pdf_pages": [
+            21
+          ]
+        }
+      ],
+      "result_basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "origin": {
+        "file": "data/strategic-plans/transition-objective-matrix.json",
+        "json_pointer": "/goal_targets/7"
+      },
+      "assertion_id": "DISP-TRANS-TARGET-08",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "CROSS-CURRENT-1A",
+          "CROSS-CURRENT-1B",
+          "CROSS-CURRENT-2A",
+          "CROSS-CURRENT-2B",
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B",
+          "CROSS-CURRENT-3C"
+        ],
+        "successor_objective_list_complete": true,
+        "successor_target_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/TRANS-TARGET-08"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment closure and successor disposition unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "TRANS-TARGET-09",
+      "unit": "Original goal metric",
+      "version": "2020\u20132025 year-one specification",
+      "code": "Goal2",
+      "commitment_raw": "By 2025 present to voters a new capital bond",
+      "attainment": "Cannot determine",
+      "implementation": null,
+      "deadline_raw": "2025",
+      "deadline_reference": "Original wording retained in commitment_raw",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-TRANS-PLAN2020",
+          "pdf_pages": [
+            29
+          ]
+        }
+      ],
+      "result_basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "origin": {
+        "file": "data/strategic-plans/transition-objective-matrix.json",
+        "json_pointer": "/goal_targets/8"
+      },
+      "assertion_id": "DISP-TRANS-TARGET-09",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "CROSS-CURRENT-1A",
+          "CROSS-CURRENT-1B",
+          "CROSS-CURRENT-2A",
+          "CROSS-CURRENT-2B",
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B",
+          "CROSS-CURRENT-3C"
+        ],
+        "successor_objective_list_complete": true,
+        "successor_target_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/TRANS-TARGET-09"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment closure and successor disposition unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "TRANS-TARGET-10",
+      "unit": "Original goal metric",
+      "version": "2020\u20132025 year-one specification",
+      "code": "Goal2",
+      "commitment_raw": "By 2025 Work to elevate to a 14% uncommitted general fund balance",
+      "attainment": "Cannot determine",
+      "implementation": null,
+      "deadline_raw": "2025",
+      "deadline_reference": "Original wording retained in commitment_raw",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-TRANS-PLAN2020",
+          "pdf_pages": [
+            29
+          ]
+        }
+      ],
+      "result_basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "origin": {
+        "file": "data/strategic-plans/transition-objective-matrix.json",
+        "json_pointer": "/goal_targets/9"
+      },
+      "assertion_id": "DISP-TRANS-TARGET-10",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "CROSS-CURRENT-1A",
+          "CROSS-CURRENT-1B",
+          "CROSS-CURRENT-2A",
+          "CROSS-CURRENT-2B",
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B",
+          "CROSS-CURRENT-3C"
+        ],
+        "successor_objective_list_complete": true,
+        "successor_target_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/TRANS-TARGET-10"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment closure and successor disposition unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "TRANS-TARGET-11",
+      "unit": "Original goal metric",
+      "version": "2020\u20132025 year-one specification",
+      "code": "Goal2",
+      "commitment_raw": "By 2025 Complete upgrade of all Security Cameras District Wide",
+      "attainment": "Cannot determine",
+      "implementation": null,
+      "deadline_raw": "2025",
+      "deadline_reference": "Original wording retained in commitment_raw",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-TRANS-PLAN2020",
+          "pdf_pages": [
+            29
+          ]
+        }
+      ],
+      "result_basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "origin": {
+        "file": "data/strategic-plans/transition-objective-matrix.json",
+        "json_pointer": "/goal_targets/10"
+      },
+      "assertion_id": "DISP-TRANS-TARGET-11",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "CROSS-CURRENT-1A",
+          "CROSS-CURRENT-1B",
+          "CROSS-CURRENT-2A",
+          "CROSS-CURRENT-2B",
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B",
+          "CROSS-CURRENT-3C"
+        ],
+        "successor_objective_list_complete": true,
+        "successor_target_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/TRANS-TARGET-11"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment closure and successor disposition unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "TRANS-TARGET-12",
+      "unit": "Original goal metric",
+      "version": "2020\u20132025 year-one specification",
+      "code": "Goal2",
+      "commitment_raw": "By 2025 Complete rollout of enhanced lock down procedure, including training of\n     all staff and students on Run, Hide, Fight Program.",
+      "attainment": "Cannot determine",
+      "implementation": null,
+      "deadline_raw": "2025",
+      "deadline_reference": "Original wording retained in commitment_raw",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-TRANS-PLAN2020",
+          "pdf_pages": [
+            29
+          ]
+        }
+      ],
+      "result_basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "origin": {
+        "file": "data/strategic-plans/transition-objective-matrix.json",
+        "json_pointer": "/goal_targets/11"
+      },
+      "assertion_id": "DISP-TRANS-TARGET-12",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "CROSS-CURRENT-1A",
+          "CROSS-CURRENT-1B",
+          "CROSS-CURRENT-2A",
+          "CROSS-CURRENT-2B",
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B",
+          "CROSS-CURRENT-3C"
+        ],
+        "successor_objective_list_complete": true,
+        "successor_target_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/TRANS-TARGET-12"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment closure and successor disposition unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "TRANS-TARGET-13",
+      "unit": "Original goal metric",
+      "version": "2020\u20132025 year-one specification",
+      "code": "Goal3",
+      "commitment_raw": "By 2022 school year, 100% of staff will receive annual training on selected topics\n          relating to equity, inclusion, and workplace diversity.",
+      "attainment": "Cannot determine",
+      "implementation": null,
+      "deadline_raw": "2022 school year",
+      "deadline_reference": "Original wording retained in commitment_raw",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-TRANS-PLAN2020",
+          "pdf_pages": [
+            33
+          ]
+        }
+      ],
+      "result_basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "origin": {
+        "file": "data/strategic-plans/transition-objective-matrix.json",
+        "json_pointer": "/goal_targets/12"
+      },
+      "assertion_id": "DISP-TRANS-TARGET-13",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "CROSS-CURRENT-1A",
+          "CROSS-CURRENT-1B",
+          "CROSS-CURRENT-2A",
+          "CROSS-CURRENT-2B",
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B",
+          "CROSS-CURRENT-3C"
+        ],
+        "successor_objective_list_complete": true,
+        "successor_target_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/TRANS-TARGET-13"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment closure and successor disposition unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "TRANS-TARGET-14",
+      "unit": "Original goal metric",
+      "version": "2020\u20132025 year-one specification",
+      "code": "Goal3",
+      "commitment_raw": "By 2025, we expect at least a five percent increase in diverse hiring creating a\n          more diverse workforce that is reflective of our student demographics.",
+      "attainment": "Cannot determine",
+      "implementation": null,
+      "deadline_raw": "2025",
+      "deadline_reference": "Original wording retained in commitment_raw",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-TRANS-PLAN2020",
+          "pdf_pages": [
+            33
+          ]
+        }
+      ],
+      "result_basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "origin": {
+        "file": "data/strategic-plans/transition-objective-matrix.json",
+        "json_pointer": "/goal_targets/13"
+      },
+      "assertion_id": "DISP-TRANS-TARGET-14",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "CROSS-CURRENT-1A",
+          "CROSS-CURRENT-1B",
+          "CROSS-CURRENT-2A",
+          "CROSS-CURRENT-2B",
+          "CROSS-CURRENT-3A",
+          "CROSS-CURRENT-3B",
+          "CROSS-CURRENT-3C"
+        ],
+        "successor_objective_list_complete": true,
+        "successor_target_list_complete": false,
+        "observed_disposition": "Unknown",
+        "related_successor_ids": [],
+        "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/TRANS-TARGET-14"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment closure and successor disposition unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    },
+    {
+      "origin_assertion_id": "MIDDLE-BOND-01",
+      "unit": "Original success criterion",
+      "version": "2019\u20132020 year-five specification",
+      "code": "3B bond criterion",
+      "commitment_raw": "Successful February 2020 Bond.",
+      "attainment": "Not met",
+      "implementation": null,
+      "deadline_raw": "February2020",
+      "deadline_reference": "RSD407-ITER-2019 PDF p.31",
+      "baseline_raw": null,
+      "source_locators": [
+        {
+          "source_id": "RSD407-ITER-2019",
+          "pdf_pages": [
+            31
+          ]
+        }
+      ],
+      "outcome_source_ids": [
+        "KC-RSD407-BOND-2020",
+        "RSD407-BOND-HISTORY"
+      ],
+      "result_basis": "Criterion-specific result; not a rating of all communications work or a causal account of failure.",
+      "origin": {
+        "file": "data/strategic-plans/middle-objective-matrix.json",
+        "json_pointer": "/narrow_assertions/0"
+      },
+      "assertion_id": "DISP-MIDDLE-BOND-01",
+      "kind": "evaluation",
+      "disposition_review": {
+        "successor_snapshot_objective_ids": [
+          "TRANS-TARGET-09"
+        ],
+        "successor_objective_list_complete": false,
+        "observed_disposition": "Revised",
+        "related_successor_ids": [
+          "TRANS-TARGET-09"
+        ],
+        "basis": "Successful February2020 bond criterion was not met. The later2025 metric asks to present a bond, a changed criterion; it does not retroactively close the original result.",
+        "formal_disposition": "Unknown",
+        "formal_decision_source_ids": [],
+        "formal_decision_date": null,
+        "closure_evidence_ids": [],
+        "reviewed_on": "2026-10-01"
+      },
+      "related_successor_origins": [
+        {
+          "file": "data/strategic-plans/transition-objective-matrix.json",
+          "json_pointer": "/goal_targets/8"
+        }
+      ],
+      "review_origin": {
+        "file": "data/strategic-plans/commitment-disposition-reviews.json",
+        "json_pointer": "/reviews/MIDDLE-BOND-01"
+      },
+      "unverified_and_absent": false,
+      "missed_and_absent": false,
+      "retired_after_miss": false,
+      "flags": [
+        "Original commitment not conclusively closed; successor scope or criterion changed",
+        "Documented criterion miss; disposition/closure unresolved"
+      ],
+      "follow_up_state": "Open",
+      "closure_basis": null,
+      "evidence_needed": "Original endpoint/coverage/result for the original commitment; authoritative revision, continuation or retirement decision with date and rationale. For an absence finding, intervening annual versions and formal task disposition are particularly material."
+    }
+  ]
+}

@@ -1,0 +1,1484 @@
+{
+  "schema_version": 1,
+  "kind": "evaluation",
+  "scope": "Curated observed successor relationships; formal Board dispositions unverified. Objective and target comparisons have different completeness.",
+  "reviews": {
+    "EARLY-01": {
+      "successor_snapshot_objective_ids": [
+        "EARLY-14",
+        "EARLY-15",
+        "EARLY-16",
+        "EARLY-17",
+        "EARLY-18",
+        "EARLY-19",
+        "EARLY-20",
+        "EARLY-21"
+      ],
+      "successor_objective_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "No supported exact successor match; partial/missing annual records prevent a retirement or completion inference.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "EARLY-02": {
+      "successor_snapshot_objective_ids": [
+        "EARLY-14",
+        "EARLY-15",
+        "EARLY-16",
+        "EARLY-17",
+        "EARLY-18",
+        "EARLY-19",
+        "EARLY-20",
+        "EARLY-21"
+      ],
+      "successor_objective_list_complete": false,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "EARLY-14"
+      ],
+      "basis": "Assessment-improvement wording recurs with spring2013 changed to spring2014. No original endpoint closure established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "EARLY-03": {
+      "successor_snapshot_objective_ids": [
+        "EARLY-14",
+        "EARLY-15",
+        "EARLY-16",
+        "EARLY-17",
+        "EARLY-18",
+        "EARLY-19",
+        "EARLY-20",
+        "EARLY-21"
+      ],
+      "successor_objective_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "No supported exact successor match; partial/missing annual records prevent a retirement or completion inference.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "EARLY-04": {
+      "successor_snapshot_objective_ids": [
+        "EARLY-14",
+        "EARLY-15",
+        "EARLY-16",
+        "EARLY-17",
+        "EARLY-18",
+        "EARLY-19",
+        "EARLY-20",
+        "EARLY-21"
+      ],
+      "successor_objective_list_complete": false,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "EARLY-15"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "EARLY-05": {
+      "successor_snapshot_objective_ids": [
+        "EARLY-14",
+        "EARLY-15",
+        "EARLY-16",
+        "EARLY-17",
+        "EARLY-18",
+        "EARLY-19",
+        "EARLY-20",
+        "EARLY-21"
+      ],
+      "successor_objective_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "No supported exact successor match; partial/missing annual records prevent a retirement or completion inference.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "EARLY-06": {
+      "successor_snapshot_objective_ids": [
+        "EARLY-14",
+        "EARLY-15",
+        "EARLY-16",
+        "EARLY-17",
+        "EARLY-18",
+        "EARLY-19",
+        "EARLY-20",
+        "EARLY-21"
+      ],
+      "successor_objective_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "No supported exact successor match; partial/missing annual records prevent a retirement or completion inference.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "EARLY-07": {
+      "successor_snapshot_objective_ids": [
+        "EARLY-14",
+        "EARLY-15",
+        "EARLY-16",
+        "EARLY-17",
+        "EARLY-18",
+        "EARLY-19",
+        "EARLY-20",
+        "EARLY-21"
+      ],
+      "successor_objective_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "No supported exact successor match; partial/missing annual records prevent a retirement or completion inference.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "EARLY-08": {
+      "successor_snapshot_objective_ids": [
+        "EARLY-14",
+        "EARLY-15",
+        "EARLY-16",
+        "EARLY-17",
+        "EARLY-18",
+        "EARLY-19",
+        "EARLY-20",
+        "EARLY-21"
+      ],
+      "successor_objective_list_complete": false,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "EARLY-16"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "EARLY-09": {
+      "successor_snapshot_objective_ids": [
+        "EARLY-14",
+        "EARLY-15",
+        "EARLY-16",
+        "EARLY-17",
+        "EARLY-18",
+        "EARLY-19",
+        "EARLY-20",
+        "EARLY-21"
+      ],
+      "successor_objective_list_complete": false,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "EARLY-17"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "EARLY-10": {
+      "successor_snapshot_objective_ids": [
+        "EARLY-14",
+        "EARLY-15",
+        "EARLY-16",
+        "EARLY-17",
+        "EARLY-18",
+        "EARLY-19",
+        "EARLY-20",
+        "EARLY-21"
+      ],
+      "successor_objective_list_complete": false,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "EARLY-18"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "EARLY-11": {
+      "successor_snapshot_objective_ids": [
+        "EARLY-14",
+        "EARLY-15",
+        "EARLY-16",
+        "EARLY-17",
+        "EARLY-18",
+        "EARLY-19",
+        "EARLY-20",
+        "EARLY-21"
+      ],
+      "successor_objective_list_complete": false,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "EARLY-19"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "EARLY-12": {
+      "successor_snapshot_objective_ids": [
+        "EARLY-14",
+        "EARLY-15",
+        "EARLY-16",
+        "EARLY-17",
+        "EARLY-18",
+        "EARLY-19",
+        "EARLY-20",
+        "EARLY-21"
+      ],
+      "successor_objective_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "No supported exact successor match; partial/missing annual records prevent a retirement or completion inference.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "EARLY-13": {
+      "successor_snapshot_objective_ids": [
+        "EARLY-14",
+        "EARLY-15",
+        "EARLY-16",
+        "EARLY-17",
+        "EARLY-18",
+        "EARLY-19",
+        "EARLY-20",
+        "EARLY-21"
+      ],
+      "successor_objective_list_complete": false,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "EARLY-20"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "EARLY-14": {
+      "successor_snapshot_objective_ids": [
+        "MIDDLE-01",
+        "MIDDLE-02",
+        "MIDDLE-03",
+        "MIDDLE-04",
+        "MIDDLE-05",
+        "MIDDLE-06",
+        "MIDDLE-07",
+        "MIDDLE-08",
+        "MIDDLE-09",
+        "MIDDLE-10",
+        "MIDDLE-11",
+        "MIDDLE-12"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "MIDDLE-02"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "EARLY-15": {
+      "successor_snapshot_objective_ids": [
+        "MIDDLE-01",
+        "MIDDLE-02",
+        "MIDDLE-03",
+        "MIDDLE-04",
+        "MIDDLE-05",
+        "MIDDLE-06",
+        "MIDDLE-07",
+        "MIDDLE-08",
+        "MIDDLE-09",
+        "MIDDLE-10",
+        "MIDDLE-11",
+        "MIDDLE-12"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "MIDDLE-03"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "EARLY-16": {
+      "successor_snapshot_objective_ids": [
+        "MIDDLE-01",
+        "MIDDLE-02",
+        "MIDDLE-03",
+        "MIDDLE-04",
+        "MIDDLE-05",
+        "MIDDLE-06",
+        "MIDDLE-07",
+        "MIDDLE-08",
+        "MIDDLE-09",
+        "MIDDLE-10",
+        "MIDDLE-11",
+        "MIDDLE-12"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "MIDDLE-06"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "EARLY-17": {
+      "successor_snapshot_objective_ids": [
+        "MIDDLE-01",
+        "MIDDLE-02",
+        "MIDDLE-03",
+        "MIDDLE-04",
+        "MIDDLE-05",
+        "MIDDLE-06",
+        "MIDDLE-07",
+        "MIDDLE-08",
+        "MIDDLE-09",
+        "MIDDLE-10",
+        "MIDDLE-11",
+        "MIDDLE-12"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "MIDDLE-08"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "EARLY-18": {
+      "successor_snapshot_objective_ids": [
+        "MIDDLE-01",
+        "MIDDLE-02",
+        "MIDDLE-03",
+        "MIDDLE-04",
+        "MIDDLE-05",
+        "MIDDLE-06",
+        "MIDDLE-07",
+        "MIDDLE-08",
+        "MIDDLE-09",
+        "MIDDLE-10",
+        "MIDDLE-11",
+        "MIDDLE-12"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "MIDDLE-09"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "EARLY-19": {
+      "successor_snapshot_objective_ids": [
+        "MIDDLE-01",
+        "MIDDLE-02",
+        "MIDDLE-03",
+        "MIDDLE-04",
+        "MIDDLE-05",
+        "MIDDLE-06",
+        "MIDDLE-07",
+        "MIDDLE-08",
+        "MIDDLE-09",
+        "MIDDLE-10",
+        "MIDDLE-11",
+        "MIDDLE-12"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "MIDDLE-10"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "EARLY-20": {
+      "successor_snapshot_objective_ids": [
+        "MIDDLE-01",
+        "MIDDLE-02",
+        "MIDDLE-03",
+        "MIDDLE-04",
+        "MIDDLE-05",
+        "MIDDLE-06",
+        "MIDDLE-07",
+        "MIDDLE-08",
+        "MIDDLE-09",
+        "MIDDLE-10",
+        "MIDDLE-11",
+        "MIDDLE-12"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "MIDDLE-12"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "EARLY-21": {
+      "successor_snapshot_objective_ids": [
+        "MIDDLE-01",
+        "MIDDLE-02",
+        "MIDDLE-03",
+        "MIDDLE-04",
+        "MIDDLE-05",
+        "MIDDLE-06",
+        "MIDDLE-07",
+        "MIDDLE-08",
+        "MIDDLE-09",
+        "MIDDLE-10",
+        "MIDDLE-11",
+        "MIDDLE-12"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "No supported exact successor match; partial/missing annual records prevent a retirement or completion inference.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "MIDDLE-01": {
+      "successor_snapshot_objective_ids": [
+        "MIDDLE-13",
+        "MIDDLE-14",
+        "MIDDLE-15",
+        "MIDDLE-16",
+        "MIDDLE-17",
+        "MIDDLE-18",
+        "MIDDLE-19"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "MIDDLE-14"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "MIDDLE-02": {
+      "successor_snapshot_objective_ids": [
+        "MIDDLE-13",
+        "MIDDLE-14",
+        "MIDDLE-15",
+        "MIDDLE-16",
+        "MIDDLE-17",
+        "MIDDLE-18",
+        "MIDDLE-19"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "MIDDLE-13"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "MIDDLE-03": {
+      "successor_snapshot_objective_ids": [
+        "MIDDLE-13",
+        "MIDDLE-14",
+        "MIDDLE-15",
+        "MIDDLE-16",
+        "MIDDLE-17",
+        "MIDDLE-18",
+        "MIDDLE-19"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "MIDDLE-13"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "MIDDLE-04": {
+      "successor_snapshot_objective_ids": [
+        "MIDDLE-13",
+        "MIDDLE-14",
+        "MIDDLE-15",
+        "MIDDLE-16",
+        "MIDDLE-17",
+        "MIDDLE-18",
+        "MIDDLE-19"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "MIDDLE-14"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "MIDDLE-05": {
+      "successor_snapshot_objective_ids": [
+        "MIDDLE-13",
+        "MIDDLE-14",
+        "MIDDLE-15",
+        "MIDDLE-16",
+        "MIDDLE-17",
+        "MIDDLE-18",
+        "MIDDLE-19"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "MIDDLE-13"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "MIDDLE-06": {
+      "successor_snapshot_objective_ids": [
+        "MIDDLE-13",
+        "MIDDLE-14",
+        "MIDDLE-15",
+        "MIDDLE-16",
+        "MIDDLE-17",
+        "MIDDLE-18",
+        "MIDDLE-19"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "MIDDLE-15"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "MIDDLE-07": {
+      "successor_snapshot_objective_ids": [
+        "MIDDLE-13",
+        "MIDDLE-14",
+        "MIDDLE-15",
+        "MIDDLE-16",
+        "MIDDLE-17",
+        "MIDDLE-18",
+        "MIDDLE-19"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "MIDDLE-16"
+      ],
+      "basis": "Property acquisition disappears from the successor title while capital-project scope remains. Four boundary tasks were reported postponed; their later closure is unverified.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "MIDDLE-08": {
+      "successor_snapshot_objective_ids": [
+        "MIDDLE-13",
+        "MIDDLE-14",
+        "MIDDLE-15",
+        "MIDDLE-16",
+        "MIDDLE-17",
+        "MIDDLE-18",
+        "MIDDLE-19"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "MIDDLE-17"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "MIDDLE-09": {
+      "successor_snapshot_objective_ids": [
+        "MIDDLE-13",
+        "MIDDLE-14",
+        "MIDDLE-15",
+        "MIDDLE-16",
+        "MIDDLE-17",
+        "MIDDLE-18",
+        "MIDDLE-19"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Absent from reviewed successor",
+      "related_successor_ids": [],
+      "basis": "Dedicated policy-review objective absent from complete year-five objective list. Retrospective policy-review activity remains reported, not independently verified full objective attainment.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01",
+      "supporting_assertion_ids": [
+        "MIDDLE-CROSSWALK-01"
+      ]
+    },
+    "MIDDLE-10": {
+      "successor_snapshot_objective_ids": [
+        "MIDDLE-13",
+        "MIDDLE-14",
+        "MIDDLE-15",
+        "MIDDLE-16",
+        "MIDDLE-17",
+        "MIDDLE-18",
+        "MIDDLE-19"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "MIDDLE-18"
+      ],
+      "basis": "Named HR subplan changes2013\u20132018 to2018\u20132023; attainment of original subplan remains unverified.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "MIDDLE-11": {
+      "successor_snapshot_objective_ids": [
+        "MIDDLE-13",
+        "MIDDLE-14",
+        "MIDDLE-15",
+        "MIDDLE-16",
+        "MIDDLE-17",
+        "MIDDLE-18",
+        "MIDDLE-19"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "MIDDLE-19"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "MIDDLE-12": {
+      "successor_snapshot_objective_ids": [
+        "MIDDLE-13",
+        "MIDDLE-14",
+        "MIDDLE-15",
+        "MIDDLE-16",
+        "MIDDLE-17",
+        "MIDDLE-18",
+        "MIDDLE-19"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "MIDDLE-19"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "MIDDLE-13": {
+      "successor_snapshot_objective_ids": [
+        "TRANS-OBJ-01",
+        "TRANS-OBJ-02",
+        "TRANS-OBJ-03",
+        "TRANS-OBJ-04",
+        "TRANS-OBJ-05",
+        "TRANS-OBJ-06",
+        "TRANS-OBJ-07"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "TRANS-OBJ-01"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "MIDDLE-14": {
+      "successor_snapshot_objective_ids": [
+        "TRANS-OBJ-01",
+        "TRANS-OBJ-02",
+        "TRANS-OBJ-03",
+        "TRANS-OBJ-04",
+        "TRANS-OBJ-05",
+        "TRANS-OBJ-06",
+        "TRANS-OBJ-07"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "TRANS-OBJ-03"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "MIDDLE-15": {
+      "successor_snapshot_objective_ids": [
+        "TRANS-OBJ-01",
+        "TRANS-OBJ-02",
+        "TRANS-OBJ-03",
+        "TRANS-OBJ-04",
+        "TRANS-OBJ-05",
+        "TRANS-OBJ-06",
+        "TRANS-OBJ-07"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "TRANS-OBJ-04"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "MIDDLE-16": {
+      "successor_snapshot_objective_ids": [
+        "TRANS-OBJ-01",
+        "TRANS-OBJ-02",
+        "TRANS-OBJ-03",
+        "TRANS-OBJ-04",
+        "TRANS-OBJ-05",
+        "TRANS-OBJ-06",
+        "TRANS-OBJ-07"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "TRANS-OBJ-04"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "MIDDLE-17": {
+      "successor_snapshot_objective_ids": [
+        "TRANS-OBJ-01",
+        "TRANS-OBJ-02",
+        "TRANS-OBJ-03",
+        "TRANS-OBJ-04",
+        "TRANS-OBJ-05",
+        "TRANS-OBJ-06",
+        "TRANS-OBJ-07"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "TRANS-OBJ-05"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "MIDDLE-18": {
+      "successor_snapshot_objective_ids": [
+        "TRANS-OBJ-01",
+        "TRANS-OBJ-02",
+        "TRANS-OBJ-03",
+        "TRANS-OBJ-04",
+        "TRANS-OBJ-05",
+        "TRANS-OBJ-06",
+        "TRANS-OBJ-07"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "TRANS-OBJ-06"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "MIDDLE-19": {
+      "successor_snapshot_objective_ids": [
+        "TRANS-OBJ-01",
+        "TRANS-OBJ-02",
+        "TRANS-OBJ-03",
+        "TRANS-OBJ-04",
+        "TRANS-OBJ-05",
+        "TRANS-OBJ-06",
+        "TRANS-OBJ-07"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "TRANS-OBJ-07"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "TRANS-OBJ-01": {
+      "successor_snapshot_objective_ids": [
+        "CROSS-CURRENT-1A",
+        "CROSS-CURRENT-1B",
+        "CROSS-CURRENT-2A",
+        "CROSS-CURRENT-2B",
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B",
+        "CROSS-CURRENT-3C"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "CROSS-CURRENT-1A"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "TRANS-OBJ-02": {
+      "successor_snapshot_objective_ids": [
+        "CROSS-CURRENT-1A",
+        "CROSS-CURRENT-1B",
+        "CROSS-CURRENT-2A",
+        "CROSS-CURRENT-2B",
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B",
+        "CROSS-CURRENT-3C"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "CROSS-CURRENT-1B"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "TRANS-OBJ-03": {
+      "successor_snapshot_objective_ids": [
+        "CROSS-CURRENT-1A",
+        "CROSS-CURRENT-1B",
+        "CROSS-CURRENT-2A",
+        "CROSS-CURRENT-2B",
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B",
+        "CROSS-CURRENT-3C"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Absent from reviewed successor",
+      "related_successor_ids": [],
+      "basis": "Dedicated department-integration objective absent from complete September2024 objective list. Related learning/technology activities continue within other objectives; disappearance of a dedicated objective does not establish retirement.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01",
+      "supporting_assertion_ids": [
+        "TRANS-CROSSWALK-01",
+        "CROSS-FAMILY-03"
+      ]
+    },
+    "TRANS-OBJ-04": {
+      "successor_snapshot_objective_ids": [
+        "CROSS-CURRENT-1A",
+        "CROSS-CURRENT-1B",
+        "CROSS-CURRENT-2A",
+        "CROSS-CURRENT-2B",
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B",
+        "CROSS-CURRENT-3C"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "CROSS-CURRENT-2A"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "TRANS-OBJ-05": {
+      "successor_snapshot_objective_ids": [
+        "CROSS-CURRENT-1A",
+        "CROSS-CURRENT-1B",
+        "CROSS-CURRENT-2A",
+        "CROSS-CURRENT-2B",
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B",
+        "CROSS-CURRENT-3C"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "CROSS-CURRENT-2B"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "TRANS-OBJ-06": {
+      "successor_snapshot_objective_ids": [
+        "CROSS-CURRENT-1A",
+        "CROSS-CURRENT-1B",
+        "CROSS-CURRENT-2A",
+        "CROSS-CURRENT-2B",
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B",
+        "CROSS-CURRENT-3C"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "TRANS-OBJ-07": {
+      "successor_snapshot_objective_ids": [
+        "CROSS-CURRENT-1A",
+        "CROSS-CURRENT-1B",
+        "CROSS-CURRENT-2A",
+        "CROSS-CURRENT-2B",
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B",
+        "CROSS-CURRENT-3C"
+      ],
+      "successor_objective_list_complete": true,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "CROSS-CURRENT-3C"
+      ],
+      "basis": "Related title/theme with changed task or objective scope; exact continuity and formal replacement are not established.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "CROSS-CURRENT-1A": {
+      "successor_snapshot_objective_ids": [],
+      "successor_objective_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "No later complete objective register is included in this bounded comparison. Current cycle continues through2027; no omission or deadline failure inferred.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "CROSS-CURRENT-1B": {
+      "successor_snapshot_objective_ids": [],
+      "successor_objective_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "No later complete objective register is included in this bounded comparison. Current cycle continues through2027; no omission or deadline failure inferred.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "CROSS-CURRENT-2A": {
+      "successor_snapshot_objective_ids": [],
+      "successor_objective_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "No later complete objective register is included in this bounded comparison. Current cycle continues through2027; no omission or deadline failure inferred.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "CROSS-CURRENT-2B": {
+      "successor_snapshot_objective_ids": [],
+      "successor_objective_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "No later complete objective register is included in this bounded comparison. Current cycle continues through2027; no omission or deadline failure inferred.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "CROSS-CURRENT-3A": {
+      "successor_snapshot_objective_ids": [],
+      "successor_objective_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "No later complete objective register is included in this bounded comparison. Current cycle continues through2027; no omission or deadline failure inferred.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "CROSS-CURRENT-3B": {
+      "successor_snapshot_objective_ids": [],
+      "successor_objective_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "No later complete objective register is included in this bounded comparison. Current cycle continues through2027; no omission or deadline failure inferred.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "CROSS-CURRENT-3C": {
+      "successor_snapshot_objective_ids": [],
+      "successor_objective_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "No later complete objective register is included in this bounded comparison. Current cycle continues through2027; no omission or deadline failure inferred.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "TRANS-TARGET-01": {
+      "successor_snapshot_objective_ids": [
+        "CROSS-CURRENT-1A",
+        "CROSS-CURRENT-1B",
+        "CROSS-CURRENT-2A",
+        "CROSS-CURRENT-2B",
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B",
+        "CROSS-CURRENT-3C"
+      ],
+      "successor_objective_list_complete": true,
+      "successor_target_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "TRANS-TARGET-02": {
+      "successor_snapshot_objective_ids": [
+        "CROSS-CURRENT-1A",
+        "CROSS-CURRENT-1B",
+        "CROSS-CURRENT-2A",
+        "CROSS-CURRENT-2B",
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B",
+        "CROSS-CURRENT-3C"
+      ],
+      "successor_objective_list_complete": true,
+      "successor_target_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "TRANS-TARGET-03": {
+      "successor_snapshot_objective_ids": [
+        "CROSS-CURRENT-1A",
+        "CROSS-CURRENT-1B",
+        "CROSS-CURRENT-2A",
+        "CROSS-CURRENT-2B",
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B",
+        "CROSS-CURRENT-3C"
+      ],
+      "successor_objective_list_complete": true,
+      "successor_target_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "TRANS-TARGET-04": {
+      "successor_snapshot_objective_ids": [
+        "CROSS-CURRENT-1A",
+        "CROSS-CURRENT-1B",
+        "CROSS-CURRENT-2A",
+        "CROSS-CURRENT-2B",
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B",
+        "CROSS-CURRENT-3C"
+      ],
+      "successor_objective_list_complete": true,
+      "successor_target_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "TRANS-TARGET-05": {
+      "successor_snapshot_objective_ids": [
+        "CROSS-CURRENT-1A",
+        "CROSS-CURRENT-1B",
+        "CROSS-CURRENT-2A",
+        "CROSS-CURRENT-2B",
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B",
+        "CROSS-CURRENT-3C"
+      ],
+      "successor_objective_list_complete": true,
+      "successor_target_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "TRANS-TARGET-06": {
+      "successor_snapshot_objective_ids": [
+        "CROSS-CURRENT-1A",
+        "CROSS-CURRENT-1B",
+        "CROSS-CURRENT-2A",
+        "CROSS-CURRENT-2B",
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B",
+        "CROSS-CURRENT-3C"
+      ],
+      "successor_objective_list_complete": true,
+      "successor_target_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "TRANS-TARGET-07": {
+      "successor_snapshot_objective_ids": [
+        "CROSS-CURRENT-1A",
+        "CROSS-CURRENT-1B",
+        "CROSS-CURRENT-2A",
+        "CROSS-CURRENT-2B",
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B",
+        "CROSS-CURRENT-3C"
+      ],
+      "successor_objective_list_complete": true,
+      "successor_target_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "TRANS-TARGET-08": {
+      "successor_snapshot_objective_ids": [
+        "CROSS-CURRENT-1A",
+        "CROSS-CURRENT-1B",
+        "CROSS-CURRENT-2A",
+        "CROSS-CURRENT-2B",
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B",
+        "CROSS-CURRENT-3C"
+      ],
+      "successor_objective_list_complete": true,
+      "successor_target_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "TRANS-TARGET-09": {
+      "successor_snapshot_objective_ids": [
+        "CROSS-CURRENT-1A",
+        "CROSS-CURRENT-1B",
+        "CROSS-CURRENT-2A",
+        "CROSS-CURRENT-2B",
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B",
+        "CROSS-CURRENT-3C"
+      ],
+      "successor_objective_list_complete": true,
+      "successor_target_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "TRANS-TARGET-10": {
+      "successor_snapshot_objective_ids": [
+        "CROSS-CURRENT-1A",
+        "CROSS-CURRENT-1B",
+        "CROSS-CURRENT-2A",
+        "CROSS-CURRENT-2B",
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B",
+        "CROSS-CURRENT-3C"
+      ],
+      "successor_objective_list_complete": true,
+      "successor_target_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "TRANS-TARGET-11": {
+      "successor_snapshot_objective_ids": [
+        "CROSS-CURRENT-1A",
+        "CROSS-CURRENT-1B",
+        "CROSS-CURRENT-2A",
+        "CROSS-CURRENT-2B",
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B",
+        "CROSS-CURRENT-3C"
+      ],
+      "successor_objective_list_complete": true,
+      "successor_target_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "TRANS-TARGET-12": {
+      "successor_snapshot_objective_ids": [
+        "CROSS-CURRENT-1A",
+        "CROSS-CURRENT-1B",
+        "CROSS-CURRENT-2A",
+        "CROSS-CURRENT-2B",
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B",
+        "CROSS-CURRENT-3C"
+      ],
+      "successor_objective_list_complete": true,
+      "successor_target_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "TRANS-TARGET-13": {
+      "successor_snapshot_objective_ids": [
+        "CROSS-CURRENT-1A",
+        "CROSS-CURRENT-1B",
+        "CROSS-CURRENT-2A",
+        "CROSS-CURRENT-2B",
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B",
+        "CROSS-CURRENT-3C"
+      ],
+      "successor_objective_list_complete": true,
+      "successor_target_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "TRANS-TARGET-14": {
+      "successor_snapshot_objective_ids": [
+        "CROSS-CURRENT-1A",
+        "CROSS-CURRENT-1B",
+        "CROSS-CURRENT-2A",
+        "CROSS-CURRENT-2B",
+        "CROSS-CURRENT-3A",
+        "CROSS-CURRENT-3B",
+        "CROSS-CURRENT-3C"
+      ],
+      "successor_objective_list_complete": true,
+      "successor_target_list_complete": false,
+      "observed_disposition": "Unknown",
+      "related_successor_ids": [],
+      "basis": "Current objective register is not a complete successor goal-metric register. No exact retention or absence finding for this original target is justified from objective titles.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    },
+    "MIDDLE-BOND-01": {
+      "successor_snapshot_objective_ids": [
+        "TRANS-TARGET-09"
+      ],
+      "successor_objective_list_complete": false,
+      "observed_disposition": "Revised",
+      "related_successor_ids": [
+        "TRANS-TARGET-09"
+      ],
+      "basis": "Successful February2020 bond criterion was not met. The later2025 metric asks to present a bond, a changed criterion; it does not retroactively close the original result.",
+      "formal_disposition": "Unknown",
+      "formal_decision_source_ids": [],
+      "formal_decision_date": null,
+      "closure_evidence_ids": [],
+      "reviewed_on": "2026-10-01"
+    }
+  },
+  "change_log": [
+    {
+      "date": "2026-10-01",
+      "change": "Initial bounded review of69 units; no new acquisitions or inferred formal retirements."
+    }
+  ]
+}
