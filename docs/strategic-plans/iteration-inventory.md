@@ -22,7 +22,7 @@ Plan 08 bounded inventory, 2026-10-01. This establishes document identities and 
 
 ## Coverage and review limits
 
-RSD407-ITER-2015 p.30 lists three goals and twelve objectives; pp.31–47 contain task details and pp.55–57 timeline/completion fields. Its p.54 revision record and July 2016 footer mean this copy cannot serve as an untouched June 2015 baseline. Retrospective accomplishments on pp.8–12 can be evaluated as self-reports, not assumed independently verified outcomes.
+RSD407-ITER-2015 p.30 lists three goals and twelve objectives; pp.32–49 contain objective/task details and pp.55–57 timeline/completion fields. Its p.54 revision record and July 2016 footer mean this copy cannot serve as an untouched June 2015 baseline. Retrospective accomplishments on pp.8–12 can be evaluated as self-reports, not assumed independently verified outcomes.
 
 RSD407-ITER-2019 p.19 lists three goals and seven objectives; pp.20–36 provide tasks and pp.40–42 a timeline. This is an annual revision within the five-year plan, not a newly completed five-year cycle. One material target changed: reserve task 2/A/1 is 5% in the reviewed 2016 timeline (2015 source p.55) and 9% in the year-five timeline (2019 source p.40). Plan 10 must preserve the applicable target and reserve definition for each period.
 
@@ -47,3 +47,7 @@ The formerly broad 2014–2019 gap is narrowed to a pre-2015 bridge plus missing
 ## Plan 09 update
 
 June 25, 2013 revised-cycle adoption narrows the early authority gap; it does not establish the original 2010 motion, complete objective register or full 2015 endpoint. Plan 09 closed a bounded review of 21 observed objective rows and recorded missing 2009–2012 registers and matched assessment outcomes. Use its matrix for implementation judgments; this inventory does not backfill missing targets or whole-cycle success.
+
+## Plan 10 closure
+
+The [middle-era review](../evaluations/middle-plan-iterations.md) evaluates twelve objectives in the July 2016 revised copy and seven in the year-five revision. All broad attainment/fidelity judgments remain unknown; the explicit February 2020 bond-success criterion was not met. Target changes and authority gaps remain visible. Plans 11–12 remain queued.

@@ -1,0 +1,571 @@
+{
+  "schema_version": 1,
+  "criteria": "Reported implemented = all numbered tasks marked X; reported partial = some but not all; no marks = cannot determine. These are source-reported implementation judgments, not verified fidelity. Broad attainment requires matching target/denominator/baseline/endpoint; evaluate explicit narrower criteria separately. No aggregate plan rating.",
+  "objectives": [
+    {
+      "assertion_id": "MIDDLE-01",
+      "kind": "evaluation",
+      "snapshot": "2016",
+      "objective_code": "1A",
+      "title_raw": "Develop a collaborative process integrating department perspectives to\n             focus on student outcomes.",
+      "source_id": "RSD407-ITER-2015",
+      "definition_pdf_pages": [
+        32
+      ],
+      "register_file": "middle-task-register.json",
+      "progress_measurement_raw": "\uf0b7 Meeting schedule created.\n\uf0b7 Three-year plan written.\n\uf0b7 Staff hired.\n\uf0b7 Technology Instructional specialists meet with Professional Learning Leaders\n  (PLLs).",
+      "baseline": null,
+      "target_and_deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "task_counts": {
+        "reported_complete": 5,
+        "reported_postponed": 0,
+        "unmarked": 0
+      },
+      "implementation": "Reported implemented",
+      "implementation_basis": "District timeline marks; unmarked is unknown, not evidence of failure or non-start. No independent completion/fidelity verification.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "additional_evidence_ids": [],
+      "design_evaluation": "Named tasks, owners and deadlines are recoverable. Progress measurements mix deliverables, process and outcomes; no complete numeric baseline/endpoint pair established in this review."
+    },
+    {
+      "assertion_id": "MIDDLE-02",
+      "kind": "evaluation",
+      "snapshot": "2016",
+      "objective_code": "1B",
+      "title_raw": "Improve student growth for all students in all areas.",
+      "source_id": "RSD407-ITER-2015",
+      "definition_pdf_pages": [
+        33
+      ],
+      "register_file": "middle-task-register.json",
+      "progress_measurement_raw": "\uf0b7 Assessment System completed.\n\uf0b7 All-Day Kindergarten set to begin 2016-2017.\n\uf0b7 PLLs participate in and facilitate district training.\n\uf0b7 Smarter Balanced assessment data analyzed.",
+      "baseline": null,
+      "target_and_deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "task_counts": {
+        "reported_complete": 6,
+        "reported_postponed": 0,
+        "unmarked": 0
+      },
+      "implementation": "Reported implemented",
+      "implementation_basis": "District timeline marks; unmarked is unknown, not evidence of failure or non-start. No independent completion/fidelity verification.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "additional_evidence_ids": [
+        "OSPI-MIDDLE-GROWTH",
+        "OSPI-MIDDLE-ASSESSMENT"
+      ],
+      "design_evaluation": "Named tasks, owners and deadlines are recoverable. Progress measurements mix deliverables, process and outcomes; no complete numeric baseline/endpoint pair established in this review."
+    },
+    {
+      "assertion_id": "MIDDLE-03",
+      "kind": "evaluation",
+      "snapshot": "2016",
+      "objective_code": "1C",
+      "title_raw": "Improve student growth for at-risk students in all areas.",
+      "source_id": "RSD407-ITER-2015",
+      "definition_pdf_pages": [
+        34
+      ],
+      "register_file": "middle-task-register.json",
+      "progress_measurement_raw": "\uf0b7 K-12 implementation of a coordinated life skills curriculum for students with\n  intellectual disabilities.\n\uf0b7 Recommendations for enhancements from a math intervention review.\n\uf0b7 Documented training session at each school related to differentiated instruction.\n\uf0b7 100% of schools have \u201cStudent Intervention Teams\u201d meeting on a regular basis.\n\n\n                                                                         TIMELINE:",
+      "baseline": null,
+      "target_and_deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "task_counts": {
+        "reported_complete": 5,
+        "reported_postponed": 0,
+        "unmarked": 0
+      },
+      "implementation": "Reported implemented",
+      "implementation_basis": "District timeline marks; unmarked is unknown, not evidence of failure or non-start. No independent completion/fidelity verification.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "additional_evidence_ids": [
+        "OSPI-MIDDLE-ASSESSMENT"
+      ],
+      "design_evaluation": "Named tasks, owners and deadlines are recoverable. Progress measurements mix deliverables, process and outcomes; no complete numeric baseline/endpoint pair established in this review."
+    },
+    {
+      "assertion_id": "MIDDLE-04",
+      "kind": "evaluation",
+      "snapshot": "2016",
+      "objective_code": "1D",
+      "title_raw": "Use technology to promote student growth.",
+      "source_id": "RSD407-ITER-2015",
+      "definition_pdf_pages": [
+        35
+      ],
+      "register_file": "middle-task-register.json",
+      "progress_measurement_raw": "\uf0b7 Tasks complete.\n\n\n                                                                         TIMELINE:",
+      "baseline": null,
+      "target_and_deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "task_counts": {
+        "reported_complete": 6,
+        "reported_postponed": 0,
+        "unmarked": 0
+      },
+      "implementation": "Reported implemented",
+      "implementation_basis": "District timeline marks; unmarked is unknown, not evidence of failure or non-start. No independent completion/fidelity verification.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "additional_evidence_ids": [],
+      "design_evaluation": "Named tasks, owners and deadlines are recoverable. Progress measurements mix deliverables, process and outcomes; no complete numeric baseline/endpoint pair established in this review."
+    },
+    {
+      "assertion_id": "MIDDLE-05",
+      "kind": "evaluation",
+      "snapshot": "2016",
+      "objective_code": "1E",
+      "title_raw": "Identify and plan for the Classroom of the Future.",
+      "source_id": "RSD407-ITER-2015",
+      "definition_pdf_pages": [
+        36
+      ],
+      "register_file": "middle-task-register.json",
+      "progress_measurement_raw": "\uf0b7 Tasks complete.\n\uf0b7 Publish plan.",
+      "baseline": null,
+      "target_and_deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "task_counts": {
+        "reported_complete": 6,
+        "reported_postponed": 0,
+        "unmarked": 0
+      },
+      "implementation": "Reported implemented",
+      "implementation_basis": "District timeline marks; unmarked is unknown, not evidence of failure or non-start. No independent completion/fidelity verification.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "additional_evidence_ids": [],
+      "design_evaluation": "Named tasks, owners and deadlines are recoverable. Progress measurements mix deliverables, process and outcomes; no complete numeric baseline/endpoint pair established in this review."
+    },
+    {
+      "assertion_id": "MIDDLE-06",
+      "kind": "evaluation",
+      "snapshot": "2016",
+      "objective_code": "2A",
+      "title_raw": "Provide a financial process that strengthens student learning and leverages\n             financial markets to the benefit of the district taxpayers.",
+      "source_id": "RSD407-ITER-2015",
+      "definition_pdf_pages": [
+        38
+      ],
+      "register_file": "middle-task-register.json",
+      "progress_measurement_raw": "\uf0b7 Maintain a minimum of a 5% unassigned general operating fund balance with a\n  periodic School Board\u2019s review of that standard.",
+      "baseline": null,
+      "target_and_deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "task_counts": {
+        "reported_complete": 5,
+        "reported_postponed": 0,
+        "unmarked": 1
+      },
+      "implementation": "Reported partial",
+      "implementation_basis": "District timeline marks; unmarked is unknown, not evidence of failure or non-start. No independent completion/fidelity verification.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "additional_evidence_ids": [
+        "MIDDLE-RESERVE-01"
+      ],
+      "design_evaluation": "Named tasks, owners and deadlines are recoverable. Progress measurements mix deliverables, process and outcomes; no complete numeric baseline/endpoint pair established in this review."
+    },
+    {
+      "assertion_id": "MIDDLE-07",
+      "kind": "evaluation",
+      "snapshot": "2016",
+      "objective_code": "2B",
+      "title_raw": "Establish and implement a prioritized list of property acquisition and projects\n             consistent with capital projects levy financing with the consent of the School\n             Board.",
+      "source_id": "RSD407-ITER-2015",
+      "definition_pdf_pages": [
+        39,
+        40
+      ],
+      "register_file": "middle-task-register.json",
+      "progress_measurement_raw": "\uf0b7 Produce a prioritized list.\n\uf0b7 Implement the highest priority items.",
+      "baseline": null,
+      "target_and_deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "task_counts": {
+        "reported_complete": 4,
+        "reported_postponed": 4,
+        "unmarked": 0
+      },
+      "implementation": "Reported partial",
+      "implementation_basis": "District timeline marks; unmarked is unknown, not evidence of failure or non-start. No independent completion/fidelity verification.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "additional_evidence_ids": [],
+      "design_evaluation": "Named tasks, owners and deadlines are recoverable. Progress measurements mix deliverables, process and outcomes; no complete numeric baseline/endpoint pair established in this review."
+    },
+    {
+      "assertion_id": "MIDDLE-08",
+      "kind": "evaluation",
+      "snapshot": "2016",
+      "objective_code": "2C",
+      "title_raw": "Manage all aspects of the district\u2019s Safety and Emergency Operations\n             Plans.",
+      "source_id": "RSD407-ITER-2015",
+      "definition_pdf_pages": [
+        41,
+        42
+      ],
+      "register_file": "middle-task-register.json",
+      "progress_measurement_raw": "\uf0b7 Disaster container supplies and property maintained.\n\uf0b7 Implementation of the Emergency Operations Plan and Emergency Operations\n  Field Guide training and procedures.",
+      "baseline": null,
+      "target_and_deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "task_counts": {
+        "reported_complete": 7,
+        "reported_postponed": 0,
+        "unmarked": 1
+      },
+      "implementation": "Reported partial",
+      "implementation_basis": "District timeline marks; unmarked is unknown, not evidence of failure or non-start. No independent completion/fidelity verification.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "additional_evidence_ids": [],
+      "design_evaluation": "Named tasks, owners and deadlines are recoverable. Progress measurements mix deliverables, process and outcomes; no complete numeric baseline/endpoint pair established in this review."
+    },
+    {
+      "assertion_id": "MIDDLE-09",
+      "kind": "evaluation",
+      "snapshot": "2016",
+      "objective_code": "2D",
+      "title_raw": "Continue to conduct reviews of the School Board\u2019s policies.",
+      "source_id": "RSD407-ITER-2015",
+      "definition_pdf_pages": [
+        43
+      ],
+      "register_file": "middle-task-register.json",
+      "progress_measurement_raw": "\uf0b7 Tasks complete.",
+      "baseline": null,
+      "target_and_deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "task_counts": {
+        "reported_complete": 3,
+        "reported_postponed": 0,
+        "unmarked": 0
+      },
+      "implementation": "Reported implemented",
+      "implementation_basis": "District timeline marks; unmarked is unknown, not evidence of failure or non-start. No independent completion/fidelity verification.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "additional_evidence_ids": [],
+      "design_evaluation": "Named tasks, owners and deadlines are recoverable. Progress measurements mix deliverables, process and outcomes; no complete numeric baseline/endpoint pair established in this review."
+    },
+    {
+      "assertion_id": "MIDDLE-10",
+      "kind": "evaluation",
+      "snapshot": "2016",
+      "objective_code": "3A",
+      "title_raw": "Continue to implement the 2013-2018 Human Resources (HR) Plan.",
+      "source_id": "RSD407-ITER-2015",
+      "definition_pdf_pages": [
+        45
+      ],
+      "register_file": "middle-task-register.json",
+      "progress_measurement_raw": "\uf0b7 Tasks complete.\n\uf0b7 Published evidence based on research and data findings.",
+      "baseline": null,
+      "target_and_deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "task_counts": {
+        "reported_complete": 6,
+        "reported_postponed": 0,
+        "unmarked": 0
+      },
+      "implementation": "Reported implemented",
+      "implementation_basis": "District timeline marks; unmarked is unknown, not evidence of failure or non-start. No independent completion/fidelity verification.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "additional_evidence_ids": [],
+      "design_evaluation": "Named tasks, owners and deadlines are recoverable. Progress measurements mix deliverables, process and outcomes; no complete numeric baseline/endpoint pair established in this review."
+    },
+    {
+      "assertion_id": "MIDDLE-11",
+      "kind": "evaluation",
+      "snapshot": "2016",
+      "objective_code": "3B",
+      "title_raw": "Develop and implement the district\u2019s 2016 Communications Plan process.",
+      "source_id": "RSD407-ITER-2015",
+      "definition_pdf_pages": [
+        46,
+        47
+      ],
+      "register_file": "middle-task-register.json",
+      "progress_measurement_raw": "\uf0b7 Tasks complete.\n\uf0b7 Integration of recommendations from 2015 Communications Audit.\n\uf0b7 Approval of new 2016 Communications Plan.",
+      "baseline": null,
+      "target_and_deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "task_counts": {
+        "reported_complete": 10,
+        "reported_postponed": 0,
+        "unmarked": 2
+      },
+      "implementation": "Reported partial",
+      "implementation_basis": "District timeline marks; unmarked is unknown, not evidence of failure or non-start. No independent completion/fidelity verification.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "additional_evidence_ids": [],
+      "design_evaluation": "Named tasks, owners and deadlines are recoverable. Progress measurements mix deliverables, process and outcomes; no complete numeric baseline/endpoint pair established in this review."
+    },
+    {
+      "assertion_id": "MIDDLE-12",
+      "kind": "evaluation",
+      "snapshot": "2016",
+      "objective_code": "3C",
+      "title_raw": "Cultivate increased community outreach.",
+      "source_id": "RSD407-ITER-2015",
+      "definition_pdf_pages": [
+        48,
+        49
+      ],
+      "register_file": "middle-task-register.json",
+      "progress_measurement_raw": "\uf0b7 Increase social media users/followers by 25% across all platforms.\n\uf0b7 Tasks complete.",
+      "baseline": null,
+      "target_and_deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "task_counts": {
+        "reported_complete": 11,
+        "reported_postponed": 0,
+        "unmarked": 1
+      },
+      "implementation": "Reported partial",
+      "implementation_basis": "District timeline marks; unmarked is unknown, not evidence of failure or non-start. No independent completion/fidelity verification.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "additional_evidence_ids": [],
+      "design_evaluation": "Named tasks, owners and deadlines are recoverable. Progress measurements mix deliverables, process and outcomes; no complete numeric baseline/endpoint pair established in this review."
+    },
+    {
+      "assertion_id": "MIDDLE-13",
+      "kind": "evaluation",
+      "snapshot": "2019",
+      "objective_code": "1A",
+      "title_raw": "Further develop curriculum and supports for student learning.",
+      "source_id": "RSD407-ITER-2019",
+      "definition_pdf_pages": [
+        21,
+        22
+      ],
+      "register_file": "middle-task-register.json",
+      "progress_measurement_raw": "\u2022 Task complete\n  \u2022 Formative Assessment on program process",
+      "baseline": null,
+      "target_and_deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "task_counts": {
+        "reported_complete": 4,
+        "reported_postponed": 0,
+        "unmarked": 6
+      },
+      "implementation": "Reported partial",
+      "implementation_basis": "District timeline marks; unmarked is unknown, not evidence of failure or non-start. No independent completion/fidelity verification.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "additional_evidence_ids": [
+        "OSPI-MIDDLE-GROWTH",
+        "OSPI-MIDDLE-ASSESSMENT"
+      ],
+      "design_evaluation": "Named tasks, owners and deadlines are recoverable. Progress measurements mix deliverables, process and outcomes; no complete numeric baseline/endpoint pair established in this review."
+    },
+    {
+      "assertion_id": "MIDDLE-14",
+      "kind": "evaluation",
+      "snapshot": "2019",
+      "objective_code": "1B",
+      "title_raw": "Integrate priorities of Information Technology, Student Services, and Teaching\n            and Learning where appropriate and feasible.",
+      "source_id": "RSD407-ITER-2019",
+      "definition_pdf_pages": [
+        23
+      ],
+      "register_file": "middle-task-register.json",
+      "progress_measurement_raw": "\u2022 Results from the Tiered Fidelity Inventory regarding MTSS and PBIS. (SS)\n  \u2022 Task Complete",
+      "baseline": null,
+      "target_and_deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "task_counts": {
+        "reported_complete": 1,
+        "reported_postponed": 0,
+        "unmarked": 5
+      },
+      "implementation": "Reported partial",
+      "implementation_basis": "District timeline marks; unmarked is unknown, not evidence of failure or non-start. No independent completion/fidelity verification.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "additional_evidence_ids": [
+        "OSPI-MIDDLE-ASSESSMENT"
+      ],
+      "design_evaluation": "Named tasks, owners and deadlines are recoverable. Progress measurements mix deliverables, process and outcomes; no complete numeric baseline/endpoint pair established in this review."
+    },
+    {
+      "assertion_id": "MIDDLE-15",
+      "kind": "evaluation",
+      "snapshot": "2019",
+      "objective_code": "2A",
+      "title_raw": "Provide a financial and operational process that strengthens student learning\n            and leverages financial markets to benefit the district taxpayers.",
+      "source_id": "RSD407-ITER-2019",
+      "definition_pdf_pages": [
+        25
+      ],
+      "register_file": "middle-task-register.json",
+      "progress_measurement_raw": "\u2022 Maintain a minimum of a 9% uncommitted general operating fund balance with a\n    periodic School Board\u2019s review of that standard.\n  \u2022 Tasks complete.",
+      "baseline": null,
+      "target_and_deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "task_counts": {
+        "reported_complete": 1,
+        "reported_postponed": 0,
+        "unmarked": 3
+      },
+      "implementation": "Reported partial",
+      "implementation_basis": "District timeline marks; unmarked is unknown, not evidence of failure or non-start. No independent completion/fidelity verification.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "additional_evidence_ids": [
+        "MIDDLE-RESERVE-01"
+      ],
+      "design_evaluation": "Named tasks, owners and deadlines are recoverable. Progress measurements mix deliverables, process and outcomes; no complete numeric baseline/endpoint pair established in this review."
+    },
+    {
+      "assertion_id": "MIDDLE-16",
+      "kind": "evaluation",
+      "snapshot": "2019",
+      "objective_code": "2B",
+      "title_raw": "Establish and implement a prioritized list of projects consistent with capital\n            projects levy financing with the consent of the School Board.",
+      "source_id": "RSD407-ITER-2019",
+      "definition_pdf_pages": [
+        26
+      ],
+      "register_file": "middle-task-register.json",
+      "progress_measurement_raw": "\u2022 Produce a prioritized list.\n\u2022 Implement the highest priority items.",
+      "baseline": null,
+      "target_and_deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "task_counts": {
+        "reported_complete": 1,
+        "reported_postponed": 0,
+        "unmarked": 2
+      },
+      "implementation": "Reported partial",
+      "implementation_basis": "District timeline marks; unmarked is unknown, not evidence of failure or non-start. No independent completion/fidelity verification.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "additional_evidence_ids": [],
+      "design_evaluation": "Named tasks, owners and deadlines are recoverable. Progress measurements mix deliverables, process and outcomes; no complete numeric baseline/endpoint pair established in this review."
+    },
+    {
+      "assertion_id": "MIDDLE-17",
+      "kind": "evaluation",
+      "snapshot": "2019",
+      "objective_code": "2C",
+      "title_raw": "Manage all aspects of the District\u2019s Safety and Emergency Operations Plans.",
+      "source_id": "RSD407-ITER-2019",
+      "definition_pdf_pages": [
+        27,
+        28
+      ],
+      "register_file": "middle-task-register.json",
+      "progress_measurement_raw": "\u2022 Complete 100% disaster container supply itemization.\n  \u2022 Complete 100% of the Emergency Operations Plan and Emergency Operations\n    Field Guide training and procedures.",
+      "baseline": null,
+      "target_and_deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "task_counts": {
+        "reported_complete": 1,
+        "reported_postponed": 0,
+        "unmarked": 7
+      },
+      "implementation": "Reported partial",
+      "implementation_basis": "District timeline marks; unmarked is unknown, not evidence of failure or non-start. No independent completion/fidelity verification.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "additional_evidence_ids": [],
+      "design_evaluation": "Named tasks, owners and deadlines are recoverable. Progress measurements mix deliverables, process and outcomes; no complete numeric baseline/endpoint pair established in this review."
+    },
+    {
+      "assertion_id": "MIDDLE-18",
+      "kind": "evaluation",
+      "snapshot": "2019",
+      "objective_code": "3A",
+      "title_raw": "Implement the 2018-2023 Human Resources (HR) Plan.",
+      "source_id": "RSD407-ITER-2019",
+      "definition_pdf_pages": [
+        30
+      ],
+      "register_file": "middle-task-register.json",
+      "progress_measurement_raw": "\u2022 Tasks complete.\n  \u2022 Published evidence based on research and data findings.",
+      "baseline": null,
+      "target_and_deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "task_counts": {
+        "reported_complete": 2,
+        "reported_postponed": 0,
+        "unmarked": 3
+      },
+      "implementation": "Reported partial",
+      "implementation_basis": "District timeline marks; unmarked is unknown, not evidence of failure or non-start. No independent completion/fidelity verification.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "additional_evidence_ids": [],
+      "design_evaluation": "Named tasks, owners and deadlines are recoverable. Progress measurements mix deliverables, process and outcomes; no complete numeric baseline/endpoint pair established in this review."
+    },
+    {
+      "assertion_id": "MIDDLE-19",
+      "kind": "evaluation",
+      "snapshot": "2019",
+      "objective_code": "3B",
+      "title_raw": "Management of the Riverview School District\u2019s Communications Program.",
+      "source_id": "RSD407-ITER-2019",
+      "definition_pdf_pages": [
+        31
+      ],
+      "register_file": "middle-task-register.json",
+      "progress_measurement_raw": "\u2022 Distribution of The Riverview Way 2019-2020.\n  \u2022 Successful February 2020 Bond.\n  \u2022 Tasks complete.",
+      "baseline": null,
+      "target_and_deadline_reference": "See preserved progress measurement and numbered task definition/deadline fields in task register; revisions in evaluation narrative.",
+      "task_counts": {
+        "reported_complete": 0,
+        "reported_postponed": 0,
+        "unmarked": 7
+      },
+      "implementation": "Cannot determine",
+      "implementation_basis": "District timeline marks; unmarked is unknown, not evidence of failure or non-start. No independent completion/fidelity verification.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "Matched baseline, target definitions, coverage denominators and full-cycle endpoint not independently established for the broad objective. Narrow diagnostics or criteria do not settle every component.",
+      "additional_evidence_ids": [
+        "MIDDLE-BOND-01"
+      ],
+      "design_evaluation": "Named tasks, owners and deadlines are recoverable. Progress measurements mix deliverables, process and outcomes; no complete numeric baseline/endpoint pair established in this review."
+    }
+  ],
+  "narrow_assertions": [
+    {
+      "assertion_id": "MIDDLE-BOND-01",
+      "kind": "evaluation",
+      "objective": "2019 3B",
+      "criterion_raw": "Successful February 2020 Bond.",
+      "target_source": "RSD407-ITER-2019 PDF p.31",
+      "result": "Not met",
+      "source_ids": [
+        "KC-RSD407-BOND-2020",
+        "RSD407-BOND-HISTORY"
+      ],
+      "source_values": {
+        "approved_votes": 3163,
+        "rejected_votes": 2802,
+        "approval_percent_raw": "53.03%",
+        "ballots_counted": 5968,
+        "district_outcome_raw": "Failed (53.03%)"
+      },
+      "limitation": "Criterion-specific result; not a rating of all communications work or a causal account of failure."
+    },
+    {
+      "assertion_id": "MIDDLE-RESERVE-01",
+      "kind": "derived result",
+      "input": "middle-finance-values.json",
+      "calculation": "middle-outcome-diagnostics.json reserves; scripts/middle_evidence.py",
+      "interpretation": "Observed audited unassigned/actual-expenditure ratios exceed both numeric reference levels in the selected years.",
+      "limitation": "2016 wording varies unassigned/uncommitted; 2019 specifies uncommitted. Applicable denominator and full-year maintenance not established. Conditional diagnostic, not strategic-policy compliance or overall fiscal success."
+    }
+  ]
+}

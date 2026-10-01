@@ -1,0 +1,314 @@
+{
+  "assertion_id": "MIDDLE-DERIVED-01",
+  "kind": "derived result",
+  "method": "Decimal arithmetic; exact grade/subject/period/scope pairing; no imputation or averaged SGP",
+  "growth": [
+    {
+      "grade": "4th Grade",
+      "subject": "English Language Arts",
+      "baseline_2014_15_raw": "67.5",
+      "early_2015_16_raw": "53.5",
+      "endpoint_2018_19_raw": "44",
+      "wa_endpoint_raw": "50",
+      "change_from_baseline": "-23.5",
+      "change_from_early_year": "-9.5",
+      "endpoint_minus_wa": "-6"
+    },
+    {
+      "grade": "4th Grade",
+      "subject": "Math",
+      "baseline_2014_15_raw": "48",
+      "early_2015_16_raw": "43",
+      "endpoint_2018_19_raw": "34.5",
+      "wa_endpoint_raw": "50",
+      "change_from_baseline": "-13.5",
+      "change_from_early_year": "-8.5",
+      "endpoint_minus_wa": "-15.5"
+    },
+    {
+      "grade": "5th Grade",
+      "subject": "English Language Arts",
+      "baseline_2014_15_raw": "55",
+      "early_2015_16_raw": "55",
+      "endpoint_2018_19_raw": "55",
+      "wa_endpoint_raw": "50",
+      "change_from_baseline": "0",
+      "change_from_early_year": "0",
+      "endpoint_minus_wa": "5"
+    },
+    {
+      "grade": "5th Grade",
+      "subject": "Math",
+      "baseline_2014_15_raw": "66",
+      "early_2015_16_raw": "42",
+      "endpoint_2018_19_raw": "49",
+      "wa_endpoint_raw": "50",
+      "change_from_baseline": "-17",
+      "change_from_early_year": "7",
+      "endpoint_minus_wa": "-1"
+    },
+    {
+      "grade": "6th Grade",
+      "subject": "English Language Arts",
+      "baseline_2014_15_raw": "55",
+      "early_2015_16_raw": "61.5",
+      "endpoint_2018_19_raw": "46",
+      "wa_endpoint_raw": "50",
+      "change_from_baseline": "-9",
+      "change_from_early_year": "-15.5",
+      "endpoint_minus_wa": "-4"
+    },
+    {
+      "grade": "6th Grade",
+      "subject": "Math",
+      "baseline_2014_15_raw": "50",
+      "early_2015_16_raw": "48",
+      "endpoint_2018_19_raw": "61",
+      "wa_endpoint_raw": "50",
+      "change_from_baseline": "11",
+      "change_from_early_year": "13",
+      "endpoint_minus_wa": "11"
+    },
+    {
+      "grade": "7th Grade",
+      "subject": "English Language Arts",
+      "baseline_2014_15_raw": "48.5",
+      "early_2015_16_raw": "54",
+      "endpoint_2018_19_raw": "37",
+      "wa_endpoint_raw": "50",
+      "change_from_baseline": "-11.5",
+      "change_from_early_year": "-17",
+      "endpoint_minus_wa": "-13"
+    },
+    {
+      "grade": "7th Grade",
+      "subject": "Math",
+      "baseline_2014_15_raw": "59",
+      "early_2015_16_raw": "49",
+      "endpoint_2018_19_raw": "59",
+      "wa_endpoint_raw": "50",
+      "change_from_baseline": "0",
+      "change_from_early_year": "10",
+      "endpoint_minus_wa": "9"
+    },
+    {
+      "grade": "8th Grade",
+      "subject": "English Language Arts",
+      "baseline_2014_15_raw": "49",
+      "early_2015_16_raw": "56",
+      "endpoint_2018_19_raw": "42.5",
+      "wa_endpoint_raw": "50",
+      "change_from_baseline": "-6.5",
+      "change_from_early_year": "-13.5",
+      "endpoint_minus_wa": "-7.5"
+    },
+    {
+      "grade": "8th Grade",
+      "subject": "Math",
+      "baseline_2014_15_raw": "66",
+      "early_2015_16_raw": "40",
+      "endpoint_2018_19_raw": "54.5",
+      "wa_endpoint_raw": "50",
+      "change_from_baseline": "-11.5",
+      "change_from_early_year": "14.5",
+      "endpoint_minus_wa": "4.5"
+    },
+    {
+      "grade": "All Grades",
+      "subject": "English Language Arts",
+      "baseline_2014_15_raw": "58",
+      "early_2015_16_raw": "55",
+      "endpoint_2018_19_raw": "44",
+      "wa_endpoint_raw": "50",
+      "change_from_baseline": "-14",
+      "change_from_early_year": "-11",
+      "endpoint_minus_wa": "-6"
+    },
+    {
+      "grade": "All Grades",
+      "subject": "Math",
+      "baseline_2014_15_raw": "56",
+      "early_2015_16_raw": "45",
+      "endpoint_2018_19_raw": "53",
+      "wa_endpoint_raw": "50",
+      "change_from_baseline": "-3",
+      "change_from_early_year": "8",
+      "endpoint_minus_wa": "3"
+    }
+  ],
+  "assessment_2018_19": [
+    {
+      "subject": "ELA",
+      "test": "SBAC",
+      "student_group": "All Students",
+      "district_raw": "0.7248358862",
+      "wa_raw": "0.609612121",
+      "district_percent": "72.4835886200",
+      "wa_percent": "60.961212100",
+      "district_minus_wa_percentage_points": "11.5223765200",
+      "gap_vs_district_all_percentage_points": "0E-10"
+    },
+    {
+      "subject": "Math",
+      "test": "SBAC",
+      "student_group": "All Students",
+      "district_raw": "0.6264336428",
+      "wa_raw": "0.5010219831",
+      "district_percent": "62.6433642800",
+      "wa_percent": "50.1021983100",
+      "district_minus_wa_percentage_points": "12.5411659700",
+      "gap_vs_district_all_percentage_points": "0E-10"
+    },
+    {
+      "subject": "Science",
+      "test": "WCAS",
+      "student_group": "All Students",
+      "district_raw": "0.7118881119",
+      "wa_raw": "0.527443167",
+      "district_percent": "71.1888111900",
+      "wa_percent": "52.744316700",
+      "district_minus_wa_percentage_points": "18.4444944900",
+      "gap_vs_district_all_percentage_points": "0E-10"
+    },
+    {
+      "subject": "ELA",
+      "test": "SBAC",
+      "student_group": "English Language Learners",
+      "district_raw": "0.1058823529",
+      "wa_raw": "0.1352139744",
+      "district_percent": "10.5882352900",
+      "wa_percent": "13.5213974400",
+      "district_minus_wa_percentage_points": "-2.9331621500",
+      "gap_vs_district_all_percentage_points": "-61.8953533300"
+    },
+    {
+      "subject": "Math",
+      "test": "SBAC",
+      "student_group": "English Language Learners",
+      "district_raw": "0.1046511628",
+      "wa_raw": "0.1480654889",
+      "district_percent": "10.4651162800",
+      "wa_percent": "14.8065488900",
+      "district_minus_wa_percentage_points": "-4.3414326100",
+      "gap_vs_district_all_percentage_points": "-52.1782480000"
+    },
+    {
+      "subject": "ELA",
+      "test": "SBAC",
+      "student_group": "Low-Income",
+      "district_raw": "0.3818897638",
+      "wa_raw": "0.4411054417",
+      "district_percent": "38.1889763800",
+      "wa_percent": "44.1105441700",
+      "district_minus_wa_percentage_points": "-5.9215677900",
+      "gap_vs_district_all_percentage_points": "-34.2946122400"
+    },
+    {
+      "subject": "Math",
+      "test": "SBAC",
+      "student_group": "Low-Income",
+      "district_raw": "0.2784313725",
+      "wa_raw": "0.3301984276",
+      "district_percent": "27.8431372500",
+      "wa_percent": "33.0198427600",
+      "district_minus_wa_percentage_points": "-5.1767055100",
+      "gap_vs_district_all_percentage_points": "-34.8002270300"
+    },
+    {
+      "subject": "Science",
+      "test": "WCAS",
+      "student_group": "Low-Income",
+      "district_raw": "0.3723404255",
+      "wa_raw": "0.3527573785",
+      "district_percent": "37.2340425500",
+      "wa_percent": "35.2757378500",
+      "district_minus_wa_percentage_points": "1.9583047000",
+      "gap_vs_district_all_percentage_points": "-33.9547686400"
+    },
+    {
+      "subject": "ELA",
+      "test": "SBAC",
+      "student_group": "Students with Disabilities",
+      "district_raw": "0.253968254",
+      "wa_raw": "0.2199106283",
+      "district_percent": "25.396825400",
+      "wa_percent": "21.9910628300",
+      "district_minus_wa_percentage_points": "3.4057625700",
+      "gap_vs_district_all_percentage_points": "-47.0867632200"
+    },
+    {
+      "subject": "Math",
+      "test": "SBAC",
+      "student_group": "Students with Disabilities",
+      "district_raw": "0.2157894737",
+      "wa_raw": "0.1690828402",
+      "district_percent": "21.5789473700",
+      "wa_percent": "16.9082840200",
+      "district_minus_wa_percentage_points": "4.6706633500",
+      "gap_vs_district_all_percentage_points": "-41.0644169100"
+    },
+    {
+      "subject": "Science",
+      "test": "WCAS",
+      "student_group": "Students with Disabilities",
+      "district_raw": "0.2777777778",
+      "wa_raw": "0.1947660529",
+      "district_percent": "27.7777777800",
+      "wa_percent": "19.4766052900",
+      "district_minus_wa_percentage_points": "8.3011724900",
+      "gap_vs_district_all_percentage_points": "-43.4110334100"
+    }
+  ],
+  "reserves": [
+    {
+      "source_id": "SAO-RSD407-2017-FIN",
+      "period": "2016-17",
+      "unassigned_balance_raw": "3599390.16",
+      "unassigned_pdf_page": 23,
+      "actual_expenditures_raw": "37480441.28",
+      "expenditures_pdf_page": 24,
+      "unassigned_pct_actual_expenditures": "9.6034",
+      "above_5pct_diagnostic": true,
+      "above_9pct_diagnostic": true
+    },
+    {
+      "source_id": "SAO-RSD407-2018-FIN",
+      "period": "2017-18",
+      "unassigned_balance_raw": "3809409.68",
+      "unassigned_pdf_page": 20,
+      "actual_expenditures_raw": "40632892.55",
+      "expenditures_pdf_page": 21,
+      "unassigned_pct_actual_expenditures": "9.3752",
+      "above_5pct_diagnostic": true,
+      "above_9pct_diagnostic": true
+    },
+    {
+      "source_id": "SAO-RSD407-2019-FIN",
+      "period": "2018-19",
+      "unassigned_balance_raw": "6872942.87",
+      "unassigned_pdf_page": 18,
+      "actual_expenditures_raw": "45740916.99",
+      "expenditures_pdf_page": 19,
+      "unassigned_pct_actual_expenditures": "15.0258",
+      "above_5pct_diagnostic": true,
+      "above_9pct_diagnostic": true
+    },
+    {
+      "source_id": "SAO-RSD407-2020-FIN",
+      "period": "2019-20",
+      "unassigned_balance_raw": "7695323.67",
+      "unassigned_pdf_page": 50,
+      "actual_expenditures_raw": "47257070.37",
+      "expenditures_pdf_page": 21,
+      "unassigned_pct_actual_expenditures": "16.2840",
+      "above_5pct_diagnostic": true,
+      "above_9pct_diagnostic": true
+    }
+  ],
+  "limitations": [
+    "SGP changes compare same-grade repeated cross-sections, not the same pupils or absolute attainment.",
+    "2018\u20132019 assessment is an in-cycle snapshot, not a 2015 baseline or full spring2020 endpoint.",
+    "Focal groups compared with all students, which includes the focal group; not a non-focal contrast.",
+    "Reserve diagnostics use audited unassigned balance/actual expenditures; plan uncommitted terminology and denominator are not fully reconciled. No whole-plan compliance inference."
+  ]
+}
