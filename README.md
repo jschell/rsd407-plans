@@ -19,6 +19,12 @@ This repository is an external, evidence-based review of Riverview School Distri
 
 **This is a substantive accountability issue, not just a limitation of the review.** Where a reported accomplishment cannot be connected to a defined measure and supporting result, families and the Board cannot independently verify its extent or effectiveness from that record. The evidence supports a finding of measurement failure in the public evaluation trace. It does not prove the district has no internal data, that every task is unmeasurable or that undocumented work failed.
 
+### Unverified commitments can disappear from later plans
+
+The [commitment attainment and disposition tracker](docs/evaluations/commitment-disposition.md) identifies original commitments whose attainment remains unverified alongside observed revisions or omissions. Two dedicated objectives are absent from their reviewed successor lists; related activity does not establish closure of the original objective. The tracker also preserves the missed bond and ELA criteria separately from their later disposition (DISP-REGISTER-01).
+
+**Absence is not proof of formal retirement.** Readers need the original result and a documented continuation, revision or retirement decision. The register keeps those questions separate and records the evidence needed to resolve them.
+
 ## Other substantive findings
 
 | Finding | Evidence and qualification |
@@ -47,6 +53,7 @@ Documented conflicts and missing measurement chains limit public verification of
 | --- | --- |
 | The overall judgment, historical coverage and limitations | [Cross-era final evaluation](docs/evaluations/cross-era-synthesis.md) |
 | How objectives and targets changed across plans | [Cross-plan comparison](docs/evaluations/cross-era-synthesis.md#what-persisted-evolved-or-changed-scope) and [machine-readable objective matrix, crosswalk and assertion/source index](data/synthesis/cross-era-evaluation.json) |
+| Unmet or unverified commitments and what happened to them later | [Commitment disposition tracker](docs/evaluations/commitment-disposition.md) and [machine-readable register](data/strategic-plans/commitment-disposition-register.json) |
 | Findings for the 2022–2027 plan | [Current-plan domain evaluation](docs/evaluations/final-synthesis.md) |
 | Earlier plan findings | [Early cycles](docs/evaluations/early-plan-iterations.md), [2015–2020 snapshots](docs/evaluations/middle-plan-iterations.md), and [2020–2025](docs/evaluations/plan-2020-2025.md) |
 | How to inspect sources or reproduce results | [Research process and reproduction guide](docs/research-guide.md) |

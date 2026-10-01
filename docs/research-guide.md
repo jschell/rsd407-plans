@@ -93,3 +93,15 @@ See the [provenance standard](methodology/reproducibility.md), [evaluation frame
 Reopen only when a concrete authoritative artifact could materially change a conclusion: a governing register or revision, matched outcome and definition, dated implementation/fidelity record, or corrected calculation or source. The [final report](evaluations/cross-era-synthesis.md#completion-and-finite-reopening) gives the finite conditions.
 
 For a correction, identify the assertion ID, provide the source and exact locator, explain the affected definition or calculation, and retain the previous observation alongside the correction. Update affected outputs and their hashes together, reproduce the relevant calculations, and commit the explanation. A new title, forecast or broadly available dataset alone does not restart collection.
+
+
+## Track unresolved commitments across versions
+
+[Plan 13](plans/complete/13-commitment-disposition-tracker.md) records this bounded tracker implementation and verification.
+
+The [commitment disposition tracker](evaluations/commitment-disposition.md) separates original attainment from observed successor scope and formal decision/closure. Its curated review file records comparisons and evidence; its deterministic builder generates the JSON register and readable report. Follow that report's update procedure before changing a disposition. No entry closes automatically because a new plan omits it or related work continues. This is a bounded69-entry register of54 objectives,14 metrics and one bond criterion, with overlapping units rather than a complete task census.
+
+```sh
+python scripts/build_commitment_disposition.py
+python -m unittest discover -s tests -p test_commitment_disposition.py
+```
