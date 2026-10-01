@@ -1,6 +1,6 @@
 # Bounded 2022–2027 Strategic-Plan Evaluation
 
-Status: current-plan bounded research complete, September 30, 2026. Prior-iteration formal reviews are queued under Plans 08–12. Plans 00–07 and the Goal 1 integrity follow-up are closed. This evaluates the reviewed evidence, not every district activity or every historical plan task. No overall attainment score is calculated.
+Status: current-plan bounded research complete, September 30, 2026. Prior-iteration reviews and the [cross-era synthesis](cross-era-synthesis.md) are complete under Plans 08–12 as of October 1, 2026. This report retains its current-plan domain scope. Plans 00–07 and the Goal 1 integrity follow-up are closed. This evaluates the reviewed evidence, not every district activity or every historical plan task. No overall attainment score is calculated.
 
 The evidence supports favorable district-wide academic comparisons alongside substantial current focal-group disparities. Financial and operational records establish several narrow actions and targets, while independent fidelity and overall outcome attainment remain uncertain. Recurring work generally reflects ongoing responsibility or an evolving challenge; the reviewed evidence does not justify a blanket finding of recurrent implementation failure.
 
@@ -44,7 +44,7 @@ SYN-12 (evaluation): retain these conflicts rather than choosing one convenient 
 | HR-05/06 | 2013 staff composition against a 2000 recruitment pool is not current staff/student match. Para event proposal is distinct from certificated grow-your-own preparation; event year unspecified. |
 | COMM-05/06/09–10 | Podcast growth lacks retestable counts/interval; newsletter/survey text differs; website growth denominators, unique/new visitors and snapshot windows differ. Views/downloads are not summed as people reached. |
 
-Scope limitation: the history reconstruction includes earlier plans and an unresolved 2014–19 adoption gap ([history](../strategic-plans/plan-history.md)). Finance includes a FY2010 anchor and continuous FY2017–25 actuals; missing intervening years are not interpolated. This is not a complete scored census of every 2009–2027 task. Qmlativ effectiveness and other unlinked operational effects are not inferred from budgeting or software mentions. These limitations remain closed analytical boundaries, not authorization for indefinite collection.
+Scope limitation: the history reconstruction includes earlier plans and a narrowed pre-2015 bridge and missing intermediate revision/adoption records ([history](../strategic-plans/plan-history.md)). Finance includes a FY2010 anchor and continuous FY2017–25 actuals; missing intervening years are not interpolated. This is not a complete scored census of every 2009–2027 task. Qmlativ effectiveness and other unlinked operational effects are not inferred from budgeting or software mentions. These limitations remain closed analytical boundaries, not authorization for indefinite collection.
 
 ## Evidence needed to change conclusions
 
@@ -63,7 +63,7 @@ SYN-13 (evaluation): reopen only when a concrete authoritative artifact bears on
 
 Trace SYN IDs to the domain assertion IDs in the matrix, then to manifests, physical pages and scripts. Goal 1 is anchored to validated [Actions run 36744065183](https://github.com/jschell/rsd407-plans/actions/runs/36744065183), artifact 11111512770 and its SHA-256 recorded in the Goal 1 synthesis. Workflow artifacts have finite retention; the recorded run/hash is not a guarantee of perpetual download availability. A later source pull may change and must be reported as a new acquisition, not claimed byte-identical without verification.
 
-Document manifests record publisher URLs, original byte hashes and honest capture statuses. Counts below are manifest records, not independent sources; reused/duplicate documents may occur. `data/synthesis/preservation-summary.json` preserves the count rule. PDFs were reviewed locally and are excluded from git; the audit summary HTML is a separate format with a preservation gap.
+Document manifests record publisher URLs, original byte hashes and honest capture statuses. The table below retains the original domain-only preservation scope; the cross-era report separately counts all ten relevant manifests (92 records, 52 verified captures). Counts below are manifest records, not independent sources; reused/duplicate documents may occur. `data/synthesis/preservation-summary.json` preserves the count rule. PDFs were reviewed locally and are excluded from git; the audit summary HTML is a separate format with a preservation gap.
 
 | Manifest | Records | Hash-verified archive captures | Other preservation statuses |
 |---|---:|---:|---:|
@@ -76,4 +76,4 @@ Document manifests record publisher URLs, original byte hashes and honest captur
 
 Run finance, allocation and communications calculations using the repository scripts and compare committed derived artifacts. Source IDs, local original hashes, calculation outputs, matrix references and repository links were checked for this closeout. Archive gaps and historical/source-definition limits remain reviewable. No new sources, social/analytics pipeline or future-date waiting were introduced in synthesis.
 
-This current-plan review is complete at its bounded scope. Prior-iteration ratings are a separately authorized extension under queued Plans 08–12, not completed findings. Current-plan reopening still requires material authoritative evidence. No background research or scheduled collection is implied.
+This current-plan review is complete at its bounded scope. Prior-iteration ratings and the separate [cross-era final evaluation](cross-era-synthesis.md) are complete at their declared coverage. Current-plan reopening still requires material authoritative evidence. No background research or scheduled collection is implied.

@@ -1,6 +1,6 @@
 # Plan 12 — Cross-Era Evaluation and Recurrence Synthesis
 
-Status: queued. Depends on completion of Plans 08–11, including documented insufficient-evidence closeouts.
+Status: complete (bounded synthesis; 2026-10-01). Depends on completion of Plans 08–11, including documented insufficient-evidence closeouts.
 
 ## Objective
 
@@ -21,3 +21,12 @@ Cross-era narrative and machine-readable matrix, assertion/evidence index, updat
 ## Stop
 
 All known candidate iterations have an evaluation or documented insufficient-evidence result. Remaining gaps are explicit. Research complete only for that declared coverage; report exactly which eras/objectives are rated and which are not.
+
+
+## Closeout
+
+Outputs: [cross-era final evaluation](../../evaluations/cross-era-synthesis.md), `data/synthesis/cross-era-evaluation.json`, `data/strategic-plans/current-objective-register.json`, and `scripts/build_cross_era_synthesis.py`; README, history and inventory now identify the completed scope. Existing current-plan findings remain separate and intact.
+
+Verification: deterministic rebuild; 47 original historical rows preserved plus seven current definitions; twelve candidate closeouts; ten thematic families, twelve version links and six qualified recurrence classifications; independently checked level/gap/WA arithmetic and suppressed nulls; assertion pointers, source references, input hashes and repository links resolved. The current register's seven titles and 26 tasks were reviewed against rendered, hash-reverified PDF pages. Ten manifests contain 92 records and 52 verified captures; record counts are not independent sources. No PDF is committed, and no new collection or archive request was needed.
+
+All known candidates now have a bounded evaluation or insufficient-evidence closeout. Finite reopening conditions are in the final report. No queued research plan, scheduled collection or background research remains.
