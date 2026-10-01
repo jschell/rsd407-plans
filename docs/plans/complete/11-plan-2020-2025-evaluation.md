@@ -1,6 +1,6 @@
 # Plan 11 — Evaluate the 2020–2025 Plan and Transition
 
-Status: queued. Depends on Plan 08.
+Status: complete (bounded review; 2026-10-01). Depends on Plan 08.
 
 ## Objective
 
@@ -21,3 +21,7 @@ Formally evaluate the confirmed 2020–2025 plan, its separate business-plan imp
 ## Stop
 
 One bounded plan/business/status/period-outcome pass. No new generalized OSPI pipeline unless a named material assertion cannot otherwise be tested. No waiting for future results or individual case reconstruction.
+
+## Closure
+
+Recovered and reviewed year-one PDF; actual PDF Internet Archive replay hash matches original. Delivered [evaluation](../../evaluations/plan-2020-2025.md), seven-objective/fourteen-goal-metric matrix,34-task raw register, transition crosswalk, source/capture manifest and bounded search log. Reused verified OSPI artifact for62 source contexts and audited financial observations; no new general pipeline. Separate Board motion, annual versions, precise replacement, full target coverage and fidelity remain documented gaps. Verified deterministic reconstruction/selection/calculations, source hashes, suppression handling, task/key/count integrity, cited PDF pages and diff checks. Next: Plan12 cross-era synthesis.

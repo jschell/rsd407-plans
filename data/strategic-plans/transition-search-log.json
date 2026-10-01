@@ -1,0 +1,392 @@
+{
+  "assertion_id": "TRANS-SEARCH-01",
+  "kind": "observation",
+  "searched_at": "2026-10-01",
+  "boundary": "One bounded authority/business/status and outcome pass. Public district/school pages, one archived2021 page, three Board queries with first30 detail results, one specific November2022 minutes PDF and recovered year-one plan PDF, published plan link submissions/retrievals, reused hash-verified OSPI artifact and existing financial records. No exhaustive Board/archive crawl or new OSPI acquisition pipeline.",
+  "web_queries": [
+    "Riverview School District 2020-2025 strategic plan PDF",
+    "site:rsd407.org 2021 Business Plan",
+    "site:rsd407.org 2022 strategic adopted",
+    "Riverview 2020-2025 strategic Duvall",
+    "rsd407 2021 strategic plan",
+    "rsd407 2022 adoption strategic"
+  ],
+  "excluded": "Other Riverview districts in Pennsylvania, Arkansas and Michigan were excluded; capital facilities2020\u20132025 is a separate plan. Third-party personnel listing treated as a lead, not governing evidence.",
+  "portal_queries": [
+    {
+      "query": "2020-2025",
+      "search_response_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "search_count": 0,
+      "detail_limit": 30,
+      "endpoint": "https://rsd407.community.diligentoneplatform.com/Services/ItemsService.svc/portal/search",
+      "parameters": {
+        "criteria": "2020-2025",
+        "showDocuments": true,
+        "showTrackerItems": false,
+        "showMeetingItems": true
+      }
+    },
+    {
+      "query": "business plan",
+      "search_response_sha256": "ce28fda8ad30ebaa2c44cccb0ab70626f9fad404f485e0c54998466d9c20a672",
+      "search_count": 479,
+      "detail_limit": 30,
+      "endpoint": "https://rsd407.community.diligentoneplatform.com/Services/ItemsService.svc/portal/search",
+      "parameters": {
+        "criteria": "business plan",
+        "showDocuments": true,
+        "showTrackerItems": false,
+        "showMeetingItems": true
+      },
+      "detail_response_sha256": "232d3436579bf752bec884db37abbe703443e5f146595242ba25e7823e373e9f",
+      "records": [
+        {
+          "Id": 16405,
+          "TitleHtml": "RSD Strategic <strong>Plan</strong> Update 09.2026",
+          "LinkUrl": "/document/16405?modified=1789772069000"
+        },
+        {
+          "Id": 12156,
+          "TitleHtml": "Riverview 2022-25 CBA Edited to Incorporate 2025 Bargained Changes",
+          "LinkUrl": "/document/12156?modified=1757438766000"
+        },
+        {
+          "Id": 16414,
+          "TitleHtml": "Board of Directors - September 22, 2026 - Agenda - Pdf",
+          "LinkUrl": "/document/16414?modified=1790117636000"
+        },
+        {
+          "Id": 16439,
+          "TitleHtml": "Board of Directors - September 22, 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/16439?modified=1790282528000"
+        },
+        {
+          "Id": 13677,
+          "TitleHtml": "RSD Strategic <strong>Plan</strong> Update - January 2026",
+          "LinkUrl": "/document/13677?modified=1769213922000"
+        },
+        {
+          "Id": 15799,
+          "TitleHtml": "Riverview_Emergency_Operations_Plan 2026",
+          "LinkUrl": "/document/15799?modified=1784906592000"
+        },
+        {
+          "Id": 4383,
+          "TitleHtml": "3241-P1 - Student Conduct and Expectations Procedure - Revised June 2021",
+          "LinkUrl": "/document/4383?modified=1713429310000"
+        },
+        {
+          "Id": 15364,
+          "TitleHtml": "RSD Strategic <strong>Plan</strong> Update 06.2026",
+          "LinkUrl": "/document/15364?modified=1782257398000"
+        },
+        {
+          "Id": 16040,
+          "TitleHtml": "Budget Presentation Board Meeting",
+          "LinkUrl": "/document/16040?modified=1786749380000"
+        },
+        {
+          "Id": 8019,
+          "TitleHtml": "RSD Communications <strong>Plan</strong> 2024-2025",
+          "LinkUrl": "/document/8019?modified=1732655117000"
+        },
+        {
+          "Id": 5962,
+          "TitleHtml": "2024 CFP Presentation Final",
+          "LinkUrl": "/home/public/document/5962"
+        },
+        {
+          "Id": 15847,
+          "TitleHtml": "Board of Directors - June 23, 2026 - Jun 23 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/15847?modified=1785445734000"
+        },
+        {
+          "Id": 15845,
+          "TitleHtml": "Board of Directors - June 23, 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/15845?modified=1785445590000"
+        },
+        {
+          "Id": 12722,
+          "TitleHtml": "Minutes for October 14, 2025 Board Meeting",
+          "LinkUrl": "/document/12722?modified=1761354649000"
+        },
+        {
+          "Id": 15369,
+          "TitleHtml": "Board of Directors - June 23, 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/15369?modified=1785445667000"
+        },
+        {
+          "Id": 11579,
+          "TitleHtml": "2025-2026 RSD Citizen's Budget Report",
+          "LinkUrl": "/document/11579?modified=1755910363000"
+        },
+        {
+          "Id": 4703,
+          "TitleHtml": "Minutes for March 26, 2024 Board Meeting",
+          "LinkUrl": "/document/4703?modified=1713802472000"
+        },
+        {
+          "Id": 4122,
+          "TitleHtml": "Minutes for November 28, 2023 Board Meeting",
+          "LinkUrl": "/document/4122?modified=1709662247000"
+        },
+        {
+          "Id": 7078,
+          "TitleHtml": "2024-2025 Citizens Budget",
+          "LinkUrl": "/document/7078?modified=1727998062000"
+        },
+        {
+          "Id": 6232,
+          "TitleHtml": "Riverview and PSE Collective Bargaining Agreement (2024-2026) - Ready to Sign",
+          "LinkUrl": "/document/6232?modified=1723244978000"
+        },
+        {
+          "Id": 15353,
+          "TitleHtml": "Board of Directors - June 23, 2026 - Agenda - Pdf",
+          "LinkUrl": "/document/15353?modified=1782258633000"
+        },
+        {
+          "Id": 6968,
+          "TitleHtml": "RSD 2022-2027 Strategic <strong>Plan</strong> Status Update Presentation",
+          "LinkUrl": "/document/6968?modified=1727106935000"
+        },
+        {
+          "Id": 13681,
+          "TitleHtml": "Board of Directors - January 27, 2026 - Agenda - Pdf",
+          "LinkUrl": "/document/13681?modified=1769539668000"
+        },
+        {
+          "Id": 13895,
+          "TitleHtml": "Board of Directors - January 27, 2026 - Jan 27 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/13895?modified=1770953728000"
+        },
+        {
+          "Id": 13893,
+          "TitleHtml": "Board of Directors - January 27, 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/13893?modified=1770953679000"
+        },
+        {
+          "Id": 13700,
+          "TitleHtml": "Board of Directors - January 27, 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/13700?modified=1770754163000"
+        },
+        {
+          "Id": 15786,
+          "TitleHtml": "Board of Directors - June 23, 2026 - Minutes",
+          "LinkUrl": "/document/15786?modified=1784847430000"
+        },
+        {
+          "Id": 16378,
+          "TitleHtml": "Service Contracts for September 22, 2026",
+          "LinkUrl": "/document/16378?modified=1789761880000"
+        },
+        {
+          "Id": 4076,
+          "TitleHtml": "Final Minutes for November 22, 2022 Board Meeting",
+          "LinkUrl": "/document/4076?modified=1709591514000"
+        },
+        {
+          "Id": 9064,
+          "TitleHtml": "Board of Directors - January 28, 2025 - Minutes - Pdf",
+          "LinkUrl": "/document/9064?modified=1740089536000"
+        }
+      ]
+    },
+    {
+      "query": "2022 strategic",
+      "search_response_sha256": "05bb5f2e2cd3c992b9457888e89ad657f7c82e5ca02b74007e8f3190cadc4973",
+      "search_count": 78,
+      "detail_limit": 30,
+      "endpoint": "https://rsd407.community.diligentoneplatform.com/Services/ItemsService.svc/portal/search",
+      "parameters": {
+        "criteria": "2022 strategic",
+        "showDocuments": true,
+        "showTrackerItems": false,
+        "showMeetingItems": true
+      },
+      "detail_response_sha256": "7f8d28b6a6b3e0f6f240e325e8f355b7d789ccb2c3c50ec5e6d4f081c6753e9d",
+      "records": [
+        {
+          "Id": 13677,
+          "TitleHtml": "RSD <strong>Strategic</strong> Plan Update - January 2026",
+          "LinkUrl": "/document/13677?modified=1769213922000"
+        },
+        {
+          "Id": 16405,
+          "TitleHtml": "RSD <strong>Strategic</strong> Plan Update 09.2026",
+          "LinkUrl": "/document/16405?modified=1789772069000"
+        },
+        {
+          "Id": 13681,
+          "TitleHtml": "Board of Directors - January 27, 2026 - Agenda - Pdf",
+          "LinkUrl": "/document/13681?modified=1769539668000"
+        },
+        {
+          "Id": 13893,
+          "TitleHtml": "Board of Directors - January 27, 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/13893?modified=1770953679000"
+        },
+        {
+          "Id": 13895,
+          "TitleHtml": "Board of Directors - January 27, 2026 - Jan 27 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/13895?modified=1770953728000"
+        },
+        {
+          "Id": 15786,
+          "TitleHtml": "Board of Directors - June 23, 2026 - Minutes",
+          "LinkUrl": "/document/15786?modified=1784847430000"
+        },
+        {
+          "Id": 13700,
+          "TitleHtml": "Board of Directors - January 27, 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/13700?modified=1770754163000"
+        },
+        {
+          "Id": 15847,
+          "TitleHtml": "Board of Directors - June 23, 2026 - Jun 23 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/15847?modified=1785445734000"
+        },
+        {
+          "Id": 15845,
+          "TitleHtml": "Board of Directors - June 23, 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/15845?modified=1785445590000"
+        },
+        {
+          "Id": 15369,
+          "TitleHtml": "Board of Directors - June 23, 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/15369?modified=1785445667000"
+        },
+        {
+          "Id": 13884,
+          "TitleHtml": "Minutes for January 27, 2026 Board Meeting",
+          "LinkUrl": "/document/13884?modified=1770754248000"
+        },
+        {
+          "Id": 11375,
+          "TitleHtml": "Minutes for July 22, 2025 Board Meeting",
+          "LinkUrl": "/document/11375?modified=1754700949000"
+        },
+        {
+          "Id": 15364,
+          "TitleHtml": "RSD <strong>Strategic</strong> Plan Update 06.2026",
+          "LinkUrl": "/document/15364?modified=1782257398000"
+        },
+        {
+          "Id": 16379,
+          "TitleHtml": "Regular School Board Minutes for September 8th, 2026",
+          "LinkUrl": "/document/16379?modified=1789762391000"
+        },
+        {
+          "Id": 12189,
+          "TitleHtml": "Minutes for September 9, 2025 Board Meeting",
+          "LinkUrl": "/document/12189?modified=1758141025000"
+        },
+        {
+          "Id": 8850,
+          "TitleHtml": "Minutes for January 28, 2025 Board Meeting",
+          "LinkUrl": "/document/8850?modified=1738968845000"
+        },
+        {
+          "Id": 8713,
+          "TitleHtml": "Board of Directors - January 28, 2025 - Agenda - Pdf",
+          "LinkUrl": "/document/8713?modified=1738106316000"
+        },
+        {
+          "Id": 7147,
+          "TitleHtml": "Minutes for the September 24, 2024 Board Meeting",
+          "LinkUrl": "/document/7147?modified=1728069023000"
+        },
+        {
+          "Id": 16414,
+          "TitleHtml": "Board of Directors - September 22, 2026 - Agenda - Pdf",
+          "LinkUrl": "/document/16414?modified=1790117636000"
+        },
+        {
+          "Id": 16439,
+          "TitleHtml": "Board of Directors - September 22, 2026 - Minutes - Pdf",
+          "LinkUrl": "/document/16439?modified=1790282528000"
+        },
+        {
+          "Id": 15846,
+          "TitleHtml": "Board of Directors - June 23, 2026 - Minutes - Html",
+          "LinkUrl": "/home/public/document/15846"
+        },
+        {
+          "Id": 9064,
+          "TitleHtml": "Board of Directors - January 28, 2025 - Minutes - Pdf",
+          "LinkUrl": "/document/9064?modified=1740089536000"
+        },
+        {
+          "Id": 9066,
+          "TitleHtml": "Board of Directors - January 28, 2025 - Jan 28 2025 - Minutes - Pdf",
+          "LinkUrl": "/document/9066?modified=1740089585000"
+        },
+        {
+          "Id": 8769,
+          "TitleHtml": "Board of Directors - January 28, 2025 - Minutes - Pdf",
+          "LinkUrl": "/document/8769?modified=1739298421000"
+        },
+        {
+          "Id": 15368,
+          "TitleHtml": "Board of Directors - June 23, 2026 - Minutes - Html",
+          "LinkUrl": "/home/public/document/15368"
+        },
+        {
+          "Id": 8650,
+          "TitleHtml": "RSD <strong>Strategic</strong> Plan Update  - January 28, 2025",
+          "LinkUrl": "/document/8650?modified=1737757294000"
+        },
+        {
+          "Id": 13680,
+          "TitleHtml": "Board of Directors - January 27, 2026 - Agenda - Html",
+          "LinkUrl": "/home/public/document/13680"
+        },
+        {
+          "Id": 12118,
+          "TitleHtml": "Board of Directors - September 09, 2025 - Agenda - Html",
+          "LinkUrl": "/home/public/document/12118"
+        },
+        {
+          "Id": 6968,
+          "TitleHtml": "RSD <strong>2022</strong>-2027 <strong>Strategic</strong> Plan Status Update Presentation",
+          "LinkUrl": "/document/6968?modified=1727106935000"
+        },
+        {
+          "Id": 11206,
+          "TitleHtml": "Board of Directors - July 22, 2025 - Agenda - Html",
+          "LinkUrl": "/home/public/document/11206"
+        }
+      ]
+    }
+  ],
+  "archive_retrieval": "https://web.archive.org/web/20211128061359id_/https://www.rsd407.org/strategicplan",
+  "capture_authorization": "Initial auto-review rejected archive submission of token-bearing published SharePoint URL. User expressly authorized capture; submission then executed.",
+  "stop_result": "Recovered48-page year-one2020\u20132025 plan and action register using file-specific viewer download URL. Verified actual PDF archive capture. Separate Board motion, annual revisions and exact replacement authority remain unresolved; targeted pass closed.",
+  "pdf-download-result": {
+    "http_status": 200,
+    "content_type": "text/html",
+    "byte_count": 9856,
+    "sha256": "6074623b37cccfabcf41a138a11e5d4b89d49a93547a76038e9e0b9e9d0be2bf",
+    "pdf_magic": false,
+    "method": "Observed .downloadUrlNoAuth in Internet Archive response for district published plan link; credentials not supplied.",
+    "limitation": "Initial non-auth archive-download attempt returned HTML. Later viewer-provided file download recovered actual PDF, recorded separately."
+  },
+  "noauth-original-result": {
+    "url": "https://rsd407-my.sharepoint.com/personal/chsweb_rsd407_org/_layouts/15/download.aspx?UniqueId=d23592cf-04e1-47d9-9f9b-f4cec20c4c59&Translate=false",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  "published-download-result": {
+    "method": "File-specific download URL provided by captured public SharePoint viewer; URL token not published in repo.",
+    "http_status": 200,
+    "content_type": "application/pdf",
+    "byte_count": 315782,
+    "sha256": "f454eb2b71f8689c541e9a99aae4b1e7af50457f0556e7682f98272d2ff8c9ce",
+    "pdf_magic": true
+  },
+  "pdf_recovery": {
+    "evidence_id": "RSD407-TRANS-PLAN2020",
+    "method": "Public viewer supplied file-specific download URL; signed file download succeeded; published direct/non-auth links failed. Actual PDF captured and replay hash matched.",
+    "capture_status": "capture_verified"
+  }
+}

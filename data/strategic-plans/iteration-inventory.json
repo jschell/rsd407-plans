@@ -189,7 +189,7 @@
         "RSD407-ITER-2015"
       ],
       "locators": [
-        "PDF p.1 adoption; p.30 objectives; pp.31\u201347 tasks; p.54 revisions; pp.55\u201357 timeline"
+        "PDF p.1 adoption; p.30 objectives; pp.32\u201349 tasks; p.54 revisions; pp.55\u201357 timeline"
       ],
       "authority": "Official district PDF recovered from archive; adoption stated within plan, Board motion not independently recovered.",
       "adoption_date": "2015-06-09",
@@ -199,7 +199,7 @@
       "confidence": "high for document identity; unresolved for separate adoption motion",
       "coverage": {
         "goals": "three goals and 12 objectives, p.30",
-        "task_updates": "task register pp.31\u201347, timeline pp.55\u201357; completion marks are self-reports",
+        "task_updates": "task register pp.32\u201349, timeline pp.55\u201357; completion marks are self-reports",
         "period_matched_outcomes": "retrospective 2014\u20132015 accomplishments pp.8\u201312; audit/finance FY2017\u20132019 available separately; not a matched outcome matrix"
       },
       "rating": null
@@ -256,23 +256,25 @@
       "iteration_id": "ITER-2020",
       "title": "Publicly labeled 2020\u20132025 strategic plan",
       "effective_years": "2020\u20132025",
-      "status": "reconstructed",
+      "status": "confirmed_document",
       "source_ids": [
+        "RSD407-TRANS-PLAN2020",
+        "RSD407-TRANS-PAGE2021",
         "RSD407-ITER-CHS"
       ],
       "locators": [
-        "HTML District Strategic Plan link, Goals 1\u20133"
+        "PDF pp.1,20\u201338,46\u201348; archived2021 page Goals1\u20133"
       ],
-      "authority": "Official school HTML labels period and describes business-plan structure; SharePoint PDF denied 403; adoption/replacement date unresolved.",
-      "adoption_date": null,
-      "revision_date": null,
+      "authority": "Plan-stated Board approval effective2021-02-09; separate motion and precise replacement not independently recovered.",
+      "adoption_date": "2021-02-09 (plan-stated)",
+      "revision_date": "2021-02-09 timeline update",
       "predecessor": null,
       "successor": null,
-      "confidence": "provisional",
+      "confidence": "high for reviewed document identity; unresolved separate Board motion/replacement",
       "coverage": {
-        "goals": "three high-level goals on HTML; version-specific tasks missing",
-        "task_updates": "separate business plan described but not recovered",
-        "period_matched_outcomes": "FY2020\u20132025 financial series available; matching against this plan remains undone"
+        "goals": "three goals,seven objectives and14 goal metrics",
+        "task_updates": "34 body tasks versus33 timeline rows; blank status; body/timeline conflicts preserved",
+        "period_matched_outcomes": "Plan11 bounded tests and diagnostics in transition-objective-matrix.json; no overall rating"
       },
       "rating": null
     },
@@ -311,13 +313,10 @@
       "Bounded review closed:21 observed objectives; missing original2009\u20132012 registers and matched assessment baselines/endpoints recorded. Reopen only for specific material authoritative sources."
     ],
     "plan10": [
-      "Recover June9,2015 Board motion; obtain archived2016/2017 links; resolve May14 versusMay28,2019.",
-      "Match2015\u20132020 andyear-five tasks to outcomes; preserve 5% reserve task in2016 revision versus9% in2019 revision.",
-      "Do not extrapolate2015 plan into2014; distinguish retrospective accomplishments from baseline."
+      "Bounded Plan10 closed;19 objective rows and explicit narrower evidence. Remaining authority/fidelity/endpoint gaps preserved."
     ],
     "plan11": [
-      "Recover SharePoint2020\u20132025 PDF and business plan; locate2022 adoption/replacement record.",
-      "Resolve stale-current page versus newer plan label without assuming simultaneous authority."
+      "Bounded Plan11 closed; reviewed year-one PDF archived with matching hash; seven objective and14 metric rows. Precise replacement and annual versions remain unresolved."
     ]
   }
 }

@@ -123,7 +123,7 @@
     "retrieved_at": "2026-10-01",
     "review": {
       "method": "pdftotext -layout; cited goal/revision/timeline sections reviewed; rendered cover inspected",
-      "locator": "PDF pp.1,8\u201312,30\u201347,54\u201357"
+      "locator": "PDF pp.1,8\u201312,30\u201349,54\u201357"
     },
     "existing_archive": {
       "capture_url": "https://web.archive.org/web/20201117040135/http://rsd407.org/districtinfo/strategicplan/strategic_plan.pdf",

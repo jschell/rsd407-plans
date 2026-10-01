@@ -1,0 +1,195 @@
+[
+  {
+    "evidence_id": "RSD407-TRANS-PAGE2021",
+    "publisher": "Riverview School District No.407",
+    "title": "Archived district strategic plan page November28,2021",
+    "url": "https://www.rsd407.org/strategicplan",
+    "format": "HTML",
+    "sha256": "38302976bd879b7ad21e385dcdd70c1d8f0a57e7183856b804eca926677eecc9",
+    "byte_count": 424393,
+    "retrieved_at": "2026-10-01T02:48:41.044632+00:00",
+    "locator": "2020\u20132025 link, Goals1\u20133 and separate business-plan description",
+    "review": "HTML visible text/source reviewed",
+    "retention": "Reviewed locally, original not committed. Re-fetch recorded URL/replay and verify hash.",
+    "retrieval_url": "https://web.archive.org/web/20211128061359id_/https://www.rsd407.org/strategicplan",
+    "existing_archive": {
+      "capture_url": "https://web.archive.org/web/20211128061359id_/https://www.rsd407.org/strategicplan",
+      "status": "reviewed_archived_bytes_hashed",
+      "archived_sha256": "38302976bd879b7ad21e385dcdd70c1d8f0a57e7183856b804eca926677eecc9",
+      "limitation": "No live2021 original comparison. Any new capture of public original URL is the current page, not this historical snapshot."
+    },
+    "internet_archive": {
+      "evidence_id": "RSD407-TRANS-PAGE2021",
+      "requested_at": "2026-10-01T02:48:41.047843+00:00",
+      "request_url": "https://web.archive.org/save/https://www.rsd407.org/strategicplan",
+      "status": "capture_hash_mismatch",
+      "capture_url": "https://web.archive.org/web/20261001024911/https://www.rsd407.org/strategicplan",
+      "archived_sha256": "1c71526d507928c72be32bd3a510831a4cba87d9d3249e4ca3fbcde66db715de",
+      "limitation": "Submission targets current original URL; does not recreate2021 historical bytes."
+    }
+  },
+  {
+    "evidence_id": "RSD407-TRANS-LAUNCH2021",
+    "publisher": "Riverview School District No.407",
+    "title": "CHS Launches New Website, August19,2021",
+    "url": "https://www.chs.rsd407.org/post/chs-launches-new-website",
+    "format": "HTML",
+    "sha256": "b848d9866159f251c31e3a6b5ad23b5f6ed678db25c24e5c06b1718046db6805",
+    "byte_count": 467466,
+    "retrieved_at": "2026-10-01T02:48:41.045157+00:00",
+    "locator": "Article heading/date and district strategic plan website-upgrade statement",
+    "review": "HTML visible text/source reviewed",
+    "retention": "Reviewed locally, original not committed. Re-fetch recorded URL/replay and verify hash.",
+    "internet_archive": {
+      "evidence_id": "RSD407-TRANS-LAUNCH2021",
+      "requested_at": "2026-10-01T02:48:41.048480+00:00",
+      "request_url": "https://web.archive.org/save/https://www.chs.rsd407.org/post/chs-launches-new-website",
+      "status": "capture_hash_mismatch",
+      "capture_url": "https://web.archive.org/web/20261001024923/https://www.chs.rsd407.org/post/chs-launches-new-website",
+      "archived_sha256": "45c6f2dfdf056f9094295fc65abdf0c141588eda57227b7faee4585822e8e0b8"
+    }
+  },
+  {
+    "evidence_id": "RSD407-TRANS-MIN2022",
+    "publisher": "Riverview School District No.407",
+    "title": "November22,2022 Board minutes",
+    "url": "https://rsd407.community.diligentoneplatform.com/document/4076/",
+    "format": "PDF",
+    "sha256": "541a8d4e52fb4e60d3f43b71a4f2df45d87d3df009be194e8f95c1796af01856",
+    "byte_count": 289641,
+    "retrieved_at": "2026-10-01T02:48:41.045850+00:00",
+    "locator": "PDF p.5 Strategic Plan Report; objectives3A/3B and three tasks",
+    "review": "pdftotext -layout; physical p.5 rendered and visually inspected",
+    "retention": "Reviewed locally, original not committed. Re-fetch recorded URL/replay and verify hash.",
+    "internet_archive": {
+      "evidence_id": "RSD407-TRANS-MIN2022",
+      "requested_at": "2026-10-01T02:48:41.049378+00:00",
+      "request_url": "https://web.archive.org/save/https://rsd407.community.diligentoneplatform.com/document/4076/",
+      "status": "capture_verified",
+      "capture_url": "https://web.archive.org/web/20261001024848/https://rsd407.community.diligentoneplatform.com/document/4076/",
+      "archived_sha256": "541a8d4e52fb4e60d3f43b71a4f2df45d87d3df009be194e8f95c1796af01856"
+    }
+  },
+  {
+    "evidence_id": "RSD407-TRANS-CURRENT",
+    "publisher": "Riverview School District No.407",
+    "title": "Current district strategic plan page",
+    "url": "https://www.rsd407.org/strategicplan",
+    "format": "HTML",
+    "sha256": "dd7188a47dc11979951b9608b2caeaf4e0c90cd7653d95deaeccf3382fca0a89",
+    "byte_count": 802268,
+    "retrieved_at": "2026-10-01T02:48:41.046711+00:00",
+    "locator": "2022\u20132027 current label, Goals1\u20133",
+    "review": "HTML visible text/source reviewed",
+    "retention": "Reviewed locally, original not committed. Re-fetch recorded URL/replay and verify hash.",
+    "internet_archive": {
+      "evidence_id": "RSD407-TRANS-CURRENT",
+      "requested_at": "2026-10-01T02:49:08.391649+00:00",
+      "request_url": "https://web.archive.org/save/https://www.rsd407.org/strategicplan",
+      "status": "capture_hash_mismatch",
+      "capture_url": "https://web.archive.org/web/20261001024911/https://www.rsd407.org/strategicplan",
+      "archived_sha256": "1c71526d507928c72be32bd3a510831a4cba87d9d3249e4ca3fbcde66db715de"
+    }
+  },
+  {
+    "evidence_id": "RSD407-TRANS-LINK2020-0",
+    "publisher": "Riverview School District No.407",
+    "title": "Published2020\u20132025 plan link from school current page",
+    "url": "https://rsd407-my.sharepoint.com/:b:/g/personal/chsweb_rsd407_org/Ec-SNdLhBNlHn5v0zsIMTFkBO05PrFGg-U89mN1r0QrYeA?e=PAv2db",
+    "format": "Published PDF link / initial retrieval attempt",
+    "sha256": null,
+    "retrieved_at": "2026-10-01T02:46:39.828129+00:00",
+    "authorization": "User explicitly authorized Internet Archive capture of district published plan links, 2026-09-30 America/Los_Angeles.",
+    "review": "Initial published-link viewer/sign-in responses checked. Actual school-linked PDF separately recovered and reviewed as RSD407-TRANS-PLAN2020.",
+    "retention": "Link-level attempt record; PDF source hash and verified capture recorded separately under RSD407-TRANS-PLAN2020.",
+    "internet_archive": {
+      "request_url": "https://web.archive.org/save/https://rsd407-my.sharepoint.com/:b:/g/personal/chsweb_rsd407_org/Ec-SNdLhBNlHn5v0zsIMTFkBO05PrFGg-U89mN1r0QrYeA?e=PAv2db",
+      "requested_at": "2026-10-01T02:46:39.828129+00:00",
+      "status": "viewer_capture_returned_pdf_unverified",
+      "capture_url": "https://web.archive.org/web/20261001024659/https://rsd407-my.sharepoint.com/personal/chsweb_rsd407_org/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fchsweb%5Frsd407%5Forg%2FDocuments%2FWEB%2FDistrict%2F2020%2D2025%20Strategic%20Plan%20FINAL%2Epdf&parent=%2Fpersonal%2Fchsweb%5Frsd407%5Forg%2FDocuments%2FWEB%2FDistrict&ga=1",
+      "error": null,
+      "response_content_type": "text/html; charset=utf-8",
+      "limitation": "Viewer HTML capture is not verified archival preservation of PDF bytes.",
+      "response_sha256": "ac26dcc2b8e1723090bd637c913f42c2fcc96e4e767276d06222ef3053c1c796"
+    },
+    "available_api": {
+      "url": "https://rsd407-my.sharepoint.com/:b:/g/personal/chsweb_rsd407_org/Ec-SNdLhBNlHn5v0zsIMTFkBO05PrFGg-U89mN1r0QrYeA?e=PAv2db",
+      "archived_snapshots": {
+        "closest": {
+          "status": "200",
+          "available": true,
+          "url": "http://web.archive.org/web/20251030052932/https://rsd407-my.sharepoint.com/:b:/g/personal/chsweb_rsd407_org/Ec-SNdLhBNlHn5v0zsIMTFkBO05PrFGg-U89mN1r0QrYeA?e=PAv2db",
+          "timestamp": "20251030052932"
+        }
+      },
+      "timestamp": "20220101"
+    },
+    "original_download": {
+      "http_status": 200,
+      "result": "Redirected to Microsoft sign-in HTML; no PDF",
+      "response_sha256": "00d1f6e5138ddc49e581b090426953a3627814bedbed34312445e1b7892f3a85"
+    },
+    "limitations": "Published link initially returned viewer/sign-in; PDF later recovered separately as RSD407-TRANS-PLAN2020."
+  },
+  {
+    "evidence_id": "RSD407-TRANS-LINK2020-1",
+    "publisher": "Riverview School District No.407",
+    "title": "Published2020\u20132025 plan link from archived2021 district page",
+    "url": "https://rsd407-my.sharepoint.com/:b:/g/personal/rsdweb_rsd407_org/EbaSzcJJMrtKjTu7f0mSvA0Bgw4bBbS-BpU9cdVrp78yCg?e=rffRdo",
+    "format": "Published PDF link / initial retrieval attempt",
+    "sha256": null,
+    "retrieved_at": "2026-10-01T02:46:39.829030+00:00",
+    "authorization": "User explicitly authorized Internet Archive capture of district published plan links, 2026-09-30 America/Los_Angeles.",
+    "review": "Initial published-link viewer/sign-in responses checked. Actual school-linked PDF separately recovered and reviewed as RSD407-TRANS-PLAN2020.",
+    "retention": "Link-level attempt record; PDF source hash and verified capture recorded separately under RSD407-TRANS-PLAN2020.",
+    "internet_archive": {
+      "request_url": "https://web.archive.org/save/https://rsd407-my.sharepoint.com/:b:/g/personal/rsdweb_rsd407_org/EbaSzcJJMrtKjTu7f0mSvA0Bgw4bBbS-BpU9cdVrp78yCg?e=rffRdo",
+      "requested_at": "2026-10-01T02:46:39.829030+00:00",
+      "status": "submission_failed",
+      "capture_url": null,
+      "error": "The read operation timed out",
+      "response_content_type": null,
+      "limitation": "Viewer HTML capture is not verified archival preservation of PDF bytes."
+    },
+    "available_api": {
+      "url": "https://rsd407-my.sharepoint.com/:b:/g/personal/rsdweb_rsd407_org/EbaSzcJJMrtKjTu7f0mSvA0Bgw4bBbS-BpU9cdVrp78yCg?e=rffRdo",
+      "archived_snapshots": {},
+      "timestamp": "20220101"
+    },
+    "original_download": {
+      "http_status": 200,
+      "result": "Redirected to Microsoft sign-in HTML; no PDF",
+      "response_sha256": "7d58b47854bb6fa6aa0f9a96cf2eaa91834db5f519f101ca83778d912d76216f"
+    }
+  },
+  {
+    "evidence_id": "RSD407-TRANS-PLAN2020",
+    "publisher": "Riverview School District No.407",
+    "title": "2020\u20132025 Strategic Plan: Year One2020\u20132021",
+    "url": "https://rsd407-my.sharepoint.com/:b:/g/personal/chsweb_rsd407_org/Ec-SNdLhBNlHn5v0zsIMTFkBO05PrFGg-U89mN1r0QrYeA?e=PAv2db",
+    "retrieval_method": "File-specific .downloadUrl supplied by public SharePoint viewer after authorized archive submission; live download URL ephemeral and not separately published. Stable original published link and exact archived replay identify document.",
+    "format": "PDF",
+    "sha256": "f454eb2b71f8689c541e9a99aae4b1e7af50457f0556e7682f98272d2ff8c9ce",
+    "byte_count": 315782,
+    "retrieved_at": "2026-10-01",
+    "review": "48-page PDF extracted via pdftotext -layout; cover, goal metrics, objective definitions, revision record and timeline rendered and reviewed",
+    "locator": "PDF pp.1,7,20\u201338,46\u201348",
+    "metadata": {
+      "created": "2021-02-09T23:11:40+05:00",
+      "modified": "2021-02-09T23:12:19+05:00"
+    },
+    "retention": "Reviewed locally; PDF not committed. Retrieve archive capture original bytes and verify SHA-256.",
+    "internet_archive": {
+      "requested_at": "2026-10-01T02:55:13.237367+00:00",
+      "authorization": "User explicitly authorized Internet Archive capture of the published district plan. File-specific viewer-provided download URL used to capture the PDF rather than sign-in HTML.",
+      "source_pdf_sha256": "f454eb2b71f8689c541e9a99aae4b1e7af50457f0556e7682f98272d2ff8c9ce",
+      "download_request_url_sha256": "6cb9c3627d59217e20b4f5c95f05c007f061bf592da1857062677fbbcb39e4ef",
+      "source_original_url": "https://rsd407-my.sharepoint.com/:b:/g/personal/chsweb_rsd407_org/Ec-SNdLhBNlHn5v0zsIMTFkBO05PrFGg-U89mN1r0QrYeA?e=PAv2db",
+      "status": "capture_verified",
+      "capture_url": "https://web.archive.org/web/20261001025522/https://rsd407-my.sharepoint.com/personal/chsweb_rsd407_org/_layouts/15/download.aspx?UniqueId=d23592cf-04e1-47d9-9f9b-f4cec20c4c59&Translate=false&tempauth=v1.eyJzaXRlaWQiOiIwNzk4NmU4MC1mNWYyLTRjZjAtOTM1Yi0zYmI2NDI0MDUwOTYiLCJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvcnNkNDA3LW15LnNoYXJlcG9pbnQuY29tQDNlY2YxNThmLWU0MDEtNDhlNi05MWQzLTBjNmEzNmVlNzliZSIsImV4cCI6IjE3OTA4NDQ0MTkifQ.CiMKCXNoYXJpbmdpZBIWY3pCMlg0eGVHMHFzdkQvSngrZE05dwoJCgRzbmlkEgE4EgsI7LGixonczz8QBRoOMjA3LjI0MS4yMzkuNjMiFG1pY3Jvc29mdC5zaGFyZXBvaW50Kixxb0F6amVUSC9JaDhBM0ZKWWJ0ZmtxWUx6Y01UK1VhODFSSmpIWFprNkhrPTCTATgBQhCiQHiH0iAA8Hsl3vvr4DC-ShBoYXNoZWRwcm9vZnRva2VuYgR0cnVlckswaC5mfG1lbWJlcnNoaXB8dXJuJTNhc3BvJTNhdGVuYW50YW5vbiMzZWNmMTU4Zi1lNDAxLTQ4ZTYtOTFkMy0wYzZhMzZlZTc5YmV6ATDCAUswIy5mfG1lbWJlcnNoaXB8dXJuJTNhc3BvJTNhdGVuYW50YW5vbiMzZWNmMTU4Zi1lNDAxLTQ4ZTYtOTFkMy0wYzZhMzZlZTc5YmXIAQE.yY0cUr6AFo-a7iuySceYXwPOWRufex7BlFyCsq5lr4I",
+      "archived_sha256": "f454eb2b71f8689c541e9a99aae4b1e7af50457f0556e7682f98272d2ff8c9ce",
+      "archived_pdf_magic": true
+    },
+    "limitations": "p46 plan-stated Board approval2/9/21; original Board motion not recovered. Year-one updated timeline not full-cycle endpoint. Body/timeline title/task/date conflicts retained."
+  }
+]

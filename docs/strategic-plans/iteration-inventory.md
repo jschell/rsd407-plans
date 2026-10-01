@@ -15,7 +15,7 @@ Plan 08 bounded inventory, 2026-10-01. This establishes document identities and 
 | 2015–2020 | Confirmed district document | RSD407-ITER-2015, p.1: adoption stated June 9, 2015. Reviewed bytes include July 11, 2016 revisions; p.54 lists updates. Original Board motion remains missing. |
 | 2016–2020 / 2017–2020 link labels | Unresolved revisions | RSD407-ITER-PAGE2017, Strategic Plan section: archived page links two differently labeled PDFs. Their contents/authority were not recovered; do not infer distinct new plans. |
 | 2019–2020 | Confirmed annual revision of 2015–2020 | RSD407-ITER-2019, p.1 explicitly says year five. Cover states May 28, 2019 adoption; p.39 says School Board approval effective May 14, 2019. Conflict unresolved. |
-| 2020–2025 | Reconstructed official description | RSD407-ITER-CHS, District Strategic Plan section and Goals 1–3. SharePoint original returned 403; separate business plan described but not recovered. |
+| 2020–2025 | Confirmed year-one district document (Plan 11) | RSD407-TRANS-PLAN2020 pp.1,20–38,46–48: seven objectives,34 body tasks,14 goal metrics; plan-stated approval February9,2021. Separate motion/replacement unresolved. |
 | 2022–2027 | Confirmed district document | Existing RSD407-SP-2024-SEP p.1 title, p.3 revision narrative; reuse finance manifest ID/hash. Adoption and precise replacement of 2020–2025 not established here. |
 
 “Confirmed document” verifies the district document and its period, not an independently recovered adoption motion. “Reconstructed” means partial official description; “unresolved” remains a discovery lead. RSD407-ITER-HISTORY-LEAD is the repository's legacy history list, not an external primary source.
@@ -50,4 +50,8 @@ June 25, 2013 revised-cycle adoption narrows the early authority gap; it does no
 
 ## Plan 10 closure
 
-The [middle-era review](../evaluations/middle-plan-iterations.md) evaluates twelve objectives in the July 2016 revised copy and seven in the year-five revision. All broad attainment/fidelity judgments remain unknown; the explicit February 2020 bond-success criterion was not met. Target changes and authority gaps remain visible. Plans 11–12 remain queued.
+The [middle-era review](../evaluations/middle-plan-iterations.md) evaluates twelve objectives in the July 2016 revised copy and seven in the year-five revision. All broad attainment/fidelity judgments remain unknown; the explicit February 2020 bond-success criterion was not met. Target changes and authority gaps remain visible. Plan 11 subsequently closed below; Plan 12 remains queued.
+
+## Plan 11 closure
+
+The [2020–2025 review](../evaluations/plan-2020-2025.md) recovered, reviewed and archive-verified the original year-one PDF. Its embedded action register supplies seven objectives,34 tasks and14 original goal metrics. State grade-three ELA54.8% is below the85% historical benchmark; broad attainment and fidelity remain unknown. Task/title/deadline conflicts and replacement gaps remain visible. Plan12 is the remaining queued synthesis.

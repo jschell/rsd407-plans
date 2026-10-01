@@ -1,0 +1,77 @@
+{
+  "assertion_id": "TRANS-CROSSWALK-01",
+  "kind": "evaluation",
+  "authority": "p46 original plan states Board approval effective2/9/2021. 2022\u20132027 labelled district documents and current page establish newer document identity; exact Board supersession date and task disposition unresolved.",
+  "rows": [
+    {
+      "old_code": "1A",
+      "old_scope": "Aligned curriculum and student supports; PBIS/ISTE/privacy tasks",
+      "current_domain": "SYN-01 student outcomes / current Goal1",
+      "classification": "Thematic continuity; exact retained/revised task lineage unresolved",
+      "source_ids": [
+        "RSD407-TRANS-PLAN2020",
+        "RSD407-SP-2024-SEP"
+      ]
+    },
+    {
+      "old_code": "1B",
+      "old_scope": "EL/LowIncome/Homeless/SWD gaps and disproportionality",
+      "current_domain": "SYN-01 student outcomes",
+      "classification": "Shared outcome domain; old2025 targets retained for counterfactual testing, not imported as current-plan targets",
+      "source_ids": [
+        "RSD407-TRANS-PLAN2020",
+        "RSD407-SP-2024-SEP"
+      ]
+    },
+    {
+      "old_code": "1C",
+      "old_scope": "Department integration, websites, induction, intervention curriculum",
+      "current_domain": "SYN-01 and HR professional learning",
+      "classification": "Cross-domain theme; website launch is dated partial implementation, not all department-integration success",
+      "source_ids": [
+        "RSD407-TRANS-PLAN2020",
+        "RSD407-TRANS-LAUNCH2021"
+      ]
+    },
+    {
+      "old_code": "2A",
+      "old_scope": "Equitable allocation;9% year-one task;14%2025 aspiration",
+      "current_domain": "SYN-02 reserves / SYN-04 equitable allocation",
+      "classification": "Related domain; reserve definitions/targets differ; no retroactive2025policy or double-counted financial success",
+      "source_ids": [
+        "RSD407-TRANS-PLAN2020"
+      ]
+    },
+    {
+      "old_code": "2B",
+      "old_scope": "Emergency procedures, pandemic recovery, camera installation",
+      "current_domain": "SYN-05 safety",
+      "classification": "Recurring theme; later adoption/access work not proof of2021deadline or2025all-camera/all-training targets",
+      "source_ids": [
+        "RSD407-TRANS-PLAN2020"
+      ]
+    },
+    {
+      "old_code": "3A",
+      "old_scope": "2018\u20132023HR subplan, retention, onboarding, training/equity",
+      "current_domain": "SYN-06 HR recruitment/diversity/professional learning",
+      "classification": "Nov2022different objective3A plus3B task-report titles; reorganization observed, formal lineage/disposition unresolved",
+      "source_ids": [
+        "RSD407-TRANS-PLAN2020",
+        "RSD407-TRANS-MIN2022"
+      ]
+    },
+    {
+      "old_code": "3B",
+      "old_scope": "Communications reach/social-media/netiquette/translation; body/timeline mismatches",
+      "current_domain": "SYN-07 communications; November2022 code3B denotes professional learning",
+      "classification": "Code changed scope: Nov2022 3Bprofessionallearning; no identity inferred from reused code; later communication audit not closure of mismatched2021task",
+      "source_ids": [
+        "RSD407-TRANS-PLAN2020",
+        "RSD407-TRANS-MIN2022"
+      ]
+    }
+  ],
+  "overlap": "Nominal2022\u20132025 overlap is not proof of simultaneous governing authority. Outcome diagnostics2021\u20132022/2024\u20132025 do not assign causal credit to either plan.",
+  "counting_rule": "Reuse source/evidence IDs once in cross-era synthesis. Current-plan ratings remain scoped to their evaluated tasks; no automatic transfer to2020cycle."
+}
