@@ -8,7 +8,9 @@ Plan 08 bounded inventory, 2026-10-01. This establishes document identities and 
 | --- | --- | --- |
 | 2008–2009 | Unresolved precursor | Legacy history lead only; support review is not established as a governing strategic plan. |
 | 2009–2010 | Unresolved adoption lead | Indexed transcription identifies August 25, 2009 Motion 09-46; original minutes and plan not recovered. Do not preserve the legacy “formally adopted” label as independently verified. |
-| 2010–2011, 2011–2012, 2012–2013, 2013–2014 | Unresolved annual candidates | Legacy reconstruction lacks source/page provenance. Status reporting does not establish four new strategic plans. |
+| 2010–2011, 2011–2012 | Unresolved annual candidates | Original adoption/registers unavailable. A later motion establishes a revised 2010–2015 cycle, not these annual contents. |
+| 2012–2013 | Reconstructed partial status register | Plan 09 recovered Board minutes documenting 13 objectives; total original register unknown. |
+| 2013–2014 | Confirmed revised authority, partial register | RSD407-EARLY-JUNE-25-2013 p.5, Motion 13-41, adopts revised 2010–2015 five-year plan with added Goal 4; eight objectives observed in later status records. |
 | 2014–2015 | Unresolved bridge | 2015 PDF retrospectively reports accomplishments (pp.8–12); it does not establish the prior governing plan. |
 | 2015–2020 | Confirmed district document | RSD407-ITER-2015, p.1: adoption stated June 9, 2015. Reviewed bytes include July 11, 2016 revisions; p.54 lists updates. Original Board motion remains missing. |
 | 2016–2020 / 2017–2020 link labels | Unresolved revisions | RSD407-ITER-PAGE2017, Strategic Plan section: archived page links two differently labeled PDFs. Their contents/authority were not recovered; do not infer distinct new plans. |
@@ -41,3 +43,7 @@ Follow-up is limited to a documented delayed outcome or carry-forward: through 2
 The committed search log preserves four Board portal queries and their first thirty detail records, archive-index responses and hashes, failed retrievals, and the finite search boundary. The broad newer portal results mostly contain recent records and policies. Targeted web searches found secondary transcription leads but no independently recovered early originals. The bare-host archive PDF query was empty; adding the www host recovered the official page and two PDFs. An older hostname archive query timed out. None of these results establishes exhaustive nonexistence.
 
 The formerly broad 2014–2019 gap is narrowed to a pre-2015 bridge plus missing intermediate revisions and Board motions. Every known candidate is classified, period-matched outcome gaps are handed to Plans 09–11, and authority conflicts remain visible. Plan 08's inventory stopping rule is satisfied; historical objective ratings remain queued.
+
+## Plan 09 update
+
+June 25, 2013 revised-cycle adoption narrows the early authority gap; it does not establish the original 2010 motion, complete objective register or full 2015 endpoint. Plan 09 closed a bounded review of 21 observed objective rows and recorded missing 2009–2012 registers and matched assessment outcomes. Use its matrix for implementation judgments; this inventory does not backfill missing targets or whole-cycle success.

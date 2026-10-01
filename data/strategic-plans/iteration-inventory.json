@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "as_of": "2026-10-01",
-  "purpose": "Plan08 inventory and boundaries; no historical attainment ratings",
+  "purpose": "Version inventory and boundaries; historical objective ratings are separately scoped in early-objective-matrix.json.",
   "classification_rules": {
     "confirmed_document": "original district document identity/period verified; not necessarily separate adoption motion",
     "reconstructed": "official partial description; governing authority incomplete",
@@ -106,51 +106,55 @@
     },
     {
       "iteration_id": "ITER-2012",
-      "title": "Candidate annual plan/status iteration",
+      "title": "2010\u20132015 cycle: 2012\u20132013 status reconstruction",
       "effective_years": "2012\u20132013",
-      "status": "unresolved",
+      "status": "reconstructed",
       "source_ids": [
-        "RSD407-ITER-HISTORY-LEAD"
+        "RSD407-EARLY-JUNE-25-2013",
+        "RSD407-EARLY-MAY-28"
       ],
       "locators": [
-        "docs/strategic-plans/plan-history.md, legacy discovery list"
+        "June25,2013 minutes PDF p.5 Motion13-41; early-objective-matrix.json source_locators"
       ],
-      "authority": "Legacy reconstruction has no page-specific original provenance. Annual update cannot establish a distinct strategic plan.",
+      "authority": "Board Motion 13-41 establishes June 25, 2013 revision of 2010\u20132015 cycle; complete original register and original 2010 adoption unavailable.",
       "adoption_date": null,
       "revision_date": null,
       "predecessor": null,
       "successor": null,
-      "confidence": "provisional",
+      "confidence": "confirmed revised authority; partial objective reconstruction",
       "coverage": {
-        "goals": "not independently recovered",
-        "task_updates": "not independently recovered",
-        "period_matched_outcomes": "not assembled"
+        "goals": "three goals observed in 2012\u20132013; four-goal revision confirmed June25,2013",
+        "task_updates": "partial Board status records;21 observed objective rows across two annual periods",
+        "period_matched_outcomes": "reported 2011\u20132012/2012\u20132013 turnover; baseline/endpoint assessment series unavailable"
       },
-      "rating": null
+      "rating": null,
+      "review_result": "Bounded Plan09 review complete; no full-plan attainment rating; see early-plan-iterations.md"
     },
     {
       "iteration_id": "ITER-2013",
-      "title": "Candidate annual plan/status iteration",
+      "title": "2010\u20132015 cycle: 2013\u20132014 adopted revision",
       "effective_years": "2013\u20132014",
-      "status": "unresolved",
+      "status": "confirmed_document",
       "source_ids": [
-        "RSD407-ITER-HISTORY-LEAD"
+        "RSD407-EARLY-JUNE-25-2013",
+        "RSD407-EARLY-NOVEMBER-26"
       ],
       "locators": [
-        "docs/strategic-plans/plan-history.md, legacy discovery list"
+        "June25,2013 minutes PDF p.5 Motion13-41; early-objective-matrix.json source_locators"
       ],
-      "authority": "Legacy reconstruction has no page-specific original provenance. Annual update cannot establish a distinct strategic plan.",
-      "adoption_date": null,
+      "authority": "Board Motion 13-41 establishes June 25, 2013 revision of 2010\u20132015 cycle; complete original register and original 2010 adoption unavailable.",
+      "adoption_date": "2013-06-25",
       "revision_date": null,
       "predecessor": null,
       "successor": null,
-      "confidence": "provisional",
+      "confidence": "confirmed revised authority; partial objective reconstruction",
       "coverage": {
-        "goals": "not independently recovered",
-        "task_updates": "not independently recovered",
-        "period_matched_outcomes": "not assembled"
+        "goals": "three goals observed in 2012\u20132013; four-goal revision confirmed June25,2013",
+        "task_updates": "partial Board status records;21 observed objective rows across two annual periods",
+        "period_matched_outcomes": "reported 2011\u20132012/2012\u20132013 turnover; baseline/endpoint assessment series unavailable"
       },
-      "rating": null
+      "rating": null,
+      "review_result": "Bounded Plan09 review complete; no full-plan attainment rating; see early-plan-iterations.md"
     },
     {
       "iteration_id": "ITER-2014",
@@ -298,14 +302,13 @@
     }
   ],
   "evaluation_windows": {
-    "early": "2009\u20132014 school-year-specific baselines/endpoints conditional on recovered adoption and own task deadlines; 2008\u20132009 precursor only",
+    "early": "Board Motion13-41 establishes revised2010\u20132015five-year cycle. Review preserves2012\u20132013 and2013\u20132014 task deadlines separately; full2015cycle endpoint not assessed in Plan09.2009\u20132012 registers and original2010adoption missing.",
     "middle": "2015\u20132020 named five-year window; 2019\u20132020 separate annual revision; 2014\u20132015 bridge unresolved. Never treat the July2016 revision as pristine June2015 baseline. Follow-up through2020\u20132021 only for documented carry-forward; not an extension of deadlines.",
     "transition": "2020\u20132025 nominal period, baseline2019\u20132020 conditional on targets; 2022 supersession not established. Divide overlap by documented task lineage, do not assume older plan completed or failed. Follow-up2025\u20132026 only for specific delayed outcomes."
   },
   "handoff": {
     "plan09": [
-      "Recover August25,2009 Motion09-46 original and actual plan; indexed third-party transcription is a lead only.",
-      "Recover annual original goal/task registers2010\u20132014 before rating; own assessment instruments and denominators."
+      "Bounded review closed:21 observed objectives; missing original2009\u20132012 registers and matched assessment baselines/endpoints recorded. Reopen only for specific material authoritative sources."
     ],
     "plan10": [
       "Recover June9,2015 Board motion; obtain archived2016/2017 links; resolve May14 versusMay28,2019.",

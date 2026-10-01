@@ -1,0 +1,1012 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-10-01",
+  "scope": "Bounded 2009\u20132014 review; partial objective reconstruction from Board status records, not complete registers or whole-cycle ratings.",
+  "authority_assertion": {
+    "assertion_id": "EARLY-AUTH-01",
+    "kind": "observation",
+    "source_id": "RSD407-EARLY-JUNE-25-2013",
+    "page": 5,
+    "motion": "13-41",
+    "date": "2013-06-25",
+    "plan": "Revised 2010\u20132015 five-year strategic plan; added Goal 4 for superintendent entry",
+    "limitation": "Original 2010 adoption and complete objective register not recovered."
+  },
+  "coverage": [
+    {
+      "period": "2009\u20132010",
+      "authority": "unresolved",
+      "objective_register": "not recovered",
+      "known_objective_count": null,
+      "rating": "Cannot determine",
+      "limitation": "No complete original objectives; do not invent codes/targets or infer no activity."
+    },
+    {
+      "period": "2010\u20132011",
+      "authority": "unresolved",
+      "objective_register": "not recovered",
+      "known_objective_count": null,
+      "rating": "Cannot determine",
+      "limitation": "No complete original objectives; do not invent codes/targets or infer no activity."
+    },
+    {
+      "period": "2011\u20132012",
+      "authority": "unresolved",
+      "objective_register": "not recovered",
+      "known_objective_count": null,
+      "rating": "Cannot determine",
+      "limitation": "No complete original objectives; do not invent codes/targets or infer no activity."
+    },
+    {
+      "period": "2012\u20132013",
+      "authority": "Board status records of the 2010\u20132015 cycle",
+      "objective_register": "partial",
+      "observed_objectives": 13,
+      "total_objectives": null,
+      "whole_plan_rating": "Cannot determine"
+    },
+    {
+      "period": "2013\u20132014",
+      "authority": "Revised adoption confirmed June 25, 2013",
+      "objective_register": "partial",
+      "observed_objectives": 8,
+      "total_objectives": null,
+      "whole_plan_rating": "Cannot determine",
+      "endpoint_limit": "No spring 2014 assessment series; original five-year endpoint 2015 not assessed here."
+    }
+  ],
+  "objectives": [
+    {
+      "assertion_id": "EARLY-01",
+      "kind": "evaluation",
+      "iteration": "2012\u20132013",
+      "governing_cycle": "2010\u20132015; original adoption not recovered; revised adoption 2013-06-25 confirmed",
+      "objective_code": "1A",
+      "objective_text": "Continue implementation of Student Learning Protocols and Learning Targets district-wide.",
+      "source_ids": [
+        "RSD407-EARLY-MAY-28"
+      ],
+      "page_references": [
+        4
+      ],
+      "coverage": "Only tasks observed in bounded Board records; not complete original register",
+      "baseline": null,
+      "numeric_target": null,
+      "deadline": null,
+      "owner": "Not fully established; reporting roles do not independently establish original responsibility",
+      "tasks": [
+        "Task 3: Evaluate protocol progress with principals at the May 2013 Ad Council seminar; meeting and observation/rating practice reported."
+      ],
+      "diagnosis": "Insufficient evidence",
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Partially implemented",
+      "implementation_fidelity": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "state_comparison": "Cannot determine",
+      "focal_group_gaps": "Cannot determine",
+      "recurrence": "Cannot determine",
+      "rationale": "Seminar occurred, but practice observations do not measure district-wide fidelity or student outcomes.",
+      "reported_actors": "Superintendent/principals",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-MAY-28",
+          "pdf_pages": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "assertion_id": "EARLY-02",
+      "kind": "evaluation",
+      "iteration": "2012\u20132013",
+      "governing_cycle": "2010\u20132015; original adoption not recovered; revised adoption 2013-06-25 confirmed",
+      "objective_code": "1B",
+      "objective_text": "Improve K-12 district-wide assessment score averages in reading, writing, math, and science by spring of 2013.",
+      "source_ids": [
+        "RSD407-EARLY-JANUARY-22",
+        "RSD407-EARLY-MAY-28"
+      ],
+      "page_references": [
+        7,
+        5
+      ],
+      "coverage": "Only tasks observed in bounded Board records; not complete original register",
+      "baseline": null,
+      "numeric_target": null,
+      "deadline": "spring 2013",
+      "owner": "Not fully established; reporting roles do not independently establish original responsibility",
+      "tasks": [
+        "Task 2: Implement online data repository; administrator training planned for March.",
+        "Task 4: Continue MAP and evaluate K\u20131 math assessment; misalignment reported.",
+        "Task 5: Provide math professional development plan; contracts and leads being pursued."
+      ],
+      "diagnosis": "Insufficient evidence",
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Partially implemented",
+      "implementation_fidelity": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "state_comparison": "Cannot determine",
+      "focal_group_gaps": "Cannot determine",
+      "recurrence": "Cannot determine",
+      "rationale": "Assessment/alignment work is relevant, but baseline, subject-by-grade score series, state comparator and final target evidence were not recovered. Later score-posting claim is not this endpoint.",
+      "reported_actors": "Superintendent/technology and teaching-learning staff",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-JANUARY-22",
+          "pdf_pages": [
+            7
+          ]
+        },
+        {
+          "source_id": "RSD407-EARLY-MAY-28",
+          "pdf_pages": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "assertion_id": "EARLY-03",
+      "kind": "evaluation",
+      "iteration": "2012\u20132013",
+      "governing_cycle": "2010\u20132015; original adoption not recovered; revised adoption 2013-06-25 confirmed",
+      "objective_code": "1C",
+      "objective_text": "Implement K-12 Academically Talented/Honors program review recommendations.",
+      "source_ids": [
+        "RSD407-EARLY-MAY-28",
+        "RSD407-EARLY-JUNE-25-2013"
+      ],
+      "page_references": [
+        5,
+        3
+      ],
+      "coverage": "Only tasks observed in bounded Board records; not complete original register",
+      "baseline": null,
+      "numeric_target": null,
+      "deadline": null,
+      "owner": "Not fully established; reporting roles do not independently establish original responsibility",
+      "tasks": [
+        "Task 2: Student outcome/indicator progress report deferred to August; informal use needing training reported.",
+        "Task 1: Three-year recommendation schedule still being distilled June 25."
+      ],
+      "diagnosis": "Insufficient evidence",
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Partially implemented",
+      "implementation_fidelity": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "state_comparison": "Cannot determine",
+      "focal_group_gaps": "Cannot determine",
+      "recurrence": "Evolving challenge",
+      "rationale": "Committee work/use reported, but final schedule, coverage/fidelity and matched student outcomes unavailable.",
+      "reported_actors": "Superintendent",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-MAY-28",
+          "pdf_pages": [
+            5
+          ]
+        },
+        {
+          "source_id": "RSD407-EARLY-JUNE-25-2013",
+          "pdf_pages": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "assertion_id": "EARLY-04",
+      "kind": "evaluation",
+      "iteration": "2012\u20132013",
+      "governing_cycle": "2010\u20132015; original adoption not recovered; revised adoption 2013-06-25 confirmed",
+      "objective_code": "1D",
+      "objective_text": "Refine current interventions for all students to support student learning.",
+      "source_ids": [
+        "RSD407-EARLY-MAY-28",
+        "RSD407-EARLY-JUNE-25-2013"
+      ],
+      "page_references": [
+        5,
+        3
+      ],
+      "coverage": "Only tasks observed in bounded Board records; not complete original register",
+      "baseline": null,
+      "numeric_target": null,
+      "deadline": {
+        "original": null,
+        "revised": "2013-06-15"
+      },
+      "owner": "Not fully established; reporting roles do not independently establish original responsibility",
+      "tasks": [
+        "Task 4: Written principal AIMSweb implementation/student-growth reports; deadline extended to June 15, one report still missing June 25."
+      ],
+      "diagnosis": "Insufficient evidence",
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Partially implemented",
+      "implementation_fidelity": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "state_comparison": "Cannot determine",
+      "focal_group_gaps": "Cannot determine",
+      "recurrence": "Persistent unresolved problem",
+      "rationale": "Specific report task was not fully implemented at June25 observation even after extension; growth values/report contents unavailable. This is not evidence that all interventions failed.",
+      "reported_actors": "Superintendent/principals",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-MAY-28",
+          "pdf_pages": [
+            5
+          ]
+        },
+        {
+          "source_id": "RSD407-EARLY-JUNE-25-2013",
+          "pdf_pages": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "assertion_id": "EARLY-05",
+      "kind": "evaluation",
+      "iteration": "2012\u20132013",
+      "governing_cycle": "2010\u20132015; original adoption not recovered; revised adoption 2013-06-25 confirmed",
+      "objective_code": "1E",
+      "objective_text": "Improve on the partnership between technology and teaching through technology integration.",
+      "source_ids": [
+        "RSD407-EARLY-JANUARY-22",
+        "RSD407-EARLY-JUNE-25-2013"
+      ],
+      "page_references": [
+        7,
+        3
+      ],
+      "coverage": "Only tasks observed in bounded Board records; not complete original register",
+      "baseline": null,
+      "numeric_target": null,
+      "deadline": null,
+      "owner": "Not fully established; reporting roles do not independently establish original responsibility",
+      "tasks": [
+        "Task 1: Technology training; 31 classes, 182 participants, 180 rooms equipped and over 170 staff completing goal-setting reported in January.",
+        "Task 2: Report increased secondary ActivBoard use; June reports installation, training and qualitative teacher feedback."
+      ],
+      "diagnosis": "Insufficient evidence",
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Partially implemented",
+      "implementation_fidelity": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "state_comparison": "Cannot determine",
+      "focal_group_gaps": "Cannot determine",
+      "recurrence": "Sustained responsibility",
+      "rationale": "Equipment and sessions establish reported activity, not verified classroom usage or causal learning improvement. January all-classroom claim versus June rollout completion cannot establish installation chronology.",
+      "reported_actors": "Technology director/integration specialists",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-JANUARY-22",
+          "pdf_pages": [
+            7
+          ]
+        },
+        {
+          "source_id": "RSD407-EARLY-JUNE-25-2013",
+          "pdf_pages": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "assertion_id": "EARLY-06",
+      "kind": "evaluation",
+      "iteration": "2012\u20132013",
+      "governing_cycle": "2010\u20132015; original adoption not recovered; revised adoption 2013-06-25 confirmed",
+      "objective_code": "1F",
+      "objective_text": "Operationalize Riverview School District 21st century outcomes and indicators, and publish new thinking skills model.",
+      "source_ids": [
+        "RSD407-EARLY-JANUARY-22"
+      ],
+      "page_references": [
+        7
+      ],
+      "coverage": "Only tasks observed in bounded Board records; not complete original register",
+      "baseline": null,
+      "numeric_target": null,
+      "deadline": null,
+      "owner": "Not fully established; reporting roles do not independently establish original responsibility",
+      "tasks": [
+        "Task 1: Outcome/indicator posters in draft; distribution planned.",
+        "Task 2: Thinking-skills posters planned for following month."
+      ],
+      "diagnosis": "Insufficient evidence",
+      "task_design": "Weak or activity-oriented",
+      "implementation": "Partially implemented",
+      "implementation_fidelity": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "state_comparison": "Cannot determine",
+      "focal_group_gaps": "Cannot determine",
+      "recurrence": "Cannot determine",
+      "rationale": "Draft posters do not establish operationalization, application or student thinking-skill outcomes.",
+      "reported_actors": "Superintendent",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-JANUARY-22",
+          "pdf_pages": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "assertion_id": "EARLY-07",
+      "kind": "evaluation",
+      "iteration": "2012\u20132013",
+      "governing_cycle": "2010\u20132015; original adoption not recovered; revised adoption 2013-06-25 confirmed",
+      "objective_code": "1G",
+      "objective_text": "Create a three-year plan for implementing the legislatively mandated (E2SSB) teacher and principal evaluation system.",
+      "source_ids": [
+        "RSD407-EARLY-JANUARY-22",
+        "RSD407-EARLY-AUGUST-27"
+      ],
+      "page_references": [
+        7,
+        4
+      ],
+      "coverage": "Only tasks observed in bounded Board records; not complete original register",
+      "baseline": null,
+      "numeric_target": null,
+      "deadline": null,
+      "owner": "Not fully established; reporting roles do not independently establish original responsibility",
+      "tasks": [
+        "Task 3: Transfer objective to HR reported complete January.",
+        "Successor-period evidence: Policy 5002 adopted August 27, 2013, Motion 13-54."
+      ],
+      "diagnosis": "Insufficient evidence",
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Partially implemented",
+      "implementation_fidelity": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "state_comparison": "Cannot determine",
+      "focal_group_gaps": "Cannot determine",
+      "recurrence": "Evolving challenge",
+      "rationale": "Committee/organizational transfer and later policy adoption do not establish a full three-year plan or evaluation-system fidelity at the earlier deadline.",
+      "reported_actors": "Superintendent/HR committee",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-JANUARY-22",
+          "pdf_pages": [
+            7
+          ]
+        },
+        {
+          "source_id": "RSD407-EARLY-AUGUST-27",
+          "pdf_pages": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "assertion_id": "EARLY-08",
+      "kind": "evaluation",
+      "iteration": "2012\u20132013",
+      "governing_cycle": "2010\u20132015; original adoption not recovered; revised adoption 2013-06-25 confirmed",
+      "objective_code": "2A",
+      "objective_text": "Provide a financial process that strengthens student learning despite state funding uncertainties.",
+      "source_ids": [
+        "RSD407-EARLY-APRIL-23",
+        "RSD407-EARLY-JUNE-25-2013"
+      ],
+      "page_references": [
+        4,
+        3
+      ],
+      "coverage": "Only tasks observed in bounded Board records; not complete original register",
+      "baseline": null,
+      "numeric_target": null,
+      "deadline": null,
+      "owner": "Not fully established; reporting roles do not independently establish original responsibility",
+      "tasks": [
+        "Task 5: Annual audited statement postponed April pending audit; 2011\u20132012 audit exit conference reported June 17."
+      ],
+      "diagnosis": "Insufficient evidence",
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Partially implemented",
+      "implementation_fidelity": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "state_comparison": "Cannot determine",
+      "focal_group_gaps": "Cannot determine",
+      "recurrence": "Sustained responsibility",
+      "rationale": "Audit-related reporting is supported, but broad financial process and effects on student learning not measured. FY2010 audits remain available anchors, not substitutions for this year.",
+      "reported_actors": "Business director/Superintendent",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-APRIL-23",
+          "pdf_pages": [
+            4
+          ]
+        },
+        {
+          "source_id": "RSD407-EARLY-JUNE-25-2013",
+          "pdf_pages": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "assertion_id": "EARLY-09",
+      "kind": "evaluation",
+      "iteration": "2012\u20132013",
+      "governing_cycle": "2010\u20132015; original adoption not recovered; revised adoption 2013-06-25 confirmed",
+      "objective_code": "2C",
+      "objective_text": "Monitor and exercise the Comprehensive Safety Plan.",
+      "source_ids": [
+        "RSD407-EARLY-MAY-28"
+      ],
+      "page_references": [
+        5
+      ],
+      "coverage": "Only tasks observed in bounded Board records; not complete original register",
+      "baseline": null,
+      "numeric_target": null,
+      "deadline": null,
+      "owner": "Not fully established; reporting roles do not independently establish original responsibility",
+      "tasks": [
+        "Task 2: Emergency-container inventories reported current."
+      ],
+      "diagnosis": "Insufficient evidence",
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Partially implemented",
+      "implementation_fidelity": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "state_comparison": "Cannot determine",
+      "focal_group_gaps": "Cannot determine",
+      "recurrence": "Sustained responsibility",
+      "rationale": "Inventory self-report does not test comprehensive safety plan exercises/readiness.",
+      "reported_actors": "Business director",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-MAY-28",
+          "pdf_pages": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "assertion_id": "EARLY-10",
+      "kind": "evaluation",
+      "iteration": "2012\u20132013",
+      "governing_cycle": "2010\u20132015; original adoption not recovered; revised adoption 2013-06-25 confirmed",
+      "objective_code": "2D",
+      "objective_text": "Implement an annual district policy review process.",
+      "source_ids": [
+        "RSD407-EARLY-JANUARY-22",
+        "RSD407-EARLY-MAY-28"
+      ],
+      "page_references": [
+        7,
+        5
+      ],
+      "coverage": "Only tasks observed in bounded Board records; not complete original register",
+      "baseline": null,
+      "numeric_target": null,
+      "deadline": null,
+      "owner": "Not fully established; reporting roles do not independently establish original responsibility",
+      "tasks": [
+        "Task 1: Review 4000/5000 series; 4000 complete January.",
+        "Tasks 2\u20133: Revision list/presentation; 5000 Personnel postponed to next year in May."
+      ],
+      "diagnosis": "Insufficient evidence",
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Partially implemented",
+      "implementation_fidelity": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "state_comparison": "Cannot determine",
+      "focal_group_gaps": "Cannot determine",
+      "recurrence": "Persistent unresolved problem",
+      "rationale": "4000review documented,5000review deferred; no all-series completion inference. Later review may be routine recurrence or unresolved task, not automatic failure.",
+      "reported_actors": "Board recording secretary/policy staff",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-JANUARY-22",
+          "pdf_pages": [
+            7
+          ]
+        },
+        {
+          "source_id": "RSD407-EARLY-MAY-28",
+          "pdf_pages": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "assertion_id": "EARLY-11",
+      "kind": "evaluation",
+      "iteration": "2012\u20132013",
+      "governing_cycle": "2010\u20132015; original adoption not recovered; revised adoption 2013-06-25 confirmed",
+      "objective_code": "3A",
+      "objective_text": "Continue to implement a five-year Human Resources (HR) plan.",
+      "source_ids": [
+        "RSD407-EARLY-MAY-28"
+      ],
+      "page_references": [
+        5,
+        6
+      ],
+      "coverage": "Only tasks observed in bounded Board records; not complete original register",
+      "baseline": null,
+      "numeric_target": null,
+      "deadline": null,
+      "owner": "Not fully established; reporting roles do not independently establish original responsibility",
+      "tasks": [
+        "Task 4: Five-year review/future-plan recommendations presented; staffing, records, application-system and handbook improvements reported."
+      ],
+      "diagnosis": "Insufficient evidence",
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Partially implemented",
+      "implementation_fidelity": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "state_comparison": "Cannot determine",
+      "focal_group_gaps": "Cannot determine",
+      "recurrence": "Evolving challenge",
+      "rationale": "External-consultant presentation occurred, but underlying review/report and whole-plan fidelity unavailable. Follow-up retention values are reported below without causal attribution.",
+      "reported_actors": "HR director/consultant",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-MAY-28",
+          "pdf_pages": [
+            5,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "assertion_id": "EARLY-12",
+      "kind": "evaluation",
+      "iteration": "2012\u20132013",
+      "governing_cycle": "2010\u20132015; original adoption not recovered; revised adoption 2013-06-25 confirmed",
+      "objective_code": "3B",
+      "objective_text": "Continue to implement the district\u2019s 5-year Communication Plan.",
+      "source_ids": [
+        "RSD407-EARLY-JUNE-25-2013"
+      ],
+      "page_references": [
+        4,
+        5
+      ],
+      "coverage": "Only tasks observed in bounded Board records; not complete original register",
+      "baseline": null,
+      "numeric_target": null,
+      "deadline": null,
+      "owner": "Not fully established; reporting roles do not independently establish original responsibility",
+      "tasks": [
+        "Task 6: Third-year update presented; half-time coordinator, survey and electronic publication activity reported.",
+        "Task 7: End-of-year metrics reported: 51 website articles, 380 Facebook likes, 4,806 potential impressions per article, 76,635 potential Friends of Fans outreach."
+      ],
+      "diagnosis": "Insufficient evidence",
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Partially implemented",
+      "implementation_fidelity": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "state_comparison": "Cannot determine",
+      "focal_group_gaps": "Cannot determine",
+      "recurrence": "Evolving challenge",
+      "rationale": "Reports and social-media activity are supported; potential reach is not actual unique readership, comprehension or learning impact.",
+      "reported_actors": "Communications coordinator",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-JUNE-25-2013",
+          "pdf_pages": [
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "assertion_id": "EARLY-13",
+      "kind": "evaluation",
+      "iteration": "2012\u20132013",
+      "governing_cycle": "2010\u20132015; original adoption not recovered; revised adoption 2013-06-25 confirmed",
+      "objective_code": "3C",
+      "objective_text": "Develop and implement a parent and community relations program.",
+      "source_ids": [
+        "RSD407-EARLY-JANUARY-22",
+        "RSD407-EARLY-APRIL-23",
+        "RSD407-EARLY-JUNE-25-2013"
+      ],
+      "page_references": [
+        8,
+        4,
+        5
+      ],
+      "coverage": "Only tasks observed in bounded Board records; not complete original register",
+      "baseline": null,
+      "numeric_target": null,
+      "deadline": "End of 2012\u20132013 for first-site task; end of 2013\u20132014 for remaining sites.",
+      "owner": "Not fully established; reporting roles do not independently establish original responsibility",
+      "tasks": [
+        "Task 1: One elementary website by end of 2012\u20132013; mock-up shown January.",
+        "Task 3: Social-media recommendations considered April.",
+        "Task 4: Phase in remaining five websites by end of 2013\u20132014; three elementary sites shown June, others scheduled."
+      ],
+      "diagnosis": "Insufficient evidence",
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Partially implemented",
+      "implementation_fidelity": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "state_comparison": "Cannot determine",
+      "focal_group_gaps": "Cannot determine",
+      "recurrence": "Sustained responsibility",
+      "rationale": "Elementary site revisions are reported, remaining rollout is future work, audience/relationship outcomes unavailable. Later November report repeats2012\u20132013deadline, not a new task deadline.",
+      "reported_actors": "Technology director/communications coordinator",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-JANUARY-22",
+          "pdf_pages": [
+            8
+          ]
+        },
+        {
+          "source_id": "RSD407-EARLY-APRIL-23",
+          "pdf_pages": [
+            4
+          ]
+        },
+        {
+          "source_id": "RSD407-EARLY-JUNE-25-2013",
+          "pdf_pages": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "assertion_id": "EARLY-14",
+      "kind": "evaluation",
+      "iteration": "2013\u20132014 revision",
+      "governing_cycle": "2010\u20132015; original adoption not recovered; revised adoption 2013-06-25 confirmed",
+      "objective_code": "1B",
+      "objective_text": "Improve K-12 district-wide assessment score averages in reading, writing, math, and science by spring of 2014.",
+      "source_ids": [
+        "RSD407-EARLY-NOVEMBER-26"
+      ],
+      "page_references": [
+        4
+      ],
+      "coverage": "Only tasks observed in bounded Board records; not complete original register",
+      "baseline": null,
+      "numeric_target": null,
+      "deadline": "spring 2014",
+      "owner": "Not fully established; reporting roles do not independently establish original responsibility",
+      "tasks": [
+        "Task 2: Prior-year state test results reported updated and posted online."
+      ],
+      "diagnosis": "Insufficient evidence",
+      "task_design": "Weak or activity-oriented",
+      "implementation": "Partially implemented",
+      "implementation_fidelity": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "state_comparison": "Cannot determine",
+      "focal_group_gaps": "Cannot determine",
+      "recurrence": "Evolving challenge",
+      "rationale": "Posting results does not demonstrate improvement; no period-matched score baseline/endpoint or state series recovered. Spring2013 wording differs from spring2014; do not erase the older deadline.",
+      "reported_actors": "Teaching and Learning director",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-NOVEMBER-26",
+          "pdf_pages": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "assertion_id": "EARLY-15",
+      "kind": "evaluation",
+      "iteration": "2013\u20132014 revision",
+      "governing_cycle": "2010\u20132015; original adoption not recovered; revised adoption 2013-06-25 confirmed",
+      "objective_code": "1C",
+      "objective_text": "Refine current interventions for all students to support student learning",
+      "source_ids": [
+        "RSD407-EARLY-NOVEMBER-26"
+      ],
+      "page_references": [
+        4
+      ],
+      "coverage": "Only tasks observed in bounded Board records; not complete original register",
+      "baseline": null,
+      "numeric_target": null,
+      "deadline": null,
+      "owner": "Not fully established; reporting roles do not independently establish original responsibility",
+      "tasks": [
+        "Task 5: Draft secondary/tertiary intervention outline rewritten to evaluate effectiveness and provide input to literacy adoption."
+      ],
+      "diagnosis": "Insufficient evidence",
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Cannot determine",
+      "implementation_fidelity": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "state_comparison": "Cannot determine",
+      "focal_group_gaps": "Cannot determine",
+      "recurrence": "Evolving challenge",
+      "rationale": "Task was rewritten, not shown completed. Objective 1C now refers to interventions formerly 1D; code identity alone cannot establish continuity.",
+      "reported_actors": "Superintendent/Teaching and Learning/Student Services/principals",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-NOVEMBER-26",
+          "pdf_pages": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "assertion_id": "EARLY-16",
+      "kind": "evaluation",
+      "iteration": "2013\u20132014 revision",
+      "governing_cycle": "2010\u20132015; original adoption not recovered; revised adoption 2013-06-25 confirmed",
+      "objective_code": "2A",
+      "objective_text": "Provide a financial process that strengthens student learning despite state funding uncertainties.",
+      "source_ids": [
+        "RSD407-EARLY-NOVEMBER-26"
+      ],
+      "page_references": [
+        4,
+        5
+      ],
+      "coverage": "Only tasks observed in bounded Board records; not complete original register",
+      "baseline": null,
+      "numeric_target": null,
+      "deadline": null,
+      "owner": "Not fully established; reporting roles do not independently establish original responsibility",
+      "tasks": [
+        "Task 5: Levy resolutions reported presented November 12.",
+        "Task 6: Updated Citizens Budget reported online.",
+        "Task 7: Levy facts/information reported provided."
+      ],
+      "diagnosis": "Insufficient evidence",
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Partially implemented",
+      "implementation_fidelity": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "state_comparison": "Cannot determine",
+      "focal_group_gaps": "Cannot determine",
+      "recurrence": "Sustained responsibility",
+      "rationale": "Finance and publication activities documented. The 7.06% 2012\u20132013 total ending balance is unaudited context, not uncommitted reserve proof or a causal student-learning result.",
+      "reported_actors": "Business director/Superintendent",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-NOVEMBER-26",
+          "pdf_pages": [
+            4,
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "assertion_id": "EARLY-17",
+      "kind": "evaluation",
+      "iteration": "2013\u20132014 revision",
+      "governing_cycle": "2010\u20132015; original adoption not recovered; revised adoption 2013-06-25 confirmed",
+      "objective_code": "2C",
+      "objective_text": "Monitor the Comprehensive Safety Plan and adopt the Emergency Operations Plan.",
+      "source_ids": [
+        "RSD407-EARLY-SEPTEMBER-24"
+      ],
+      "page_references": [
+        4
+      ],
+      "coverage": "Only tasks observed in bounded Board records; not complete original register",
+      "baseline": null,
+      "numeric_target": null,
+      "deadline": null,
+      "owner": "Not fully established; reporting roles do not independently establish original responsibility",
+      "tasks": [
+        "Task 1: Draft drill schedules received from each building; Tolt Dam drill planned for following day."
+      ],
+      "diagnosis": "Insufficient evidence",
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Partially implemented",
+      "implementation_fidelity": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "state_comparison": "Cannot determine",
+      "focal_group_gaps": "Cannot determine",
+      "recurrence": "Sustained responsibility",
+      "rationale": "Schedules received establish planning activity; actual drill execution, Emergency Operations Plan adoption and readiness are not established.",
+      "reported_actors": "Business director/buildings",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-SEPTEMBER-24",
+          "pdf_pages": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "assertion_id": "EARLY-18",
+      "kind": "evaluation",
+      "iteration": "2013\u20132014 revision",
+      "governing_cycle": "2010\u20132015; original adoption not recovered; revised adoption 2013-06-25 confirmed",
+      "objective_code": "2D",
+      "objective_text": "Continue to conduct reviews of district policies.",
+      "source_ids": [
+        "RSD407-EARLY-NOVEMBER-26"
+      ],
+      "page_references": [
+        5,
+        7
+      ],
+      "coverage": "Only tasks observed in bounded Board records; not complete original register",
+      "baseline": null,
+      "numeric_target": null,
+      "deadline": null,
+      "owner": "Not fully established; reporting roles do not independently establish original responsibility",
+      "tasks": [
+        "Tasks 1\u20132: 5000 review planned later that year; 6000 review completed and revisions presented for first reading, Motion 13-76."
+      ],
+      "diagnosis": "Insufficient evidence",
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Partially implemented",
+      "implementation_fidelity": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "state_comparison": "Cannot determine",
+      "focal_group_gaps": "Cannot determine",
+      "recurrence": "Persistent unresolved problem",
+      "rationale": "6000 review and first reading recorded; 5000 review remains future work. First reading does not establish final adoption.",
+      "reported_actors": "Policy staff/Board",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-NOVEMBER-26",
+          "pdf_pages": [
+            5,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "assertion_id": "EARLY-19",
+      "kind": "evaluation",
+      "iteration": "2013\u20132014 revision",
+      "governing_cycle": "2010\u20132015; original adoption not recovered; revised adoption 2013-06-25 confirmed",
+      "objective_code": "3A",
+      "objective_text": "Implement the new 2013-2018 Human Resources (HR) plan.",
+      "source_ids": [
+        "RSD407-EARLY-NOVEMBER-26"
+      ],
+      "page_references": [
+        5,
+        6,
+        7
+      ],
+      "coverage": "Only tasks observed in bounded Board records; not complete original register",
+      "baseline": "Turnover baseline 2011\u20132012; reported endpoint 2012\u20132013 predates the new plan.",
+      "numeric_target": null,
+      "deadline": null,
+      "owner": "Not fully established; reporting roles do not independently establish original responsibility",
+      "tasks": [
+        "Task 1: National/state turnover research summarized without a matched local comparator.",
+        "Task 2: End-of-year HR report presented, including 2011\u20132012 and 2012\u20132013 turnover values, recruitment and induction activities."
+      ],
+      "diagnosis": "Insufficient evidence",
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Partially implemented",
+      "implementation_fidelity": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "state_comparison": "Cannot determine",
+      "focal_group_gaps": "Cannot determine",
+      "recurrence": "Evolving challenge",
+      "rationale": "Mixed staff turnover changes are observations, not target attainment. The report cannot establish fidelity or success of the 2013\u20132018 HR plan; comparisons vary by category and retirements.",
+      "reported_actors": "HR coordinator",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-NOVEMBER-26",
+          "pdf_pages": [
+            5,
+            6,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "assertion_id": "EARLY-20",
+      "kind": "evaluation",
+      "iteration": "2013\u20132014 revision",
+      "governing_cycle": "2010\u20132015; original adoption not recovered; revised adoption 2013-06-25 confirmed",
+      "objective_code": "3C",
+      "objective_text": "Develop and implement a parent and community relations program.",
+      "source_ids": [
+        "RSD407-EARLY-SEPTEMBER-24",
+        "RSD407-EARLY-NOVEMBER-26"
+      ],
+      "page_references": [
+        4,
+        7
+      ],
+      "coverage": "Only tasks observed in bounded Board records; not complete original register",
+      "baseline": null,
+      "numeric_target": null,
+      "deadline": null,
+      "owner": "Not fully established; reporting roles do not independently establish original responsibility",
+      "tasks": [
+        "Task 1: Draft annual event schedule presented September.",
+        "Task 2: Three elementary websites reported revised, with old end-of-2012\u20132013 deadline.",
+        "Task 4: Monthly e-newsletter reported distributed."
+      ],
+      "diagnosis": "Insufficient evidence",
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Partially implemented",
+      "implementation_fidelity": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "state_comparison": "Cannot determine",
+      "focal_group_gaps": "Cannot determine",
+      "recurrence": "Sustained responsibility",
+      "rationale": "Reported products and activities do not establish parent/community access, understanding or effects on learning.",
+      "reported_actors": "Communications and technology staff",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-SEPTEMBER-24",
+          "pdf_pages": [
+            4
+          ]
+        },
+        {
+          "source_id": "RSD407-EARLY-NOVEMBER-26",
+          "pdf_pages": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "assertion_id": "EARLY-21",
+      "kind": "evaluation",
+      "iteration": "2013\u20132014 revision",
+      "governing_cycle": "2010\u20132015; original adoption not recovered; revised adoption 2013-06-25 confirmed",
+      "objective_code": "4C",
+      "objective_text": "Evaluate the Superintendent using the WSSDA (Washington State School Directors\u2019 Association) standards-based evaluation pilot tool.",
+      "source_ids": [
+        "RSD407-EARLY-SEPTEMBER-24"
+      ],
+      "page_references": [
+        4
+      ],
+      "coverage": "Only tasks observed in bounded Board records; not complete original register",
+      "baseline": null,
+      "numeric_target": null,
+      "deadline": null,
+      "owner": "Not fully established; reporting roles do not independently establish original responsibility",
+      "tasks": [
+        "Task 1: Superintendent/Board training; work study requested to establish next steps."
+      ],
+      "diagnosis": "Insufficient evidence",
+      "task_design": "Appropriate but incomplete",
+      "implementation": "Cannot determine",
+      "implementation_fidelity": "Cannot determine",
+      "goal_attainment": "Cannot determine",
+      "state_comparison": "Cannot determine",
+      "focal_group_gaps": "Cannot determine",
+      "recurrence": "Cannot determine",
+      "rationale": "Training and evaluation completion not established. Subsequent entry report describes 2013\u20132014 phases but is not the WSSDA evaluation result.",
+      "reported_actors": "Board/Superintendent",
+      "source_locators": [
+        {
+          "source_id": "RSD407-EARLY-SEPTEMBER-24",
+          "pdf_pages": [
+            4
+          ]
+        }
+      ]
+    }
+  ],
+  "recurrence_rules": "Routine duties and rewritten tasks are not proof of failure. Specific incomplete reporting/policy-review tasks are distinguished from broad outcomes.",
+  "unknown_objective_policy": "Unobserved objectives remain unenumerated; this matrix cannot claim every original objective has been rated."
+}

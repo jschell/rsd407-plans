@@ -25,3 +25,5 @@ Close after targeted authority search plus one objective-specific evidence pass 
 ## Plan 08 handoff
 
 Use RSD407-ITER-2015 and RSD407-ITER-2019 with cited inventory pages. Recover the June 2015 motion and 2016/2017 linked revisions; resolve May 14 versus May 28, 2019 adoption dates. Include the full named cycle through 2019–2020; the original 2014–2019 discovery label does not truncate the plan endpoint. Preserve the reserve task change from 5% to 9%, with matching definitions and periods.
+
+Plan 09 additionally confirms the revised 2010–2015 cycle through June 25, 2013 Motion 13-41. Use its 2014–15 entry-report context (RSD407-EARLY-ENTRY2014 pp.3,8) for bridge discovery; no original 2014–2015 register or full 2015 endpoint was established by that review.

@@ -1,0 +1,47 @@
+{
+  "source_id": "RSD407-EARLY-NOVEMBER-26",
+  "page": 6,
+  "kind": "observation",
+  "measure": "reported employee turnover percent",
+  "baseline_period": "2011\u20132012",
+  "endpoint_period": "2012\u20132013",
+  "limitations": "Staff counts, denominators, turnover definitions and matched state reference unavailable. Retirements alter comparisons; endpoint predates the new 2013\u20132018 HR plan. No causal claim.",
+  "values": [
+    {
+      "category": "certificated employees overall",
+      "baseline_raw": "7.82",
+      "endpoint_raw": "6.08"
+    },
+    {
+      "category": "certificated employees excluding retirements",
+      "baseline_raw": "3.91",
+      "endpoint_raw": "3.87"
+    },
+    {
+      "category": "classified staff",
+      "baseline_raw": "3.77",
+      "endpoint_raw": "7.50"
+    },
+    {
+      "category": "certificated administrators overall",
+      "baseline_raw": "14.29",
+      "endpoint_raw": "11.11"
+    },
+    {
+      "category": "classified administrators",
+      "baseline_raw": "0",
+      "endpoint_raw": "0"
+    },
+    {
+      "category": "classified exempt",
+      "baseline_raw": "25",
+      "endpoint_raw": "11.11"
+    }
+  ],
+  "other_reported_value": {
+    "category": "certificated administrators excluding retirements",
+    "endpoint_raw": "0",
+    "baseline_raw": null,
+    "limitation": "Baseline excluding-retirement rate not reported; no derived change."
+  }
+}
