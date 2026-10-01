@@ -1,0 +1,334 @@
+{
+  "scope": "Confirmed year-one register: seven objectives,34 body tasks,33 timeline rows; not all annual versions or full-cycle implementation. Broad attainment unknown.",
+  "criteria": "No status mark = cannot determine, not failure. Reported partial requires a dated source for a specific component. Fidelity needs actual adherence/coverage evidence. Test explicit target components separately; preserve compound metrics and unresolved replacement.",
+  "objectives": [
+    {
+      "assertion_id": "TRANS-OBJ-01",
+      "kind": "evaluation",
+      "code": "1A",
+      "title_raw": "Review, develop and implement aligned curriculum and supports for\n            student learning.",
+      "source_id": "RSD407-TRANS-PLAN2020",
+      "definition_pdf_pages": [
+        23,
+        24
+      ],
+      "register_reference": "transition-task-register.json",
+      "task_count": 6,
+      "implementation": "Cannot determine",
+      "implementation_basis": "Year-one timeline has no completion marks and predates most deadlines. Later tasks/reports cannot automatically supply this version\u2019s completion or fidelity.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "See individual2025 target tests. One state-assessment benchmark result or contextual diagnostics does not settle every part of an objective.",
+      "design_evaluation": "Explicit owners, resources and deadlines; measurement combines activity outputs with goal metrics. Source task/title/date conflicts and unspecified baselines/denominators prevent a complete task-to-outcome chain.",
+      "supporting_ids": [
+        "TRANS-OSPI-01",
+        "TRANS-DERIVED-01"
+      ]
+    },
+    {
+      "assertion_id": "TRANS-OBJ-02",
+      "kind": "evaluation",
+      "code": "1B",
+      "title_raw": "Reduce achievement gaps that exist in students who receive English\n            Language, Low Income, Homelessness, and Students with Disabilities\n            Services.",
+      "source_id": "RSD407-TRANS-PLAN2020",
+      "definition_pdf_pages": [
+        25,
+        26
+      ],
+      "register_reference": "transition-task-register.json",
+      "task_count": 6,
+      "implementation": "Cannot determine",
+      "implementation_basis": "Year-one timeline has no completion marks and predates most deadlines. Later tasks/reports cannot automatically supply this version\u2019s completion or fidelity.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "See individual2025 target tests. One state-assessment benchmark result or contextual diagnostics does not settle every part of an objective.",
+      "design_evaluation": "Explicit owners, resources and deadlines; measurement combines activity outputs with goal metrics. Source task/title/date conflicts and unspecified baselines/denominators prevent a complete task-to-outcome chain.",
+      "supporting_ids": [
+        "TRANS-OSPI-01",
+        "TRANS-DERIVED-01"
+      ]
+    },
+    {
+      "assertion_id": "TRANS-OBJ-03",
+      "kind": "evaluation",
+      "code": "1C",
+      "title_raw": "Increase Integration of Information Technology, Student Services and\n            Teaching and Learning to support student and staff learning.",
+      "source_id": "RSD407-TRANS-PLAN2020",
+      "definition_pdf_pages": [
+        27,
+        28
+      ],
+      "register_reference": "transition-task-register.json",
+      "task_count": 3,
+      "implementation": "Reported partial",
+      "implementation_basis": "CHS published August19,2021 launch; one component, after March15 task date. Full district/school scope and ADA/privacy compliance unverified.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "See individual2025 target tests. One state-assessment benchmark result or contextual diagnostics does not settle every part of an objective.",
+      "design_evaluation": "Explicit owners, resources and deadlines; measurement combines activity outputs with goal metrics. Source task/title/date conflicts and unspecified baselines/denominators prevent a complete task-to-outcome chain.",
+      "supporting_ids": [
+        "RSD407-TRANS-LAUNCH2021"
+      ]
+    },
+    {
+      "assertion_id": "TRANS-OBJ-04",
+      "kind": "evaluation",
+      "code": "2A",
+      "title_raw": "Increase allocation of resources (people, time, money) equitably based on\n            school and community needs to reduce barriers that inhibit student\n            learning.",
+      "source_id": "RSD407-TRANS-PLAN2020",
+      "definition_pdf_pages": [
+        31
+      ],
+      "register_reference": "transition-task-register.json",
+      "task_count": 3,
+      "implementation": "Cannot determine",
+      "implementation_basis": "Year-one timeline has no completion marks and predates most deadlines. Later tasks/reports cannot automatically supply this version\u2019s completion or fidelity.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "See individual2025 target tests. One state-assessment benchmark result or contextual diagnostics does not settle every part of an objective.",
+      "design_evaluation": "Explicit owners, resources and deadlines; measurement combines activity outputs with goal metrics. Source task/title/date conflicts and unspecified baselines/denominators prevent a complete task-to-outcome chain.",
+      "supporting_ids": [
+        "TRANS-DERIVED-01"
+      ]
+    },
+    {
+      "assertion_id": "TRANS-OBJ-05",
+      "kind": "evaluation",
+      "code": "2B",
+      "title_raw": "Strengthen and communicate district wide operations to support the safety\n            and wellness of students.",
+      "source_id": "RSD407-TRANS-PLAN2020",
+      "definition_pdf_pages": [
+        32
+      ],
+      "register_reference": "transition-task-register.json",
+      "task_count": 4,
+      "implementation": "Cannot determine",
+      "implementation_basis": "Year-one timeline has no completion marks and predates most deadlines. Later tasks/reports cannot automatically supply this version\u2019s completion or fidelity.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "See individual2025 target tests. One state-assessment benchmark result or contextual diagnostics does not settle every part of an objective.",
+      "design_evaluation": "Explicit owners, resources and deadlines; measurement combines activity outputs with goal metrics. Source task/title/date conflicts and unspecified baselines/denominators prevent a complete task-to-outcome chain.",
+      "supporting_ids": []
+    },
+    {
+      "assertion_id": "TRANS-OBJ-06",
+      "kind": "evaluation",
+      "code": "3A",
+      "title_raw": "Provide Human Resources and Communication practices to improve\n            student learning.",
+      "source_id": "RSD407-TRANS-PLAN2020",
+      "definition_pdf_pages": [
+        35,
+        36
+      ],
+      "register_reference": "transition-task-register.json",
+      "task_count": 5,
+      "implementation": "Cannot determine",
+      "implementation_basis": "Year-one timeline has no completion marks and predates most deadlines. Later tasks/reports cannot automatically supply this version\u2019s completion or fidelity.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "See individual2025 target tests. One state-assessment benchmark result or contextual diagnostics does not settle every part of an objective.",
+      "design_evaluation": "Explicit owners, resources and deadlines; measurement combines activity outputs with goal metrics. Source task/title/date conflicts and unspecified baselines/denominators prevent a complete task-to-outcome chain.",
+      "supporting_ids": []
+    },
+    {
+      "assertion_id": "TRANS-OBJ-07",
+      "kind": "evaluation",
+      "code": "3B",
+      "title_raw": "Increase the Reach of the Riverview School District\u2019s Communications\n            program.",
+      "source_id": "RSD407-TRANS-PLAN2020",
+      "definition_pdf_pages": [
+        37,
+        38
+      ],
+      "register_reference": "transition-task-register.json",
+      "task_count": 7,
+      "implementation": "Cannot determine",
+      "implementation_basis": "Year-one timeline has no completion marks and predates most deadlines. Later tasks/reports cannot automatically supply this version\u2019s completion or fidelity.",
+      "fidelity": "Cannot determine",
+      "attainment": "Cannot determine",
+      "attainment_basis": "See individual2025 target tests. One state-assessment benchmark result or contextual diagnostics does not settle every part of an objective.",
+      "design_evaluation": "Explicit owners, resources and deadlines; measurement combines activity outputs with goal metrics. Source task/title/date conflicts and unspecified baselines/denominators prevent a complete task-to-outcome chain.",
+      "supporting_ids": []
+    }
+  ],
+  "goal_targets": [
+    {
+      "assertion_id": "TRANS-TARGET-01",
+      "kind": "evaluation",
+      "goal": 1,
+      "source_id": "RSD407-TRANS-PLAN2020",
+      "pdf_page": 21,
+      "target_raw": "By 2025, course standards, curriculum and assessments will be identified and\n        implemented.",
+      "result": "Cannot determine",
+      "basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "diagnostic_reference": null
+    },
+    {
+      "assertion_id": "TRANS-TARGET-02",
+      "kind": "evaluation",
+      "goal": 1,
+      "source_id": "RSD407-TRANS-PLAN2020",
+      "pdf_page": 21,
+      "target_raw": "By 2025, students receiving both English Language and Special Education\n        services will be reduced to 12.9%.",
+      "result": "Cannot determine",
+      "basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "diagnostic_reference": null
+    },
+    {
+      "assertion_id": "TRANS-TARGET-03",
+      "kind": "evaluation",
+      "goal": 1,
+      "source_id": "RSD407-TRANS-PLAN2020",
+      "pdf_page": 21,
+      "target_raw": "By 2025, 85% of grade 3 students will be meeting or exceeding grade-level\n        standards in ELA, as measured by district and state assessments.",
+      "result": "Not met (state-assessment component)",
+      "basis": "2024\u20132025 grade03 All Students SBAC ELA54.8% versus85%. District assessment component unrecovered; governing replacement unresolved.",
+      "diagnostic_reference": "transition-diagnostics.json grade3_ela_state_benchmark"
+    },
+    {
+      "assertion_id": "TRANS-TARGET-04",
+      "kind": "evaluation",
+      "goal": 1,
+      "source_id": "RSD407-TRANS-PLAN2020",
+      "pdf_page": 21,
+      "target_raw": "By 2025, 95% of seniors will graduate on time with college credits or certification.",
+      "result": "Cannot determine",
+      "basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "diagnostic_reference": null
+    },
+    {
+      "assertion_id": "TRANS-TARGET-05",
+      "kind": "evaluation",
+      "goal": 1,
+      "source_id": "RSD407-TRANS-PLAN2020",
+      "pdf_page": 21,
+      "target_raw": "By 2025, International Society for Technology in Education (ISTE) Student\n        Standards will be incorporated into 80% of instructional lesson design.",
+      "result": "Cannot determine",
+      "basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "diagnostic_reference": null
+    },
+    {
+      "assertion_id": "TRANS-TARGET-06",
+      "kind": "evaluation",
+      "goal": 1,
+      "source_id": "RSD407-TRANS-PLAN2020",
+      "pdf_page": 21,
+      "target_raw": "By 2025, all district software will go through a standardized audit process for\n        privacy and security.",
+      "result": "Cannot determine",
+      "basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "diagnostic_reference": null
+    },
+    {
+      "assertion_id": "TRANS-TARGET-07",
+      "kind": "evaluation",
+      "goal": 1,
+      "source_id": "RSD407-TRANS-PLAN2020",
+      "pdf_page": 21,
+      "target_raw": "By 2025, all schools will implement Tier 1 and Tier 2 Positive Behavior\n        Intervention Supports (PBIS) with 80% fidelity, as measured by the Tiered\n        Fidelity Inventory.",
+      "result": "Cannot determine",
+      "basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "diagnostic_reference": null
+    },
+    {
+      "assertion_id": "TRANS-TARGET-08",
+      "kind": "evaluation",
+      "goal": 1,
+      "source_id": "RSD407-TRANS-PLAN2020",
+      "pdf_page": 21,
+      "target_raw": "By 2025, staff will understand and implement equitable instructional, planning,\n        and resource allocation practices to support student learning.",
+      "result": "Cannot determine",
+      "basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "diagnostic_reference": null
+    },
+    {
+      "assertion_id": "TRANS-TARGET-09",
+      "kind": "evaluation",
+      "goal": 2,
+      "source_id": "RSD407-TRANS-PLAN2020",
+      "pdf_page": 29,
+      "target_raw": "By 2025 present to voters a new capital bond",
+      "result": "Cannot determine",
+      "basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "diagnostic_reference": null
+    },
+    {
+      "assertion_id": "TRANS-TARGET-10",
+      "kind": "evaluation",
+      "goal": 2,
+      "source_id": "RSD407-TRANS-PLAN2020",
+      "pdf_page": 29,
+      "target_raw": "By 2025 Work to elevate to a 14% uncommitted general fund balance",
+      "result": "Cannot determine",
+      "basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "diagnostic_reference": "transition-diagnostics.json finance_context (conditional; total balance, not formal uncommitted target)"
+    },
+    {
+      "assertion_id": "TRANS-TARGET-11",
+      "kind": "evaluation",
+      "goal": 2,
+      "source_id": "RSD407-TRANS-PLAN2020",
+      "pdf_page": 29,
+      "target_raw": "By 2025 Complete upgrade of all Security Cameras District Wide",
+      "result": "Cannot determine",
+      "basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "diagnostic_reference": null
+    },
+    {
+      "assertion_id": "TRANS-TARGET-12",
+      "kind": "evaluation",
+      "goal": 2,
+      "source_id": "RSD407-TRANS-PLAN2020",
+      "pdf_page": 29,
+      "target_raw": "By 2025 Complete rollout of enhanced lock down procedure, including training of\n     all staff and students on Run, Hide, Fight Program.",
+      "result": "Cannot determine",
+      "basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "diagnostic_reference": null
+    },
+    {
+      "assertion_id": "TRANS-TARGET-13",
+      "kind": "evaluation",
+      "goal": 3,
+      "source_id": "RSD407-TRANS-PLAN2020",
+      "pdf_page": 33,
+      "target_raw": "By 2022 school year, 100% of staff will receive annual training on selected topics\n          relating to equity, inclusion, and workplace diversity.",
+      "result": "Cannot determine",
+      "basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "diagnostic_reference": null
+    },
+    {
+      "assertion_id": "TRANS-TARGET-14",
+      "kind": "evaluation",
+      "goal": 3,
+      "source_id": "RSD407-TRANS-PLAN2020",
+      "pdf_page": 33,
+      "target_raw": "By 2025, we expect at least a five percent increase in diverse hiring creating a\n          more diverse workforce that is reflective of our student demographics.",
+      "result": "Cannot determine",
+      "basis": "No matching full-scope result, baseline/denominator or fidelity record established in this bounded pass.",
+      "diagnostic_reference": null
+    }
+  ],
+  "conflicts": [
+    "Source-stated School Board approval2/9/21 p46, separate motion unrecovered. Metadata creation2021-02-09 is not full-cycle status.",
+    "34 body tasks versus33 timeline rows;1/B/6 Equity Plan absent from timeline. Blank completion cells unknown, not failures.",
+    "3/B/2 body alumni site/ongoing versus timeline Ambassadors Program/March15;3/B/5 body translated documents/June15 versus timeline Communications audit/May15. Same codes do not establish same task.",
+    "3/A/1 bodyFebruary15(*normally November) versus timelineNovember15,2021. Preserve both.",
+    "3A summaryp20/p33 HR subplan title differs from bodyp35 broad Human Resources/Communication title;3B summary/supporting-title variants also preserved in evaluation."
+  ],
+  "transition_observations": [
+    {
+      "assertion_id": "TRANS-HR2022-01",
+      "kind": "observation",
+      "source_id": "RSD407-TRANS-MIN2022",
+      "pdf_page": 5,
+      "date": "2022-11-22",
+      "objective3A_raw": "Recruit, select and retain a diverse qualified staff that closely matches our student demographics.",
+      "tasks3A_raw": [
+        "Report turnover/retention and diversity data annually.",
+        "Form a District Recruitment Committee consisting of administrators, certificated staff, classified staff, supervisors, and human resources staff."
+      ],
+      "objective3B_raw": "Develop and implement staff professional learning.",
+      "task3B_raw": "Continue Paraeducator Trainings for professional growth as outlined by OSPI.",
+      "finding": "Board received information on these tasks. Not proof of recruitment committee formation, complete training coverage or closure of2021 deadlines. No old-version completion marks transferred."
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "assertion_id": "TRANS-REGISTER-01",
+  "kind": "observation",
+  "source_id": "RSD407-TRANS-PLAN2020",
+  "sha256": "f454eb2b71f8689c541e9a99aae4b1e7af50457f0556e7682f98272d2ff8c9ce",
+  "period": "2020\u20132025; year one2020\u20132021",
+  "approval_record_raw": "4.3     Revisions Record\n\n\n  Description of Revision    Pages     Approved   Accomplished By   Effective\n                            Affected       By                         Date\n                                       School     Dr. Anthony L.\n Plan Approved                All      Board      Smith, Supt. &     2/9/21\n                                                  Goal Managers",
+  "timeline_updated_raw": "2/9/2021",
+  "objectives": [
+    {
+      "code": "1A",
+      "title_raw": "Review, develop and implement aligned curriculum and supports for\n            student learning.",
+      "progress_raw": "\u2022 Task Complete\n  \u2022 Formative Assessment on program process\n  \u2022 Results from the Tiered Fidelity Inventory regarding MTSS and PBIS.",
+      "definition_pdf_pages": [
+        23,
+        24
+      ],
+      "tasks": [
+        {
+          "number": 1,
+          "definition_and_deadline_raw": "1. Review the role of a Learning Management System (LMS)             February 15, 2021\n      (IT, TL, SS)",
+          "timeline_row": {
+            "code_raw": "1/A/1",
+            "source_page": 47,
+            "row_raw": "1/A/1    Review the role of a Learning Management system (LMS)          February 15,             Chris Collins\n         (IT, TL, SS)                                                   2021                     Randy Stocker\n                                                                                                 Molly Lutz",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 2,
+          "definition_and_deadline_raw": "2. Identify 6-9 Essential Standards for grade and content level    May 15, 2021\n        curricula (TL)",
+          "timeline_row": {
+            "code_raw": "1/A/2",
+            "source_page": 47,
+            "row_raw": "1/A/2    Identify 6-9 Essential Standards for grade and content level   May 15, 2021             Randy Stocker\n         curricula (TL)",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 3,
+          "definition_and_deadline_raw": "3. Deliver tiered training and implementation of PBIS for all      May 15, 2021\n        schools, as measured by Tiered Fidelity Inventory. (SS)",
+          "timeline_row": {
+            "code_raw": "1/A/3",
+            "source_page": 47,
+            "row_raw": "1/A/3    Deliver tiered training and implementation of PBIS for all     May 15, 2021             Molly Lutz\n         schools, as measured by Tiered Fidelity Inventory. (SS)",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 4,
+          "definition_and_deadline_raw": "4. Design 2020-21 professional learning plan on International      May 15, 2021\n        Society for Technology in Education (ISTE) Standards for\n        Administrators, beginning with Summer Institute 2021 (IT,\n        TL)",
+          "timeline_row": {
+            "code_raw": "1/A/4",
+            "source_page": 47,
+            "row_raw": "1/A/4    Design 2020-21 professional learning plan on International     May 15, 2021             Chris Collins\n         Society for Technology in Education (ISTE) Standards for                                Randy Stocker\n         Administrators, beginning with Summer Institute 2021\n         (IT, TL)",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 5,
+          "definition_and_deadline_raw": "5. Review of Student Data Privacy Policies (IT, SS)                May 15, 2021",
+          "timeline_row": {
+            "code_raw": "1/A/5",
+            "source_page": 47,
+            "row_raw": "1/A/5    Review of Student Data Privacy Policies (IT, SS)               May 15, 2021             Chris Collins\n                                                                                                 Molly Lutz",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 6,
+          "definition_and_deadline_raw": "6. Research certification, career, and college pathways for high   June 15, 2021\n        school students. (TL)",
+          "timeline_row": {
+            "code_raw": "1/A/6",
+            "source_page": 48,
+            "row_raw": "1/A/6    Research certification, career, and college pathways for high   June 15, 2021   Randy Stocker\n         school students. (TL)",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        }
+      ],
+      "resources_and_roi_raw": "Staffing                       Cost                           ROI\n Professional Learning          $35,000 (T&L)                  \u2022 Clarity of standards to\n Leaders, CTE Director,                                          inform curriculum,\n Teaching and Learning Staff                                     instruction, and\n                                                                 assessment\n                                                               \u2022 Identification of student\n                                                                 pathway opportunities\n\n\n\n\n\n IT Support Staff              TBD                         \u2022 Alignment of tools for\n                                                             student and staff\n                                                             consistency\n                                                           \u2022 Protection and audits of\n                                                             privacy for district\n                                                             software tools\n                                                           \u2022 Administrator\n                                                             understanding of ISTE\n                                                             standards\n                                                           \u2022 Increased building,\n                                                             student, and staff safety\n Consultant, PBIS Coaches      $75,000                     \u2022 PBIS implementation",
+      "responsibilities_raw": "Primary                                    Secondary\n Christopher Collins, Director of           Kristin Edlund, Assistant Director of\n Informational Technology                   Teaching and Learning\n\n Dr. Randy Stocker, Assistant\n Superintendent for Teaching and Learning\n\n Molly Lutz, Director of Student Services"
+    },
+    {
+      "code": "1B",
+      "title_raw": "Reduce achievement gaps that exist in students who receive English\n            Language, Low Income, Homelessness, and Students with Disabilities\n            Services.",
+      "progress_raw": "\u2022 Task complete\n  \u2022 Formative Assessment on program process\n  \u2022 Summative Assessment on program process\n  \u2022 OSPI Disproportionality Data",
+      "definition_pdf_pages": [
+        25,
+        26
+      ],
+      "tasks": [
+        {
+          "number": 1,
+          "definition_and_deadline_raw": "1. Research a coherent model for family engagement of               May 2021\n      students served in categorical programs. (TL)",
+          "timeline_row": {
+            "code_raw": "1/B/1",
+            "source_page": 47,
+            "row_raw": "1/B/1    Research a coherent model for family engagement of             May 2021                 Randy Stocker\n         students served in categorical programs. (TL)",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 2,
+          "definition_and_deadline_raw": "2. Determine assessment tasks and baseline measurements to        May 15, 2021\n        monitor progress in reducing achievement gaps. (TL)",
+          "timeline_row": {
+            "code_raw": "1/B/2",
+            "source_page": 47,
+            "row_raw": "1/B/2    Determine assessment tasks and baseline measurements to        May 15, 2021             Randy Stocker\n         monitor progress in reducing achievement gaps. (TL)\n\n\n\n\nG/O/T                              TASKS                                TIMELINE:        Comp.      Primary",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 3,
+          "definition_and_deadline_raw": "3. Decrease disproportionality of EL students identified for      June 15, 2021\n        Special Education Services through the Riverview\n        Continuum of Student Supports, as measured by OSPI\n        Disproportionality Data. (SS, TL)",
+          "timeline_row": {
+            "code_raw": "1/B/3",
+            "source_page": 48,
+            "row_raw": "1/B/3    Decrease disproportionality of EL students identified for       June 15, 2021   Molly Lutz\n         Special Education Services through the Riverview                                Randy Stocker\n         Continuum of Student Supports, as measured by OSPI\n         Disproportionality Data. (SS, TL)",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 4,
+          "definition_and_deadline_raw": "4. Research curriculum and instruction to increase                June 15, 2021\n        inclusionary practices for students served through Special\n        Education. (SS)",
+          "timeline_row": {
+            "code_raw": "1/B/4",
+            "source_page": 48,
+            "row_raw": "1/B/4    Research curriculum and instruction to increase                 June 15, 2021   Molly Lutz\n         inclusionary practices for students served through Special\n         Education. (SS)",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 5,
+          "definition_and_deadline_raw": "5. Deliver training to administrators on Special Education        June 15, 2021\n        policy, processes, and procedures. (SS)",
+          "timeline_row": {
+            "code_raw": "1/B/5",
+            "source_page": 48,
+            "row_raw": "1/B/5    Deliver training to administrators on Special Education         June 15, 2021   Molly Lutz\n         policy, processes, and procedures. (SS)",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 6,
+          "definition_and_deadline_raw": "6. Review, revise, and implement district five-year Equity        June 15, 2021\n        Plan.",
+          "timeline_row": null,
+          "status": "not found in timeline; completion unknown"
+        }
+      ],
+      "resources_and_roi_raw": "Staffing                       Cost                          ROI\n Teaching and Learning Staff    $10,000 (T&L)                 \u2022 Increased understanding\n                                                                of family desires and\n                                                                needs for students\n                                                              \u2022 Action plan to reduce\n                                                                disproportionality\n                                                              \u2022 Clarity of data to be\n                                                                reviewed and measured\n\n\n\n\n                                                                 over time to reduce\n                                                                 achievement gaps\n\n\n\n Student Services Staffing,    $95,000 (categorical)          \u2022 Reduction of EL students\n Materials, and Coaching                                        misidentified for Special\n                                                                Education services\n\n\n Consultant                    $50,000                        \u2022 Staff understanding and\n                                                                implementation of\n                                                                equitable instructional\n                                                                practices for student\n                                                                learning.",
+      "responsibilities_raw": "Primary                                       Secondary\n Dr. Randy Stocker, Assistant                  Kristin Edlund, Assistant Director of\n Superintendent for Teaching and Learning      Teaching and Learning\n\n Molly Lutz, Director of Student Services\n\n Dr. Anthony L. Smith, Superintendent"
+    },
+    {
+      "code": "1C",
+      "title_raw": "Increase Integration of Information Technology, Student Services and\n            Teaching and Learning to support student and staff learning.",
+      "progress_raw": "\u2022 Task Complete\n  \u2022 Formative Assessment on Program Process",
+      "definition_pdf_pages": [
+        27,
+        28
+      ],
+      "tasks": [
+        {
+          "number": 1,
+          "definition_and_deadline_raw": "1. Revise District and School websites to reflect updated           March 15, 2021\n      privacy and security as well as Federal changes regarding\n      ADA compliance. (IT, Comm)",
+          "timeline_row": {
+            "code_raw": "1/C/1",
+            "source_page": 47,
+            "row_raw": "1/C/1    Revise District and School websites to reflect updated         March 15, 2021           Chris Collins\n         privacy and security as well as Federal changes regarding                               Mike Ward\n         ADA compliance. RSD main first to launch. (IT, Comm.)",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 2,
+          "definition_and_deadline_raw": "2. Implement induction and support programs for new staff.          May 15,2021\n      (TL, SS, IT, HR)",
+          "timeline_row": {
+            "code_raw": "1/C/2",
+            "source_page": 48,
+            "row_raw": "1/C/2    Implement induction and support programs for new staff.         May 15, 2021    Randy Stocker\n         (TL, SS, IT, HR)                                                                Molly Lutz\n                                                                                         Chris Collins\n                                                                                         Robert\n                                                                                         Gallagher",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 3,
+          "definition_and_deadline_raw": "3. Implement intervention curriculum that aligns with core        May 15,2021\n        curriculum. (SS, TL)",
+          "timeline_row": {
+            "code_raw": "1/C/3",
+            "source_page": 48,
+            "row_raw": "1/C/3    Implement intervention curriculum that aligns with core         May 15, 2021    Molly Lutz\n         curriculum. (SS, TL)                                                            Randy Stocker",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        }
+      ],
+      "resources_and_roi_raw": "Staffing                       Cost                          ROI\n Professional Learning          $30,000 (TL, SS)               \u2022 Increased instructional\n Leaders, Teaching and                                            effectiveness\n Learning Staff, Intervention\n Staff\n\n Christopher Collins, Mike      $1000 then $500 recurring     \u2022 Modern web presence for\n Ward                           annually.                       the district\n                                                              \u2022 Increased privacy and\n                                                                functionality\n                                                              \u2022 ADA compliance",
+      "responsibilities_raw": "Primary                                    Secondary\n Christopher Collins, Director of           Kristin Edlund, Assistant Director of\n Information Technology                     Teaching and Learning\n\n Dr. Randy Stocker, Assistant\n Superintendent for Teaching and Learning\n\n Molly Lutz, Director of Student Services"
+    },
+    {
+      "code": "2A",
+      "title_raw": "Increase allocation of resources (people, time, money) equitably based on\n            school and community needs to reduce barriers that inhibit student\n            learning.",
+      "progress_raw": "\u2022 Task Complete",
+      "definition_pdf_pages": [
+        31
+      ],
+      "tasks": [
+        {
+          "number": 1,
+          "definition_and_deadline_raw": "1. Prioritize building and department needs, through an             August 15, 2021\n      annual budget process, focused on increasing student\n      outcomes and reducing barriers.",
+          "timeline_row": {
+            "code_raw": "2/A/1",
+            "source_page": 48,
+            "row_raw": "2/A/1    Prioritize building and department needs, through an            August 15,      Meisha\n         annual budget process, focused on increasing student            2021            Robertson\n         outcomes and reducing barriers.",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 2,
+          "definition_and_deadline_raw": "2. Efficiently manage the budget to strive for a 9%                 August 15, 2021\n      uncommitted general fund balance.",
+          "timeline_row": {
+            "code_raw": "2/A/2",
+            "source_page": 48,
+            "row_raw": "2/A/2    Efficiently manage the budget to strive for a 9%                August 15,      Meisha\n         uncommitted general fund balance.                               2021            Robertson",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 3,
+          "definition_and_deadline_raw": "3. Complete annual review of the district\u2019s capital projects to   June 15, 2021\n        determine future capacity/program needs and\n        opportunities.",
+          "timeline_row": {
+            "code_raw": "2/A/3",
+            "source_page": 48,
+            "row_raw": "2/A/3    Complete annual review of the district\u2019s capital projects to    June 15, 2021   Meisha\n         determine future capacity/program needs and                                     Robertson\n         opportunities.",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        }
+      ],
+      "resources_and_roi_raw": "Staffing                       Cost                            ROI\n Director of Business and                                       \u2022 Targeted fiscal resources\n Operations and Team                                              for students\n                                                                \u2022 Uncommitted Fund\n                                                                  Balance to increase\n                                                                  student outcomes\n                                                                \u2022 Capital Projects plan to\n                                                                  meet building and\n                                                                  program needs",
+      "responsibilities_raw": "Primary                                        Secondary\n Meisha Robertson, Director of Business and     School Board, Superintendent\n Operations"
+    },
+    {
+      "code": "2B",
+      "title_raw": "Strengthen and communicate district wide operations to support the safety\n            and wellness of students.",
+      "progress_raw": "\u2022 Tasks complete.",
+      "definition_pdf_pages": [
+        32
+      ],
+      "tasks": [
+        {
+          "number": 1,
+          "definition_and_deadline_raw": "1. Research and implement best practices related to emergency     August 15, 2021\n      management, with a focus on Run, Hide, Fight and recovery\n      processes to reopen schools from a pandemic. (BO)",
+          "timeline_row": {
+            "code_raw": "2/B/1",
+            "source_page": 48,
+            "row_raw": "2/B/1    Research and implement best practices related to emergency      August 15,      Meisha\n         management, with a focus on Run, Hide, Fight and recovery       2021            Robertson\n         processes to reopen schools from a pandemic. (BO)",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 2,
+          "definition_and_deadline_raw": "2. Collaborate with Parent Teacher Student Associations to        June 15, 2021\n      educate parents about the emergency plans and procedures\n      for the Riverview School District. (BO)",
+          "timeline_row": {
+            "code_raw": "2/B/2",
+            "source_page": 48,
+            "row_raw": "2/B/2    Collaborate with Parent Teacher Student Associations to         June 15, 2021   Meisha\n         educate parents about the emergency plans and procedures                        Robertson\n         for the Riverview School District. (BO)",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 3,
+          "definition_and_deadline_raw": "3. Review and revise the district and building emergency and      August 15, 2021\n      safety plans, processes, and documents. (BO)",
+          "timeline_row": {
+            "code_raw": "2/B/3",
+            "source_page": 48,
+            "row_raw": "2/B/3    Review and revise the district and building emergency and       August 15,      Meisha\n         safety plans, processes, and documents. (BO)                    2021            Robertson",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 4,
+          "definition_and_deadline_raw": "4. Design and begin installation of new Camera Security           June 15, 2021\n      System-ESC, MNT, CHS. (BO, IT)",
+          "timeline_row": {
+            "code_raw": "2/B/4",
+            "source_page": 48,
+            "row_raw": "2/B/4    Design and begin installation of new Camera Security            June 15, 2021   Meisha\n         System-ESC, MNT, CHS. (BO, IT)                                                  Robertson\n                                                                                         Chris Collins",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        }
+      ],
+      "resources_and_roi_raw": "Staffing                       Cost                         ROI\n Director of Business and       $3,450.00 Annual             \u2022 Increasing building student\n Operations, Building Safety    Membership Fee PSESD           and staff safety and security\n and Security Officers, RSD     Safety Co-Op\n\n IT, SeaCom                     $250,000.00",
+      "responsibilities_raw": "Primary                                       Secondary\n Meisha Robertson, Director of Business and    School Board, Superintendent\n Operations\n Chris Collins, Director of Information\n Technology"
+    },
+    {
+      "code": "3A",
+      "title_raw": "Provide Human Resources and Communication practices to improve\n            student learning.",
+      "progress_raw": "\u2022 Tasks complete.\n  \u2022 Published evidence based on research and data findings.",
+      "definition_pdf_pages": [
+        35,
+        36
+      ],
+      "tasks": [
+        {
+          "number": 1,
+          "definition_and_deadline_raw": "1. Recruit, select and retain highly qualified staff to increase    February 15, 2021\n      student learning and report turnover/retention data.              *Normally in November",
+          "timeline_row": {
+            "code_raw": "3/A/1",
+            "source_page": 48,
+            "row_raw": "3/A/1    Recruit, select and retain highly qualified staff to increase   November 15,    Robert\n         student learning and report turnover/retention data.            2021            Gallagher\n\nUpdated: 2/9/2021",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 2,
+          "definition_and_deadline_raw": "2. Continue general training of HR topics for both                February 15, 2021\n        administrators and building staff in the areas of teacher\n        quality, customer service, endorsements, paraeducator\n        requirements, and other legal requirements.",
+          "timeline_row": {
+            "code_raw": "3/A/2",
+            "source_page": 47,
+            "row_raw": "3/A/2    Continue general training of HR topics for both                February 15,             Robert\n         administrators and building staff in the areas of teacher      2021                     Gallagher\n         quality, customer service, endorsements, paraeducator\n         requirements, and other legal requirements.",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 3,
+          "definition_and_deadline_raw": "3. Assess, plan, track, and continue to implement second year     March 15, 2021\n        requirements as mandated through legislation regarding the\n        Paraeducator certificate requirements and the Professional\n        Educator Standards Board.",
+          "timeline_row": {
+            "code_raw": "3/A/3",
+            "source_page": 47,
+            "row_raw": "3/A/3    Asses, plan, track, and continue to implement second year      March 15, 2021           Robert\n         requirements as mandated through legislation regarding the                              Gallagher\n         Paraeducator certificate requirements and the Professional\n         Educator Standards Board.",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 4,
+          "definition_and_deadline_raw": "4. Evaluate the implementation of the restructured employee       April 15, 2021\n        orientation/onboarding and mentoring program including\n        professional learning opportunities for continuing\n        employees in their first two years in collaboration with the\n        Teaching & Learning Department.",
+          "timeline_row": {
+            "code_raw": "3/A/4",
+            "source_page": 47,
+            "row_raw": "3/A/4    Evaluate the implementation of the restructured employee       April 15, 2021           Robert\n         orientation/onboarding and mentoring program including                                  Gallagher\n         professional learning opportunities for continuing\n         employees in their first two years in collaboration with the\n         Teaching & Learning Department.",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 5,
+          "definition_and_deadline_raw": "5. Create a plan for all employees with education surrounding     May 15, 2021\n        the importance of equity, inclusion, and workplace\n        diversity.",
+          "timeline_row": {
+            "code_raw": "3/A/5",
+            "source_page": 48,
+            "row_raw": "3/A/5    Create a plan for all employees with education surrounding      May 15, 2021    Robert\n         the importance of equity, inclusion, and workplace                              Gallagher\n         diversity.",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        }
+      ],
+      "resources_and_roi_raw": "Staffing                       Cost                            ROI\n                                $2,000.00 Equity Tools and       \u2022 Staff turnover under\n Human Resources                Training.                           national averages.\n Department                                                      \u2022 High staff morale\n                                $1,650.00 Testing                \u2022 Highly trained and\n                                                                    supported staff.",
+      "responsibilities_raw": "Primary                               Secondary\n Robert Gallagher, Director of Human   Donna Reier, Human Resources Coordinator\n Resources                             Hope Penny, Human Resources Specialist\n                                       Rhiannon Inman, HR Secretary II"
+    },
+    {
+      "code": "3B",
+      "title_raw": "Increase the Reach of the Riverview School District\u2019s Communications\n            program.",
+      "progress_raw": "\u2022 Distribution of The Riverview Way 2020-2021.\n  \u2022 Adoption of social media guidelines, policy, and procedure by the School Board.\n  \u2022 Approval and implementation of new Netiquette guidelines.\n  \u2022 Launch of an alumni site for Riverview Alumni\n  \u2022 Tasks complete.",
+      "definition_pdf_pages": [
+        37,
+        38
+      ],
+      "tasks": [
+        {
+          "number": 1,
+          "definition_and_deadline_raw": "1. Collaborate with Superintendent and Goal Managers on            Ongoing\n      updates to The Riverview Way onboarding document.",
+          "timeline_row": {
+            "code_raw": "3/B/1",
+            "source_page": 47,
+            "row_raw": "3/B/1    Collaborate with Superintendent and Goal Managers on           Ongoing                  Mike Ward\n         updates to The Riverview Way onboarding document.",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 2,
+          "definition_and_deadline_raw": "2. Continue implementation and management of alumni site         Ongoing\n        for the district.",
+          "timeline_row": {
+            "code_raw": "3/B/2",
+            "source_page": 47,
+            "row_raw": "3/B/2    Organize and lead 2021 Ambassadors Program.                    March 15, 2021           Mike Ward",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 3,
+          "definition_and_deadline_raw": "3. Collaborate with Human Resources and Information              April 15, 2021\n        Technology to develop guidelines, policy, and procedure on\n        social media usage.",
+          "timeline_row": {
+            "code_raw": "3/B/3",
+            "source_page": 47,
+            "row_raw": "3/B/3    Collaborate with Human Resources and Information               April 15, 2021           Mike Ward\n         Technology to develop guidelines, policy and procedure on\n         social media usage.",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 4,
+          "definition_and_deadline_raw": "4. Collaborate with Superintendent\u2019s Cabinet to modernize the    April 15, 2021\n        district\u2019s Netiquette guidelines.",
+          "timeline_row": {
+            "code_raw": "3/B/4",
+            "source_page": 47,
+            "row_raw": "3/B/4    Collaborate with Superintendent\u2019s Cabinet to modernize the     April 15, 2021           Mike Ward\n         district\u2019s Netiquette guidelines.",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 5,
+          "definition_and_deadline_raw": "5. Increase the number of translated documents to reflect        June 15, 2021\n        district population.",
+          "timeline_row": {
+            "code_raw": "3/B/5",
+            "source_page": 48,
+            "row_raw": "3/B/5    Conduct and arrange for audit of Riverview School District      May 15, 2021    Mike Ward\n         Communications Program",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 6,
+          "definition_and_deadline_raw": "6. Monitor and implement an increase in translation of           June 15, 2021\n        documents.",
+          "timeline_row": {
+            "code_raw": "3/B/6",
+            "source_page": 48,
+            "row_raw": "3/B/6    Monitor and implement an increase in translation of             June 15, 2021   Mike Ward\n         documents.",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        },
+        {
+          "number": 7,
+          "definition_and_deadline_raw": "7. Provide annual end-of-year report, including metrics, on      June 15, 2021\n        Communications program accomplishments throughout the\n        year.",
+          "timeline_row": {
+            "code_raw": "3/B/7",
+            "source_page": 48,
+            "row_raw": "3/B/7    Provide annual end-of-year report, including metrics, on        June 15, 2021   Mike Ward\n         Communications program accomplishments throughout the\n         year.",
+            "completion_mark_raw": null
+          },
+          "status": "unmarked; completion unknown"
+        }
+      ],
+      "resources_and_roi_raw": "Staffing                   Cost                              ROI\n Director of Communications TBD                               \u2022 Updated Riverview Way\n                                                                2020-2021 for all staff.\n                                                              \u2022 Social media policy,\n                                                                procedure, guidelines\n                                                                adopted.\n                                                              \u2022 Modernized Netiquette\n                                                                guidelines.\n\n\n\n\n                                          \u2022 Short-, mid-, and long-\n                                            term recommendations\n                                            from Community Forum.",
+      "responsibilities_raw": "Primary                    Secondary\n Michael Ward               Dr. Anthony L. Smith, Superintendent\n                            Goal Managers."
+    }
+  ],
+  "task_count": 34,
+  "timeline_rows": 33,
+  "timeline_marks": 0,
+  "goal_metrics_and_notes": [
+    {
+      "goal": 1,
+      "source_page": 21,
+      "text_raw": "By 2025, course standards, curriculum and assessments will be identified and\n        implemented."
+    },
+    {
+      "goal": 1,
+      "source_page": 21,
+      "text_raw": "By 2025, students receiving both English Language and Special Education\n        services will be reduced to 12.9%."
+    },
+    {
+      "goal": 1,
+      "source_page": 21,
+      "text_raw": "By 2025, 85% of grade 3 students will be meeting or exceeding grade-level\n        standards in ELA, as measured by district and state assessments."
+    },
+    {
+      "goal": 1,
+      "source_page": 21,
+      "text_raw": "By 2025, 95% of seniors will graduate on time with college credits or certification."
+    },
+    {
+      "goal": 1,
+      "source_page": 21,
+      "text_raw": "By 2025, International Society for Technology in Education (ISTE) Student\n        Standards will be incorporated into 80% of instructional lesson design."
+    },
+    {
+      "goal": 1,
+      "source_page": 21,
+      "text_raw": "By 2025, all district software will go through a standardized audit process for\n        privacy and security."
+    },
+    {
+      "goal": 1,
+      "source_page": 21,
+      "text_raw": "By 2025, all schools will implement Tier 1 and Tier 2 Positive Behavior\n        Intervention Supports (PBIS) with 80% fidelity, as measured by the Tiered\n        Fidelity Inventory."
+    },
+    {
+      "goal": 1,
+      "source_page": 21,
+      "text_raw": "By 2025, staff will understand and implement equitable instructional, planning,\n        and resource allocation practices to support student learning."
+    },
+    {
+      "goal": 2,
+      "source_page": 29,
+      "text_raw": "By 2025 present to voters a new capital bond"
+    },
+    {
+      "goal": 2,
+      "source_page": 29,
+      "text_raw": "By 2025 Work to elevate to a 14% uncommitted general fund balance"
+    },
+    {
+      "goal": 2,
+      "source_page": 29,
+      "text_raw": "By 2025 Complete upgrade of all Security Cameras District Wide"
+    },
+    {
+      "goal": 2,
+      "source_page": 29,
+      "text_raw": "By 2025 Complete rollout of enhanced lock down procedure, including training of\n     all staff and students on Run, Hide, Fight Program."
+    },
+    {
+      "goal": 3,
+      "source_page": 33,
+      "text_raw": "By 2022 school year, 100% of staff will receive annual training on selected topics\n          relating to equity, inclusion, and workplace diversity."
+    },
+    {
+      "goal": 3,
+      "source_page": 33,
+      "text_raw": "By 2025, we expect at least a five percent increase in diverse hiring creating a\n          more diverse workforce that is reflective of our student demographics."
+    },
+    {
+      "goal": 3,
+      "source_page": 33,
+      "text_raw": "Note: Communications metrics are updated annually due to the unique nature\n          of this department."
+    }
+  ],
+  "limitations": [
+    "Source-stated School Board approval2/9/21 p46, separate motion unrecovered. Metadata creation2021-02-09 is not full-cycle status.",
+    "34 body tasks versus33 timeline rows;1/B/6 Equity Plan absent from timeline. Blank completion cells unknown, not failures.",
+    "3/B/2 body alumni site/ongoing versus timeline Ambassadors Program/March15;3/B/5 body translated documents/June15 versus timeline Communications audit/May15. Same codes do not establish same task.",
+    "3/A/1 bodyFebruary15(*normally November) versus timelineNovember15,2021. Preserve both.",
+    "3A summaryp20/p33 HR subplan title differs from bodyp35 broad Human Resources/Communication title;3B summary/supporting-title variants also preserved in evaluation."
+  ]
+}

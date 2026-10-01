@@ -1,0 +1,577 @@
+{
+  "assertion_id": "TRANS-DERIVED-01",
+  "kind": "derived result",
+  "assessment_snapshots": [
+    {
+      "period": "2021-22",
+      "group": "All Students",
+      "subject": "ELA",
+      "test": "SBAC",
+      "district_raw": "0.7162939297",
+      "district_dat": "None",
+      "district_percent": "71.6293929700",
+      "wa_raw": "0.534770244",
+      "district_minus_wa_pp": "18.1523685700",
+      "gap_vs_all_students_pp": "0E-10"
+    },
+    {
+      "period": "2021-22",
+      "group": "All Students",
+      "subject": "Math",
+      "test": "SBAC",
+      "district_raw": "0.5691421255",
+      "district_dat": "None",
+      "district_percent": "56.9142125500",
+      "wa_raw": "0.4003974",
+      "district_minus_wa_pp": "16.8744725500",
+      "gap_vs_all_students_pp": "0E-10"
+    },
+    {
+      "period": "2021-22",
+      "group": "All Students",
+      "subject": "Science",
+      "test": "WCAS",
+      "district_raw": "0.6310077519",
+      "district_dat": "None",
+      "district_percent": "63.1007751900",
+      "wa_raw": "0.4920016968",
+      "district_minus_wa_pp": "13.9006055100",
+      "gap_vs_all_students_pp": "0E-10"
+    },
+    {
+      "period": "2021-22",
+      "group": "English Language Learners",
+      "subject": "ELA",
+      "test": "SBAC",
+      "district_raw": "0.1625",
+      "district_dat": "None",
+      "district_percent": "16.2500",
+      "wa_raw": "0.1218639816",
+      "district_minus_wa_pp": "4.0636018400",
+      "gap_vs_all_students_pp": "-55.3793929700"
+    },
+    {
+      "period": "2021-22",
+      "group": "English Language Learners",
+      "subject": "Math",
+      "test": "SBAC",
+      "district_raw": "0.1139240506",
+      "district_dat": "None",
+      "district_percent": "11.3924050600",
+      "wa_raw": "0.109339061",
+      "district_minus_wa_pp": "0.4584989600",
+      "gap_vs_all_students_pp": "-45.5218074900"
+    },
+    {
+      "period": "2021-22",
+      "group": "English Language Learners",
+      "subject": "Science",
+      "test": "WCAS",
+      "district_raw": "",
+      "district_dat": "Top/Bottom",
+      "district_percent": null,
+      "wa_raw": "0.0904346993",
+      "district_minus_wa_pp": null,
+      "gap_vs_all_students_pp": null
+    },
+    {
+      "period": "2021-22",
+      "group": "Low-Income",
+      "subject": "ELA",
+      "test": "SBAC",
+      "district_raw": "0.4128787879",
+      "district_dat": "None",
+      "district_percent": "41.2878787900",
+      "wa_raw": "0.3620582452",
+      "district_minus_wa_pp": "5.0820542700",
+      "gap_vs_all_students_pp": "-30.3415141800"
+    },
+    {
+      "period": "2021-22",
+      "group": "Low-Income",
+      "subject": "Math",
+      "test": "SBAC",
+      "district_raw": "0.3018867925",
+      "district_dat": "None",
+      "district_percent": "30.1886792500",
+      "wa_raw": "0.2292564319",
+      "district_minus_wa_pp": "7.2630360600",
+      "gap_vs_all_students_pp": "-26.7255333000"
+    },
+    {
+      "period": "2021-22",
+      "group": "Low-Income",
+      "subject": "Science",
+      "test": "WCAS",
+      "district_raw": "0.3571428571",
+      "district_dat": "None",
+      "district_percent": "35.7142857100",
+      "wa_raw": "0.3221026408",
+      "district_minus_wa_pp": "3.5040216300",
+      "gap_vs_all_students_pp": "-27.3864894800"
+    },
+    {
+      "period": "2021-22",
+      "group": "Students with Disabilities",
+      "subject": "ELA",
+      "test": "SBAC",
+      "district_raw": "0.3537414966",
+      "district_dat": "None",
+      "district_percent": "35.3741496600",
+      "wa_raw": "0.1973035417",
+      "district_minus_wa_pp": "15.6437954900",
+      "gap_vs_all_students_pp": "-36.2552433100"
+    },
+    {
+      "period": "2021-22",
+      "group": "Students with Disabilities",
+      "subject": "Math",
+      "test": "SBAC",
+      "district_raw": "0.2482758621",
+      "district_dat": "None",
+      "district_percent": "24.8275862100",
+      "wa_raw": "0.1471605568",
+      "district_minus_wa_pp": "10.1115305300",
+      "gap_vs_all_students_pp": "-32.0866263400"
+    },
+    {
+      "period": "2021-22",
+      "group": "Students with Disabilities",
+      "subject": "Science",
+      "test": "WCAS",
+      "district_raw": "0.298245614",
+      "district_dat": "None",
+      "district_percent": "29.824561400",
+      "wa_raw": "0.1929048226",
+      "district_minus_wa_pp": "10.5340791400",
+      "gap_vs_all_students_pp": "-33.2762137900"
+    },
+    {
+      "period": "2021-22",
+      "group": "Homeless",
+      "subject": "ELA",
+      "test": "SBAC",
+      "district_raw": "",
+      "district_dat": "N<10",
+      "district_percent": null,
+      "wa_raw": "0.2572720422",
+      "district_minus_wa_pp": null,
+      "gap_vs_all_students_pp": null
+    },
+    {
+      "period": "2021-22",
+      "group": "Homeless",
+      "subject": "Math",
+      "test": "SBAC",
+      "district_raw": "",
+      "district_dat": "N<10",
+      "district_percent": null,
+      "wa_raw": "0.1425221272",
+      "district_minus_wa_pp": null,
+      "gap_vs_all_students_pp": null
+    },
+    {
+      "period": "2021-22",
+      "group": "Homeless",
+      "subject": "Science",
+      "test": "WCAS",
+      "district_raw": "",
+      "district_dat": "N<10",
+      "district_percent": null,
+      "wa_raw": "0.2334283001",
+      "district_minus_wa_pp": null,
+      "gap_vs_all_students_pp": null
+    },
+    {
+      "period": "2024-25",
+      "group": "All Students",
+      "subject": "ELA",
+      "test": "SBAC",
+      "district_raw": "63.4%",
+      "district_dat": "None",
+      "district_percent": "63.4",
+      "wa_raw": "50.9%",
+      "district_minus_wa_pp": "12.5",
+      "gap_vs_all_students_pp": "0.0"
+    },
+    {
+      "period": "2024-25",
+      "group": "All Students",
+      "subject": "Math",
+      "test": "SBAC",
+      "district_raw": "52.4%",
+      "district_dat": "None",
+      "district_percent": "52.4",
+      "wa_raw": "40.7%",
+      "district_minus_wa_pp": "11.7",
+      "gap_vs_all_students_pp": "0.0"
+    },
+    {
+      "period": "2024-25",
+      "group": "All Students",
+      "subject": "Science",
+      "test": "WCAS",
+      "district_raw": "58.4%",
+      "district_dat": "None",
+      "district_percent": "58.4",
+      "wa_raw": "43.3%",
+      "district_minus_wa_pp": "15.1",
+      "gap_vs_all_students_pp": "0.0"
+    },
+    {
+      "period": "2024-25",
+      "group": "English Language Learners",
+      "subject": "ELA",
+      "test": "SBAC",
+      "district_raw": "17.1%",
+      "district_dat": "None",
+      "district_percent": "17.1",
+      "wa_raw": "14.9%",
+      "district_minus_wa_pp": "2.2",
+      "gap_vs_all_students_pp": "-46.3"
+    },
+    {
+      "period": "2024-25",
+      "group": "English Language Learners",
+      "subject": "Math",
+      "test": "SBAC",
+      "district_raw": "12.7%",
+      "district_dat": "None",
+      "district_percent": "12.7",
+      "wa_raw": "14.7%",
+      "district_minus_wa_pp": "-2.0",
+      "gap_vs_all_students_pp": "-39.7"
+    },
+    {
+      "period": "2024-25",
+      "group": "English Language Learners",
+      "subject": "Science",
+      "test": "WCAS",
+      "district_raw": "7.9%",
+      "district_dat": "<8%",
+      "district_percent": null,
+      "wa_raw": "9.7%",
+      "district_minus_wa_pp": null,
+      "gap_vs_all_students_pp": null
+    },
+    {
+      "period": "2024-25",
+      "group": "Low-Income",
+      "subject": "ELA",
+      "test": "SBAC",
+      "district_raw": "37.2%",
+      "district_dat": "None",
+      "district_percent": "37.2",
+      "wa_raw": "35.0%",
+      "district_minus_wa_pp": "2.2",
+      "gap_vs_all_students_pp": "-26.2"
+    },
+    {
+      "period": "2024-25",
+      "group": "Low-Income",
+      "subject": "Science",
+      "test": "WCAS",
+      "district_raw": "31.0%",
+      "district_dat": "None",
+      "district_percent": "31.0",
+      "wa_raw": "29.4%",
+      "district_minus_wa_pp": "1.6",
+      "gap_vs_all_students_pp": "-27.4"
+    },
+    {
+      "period": "2024-25",
+      "group": "Low-Income",
+      "subject": "Math",
+      "test": "SBAC",
+      "district_raw": "24.2%",
+      "district_dat": "None",
+      "district_percent": "24.2",
+      "wa_raw": "25.0%",
+      "district_minus_wa_pp": "-0.8",
+      "gap_vs_all_students_pp": "-28.2"
+    },
+    {
+      "period": "2024-25",
+      "group": "Students with Disabilities",
+      "subject": "Math",
+      "test": "SBAC",
+      "district_raw": "19.4%",
+      "district_dat": "None",
+      "district_percent": "19.4",
+      "wa_raw": "15.6%",
+      "district_minus_wa_pp": "3.8",
+      "gap_vs_all_students_pp": "-33.0"
+    },
+    {
+      "period": "2024-25",
+      "group": "Students with Disabilities",
+      "subject": "ELA",
+      "test": "SBAC",
+      "district_raw": "23.5%",
+      "district_dat": "None",
+      "district_percent": "23.5",
+      "wa_raw": "19.2%",
+      "district_minus_wa_pp": "4.3",
+      "gap_vs_all_students_pp": "-39.9"
+    },
+    {
+      "period": "2024-25",
+      "group": "Students with Disabilities",
+      "subject": "Science",
+      "test": "WCAS",
+      "district_raw": "18.7%",
+      "district_dat": "None",
+      "district_percent": "18.7",
+      "wa_raw": "17.7%",
+      "district_minus_wa_pp": "1.0",
+      "gap_vs_all_students_pp": "-39.7"
+    },
+    {
+      "period": "2024-25",
+      "group": "Homeless",
+      "subject": "Math",
+      "test": "SBAC",
+      "district_raw": "<25%",
+      "district_dat": "<25%",
+      "district_percent": null,
+      "wa_raw": "14.3%",
+      "district_minus_wa_pp": null,
+      "gap_vs_all_students_pp": null
+    },
+    {
+      "period": "2024-25",
+      "group": "Homeless",
+      "subject": "ELA",
+      "test": "SBAC",
+      "district_raw": "<25%",
+      "district_dat": "<25%",
+      "district_percent": null,
+      "wa_raw": "21.5%",
+      "district_minus_wa_pp": null,
+      "gap_vs_all_students_pp": null
+    },
+    {
+      "period": "2024-25",
+      "group": "Homeless",
+      "subject": "Science",
+      "test": "WCAS",
+      "district_raw": "N<10",
+      "district_dat": "N<10",
+      "district_percent": null,
+      "wa_raw": "19.6%",
+      "district_minus_wa_pp": null,
+      "gap_vs_all_students_pp": null
+    }
+  ],
+  "assessment_changes": [
+    {
+      "group": "All Students",
+      "subject": "ELA",
+      "start_period": "2021-22",
+      "end_period": "2024-25",
+      "change_pp": "-8.2293929700"
+    },
+    {
+      "group": "All Students",
+      "subject": "Math",
+      "start_period": "2021-22",
+      "end_period": "2024-25",
+      "change_pp": "-4.5142125500"
+    },
+    {
+      "group": "All Students",
+      "subject": "Science",
+      "start_period": "2021-22",
+      "end_period": "2024-25",
+      "change_pp": "-4.7007751900"
+    },
+    {
+      "group": "English Language Learners",
+      "subject": "ELA",
+      "start_period": "2021-22",
+      "end_period": "2024-25",
+      "change_pp": "0.8500"
+    },
+    {
+      "group": "English Language Learners",
+      "subject": "Math",
+      "start_period": "2021-22",
+      "end_period": "2024-25",
+      "change_pp": "1.3075949400"
+    },
+    {
+      "group": "English Language Learners",
+      "subject": "Science",
+      "start_period": "2021-22",
+      "end_period": "2024-25",
+      "change_pp": null
+    },
+    {
+      "group": "Low-Income",
+      "subject": "ELA",
+      "start_period": "2021-22",
+      "end_period": "2024-25",
+      "change_pp": "-4.0878787900"
+    },
+    {
+      "group": "Low-Income",
+      "subject": "Math",
+      "start_period": "2021-22",
+      "end_period": "2024-25",
+      "change_pp": "-5.9886792500"
+    },
+    {
+      "group": "Low-Income",
+      "subject": "Science",
+      "start_period": "2021-22",
+      "end_period": "2024-25",
+      "change_pp": "-4.7142857100"
+    },
+    {
+      "group": "Students with Disabilities",
+      "subject": "ELA",
+      "start_period": "2021-22",
+      "end_period": "2024-25",
+      "change_pp": "-11.8741496600"
+    },
+    {
+      "group": "Students with Disabilities",
+      "subject": "Math",
+      "start_period": "2021-22",
+      "end_period": "2024-25",
+      "change_pp": "-5.4275862100"
+    },
+    {
+      "group": "Students with Disabilities",
+      "subject": "Science",
+      "start_period": "2021-22",
+      "end_period": "2024-25",
+      "change_pp": "-11.124561400"
+    },
+    {
+      "group": "Homeless",
+      "subject": "ELA",
+      "start_period": "2021-22",
+      "end_period": "2024-25",
+      "change_pp": null
+    },
+    {
+      "group": "Homeless",
+      "subject": "Math",
+      "start_period": "2021-22",
+      "end_period": "2024-25",
+      "change_pp": null
+    },
+    {
+      "group": "Homeless",
+      "subject": "Science",
+      "start_period": "2021-22",
+      "end_period": "2024-25",
+      "change_pp": null
+    }
+  ],
+  "grade3_ela_state_benchmark": {
+    "assertion_id": "TRANS-TARGET-03",
+    "target_percent": "85",
+    "source_id": "RSD407-TRANS-PLAN2020",
+    "source_pdf_page": 21,
+    "district_source_row": {
+      "source_dataset_id": "h5d9-vgwi",
+      "schoolyear": "2024-25",
+      "organizationlevel": "District",
+      "districtname": "Riverview School District",
+      "gradelevel": "03",
+      "studentgroup": "All Students",
+      "testsubject": "ELA",
+      "testadministration": "SBAC",
+      "dat": "None",
+      "percent_consistent_grade": "54.8%",
+      "count_of_students_expected": "239",
+      "count_of_students_expected_1": "239",
+      "count_consistent_grade_level": "131",
+      "percent_participation": "0.9874476987447",
+      "dataasof": "2025-09-03"
+    },
+    "observed_percent": "54.8",
+    "observed_minus_target_pp": "-30.2",
+    "state_assessment_result": "Not met",
+    "limitation": "Tests state-assessment component using2024\u20132025 All Students grade03 SBAC ELA; district assessment component not acquired. Does not establish continued governing authority after replacement."
+  },
+  "finance_context": [
+    {
+      "evidence_id": "SAO-RSD407-2021-FIN",
+      "period": "2020-21",
+      "basis": "audited actual",
+      "total_balance": "8285778.41",
+      "expenditures": "47508443.83",
+      "pdf_pages": {
+        "total_balance": 21,
+        "expenditures": 21
+      },
+      "total_balance_pct_actual_expenditures": "17.4406"
+    },
+    {
+      "evidence_id": "SAO-RSD407-2022-FIN",
+      "period": "2021-22",
+      "basis": "audited actual",
+      "total_balance": "7310473.12",
+      "expenditures": "51234734.75",
+      "pdf_pages": {
+        "total_balance": 22,
+        "expenditures": 22
+      },
+      "total_balance_pct_actual_expenditures": "14.2686"
+    },
+    {
+      "evidence_id": "SAO-RSD407-2023-FIN",
+      "period": "2022-23",
+      "basis": "audited actual",
+      "total_balance": "6280053.86",
+      "expenditures": "52972914.74",
+      "unassigned_balance": "5812719.61",
+      "pdf_pages": {
+        "total_balance": 22,
+        "expenditures": 22,
+        "unassigned_balance": 20
+      },
+      "total_balance_pct_actual_expenditures": "11.8552"
+    },
+    {
+      "evidence_id": "SAO-RSD407-2024-FIN",
+      "period": "2023-24",
+      "basis": "audited actual",
+      "total_balance": "6183886.39",
+      "expenditures": "55851151.36",
+      "pdf_pages": {
+        "total_balance": 22,
+        "expenditures": 22
+      },
+      "total_balance_pct_actual_expenditures": "11.0721"
+    },
+    {
+      "evidence_id": "SAO-RSD407-2025-FIN",
+      "period": "2024-25",
+      "basis": "audited actual",
+      "total_balance": "4965888.03",
+      "expenditures": "59197178.87",
+      "unassigned_balance": "4899256.79",
+      "policy_reserve_amount_rounded": "4143803",
+      "policy_prose_pct": "5",
+      "pdf_pages": {
+        "total_balance": 21,
+        "expenditures": 21,
+        "unassigned_balance": 19,
+        "policy_reserve_amount_rounded": 46,
+        "policy_prose_pct": 46
+      },
+      "total_balance_pct_actual_expenditures": "8.3887"
+    }
+  ],
+  "limitations": [
+    "Changes use repeated district cross-sections, not same-pupil cohorts. Fractions versus rounded percentage source precision differs.",
+    "Focal groups compared with All Students which includes them. Suppressed values remain unknown.",
+    "No recovered2020 numerical targets, original baseline or replacement date. These are contextual diagnostics, not formal attainment or causal estimates.",
+    "Finance uses total balance/actual expenditures, not unassigned or plan-specific uncommitted reserves. No prior or revised2025 reserve threshold is back-projected.",
+    "Shared OSPI/finance records are reused, not independent additional evidence or separately counted successes."
+  ]
+}
