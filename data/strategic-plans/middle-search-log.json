@@ -1,0 +1,66 @@
+{
+  "assertion_id": "MIDDLE-AUTHORITY-01",
+  "kind": "observation",
+  "searched_at": "2026-10-01",
+  "boundary": "One targeted authority pass and one objective-specific evidence pass. No exhaustive archive or Board crawl.",
+  "queries": [
+    "Riverview School District June 9 2015 strategic plan board minutes",
+    "Riverview School District May 14 May 28 2019 strategic plan approval",
+    "Riverview strategic plan 2016 2020 2017 2020 PDF",
+    "Riverview February 2020 bond official results"
+  ],
+  "surfaces": [
+    "Web search",
+    "Internet Archive Wayback available API",
+    "Internet Archive CDX",
+    "Existing Plan08/09 sources and verified OSPI workflow artifact",
+    "King County official election results and district Bond History"
+  ],
+  "archive_requests": [
+    {
+      "request_label": "revision2016",
+      "response": {
+        "url": "http://www.rsd407.org/districtinfo/strategicplan/Strategic Plan 2015-2020 FINAL for 16-17.pdf",
+        "archived_snapshots": {},
+        "timestamp": "20170601"
+      },
+      "interpretation": "No archived snapshot returned for this exact requested URL/date. Guessed adoption path does not establish nonexistence.",
+      "requested_url": "http://www.rsd407.org/districtinfo/strategicplan/Strategic Plan 2015-2020 FINAL for 16-17.pdf",
+      "requested_timestamp": "20170601"
+    },
+    {
+      "request_label": "revision2017",
+      "response": {
+        "url": "http://www.rsd407.org/districtinfo/strategicplan/Strategic Plan 2017-2020 FINAL for 16-17.pdf",
+        "archived_snapshots": {},
+        "timestamp": "20170601"
+      },
+      "interpretation": "No archived snapshot returned for this exact requested URL/date. Guessed adoption path does not establish nonexistence.",
+      "requested_url": "http://www.rsd407.org/districtinfo/strategicplan/Strategic Plan 2017-2020 FINAL for 16-17.pdf",
+      "requested_timestamp": "20170601"
+    },
+    {
+      "request_label": "adoption2015",
+      "response": {
+        "url": "http://www.rsd407.org/schoolboard/agendas_minutes/yearly_archives/2015_Agendas_and_Minutes/2015_Minutes/June 9, 2015.pdf",
+        "archived_snapshots": {},
+        "timestamp": "20150609"
+      },
+      "interpretation": "No archived snapshot returned for this exact requested URL/date. Guessed adoption path does not establish nonexistence.",
+      "requested_url": "http://www.rsd407.org/schoolboard/agendas_minutes/yearly_archives/2015_Agendas_and_Minutes/2015_Minutes/June 9, 2015.pdf",
+      "requested_timestamp": "20150609"
+    },
+    {
+      "url": "https://web.archive.org/cdx/search/cdx?url=www.rsd407.org/*&output=json&filter=statuscode:200&filter=urlkey:.*(2015|2019).*&filter=mimetype:application/pdf&collapse=urlkey",
+      "result": "HTTP503; no index recovered",
+      "interpretation": "Access failure, not source absence."
+    }
+  ],
+  "unresolved": [
+    "Original June2015 Board motion and untouched adoption version",
+    "2016/2017 linked intermediate revisions",
+    "May14 versus May28 2019 Board approval/adoption conflict",
+    "Full 2014\u20132015 governing register and outcome endpoint"
+  ],
+  "stop_result": "Two confirmed district plan snapshots support 19 objective rows; remaining authority gaps explicitly retained. Targeted pass closed."
+}

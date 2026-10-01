@@ -1,0 +1,2182 @@
+{
+  "schema_version": 1,
+  "kind": "observation",
+  "extraction": "pdftotext -layout, curated physical page ranges; extracted status cells visually checked; preserve raw wording/deadlines/owners and marks. Blank status is unknown, not zero or failure.",
+  "limitations": [
+    "2016 copy is a revised snapshot, not untouched June2015 baseline.",
+    "Completion marks are district reports; no completion dates or independent fidelity proof.",
+    "2019 timeline raw code2/5/3 is matched to2/B/3 using objective page26 wording; typo preserved.",
+    "Raw fixed-layout rows retain wrapped text and adjacent timeline labels; original PDF remains authoritative."
+  ],
+  "snapshots": [
+    {
+      "snapshot": "2016",
+      "source_id": "RSD407-ITER-2015",
+      "sha256": "f44e7bb5a7b3e1f39365d006bb3b5a6274f075c995af0a7030bac5a7eea1dd55",
+      "plan_period": "2015\u20132020",
+      "revision": "2016-07-11",
+      "objectives": [
+        {
+          "objective_code": "1A",
+          "title_raw": "Develop a collaborative process integrating department perspectives to\n             focus on student outcomes.",
+          "progress_measurement_raw": "\uf0b7 Meeting schedule created.\n\uf0b7 Three-year plan written.\n\uf0b7 Staff hired.\n\uf0b7 Technology Instructional specialists meet with Professional Learning Leaders\n  (PLLs).",
+          "definition_pdf_pages": [
+            32
+          ],
+          "resources_and_return_expectations_raw": "Staffing                                Cost                  ROI\n4.0 FTE                                 $280,000              Departments will be aligned\n                                                              with focus of student learning",
+          "responsibilities_raw": "Primary                                            Secondary\nRoni Rumsey, Director of Teaching &                Dr. Ken Heikkila, Director of Student\nLearning                                           Services; Paul Censullo, Director of\n                                                   Technology",
+          "baseline": null,
+          "tasks": [
+            {
+              "task_number": 1,
+              "definition_and_deadline_raw": "1. Hire 4.0 staff: PLLs to facilitate collaborative work in the           August 1, 2015\n   buildings.",
+              "deadline_lines_raw": [
+                "August 1, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/A/1",
+                "task_code_matched": "1/A/1",
+                "source_page": 55,
+                "row_raw": "1/A/1                                                                                                     August 1, 2015                       Roni\n       buildings.                                                                                                                      X",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 2,
+              "definition_and_deadline_raw": "2. Incorporate Technology Specialist into work with PLLs.                 August 1, 2015",
+              "deadline_lines_raw": [
+                "August 1, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/A/2",
+                "task_code_matched": "1/A/2",
+                "source_page": 55,
+                "row_raw": "1/A/2 Incorporate Technology Specialist into work with PLLs.                                             August 1, 2015               X        Roni",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 3,
+              "definition_and_deadline_raw": "3. Develop collaboration meeting schedule for the year.                   September 1, 2015",
+              "deadline_lines_raw": [
+                "September 1, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/A/3",
+                "task_code_matched": "1/A/3",
+                "source_page": 55,
+                "row_raw": "1/A/3 Develop collaboration meeting schedule for the year.                                              September 1, 2015             X        Roni\n       Implement current year prioritized project(s) and establish new priorities annually",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 4,
+              "definition_and_deadline_raw": "4. Define student growth and how it is measured.                          November 15, 2015",
+              "deadline_lines_raw": [
+                "November 15, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/A/4",
+                "task_code_matched": "1/A/4",
+                "source_page": 55,
+                "row_raw": "1/A/4 Define student growth and how it is measured.                                                     November 15, 2015             X        Roni\n       Implement a coordinated and articulated life skills curriculum K-12 for identified",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 5,
+              "definition_and_deadline_raw": "5. Develop three-year plan for collaborative work among                   January 15, 2016\n   departments.",
+              "deadline_lines_raw": [
+                "January 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/A/5",
+                "task_code_matched": "1/A/5",
+                "source_page": 56,
+                "row_raw": "1/A/5 Develop three-year plan for collaborative work among departments.                              January 15, 2016          X         Roni",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            }
+          ]
+        },
+        {
+          "objective_code": "1B",
+          "title_raw": "Improve student growth for all students in all areas.",
+          "progress_measurement_raw": "\uf0b7 Assessment System completed.\n\uf0b7 All-Day Kindergarten set to begin 2016-2017.\n\uf0b7 PLLs participate in and facilitate district training.\n\uf0b7 Smarter Balanced assessment data analyzed.",
+          "definition_pdf_pages": [
+            33
+          ],
+          "resources_and_return_expectations_raw": "Staffing                                Cost                  ROI\nPLLs                                    $20,000               Students will show growth in\n                                                              all areas",
+          "responsibilities_raw": "Primary                                           Secondary\nRoni Rumsey, Director of Teaching &               N/A\nLearning",
+          "baseline": null,
+          "tasks": [
+            {
+              "task_number": 1,
+              "definition_and_deadline_raw": "1. Analyze Smarter Balanced assessment results.                           October 1, 2015",
+              "deadline_lines_raw": [
+                "October 1, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/B/1",
+                "task_code_matched": "1/B/1",
+                "source_page": 55,
+                "row_raw": "1/B/1 Analyze Smarter Balanced assessment results.                                                        October 1, 2015             X        Roni",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 2,
+              "definition_and_deadline_raw": "2. Determine what data to report out on \u201cDashboard\u201d that shows            December 1, 2015\n   student growth.",
+              "deadline_lines_raw": [
+                "December 1, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/B/2",
+                "task_code_matched": "1/B/2",
+                "source_page": 56,
+                "row_raw": "1/B/2 Determine what data to report out on \u201cDashboard\u201d that shows student growth.                   December 1, 2015          X         Roni\n       Update on an annual basis the web-published \u201ccitizens\u201d budget which includes an",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 3,
+              "definition_and_deadline_raw": "3. Provide professional development to PLLs.                              February 1, 2016",
+              "deadline_lines_raw": [
+                "February 1, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/B/3",
+                "task_code_matched": "1/B/3",
+                "source_page": 56,
+                "row_raw": "1/B/3 Provide professional development to PLLs.                                                      February 1, 2016          X         Roni\n       Evaluate services for students with individualized education plans to develop strategies\n                                                                                                     February 15, 2016",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 4,
+              "definition_and_deadline_raw": "4. Refine assessment system.                                              March 1, 2016",
+              "deadline_lines_raw": [
+                "March 1, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/B/4",
+                "task_code_matched": "1/B/4",
+                "source_page": 56,
+                "row_raw": "1/B/4 Refine assessment system.                                                                       March 1, 2016           X         Roni\n       Deploy additional student mobile devices to all schools and programs including",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 5,
+              "definition_and_deadline_raw": "5. Plan for implementation of all-day Kindergarten.                       April 1, 2016",
+              "deadline_lines_raw": [
+                "April 1, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/B/5",
+                "task_code_matched": "1/B/5",
+                "source_page": 56,
+                "row_raw": "1/B/5 Plan for implementation of all-day Kindergarten.                                                April 1, 2016           X         Roni",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 6,
+              "definition_and_deadline_raw": "6. Carry out district plan for implementation of PLLs.                    May 1, 2016",
+              "deadline_lines_raw": [
+                "May 1, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/B/6",
+                "task_code_matched": "1/B/6",
+                "source_page": 56,
+                "row_raw": "1/B/6 Carry out district plan for implementation of PLLs.                                             May 1, 2016             X          Roni",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            }
+          ]
+        },
+        {
+          "objective_code": "1C",
+          "title_raw": "Improve student growth for at-risk students in all areas.",
+          "progress_measurement_raw": "\uf0b7 K-12 implementation of a coordinated life skills curriculum for students with\n  intellectual disabilities.\n\uf0b7 Recommendations for enhancements from a math intervention review.\n\uf0b7 Documented training session at each school related to differentiated instruction.\n\uf0b7 100% of schools have \u201cStudent Intervention Teams\u201d meeting on a regular basis.\n\n\n                                                                         TIMELINE:",
+          "definition_pdf_pages": [
+            34
+          ],
+          "resources_and_return_expectations_raw": "Staffing                                Cost                ROI\nCurrent staff and consultants           $20,000 per year    Improved student outcomes",
+          "responsibilities_raw": "Primary                                          Secondary\nDr. Ken Heikkila, Director of Student            Roni Rumsey, Director of Teaching &\nServices                                         Learning; Superintendent\u2019s Cabinet",
+          "baseline": null,
+          "tasks": [
+            {
+              "task_number": 1,
+              "definition_and_deadline_raw": "1. Implement a coordinated and articulated life skills curriculum        November 15, 2015\n   K-12 for identified students with intellectual disabilities.",
+              "deadline_lines_raw": [
+                "November 15, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/C/1",
+                "task_code_matched": "1/C/1",
+                "source_page": 55,
+                "row_raw": "1/C/1                                                                                                   November 15, 2015                       Ken\n       students with intellectual disabilities.                                                                                        X\n       Implement training for staff in the identification of \u201ctroubled youth\u201d and the \u201cStudent",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 2,
+              "definition_and_deadline_raw": "2. Implement training for staff in the identification of \u201ctroubled       November 15, 2015\n   youth\u201d and the \u201cStudent Intervention Team\u201d process.",
+              "deadline_lines_raw": [
+                "November 15, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/C/2",
+                "task_code_matched": "1/C/2",
+                "source_page": 55,
+                "row_raw": "1/C/2                                                                                                   November 15, 2015                       Ken\n       Intervention Team\u201d process.                                                                                                     X\n       Conduct an external program review of district technology services including",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 3,
+              "definition_and_deadline_raw": "3. Evaluate services for students with individualized education          February 15, 2016\n   plans to develop strategies ensuring consistency of services as\n   individual students transition from elementary to middle and\n   middle to high school.",
+              "deadline_lines_raw": [
+                "February 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/C/3",
+                "task_code_matched": "1/C/3",
+                "source_page": 56,
+                "row_raw": "1/C/3 ensuring consistency of services as individual students transition from elementary to                                   X          Ken\n       middle and middle to high school.                                                             Move to March 15\n\n                                                                                                     February 15, 2016",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 4,
+              "definition_and_deadline_raw": "4. Review tier two and tier three math supports for at-risk              February 15, 2016\n   learners at the elementary level.",
+              "deadline_lines_raw": [
+                "February 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/C/4",
+                "task_code_matched": "1/C/4",
+                "source_page": 56,
+                "row_raw": "1/C/4 Review tier two and tier three math supports for at-risk learners at the elementary level.\n                                                                                                     Move to March 15          X          Ken\n       Provide staff training at all levels focused on differentiated instruction with an emphasis   February 15, 2016",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 5,
+              "definition_and_deadline_raw": "5. Provide staff training at all levels focused on differentiated        February 15, 2016\n   instruction with an emphasis on at-risk learners, English\n   language learners and students with identified disabilities.",
+              "deadline_lines_raw": [
+                "February 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/C/5",
+                "task_code_matched": "1/C/5",
+                "source_page": 56,
+                "row_raw": "1/C/5\n       on at-risk learners, English language learners and students with identified disabilities.     Move to March 15           X         Ken",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            }
+          ]
+        },
+        {
+          "objective_code": "1D",
+          "title_raw": "Use technology to promote student growth.",
+          "progress_measurement_raw": "\uf0b7 Tasks complete.\n\n\n                                                                         TIMELINE:",
+          "definition_pdf_pages": [
+            35
+          ],
+          "resources_and_return_expectations_raw": "Staffing                                Cost                ROI\nTechnology Integration Specialists,     $150,000 (Funds     \uf0b7 Adopting best practices in\nNetwork Operations Manager,             from Technology       school technology\nComputer Technicians, classroom         Levy)               \uf0b7 More access for students to\nteachers, Technology Steering                                 mobile devices with stronger\nCommittee                                                     wi-fi connections\n                                                            \uf0b7 Increased staff training and\n                                                              resources",
+          "responsibilities_raw": "Primary                                          Secondary\nPaul Censullo, Director of Technology            Roni Rumsey, Director of Teaching &\n                                                 Learning",
+          "baseline": null,
+          "tasks": [
+            {
+              "task_number": 1,
+              "definition_and_deadline_raw": "1. Conduct an external program review of district technology            November 15, 2015\n    services including Educational Technology and Information\n    Technology (IT).",
+              "deadline_lines_raw": [
+                "November 15, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/D/1",
+                "task_code_matched": "1/D/1",
+                "source_page": 55,
+                "row_raw": "1/D/1                                                                                                   November 15, 2015                      Paul\n       Educational Technology and Information Technology (IT).                                                                         X",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 2,
+              "definition_and_deadline_raw": "2. Coordinate with Teaching and Learning to offer professional          December 15, 2015\n    development in technology to address classroom and staffing\n    needs.",
+              "deadline_lines_raw": [
+                "December 15, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/D/2",
+                "task_code_matched": "1/D/2",
+                "source_page": 56,
+                "row_raw": "1/D/2                                                                                               December 15, 2015         X         Paul\n       to address classroom and staffing needs.",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 3,
+              "definition_and_deadline_raw": "3. Implement a targeted 1-to-1 laptop pilot program.                    February 15, 2016",
+              "deadline_lines_raw": [
+                "February 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/D/3",
+                "task_code_matched": "1/D/3",
+                "source_page": 56,
+                "row_raw": "1/D/3 Implement a targeted 1-to-1 laptop pilot program.                                             February 15, 2016          X        Paul",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 4,
+              "definition_and_deadline_raw": "4. Deploy additional student mobile devices to all schools and          March 15, 2016\n    programs including elementary grade-level carts.",
+              "deadline_lines_raw": [
+                "March 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/D/4",
+                "task_code_matched": "1/D/4",
+                "source_page": 56,
+                "row_raw": "1/D/4                                                                                                 March 15, 2016           X         Paul\n       elementary grade-level carts.\n       Increase wireless access coverage and signal strength throughout the district by adding",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 5,
+              "definition_and_deadline_raw": "5. Increase wireless access coverage and signal strength throughout     March 15, 2016\n    the district by adding wireless access points in each classroom.",
+              "deadline_lines_raw": [
+                "March 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/D/5",
+                "task_code_matched": "1/D/5",
+                "source_page": 56,
+                "row_raw": "1/D/5                                                                                                 March 15, 2016           X         Paul\n       wireless access points in each classroom.",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 6,
+              "definition_and_deadline_raw": "6. Develop a plan to have teacher webpages/blogs be consistent          March 15, 2016\n    across the district.",
+              "deadline_lines_raw": [
+                "March 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/D/6",
+                "task_code_matched": "1/D/6",
+                "source_page": 56,
+                "row_raw": "1/D/6 Develop a plan to have teacher webpages/blogs be consistent across the district.                March 15, 2016           X          Paul",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            }
+          ]
+        },
+        {
+          "objective_code": "1E",
+          "title_raw": "Identify and plan for the Classroom of the Future.",
+          "progress_measurement_raw": "\uf0b7 Tasks complete.\n\uf0b7 Publish plan.",
+          "definition_pdf_pages": [
+            36
+          ],
+          "resources_and_return_expectations_raw": "Staffing                                Cost             ROI\nTechnology Integration                  To Be Determined Provides long range plan\nSpecialists, Network Operations                          using best practices for future\nManager, Computer Technicians,                           classroom designs and needed\nclassroom teachers, Library                              teacher resources\nMedia Specialists",
+          "responsibilities_raw": "Primary                                          Secondary\nPaul Censullo, Director of Technology            Dr. Anthony L. Smith, Superintendent;\n                                                 Roni Rumsey, Director of Teaching &\n                                                 Learning; Dr. Ken Heikkila, Director of\n                                                 Student Services",
+          "baseline": null,
+          "tasks": [
+            {
+              "task_number": 1,
+              "definition_and_deadline_raw": "1. Define the Classroom of the Future.                                  November 15, 2015",
+              "deadline_lines_raw": [
+                "November 15, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/E/1",
+                "task_code_matched": "1/E/1",
+                "source_page": 55,
+                "row_raw": "1/E/1 Define the Classroom of the Future.                                                               November 15, 2015             X        Paul",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 2,
+              "definition_and_deadline_raw": "2. Research national and local models.                                  December 15, 2015",
+              "deadline_lines_raw": [
+                "December 15, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/E/2",
+                "task_code_matched": "1/E/2",
+                "source_page": 56,
+                "row_raw": "1/E/2 Research national and local models.                                                           December 15, 2015          X         Paul",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 3,
+              "definition_and_deadline_raw": "3. Conduct visits to surrounding districts.                             February 15, 2016",
+              "deadline_lines_raw": [
+                "February 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/E/3",
+                "task_code_matched": "1/E/3",
+                "source_page": 56,
+                "row_raw": "1/E/3 Conduct visits to surrounding districts.                                                      February 15, 2016          X        Paul",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 4,
+              "definition_and_deadline_raw": "4. Identify infrastructure needs.                                       April 15, 2016",
+              "deadline_lines_raw": [
+                "April 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/E/4",
+                "task_code_matched": "1/E/4",
+                "source_page": 56,
+                "row_raw": "1/E/4 Identify infrastructure needs.                                                                 April 15, 2016           X         Paul\n       Implement additional features within the application software (screening, reference            April 15, 2016",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 5,
+              "definition_and_deadline_raw": "5. Identify pedagogical shifts and professional development             June 15, 2016\n    needs.",
+              "deadline_lines_raw": [
+                "June 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/E/5",
+                "task_code_matched": "1/E/5",
+                "source_page": 57,
+                "row_raw": "1/E/5 Identify pedagogical shifts and professional development needs.                            June 15, 2016          X         Paul",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 6,
+              "definition_and_deadline_raw": "6. Develop long-range plan.                                             June 15, 2016",
+              "deadline_lines_raw": [
+                "June 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/E/6",
+                "task_code_matched": "1/E/6",
+                "source_page": 57,
+                "row_raw": "1/E/6 Develop long-range plan.                                                                   June 15, 2016          X         Paul",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            }
+          ]
+        },
+        {
+          "objective_code": "2A",
+          "title_raw": "Provide a financial process that strengthens student learning and leverages\n             financial markets to the benefit of the district taxpayers.",
+          "progress_measurement_raw": "\uf0b7 Maintain a minimum of a 5% unassigned general operating fund balance with a\n  periodic School Board\u2019s review of that standard.",
+          "definition_pdf_pages": [
+            38
+          ],
+          "resources_and_return_expectations_raw": "Staffing                                Cost                ROI\nDistrict Office staff, State auditor    $20,000;            \uf0b7 Comply with state and\n                                        $75,000 for each      federal statutes\n                                        bond issue          \uf0b7 Maintain financial integrity\n                                                              of district\u2019s operations and\n                                                              assets\n                                                            \uf0b7 Maintain positive financial\n                                                              standings\n                                                            \uf0b7 Reduced interests expenses\n                                                              save district tax payers",
+          "responsibilities_raw": "Primary                                          Secondary\nBill Adamo, Director of Business &               Bond underwriters, bond counsel, School\nOperations; District negotiations team           Board",
+          "baseline": null,
+          "tasks": [
+            {
+              "task_number": 1,
+              "definition_and_deadline_raw": "1. Effectively manage the budget process to maintain a 5%                 Ongoing\n   uncommitted general operating fund balance.",
+              "deadline_lines_raw": [
+                "Ongoing"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/A/1",
+                "task_code_matched": "2/A/1",
+                "source_page": 55,
+                "row_raw": "2/A/1                                                                                                        Ongoing                            Bill\n       fund balance.                                                                                                                   X",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 2,
+              "definition_and_deadline_raw": "2. Provide monthly financial reports to the School Board.                 Monthly",
+              "deadline_lines_raw": [
+                "Monthly"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/A/2",
+                "task_code_matched": "2/A/2",
+                "source_page": 55,
+                "row_raw": "2/A/2 Provide monthly financial reports to the School Board.                                                 Monthly                  X        Bill",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 3,
+              "definition_and_deadline_raw": "3. Update on an annual basis the web-published \u201ccitizens\u201d budget          December 1, 2015\n   which includes an analysis that demonstrates the district\u2019s\n   commitment to student learning.",
+              "deadline_lines_raw": [
+                "December 1, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/A/3",
+                "task_code_matched": "2/A/3",
+                "source_page": 56,
+                "row_raw": "2/A/3                                                                                               December 1, 2015          X          Bill\n       analysis that demonstrates the district\u2019s commitment to student learning.\n       Coordinate with Teaching and Learning to offer professional development in technology",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 4,
+              "definition_and_deadline_raw": "4. Provide annual audited financial statement to the School Board.        After audit\n                                                                          completion",
+              "deadline_lines_raw": [
+                "After audit"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/A/4",
+                "task_code_matched": "2/A/4",
+                "source_page": 55,
+                "row_raw": "2/A/4 Provide annual audited financial statement to the School Board.                                 After audit completion          X         Bill\n                                                                                                      Any time during the fiscal",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 5,
+              "definition_and_deadline_raw": "5. Complete REA bargaining unit contract negotiations.                    August 31, 2016",
+              "deadline_lines_raw": [
+                "August 31, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/A/5",
+                "task_code_matched": "2/A/5",
+                "source_page": 57,
+                "row_raw": "2/A/5 Complete REA bargaining unit contract negotiations.                                        August 31, 2016                   Bill",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 6,
+              "definition_and_deadline_raw": "6. Refinance existing bond issues if market conditions are favorable      Any time during the\n                                                                          fiscal year",
+              "deadline_lines_raw": [
+                "Any time during the"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/A/6",
+                "task_code_matched": "2/A/6",
+                "source_page": 55,
+                "row_raw": "2/A/6 Refinance existing bond issues if market conditions are favorable                                                                         Bill\n                                                                                                                year                   X",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            }
+          ]
+        },
+        {
+          "objective_code": "2B",
+          "title_raw": "Establish and implement a prioritized list of property acquisition and projects\n             consistent with capital projects levy financing with the consent of the School\n             Board.",
+          "progress_measurement_raw": "\uf0b7 Produce a prioritized list.\n\uf0b7 Implement the highest priority items.",
+          "definition_pdf_pages": [
+            39,
+            40
+          ],
+          "resources_and_return_expectations_raw": "Staffing                                 Cost                   ROI\nHeery International; Erickson &          @ $250,000             Enhanced facilities that\nMcGovern; John Mark, Maintenance         annually issue and,    accommodate educational goals\nSupervisor; DA Davidson                  if property            of the district. Site acquisition(s)\n                                         acquisitions           would dramatically reduce\n                                         opportunities avail    district planning needs for new\n                                         themselves,            educational facilities.\n                                         substantial funds\n                                         would be needed to\n                                         be expended with\n                                         perhaps financing.\n\n\n\n\n\n\nGoal 2: Provide a financial process, business practices, and safe facilities to support\n                       the improvement of student learning.\n\n\n                            OBJECTIVE       2B (continued)",
+          "responsibilities_raw": "Primary                                       Secondary\nDr. Anthony L. Smith, Superintendent          Bill Adamo, Director of Business &\n                                              Operations; School Board",
+          "baseline": null,
+          "tasks": [
+            {
+              "task_number": 1,
+              "definition_and_deadline_raw": "1. Implement current year prioritized project(s) and establish new            September 15, 2015\n   priorities annually completed.",
+              "deadline_lines_raw": [
+                "September 15, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/B/1",
+                "task_code_matched": "2/B/1",
+                "source_page": 55,
+                "row_raw": "2/B/1                                                                                                   September 15, 2015                      Bill\n       completed.                                                                                                                      X",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 2,
+              "definition_and_deadline_raw": "2. Review best practice district experience; develop and review final         September 15, 2015\n   process.",
+              "deadline_lines_raw": [
+                "September 15, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/B/2",
+                "task_code_matched": "2/B/2",
+                "source_page": 55,
+                "row_raw": "2/B/2 Review best practice district experience; develop and review final process.                       September 15, 2015            X       Anthony\n       Develop strategy and schedule with Superintendent for implementation of short-term,               September 15, 2015",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 3,
+              "definition_and_deadline_raw": "3. Convene Stillwater-Cherry Valley Elementary Boundary Review                October 15, 2015\n   Committee.",
+              "deadline_lines_raw": [
+                "October 15, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/B/3",
+                "task_code_matched": "2/B/3",
+                "source_page": 55,
+                "row_raw": "2/B/3 Convene Stillwater-Cherry Valley Elementary Boundary Review Committee.                             October 15, 2015             X       Anthony",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 4,
+              "definition_and_deadline_raw": "4. Schedule and conduct school/community meeting to explain the               November 15, 2015\n   process.",
+              "deadline_lines_raw": [
+                "November 15, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/B/4",
+                "task_code_matched": "2/B/4",
+                "source_page": 55,
+                "row_raw": "2/B/4 Schedule and conduct school/community meeting to explain the process.                             November 15, 2015             X       Anthony\n       Recruit, select and retain highly qualified staff to increase student learning and report",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 5,
+              "definition_and_deadline_raw": "5. Submit boundary recommendations to the School Board.                       December 15, 2015",
+              "deadline_lines_raw": [
+                "December 15, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/B/5",
+                "task_code_matched": "2/B/5",
+                "source_page": 56,
+                "row_raw": "2/B/5 Submit boundary recommendations to the School Board.                                          December 15, 2015      Postponed   Anthony",
+                "completion_mark_raw": "Postponed",
+                "interpretation": "reported postponed"
+              }
+            },
+            {
+              "task_number": 6,
+              "definition_and_deadline_raw": "6. Conduct public hearing for presentation and public comments.               January 15, 2016",
+              "deadline_lines_raw": [
+                "January 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/B/6",
+                "task_code_matched": "2/B/6",
+                "source_page": 56,
+                "row_raw": "2/B/6 Conduct public hearing for presentation and public comments.                                   January 15, 2016      Postponed   Anthony",
+                "completion_mark_raw": "Postponed",
+                "interpretation": "reported postponed"
+              }
+            },
+            {
+              "task_number": 7,
+              "definition_and_deadline_raw": "7. Refine final course of action based on public input.                       February 15, 2016",
+              "deadline_lines_raw": [
+                "February 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/B/7",
+                "task_code_matched": "2/B/7",
+                "source_page": 56,
+                "row_raw": "2/B/7 Refine final course of action based on public input.                                          February 15, 2016      Postponed   Anthony",
+                "completion_mark_raw": "Postponed",
+                "interpretation": "reported postponed"
+              }
+            },
+            {
+              "task_number": 8,
+              "definition_and_deadline_raw": "8. School Board approval of final course of action.                           February 15, 2016",
+              "deadline_lines_raw": [
+                "February 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/B/8",
+                "task_code_matched": "2/B/8",
+                "source_page": 56,
+                "row_raw": "2/B/8 School Board approval of final course of action.                                              February 15, 2016      Postponed   Anthony\n       Explore more professional development and/or training tools for substitutes; include          February 15, 2016",
+                "completion_mark_raw": "Postponed",
+                "interpretation": "reported postponed"
+              }
+            }
+          ]
+        },
+        {
+          "objective_code": "2C",
+          "title_raw": "Manage all aspects of the district\u2019s Safety and Emergency Operations\n             Plans.",
+          "progress_measurement_raw": "\uf0b7 Disaster container supplies and property maintained.\n\uf0b7 Implementation of the Emergency Operations Plan and Emergency Operations\n  Field Guide training and procedures.",
+          "definition_pdf_pages": [
+            41,
+            42
+          ],
+          "resources_and_return_expectations_raw": "Staffing                             Cost                ROI\nEmergency Operations Plan            $37,000 per year    \uf0b7 High level of accountability\nManager (contractor)                                     \uf0b7 Improved student and staff\n                                                           safety",
+          "responsibilities_raw": "Primary                                       Secondary\nBill Adamo, Director of Business &            Emergency Operations Plan Manager\nOperations                                    (contracted) will manage Tasks\n\n\nNOTE:\nInventory maintenance will be centrally directed and implemented at each site.",
+          "baseline": null,
+          "tasks": [
+            {
+              "task_number": 1,
+              "definition_and_deadline_raw": "1. In compliance with state law, Cedarcrest High School\u2018s             Completed\n   required 9th grade health curricula requires instruction in\n   cardiopulmonary resuscitation which includes training in the\n   utilization of automated external defibrillators.",
+              "deadline_lines_raw": [
+                "Completed"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/C/1",
+                "task_code_matched": "2/C/1",
+                "source_page": 55,
+                "row_raw": "2/C/1 curricula requires instruction in cardiopulmonary resuscitation which includes training               Completed                           Bill\n       in the utilization of automated external defibrillators.                                                                        X",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 2,
+              "definition_and_deadline_raw": "2. Ensure maintenance of building-level Emergency Response            October 15, 2015\n   Teams.",
+              "deadline_lines_raw": [
+                "October 15, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/C/2",
+                "task_code_matched": "2/C/2",
+                "source_page": 55,
+                "row_raw": "2/C/2 Ensure maintenance of building-level Emergency Response Teams.                                     October 15, 2015             X         Bill\n       Help insure that classified substitutes are provided with building-level specific safety",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 3,
+              "definition_and_deadline_raw": "3. Help insure that classified substitutes are provided with          October 15, 2015\n   building-level specific safety and emergency preparedness\n   information.",
+              "deadline_lines_raw": [
+                "October 15, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/C/3",
+                "task_code_matched": "2/C/3",
+                "source_page": 55,
+                "row_raw": "2/C/3                                                                                                    October 15, 2015                       Bill\n       and emergency preparedness information.                                                                                         X",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 4,
+              "definition_and_deadline_raw": "4. Evaluate and revise the Comprehensive Safety Plans.                June 15, 2016",
+              "deadline_lines_raw": [
+                "June 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/C/4",
+                "task_code_matched": "2/C/4",
+                "source_page": 57,
+                "row_raw": "2/C/4 Evaluate and revise the Comprehensive Safety Plans.                                         June 15, 2016          X          Bill\n       Revise each school\u2019s emergency disaster container\u2019s inventory and ensure that it is",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 5,
+              "definition_and_deadline_raw": "5. Revise each school\u2019s emergency disaster container\u2019s inventory      June 15, 2016\n   and ensure that it is current.",
+              "deadline_lines_raw": [
+                "June 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/C/5",
+                "task_code_matched": "2/C/5",
+                "source_page": 57,
+                "row_raw": "2/C/5                                                                                             June 15, 2016                    Bill\n       current.                                                                                                          X\n       Insure that training occurs for the following key Emergency Response Team roles:",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 6,
+              "definition_and_deadline_raw": "6. Insure that training occurs for the following key Emergency        June 15, 2016\n   Response Team roles: Incident Commander, Communications\n   Officer, Operations Chief, and Logistics Chief.",
+              "deadline_lines_raw": [
+                "June 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/C/6",
+                "task_code_matched": "2/C/6",
+                "source_page": 57,
+                "row_raw": "2/C/6                                                                                             June 15, 2016                    Bill\n       Incident Commander, Communications Officer, Operations Chief, and Logistics Chief.                                X\n       Effectively utilized the district\u2019s presence of the Rapid Responder website for",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 7,
+              "definition_and_deadline_raw": "7. Effectively utilized the district\u2019s presence of the Rapid          June 15, 2016\n   Responder website for preparedness drills.",
+              "deadline_lines_raw": [
+                "June 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/C/7",
+                "task_code_matched": "2/C/7",
+                "source_page": 57,
+                "row_raw": "2/C/7                                                                                             June 15, 2016                    Bill\n       preparedness drills.                                                                                              X\n       Present end-of-year report summarizing how the recommendations from the audit will",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 8,
+              "definition_and_deadline_raw": "8. Annual Implementation of the Emergency Operations Field            June 15, 2016\n   Guide:\n   a. Fill key positions in \u201cOrganizational Chart\u201d.\n   b. Identify \u201cBuddy Class\u201d pairings.\n   c. Inventory individual staff emergency preparedness\n       certifications and skills sets for each site.\n\n\n\n\n\n\nGoal 2: Provide a financial process, business practices, and safe facilities to support\n                       the improvement of student learning.\n\n\n                            OBJECTIVE       2C (continued)",
+              "deadline_lines_raw": [
+                "June 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/C/8",
+                "task_code_matched": "2/C/8",
+                "source_page": 57,
+                "row_raw": "2/C/8           \uf0b7 Identify \u201cBuddy Class\u201d pairings                                                 June 15, 2016                    Bill\n                \uf0b7 Inventory individual staff emergency preparedness certifications and skills\n                sets for each site.",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            }
+          ]
+        },
+        {
+          "objective_code": "2D",
+          "title_raw": "Continue to conduct reviews of the School Board\u2019s policies.",
+          "progress_measurement_raw": "\uf0b7 Tasks complete.",
+          "definition_pdf_pages": [
+            43
+          ],
+          "resources_and_return_expectations_raw": "Staffing                              Cost                 ROI\nAdministrative Council                N/A                  Ensure policies are current",
+          "responsibilities_raw": "Primary                                        Secondary\nSandy Bechtel, Executive Assistant to the      Dr. Anthony L. Smith, Superintendent\nSuperintendent",
+          "baseline": null,
+          "tasks": [
+            {
+              "task_number": 1,
+              "definition_and_deadline_raw": "1. Develop the \u201cthird cycle\u201d policies review process.                 January 15, 2016",
+              "deadline_lines_raw": [
+                "January 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/D/1",
+                "task_code_matched": "2/D/1",
+                "source_page": 56,
+                "row_raw": "2/D/1 Develop the \u201cthird cycle\u201d policies review process.                                             January 15, 2016          X        Sandy",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 2,
+              "definition_and_deadline_raw": "2. Commence review of the 2000 series policies.                       March 15, 2016",
+              "deadline_lines_raw": [
+                "March 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/D/2",
+                "task_code_matched": "2/D/2",
+                "source_page": 56,
+                "row_raw": "2/D/2 Commence review of the 2000 series policies.                                                    March 15, 2016           X         Sandy\n       Increase efficiency with records management through an internal, clearly defined",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 3,
+              "definition_and_deadline_raw": "3. Eliminate, add or revise policies as appropriate.                  May 15, 2016",
+              "deadline_lines_raw": [
+                "May 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/D/3",
+                "task_code_matched": "2/D/3",
+                "source_page": 56,
+                "row_raw": "2/D/3 Eliminate, add or revise policies as appropriate.                                                May 15, 2016            X         Sandy\n       Finalize and incorporate documents for the HR handbook. Train",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            }
+          ]
+        },
+        {
+          "objective_code": "3A",
+          "title_raw": "Continue to implement the 2013-2018 Human Resources (HR) Plan.",
+          "progress_measurement_raw": "\uf0b7 Tasks complete.\n\uf0b7 Published evidence based on research and data findings.",
+          "definition_pdf_pages": [
+            45
+          ],
+          "resources_and_return_expectations_raw": "Staffing                              Cost                  ROI\nHuman Resources Department,           To Be Determined      \uf0b7 Staff turnover under national\ntemporary staffing                                            averages\n                                                            \uf0b7 High staff morale\n                                                            \uf0b7 Improved service for staff",
+          "responsibilities_raw": "Primary                                         Secondary\nJanet Gavigan, Director of Human                Donna Reier, HR Coordinator; Sherrie\nResources                                       Evans, HRMPlus/Consultant",
+          "baseline": null,
+          "tasks": [
+            {
+              "task_number": 1,
+              "definition_and_deadline_raw": "1. Recruit, select and retain highly qualified staff to increase student   November 15, 2015\n   learning and report turnover/retention data.",
+              "deadline_lines_raw": [
+                "November 15, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/A/1",
+                "task_code_matched": "3/A/1",
+                "source_page": 55,
+                "row_raw": "3/A/1                                                                                                   November 15, 2015                      Janet\n       turnover/retention data.                                                                                                        X",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 2,
+              "definition_and_deadline_raw": "2. Explore more professional development and/or training tools for         February 15, 2016\n   substitutes; include technology.",
+              "deadline_lines_raw": [
+                "February 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/A/2",
+                "task_code_matched": "3/A/2",
+                "source_page": 56,
+                "row_raw": "3/A/2                                                                                                                         X         Janet\n       technology.                                                                                   Move to March 15",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 3,
+              "definition_and_deadline_raw": "3. Increase efficiency with records management through an internal,        March 15, 2016\n   clearly defined process and establish an ongoing system that is\n   manageable.",
+              "deadline_lines_raw": [
+                "March 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/A/3",
+                "task_code_matched": "3/A/3",
+                "source_page": 56,
+                "row_raw": "3/A/3                                                                                                 March 15, 2016           X         Janet\n       process and establish an ongoing system that is manageable.",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 4,
+              "definition_and_deadline_raw": "4. Implement additional features within the application software           April 15, 2016\n   (screening, reference checking, interview questions, etc.) and train\n   administrators how to access and use.",
+              "deadline_lines_raw": [
+                "April 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/A/4",
+                "task_code_matched": "3/A/4",
+                "source_page": 56,
+                "row_raw": "3/A/4                                                                                                                          X         Janet\n       checking, interview questions, etc.) and train administrators how to access and use.           Move to May 15",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 5,
+              "definition_and_deadline_raw": "5. Finalize and incorporate documents for the HR handbook. Train           May 15, 2016\n   administrators/supervisors.",
+              "deadline_lines_raw": [
+                "May 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/A/5",
+                "task_code_matched": "3/A/5",
+                "source_page": 56,
+                "row_raw": "3/A/5                                                                                                  May 15, 2016            X         Janet\n       administrators/supervisors.\n       Research and create additional promotional links, brochures, resources, and seek",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 6,
+              "definition_and_deadline_raw": "6. Research and create additional promotional links, brochures,            May 15, 2016\n   resources, and seek additional recruitment venues.",
+              "deadline_lines_raw": [
+                "May 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/A/6",
+                "task_code_matched": "3/A/6",
+                "source_page": 56,
+                "row_raw": "3/A/6                                                                                                  May 15, 2016            X         Janet\n       additional recruitment venues.",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            }
+          ]
+        },
+        {
+          "objective_code": "3B",
+          "title_raw": "Develop and implement the district\u2019s 2016 Communications Plan process.",
+          "progress_measurement_raw": "\uf0b7 Tasks complete.\n\uf0b7 Integration of recommendations from 2015 Communications Audit.\n\uf0b7 Approval of new 2016 Communications Plan.",
+          "definition_pdf_pages": [
+            46,
+            47
+          ],
+          "resources_and_return_expectations_raw": "Staffing                         Cost               ROI\nN/A                              $70,000            \uf0b7 Effective utilization of the\n                                 (estimated)          Communications Plan\n                                                    \uf0b7 Solidify Communications as\n                                                      a viable entity within the\n                                                      district\n                                                    \uf0b7 Continue to increase and\n                                                      maintain positive\n                                                      perception of the district\n                                                      within our communities\n                                                    \uf0b7 Accountability increases for\n                                                      Communications Program\n                                                      growth and maturation",
+          "responsibilities_raw": "Primary                                   Secondary\nMike Ward, Communications Coordinator     Dr. Anthony L. Smith, Superintendent;\n                                          Sandy Bechtel, Executive Assistant to the\n                                          Superintendent; Paul Censullo, Director of\n                                          Technology",
+          "baseline": null,
+          "tasks": [
+            {
+              "task_number": 1,
+              "definition_and_deadline_raw": "1.   Review audit of communications program, as conducted by            Ongoing\n     Leanna Albrecht.",
+              "deadline_lines_raw": [
+                "Ongoing"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/B/1",
+                "task_code_matched": "3/B/1",
+                "source_page": 55,
+                "row_raw": "3/B/1 Review audit of communications program, as conducted by Leanna Albrecht.                               Ongoing                  X        Mike\n       Continue publicizing school district accomplishments, including students and staff from",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 2,
+              "definition_and_deadline_raw": "2.   Develop strategy and schedule with Superintendent for              September 15, 2015\n     implementation of short-term, mid-term, and long-term\n     recommendations.",
+              "deadline_lines_raw": [
+                "September 15, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/B/2",
+                "task_code_matched": "3/B/2",
+                "source_page": 55,
+                "row_raw": "3/B/2                                                                                                                                          Mike\n       mid-term, and long-term recommendations.                                                          Move to October 15            X",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 3,
+              "definition_and_deadline_raw": "3.   Begin implementation of short-term recommendations.                October 15, 2015",
+              "deadline_lines_raw": [
+                "October 15, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/B/3",
+                "task_code_matched": "3/B/3",
+                "source_page": 55,
+                "row_raw": "3/B/3 Begin implementation of short-term recommendations.                                                October 15, 2015             X        Mike\n       Increase frequency of meetings with local Public Information Officers for Duvall and",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 4,
+              "definition_and_deadline_raw": "4.   Provide mid-year update on how implementation is being             February 15, 2016\n     conducted.",
+              "deadline_lines_raw": [
+                "February 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/B/4",
+                "task_code_matched": "3/B/4",
+                "source_page": 56,
+                "row_raw": "3/B/4 Provide mid-year update on how implementation is being conducted.                             February 15, 2016         X         Mike",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 5,
+              "definition_and_deadline_raw": "5.   Present end-of-year report summarizing how the                     June 15, 2016\n     recommendations from the audit will be, and will have been,\n     incorporated into the Communications Plan.\n\n          TASKS FOR 2016 COMMUNICATIONS PLAN                            TIMELINE",
+              "deadline_lines_raw": [
+                "June 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/B/5",
+                "task_code_matched": "3/B/5",
+                "source_page": 57,
+                "row_raw": "3/B/5                                                                                            June 15, 2016                    Mike\n       be, and will have been, incorporated into the Communications Plan.\n       Provide end-of-year report, including metrics, on Communications Plan progress and",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 6,
+              "definition_and_deadline_raw": "6. Distribute monthly e-Newsletter to internal and external             Monthly\n    constituents.",
+              "deadline_lines_raw": [
+                "Monthly"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/B/6",
+                "task_code_matched": "3/B/6",
+                "source_page": 55,
+                "row_raw": "3/B/6 Distribute monthly e-Newsletter to internal and external constituents.                                 Monthly                  X        Mike\n       Effectively manage the budget process to maintain a 5% uncommitted general operating",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 7,
+              "definition_and_deadline_raw": "7. Distribute quarterly District Office-centered e-Newsletter to        Quarterly\n    internal and external constituents.",
+              "deadline_lines_raw": [
+                "Quarterly"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/B/7",
+                "task_code_matched": "3/B/7",
+                "source_page": 55,
+                "row_raw": "3/B/7                                                                                                        Quarterly                         Mike\n       constituents.                                                                                                                   X\n       Hire 4.0 staff: Professional Learning Leaders (PLLs) to facilitate collaborative work in the",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 8,
+              "definition_and_deadline_raw": "8. Provide closing report on 2013-2016 Communications Plan.             January 15, 2016",
+              "deadline_lines_raw": [
+                "January 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/B/8",
+                "task_code_matched": "3/B/8",
+                "source_page": 56,
+                "row_raw": "3/B/8 Provide closing report on 2013-2016 Communications Plan.                                       January 15, 2016          X         Mike",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 9,
+              "definition_and_deadline_raw": "9. Use audit recommendations as appropriate in the new 2016             March 15, 2016\n    plan.",
+              "deadline_lines_raw": [
+                "March 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/B/9",
+                "task_code_matched": "3/B/9",
+                "source_page": 56,
+                "row_raw": "3/B/9 Use audit recommendations as appropriate in the new 2016 plan.                                 March 15, 2016           X         Mike",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 10,
+              "definition_and_deadline_raw": "10. Develop new 2016 Communications Plan.                               March 15, 2016",
+              "deadline_lines_raw": [
+                "March 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/B/10",
+                "task_code_matched": "3/B/10",
+                "source_page": 56,
+                "row_raw": "3/B/10 Develop new 2016 Communications Plan.                                                          March 15, 2016           X         Mike",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 11,
+              "definition_and_deadline_raw": "11. Complete new 2016 Communications Plan.                              April 15, 2016",
+              "deadline_lines_raw": [
+                "April 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/B/11",
+                "task_code_matched": "3/B/11",
+                "source_page": 56,
+                "row_raw": "3/B/11 Complete new 2016 Communications Plan.                                                         April 15, 2016           X          Mike",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 12,
+              "definition_and_deadline_raw": "12. Provide end-of-year report, including metrics, on                   June 15, 2016\n    Communications Plan progress and results.\n\n\n\n\n\n\n\n\n                            OBJECTIVE   3B (continued)",
+              "deadline_lines_raw": [
+                "June 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/B/12",
+                "task_code_matched": "3/B/12",
+                "source_page": 57,
+                "row_raw": "3/B/12                                                                                            June 15, 2016                    Mike\n       results.\n       Present end-of-year report, with metrics, on assessing success of the district\u2019s social",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            }
+          ]
+        },
+        {
+          "objective_code": "3C",
+          "title_raw": "Cultivate increased community outreach.",
+          "progress_measurement_raw": "\uf0b7 Increase social media users/followers by 25% across all platforms.\n\uf0b7 Tasks complete.",
+          "definition_pdf_pages": [
+            48,
+            49
+          ],
+          "resources_and_return_expectations_raw": "Staffing                            Cost             ROI\nDistrict Alumni                     To Be Determined \uf0b7 Social media success sets\n                                                       our Communications\n                                                       department apart from\n                                                       other, larger districts.\n                                                     \uf0b7 District is able to deliver\n                                                       information in a\n                                                       modernized way.\n                                                     \uf0b7 Increases district\u2019s visibility\n                                                       beyond just the district\n                                                       level.",
+          "responsibilities_raw": "Primary                                      Secondary\nMike Ward, Communications Coordinator        Dr. Anthony L. Smith, Superintendent;\n                                             Sandy Bechtel, Executive Assistant to the\n                                             Superintendent; Paul Censullo, Director of\n                                             Technology",
+          "baseline": null,
+          "tasks": [
+            {
+              "task_number": 1,
+              "definition_and_deadline_raw": "1. Continue publicizing school district accomplishments, including      Ongoing\n    students and staff from all schools.",
+              "deadline_lines_raw": [
+                "Ongoing"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/C/1",
+                "task_code_matched": "3/C/1",
+                "source_page": 55,
+                "row_raw": "3/C/1                                                                                                        Ongoing                           Mike\n       all schools.                                                                                                                    X\n       Continue promotion of our social media presence on Facebook, Twitter, Instagram, and",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 2,
+              "definition_and_deadline_raw": "2. Continue promotion of our social media presence on Facebook,         Ongoing\n    Twitter, Instagram, and YouTube.",
+              "deadline_lines_raw": [
+                "Ongoing"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/C/2",
+                "task_code_matched": "3/C/2",
+                "source_page": 55,
+                "row_raw": "3/C/2                                                                                                        Ongoing                           Mike\n       YouTube.                                                                                                                        X\n       Monitor social media daily and weekly, track analytics and how information is being",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 3,
+              "definition_and_deadline_raw": "3. Monitor social media daily and weekly, track analytics and how       Ongoing\n    information is being disseminated to constituents.",
+              "deadline_lines_raw": [
+                "Ongoing"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/C/3",
+                "task_code_matched": "3/C/3",
+                "source_page": 55,
+                "row_raw": "3/C/3                                                                                                        Ongoing                           Mike\n       disseminated to constituents.                                                                                                   X\n       Distribute quarterly District Office-centered e-Newsletter to internal and external",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 4,
+              "definition_and_deadline_raw": "4. Increase frequency of meetings with local Public Information         October 15, 2015\n    Officers for Duvall and Carnation from semi-regularly to bi-\n    monthly.",
+              "deadline_lines_raw": [
+                "October 15, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/C/4",
+                "task_code_matched": "3/C/4",
+                "source_page": 55,
+                "row_raw": "3/C/4                                                                                                    October 15, 2015                      Mike\n       Carnation from semi-regularly to bi-monthly.                                                                                    X\n       Begin networking with student leadership at the high school and middle school, and",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 5,
+              "definition_and_deadline_raw": "5. Begin networking with student leadership at the high school and      October 15, 2015\n    middle school, and begin outreach to the first-year Riverview\n    Ambassadors for better event awareness.",
+              "deadline_lines_raw": [
+                "October 15, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/C/5",
+                "task_code_matched": "3/C/5",
+                "source_page": 55,
+                "row_raw": "3/C/5                                                                                                    October 15, 2015                      Mike\n       begin outreach to the first-year Riverview Ambassadors for better event awareness.                                              X\n       Establish connections with local real estate professionals and Homeowner\u2019s",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 6,
+              "definition_and_deadline_raw": "6. Establish connections with local real estate professionals and       October 15, 2015\n    Homeowner\u2019s Associations to ensure they have access to our\n    school profiles, brochures, and any additional information they\n    might need.",
+              "deadline_lines_raw": [
+                "October 15, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/C/6",
+                "task_code_matched": "3/C/6",
+                "source_page": 55,
+                "row_raw": "3/C/6 Associations to ensure they have access to our school profiles, brochures, and any                 October 15, 2015                      Mike\n       additional information they might need.                                                                                         X",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 7,
+              "definition_and_deadline_raw": "7. Begin to spotlight alumni with alumni recognition and feature        November 15, 2015\n    articles.",
+              "deadline_lines_raw": [
+                "November 15, 2015"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/C/7",
+                "task_code_matched": "3/C/7",
+                "source_page": 55,
+                "row_raw": "3/C/7 Begin to spotlight alumni with alumni recognition and feature articles.                           November 15, 2015             X        Mike",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 8,
+              "definition_and_deadline_raw": "8. Broaden student involvement with use of Instagram.                   January 15, 2016",
+              "deadline_lines_raw": [
+                "January 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/C/8",
+                "task_code_matched": "3/C/8",
+                "source_page": 56,
+                "row_raw": "3/C/8 Broaden student involvement with use of Instagram.                                             January 15, 2016          X         Mike",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 9,
+              "definition_and_deadline_raw": "9. Investigate ways to utilize Ambassadors to support the district.     February 15, 2016",
+              "deadline_lines_raw": [
+                "February 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/C/9",
+                "task_code_matched": "3/C/9",
+                "source_page": 56,
+                "row_raw": "3/C/9 Investigate ways to utilize Ambassadors to support the district.                               February 15, 2016         X         Mike\n       Increase translation of important district communication into Spanish (the district\u2019s",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 10,
+              "definition_and_deadline_raw": "10. Increase translation of important district communication into       February 15, 2016\n    Spanish (the district\u2019s second-largest population). Provide\n    metrics on amount of communications translated to the School\n    Board.",
+              "deadline_lines_raw": [
+                "February 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/C/10",
+                "task_code_matched": "3/C/10",
+                "source_page": 56,
+                "row_raw": "3/C/10 second-largest population). Provide metrics on amount of communications translated to         February 15, 2016         X         Mike\n       the School Board.",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 11,
+              "definition_and_deadline_raw": "11. Explore opportunities for community partnerships.                   February 15, 2016",
+              "deadline_lines_raw": [
+                "February 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/C/11",
+                "task_code_matched": "3/C/11",
+                "source_page": 56,
+                "row_raw": "3/C/11 Explore opportunities for community partnerships.                                             February 15, 2016         X         Mike",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 12,
+              "definition_and_deadline_raw": "12. Present end-of-year report, with metrics, on assessing success of   June 15, 2016\n    the district\u2019s social media and community outreach.\n\n\n\n\n\n             Goal 3: Provide Human Resources and Communication practices\n                              to improve student learning.\n\n\n                            OBJECTIVE     3C (continued)",
+              "deadline_lines_raw": [
+                "June 15, 2016"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/C/12",
+                "task_code_matched": "3/C/12",
+                "source_page": 57,
+                "row_raw": "3/C/12                                                                                            June 15, 2016                    Mike\n       media and community outreach.\n       Annual Implementation the Emergency Operations Field Guide:\n                \uf0b7 Fill key positions in \u201cOrganizational Chart\u201d",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "task_count": 83,
+      "completed_marks": 74,
+      "postponed_marks": 4,
+      "unmarked": 5
+    },
+    {
+      "snapshot": "2019",
+      "source_id": "RSD407-ITER-2019",
+      "sha256": "4c3a5e565f88394f3f5e62e99c945ccb3004f6c9ca2223ae7733d6f489df9093",
+      "plan_period": "2015\u20132020",
+      "revision": "2019\u20132020 year five; PDF metadata created2020-02-19, not certified status date",
+      "objectives": [
+        {
+          "objective_code": "1A",
+          "title_raw": "Further develop curriculum and supports for student learning.",
+          "progress_measurement_raw": "\u2022 Task complete\n  \u2022 Formative Assessment on program process",
+          "definition_pdf_pages": [
+            21,
+            22
+          ],
+          "resources_and_return_expectations_raw": "Staffing                             Cost            ROI\n Site Technology Representatives      $60,000 (IT)    \u2022 Increased technology support,\n (STR), Learning Coaches,             $100,000 (SS)     efficiency\n Support Staff from IT, SS, and       $20,000 (T&L)   \u2022 Curriculum supports for students\n T&L                                                    with needs\n                                                      \u2022 Increased understanding of\n                                                        district programs and by new\n                                                        staff\n\n\n\n\n\n                            OBJECTIVE 1A (Continued)",
+          "responsibilities_raw": "Christopher Collins, Director of Information Technology\n Molly Lutz, Director of Student Services\n Dr. Randy Stocker, Assistant Superintendent, Teaching and Learning",
+          "baseline": null,
+          "tasks": [
+            {
+              "task_number": 1,
+              "definition_and_deadline_raw": "1. Implement Student Led Technology Support Model. (IT)              October 15, 2019",
+              "deadline_lines_raw": [
+                "October 15, 2019"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/A/1",
+                "task_code_matched": "1/A/1",
+                "source_page": 41,
+                "row_raw": "1/A/1    Implement Student Led Technology Support Model. (IT)              March 2020                   Chris Collins\n                                                                           (moved from\n                                                                           October 2019)",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 2,
+              "definition_and_deadline_raw": "2. Implement qualifying criteria and services for students served    October 15, 2019\n     by EL, Title and LAP programs. (TL)",
+              "deadline_lines_raw": [
+                "October 15, 2019"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/A/2",
+                "task_code_matched": "1/A/2",
+                "source_page": 40,
+                "row_raw": "1/A/2    Implement qualifying criteria and services for students           October 15,                  Randy Stocker\n         served by EL, Title and LAP program. (TL)                         2019                  X",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 3,
+              "definition_and_deadline_raw": "3. Research Early Learning Programs to begin to connect school       January 15, 2020\n     and community resources to support preschool aged students\n     and their families in their transition into RSD. (TL)",
+              "deadline_lines_raw": [
+                "January 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/A/3",
+                "task_code_matched": "1/A/3",
+                "source_page": 40,
+                "row_raw": "1/A/3    Research Early Learning Programs to begin to connect              January 15,                  Randy Stocker\n         school and community resources to support preschool aged          2020                  X\n         students and their families in their transition into RSD. (TL)",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 4,
+              "definition_and_deadline_raw": "4. Review elements of Learning Management System (LMS) to            January 15, 2020\n     be implemented. (IT, TL, SS)",
+              "deadline_lines_raw": [
+                "January 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/A/4",
+                "task_code_matched": "1/A/4",
+                "source_page": 41,
+                "row_raw": "1/A/4    Review elements of Learning Management System (LMS) to            February 2020         X      Chris Collins,\n         be implemented. (IT, TL, SS)                                      (moved from                  Randy Stocker,\n                                                                           January 2020)                Molly Lutz",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 5,
+              "definition_and_deadline_raw": "5. Continue training administrators on Special Education policy,     January 15, 2020\n     processes, and procedures. (SS)",
+              "deadline_lines_raw": [
+                "January 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/A/5",
+                "task_code_matched": "1/A/5",
+                "source_page": 40,
+                "row_raw": "1/A/5    Continue training administrators on Special Education             January 15,                  Molly Lutz\n         policy, processes, and procedures. (SS)                           2020                  X",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 6,
+              "definition_and_deadline_raw": "6. Research and pilot Special Education curriculum in ELA,           March 15, 2020\n     Math and Social Emotional for PreK-21. (SS, TL)",
+              "deadline_lines_raw": [
+                "March 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/A/6",
+                "task_code_matched": "1/A/6",
+                "source_page": 41,
+                "row_raw": "1/A/6    Research and pilot Special Education curriculum in ELA,           March 15, 2020               Molly Lutz,\n         Math, and Social Emotional in PreK-21. (SS, TL)                                                Randy Stocker",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 7,
+              "definition_and_deadline_raw": "7. Research additional high school technology pathways for           March 15, 2020\n     CTE. (IT, TL)",
+              "deadline_lines_raw": [
+                "March 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/A/7",
+                "task_code_matched": "1/A/7",
+                "source_page": 41,
+                "row_raw": "1/A/7    Research additional high school technology pathways for           March 15, 2020               Chris Collins,\n         CTE. (IT, TL)                                                                                  Randy Stocker",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 8,
+              "definition_and_deadline_raw": "8. Research and develop new Special Education service model.         April 15, 2020\n     (SS)",
+              "deadline_lines_raw": [
+                "April 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/A/8",
+                "task_code_matched": "1/A/8",
+                "source_page": 41,
+                "row_raw": "1/A/8    Research and develop new Special Education service model.         April 15, 2020               Molly Lutz\n         (SS)",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 9,
+              "definition_and_deadline_raw": "9. Review Secondary ELA and Elementary Math curriculum for           April 15, 2020\n     potential adoption. (TL)",
+              "deadline_lines_raw": [
+                "April 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/A/9",
+                "task_code_matched": "1/A/9",
+                "source_page": 41,
+                "row_raw": "1/A/9    Review Secondary ELA and Elementary Math curriculum               April 15, 2020               Randy Stocker\n         for potential adoption. (TL)",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 10,
+              "definition_and_deadline_raw": "10. Review of Student Data Privacy policies for potential Board      April 15, 2020\n     Policy recommendations. (IT, SS)",
+              "deadline_lines_raw": [
+                "April 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/A/10",
+                "task_code_matched": "1/A/10",
+                "source_page": 41,
+                "row_raw": "1/A/10   Review of Student Data Privacy policies for potential Board       April 15, 2020               Chris Collins,\n         Policy recommendations. (IT, SS)                                                               Molly Lutz",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            }
+          ]
+        },
+        {
+          "objective_code": "1B",
+          "title_raw": "Integrate priorities of Information Technology, Student Services, and Teaching\n            and Learning where appropriate and feasible.",
+          "progress_measurement_raw": "\u2022 Results from the Tiered Fidelity Inventory regarding MTSS and PBIS. (SS)\n  \u2022 Task Complete",
+          "definition_pdf_pages": [
+            23
+          ],
+          "resources_and_return_expectations_raw": "Staffing                              Cost                ROI\n Learning Coaches, Ad Council,         $40,000 (T&L)       \u2022 Increased Student Learning\n T&L, IT and SS, Communication         $100,000 (SS)       \u2022 Increase Positive Behavior\n Coordinator, Site Webmasters          $500,000 (IT)         Supports\n                                                           \u2022 Intentional Staff Learning\n                                                           \u2022 Increased Alignment Across\n                                                             Departments\n                                                           \u2022 Increased Equity and Access\n                                                             for All Students\n                                                           \u2022 Federal Compliance",
+          "responsibilities_raw": "Dr. Randy Stocker, Assistant Superintendent, Teaching and Learning\n Molly Lutz, Director of Student Services\n Christopher Collins, Director of Information Technology",
+          "baseline": null,
+          "tasks": [
+            {
+              "task_number": 1,
+              "definition_and_deadline_raw": "1. Revise district and school websites to reflect federal changes    October 15, 2019\n    regarding ADA compliance. (IT, SS)",
+              "deadline_lines_raw": [
+                "October 15, 2019"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/B/1",
+                "task_code_matched": "1/B/1",
+                "source_page": 41,
+                "row_raw": "1/B/1    Revise district and school websites to reflect federal changes    March 2020                   Chris Collins,\n         regarding ADA compliance. (IT, SS)                                (moved from                  Molly Lutz\n                                                                           October 2019)",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 2,
+              "definition_and_deadline_raw": "2. Refine and implement onboarding and support programs for          January 15, 2020\n    new staff. (TL, SS, IT, HR)",
+              "deadline_lines_raw": [
+                "January 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/B/2",
+                "task_code_matched": "1/B/2",
+                "source_page": 41,
+                "row_raw": "1/B/2    Refine and implement onboarding and support programs              January 15,           X      Randy Stocker,\n         for new staff. (TL, SS, IT, HR)                                   2020                         Molly Lutz,\n                                                                                                        Chris Collins,\n                                                                                                        Robert\n                                                                                                        Gallagher",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 3,
+              "definition_and_deadline_raw": "3. Identify and refine intersections and overlaps of priorities of   Ongoing\n    the three departments. (TL, IT, SS)",
+              "deadline_lines_raw": [
+                "Ongoing"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/B/3",
+                "task_code_matched": "1/B/3",
+                "source_page": 40,
+                "row_raw": "1/B/3    Identify and refine intersections and overlaps of priorities of   Ongoing                      Randy Stocker,\n         the three departments. (TL, IT, SS)                                                            Chris Collins,\n                                                                                                        Molly Lutz",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 4,
+              "definition_and_deadline_raw": "4. Continue training on Multi-Tiered Systems of Support for          February 15, 2020\n    Superintendent\u2019s Cabinet. (SS)",
+              "deadline_lines_raw": [
+                "February 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/B/4",
+                "task_code_matched": "1/B/4",
+                "source_page": 41,
+                "row_raw": "1/B/4    Continue training on Multi-Tiered Systems of Support for          February 15,                 Molly Lutz\n         Superintendent\u2019s Cabinet. (SS)                                    2020",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 5,
+              "definition_and_deadline_raw": "5. Continue training and implementation PBIS Tier 2 for              Ongoing\n    Elementary and PBIS Tier 1 for the High School, RLC, and\n    Middle School. (SS)",
+              "deadline_lines_raw": [
+                "Ongoing"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/B/5",
+                "task_code_matched": "1/B/5",
+                "source_page": 40,
+                "row_raw": "1/B/5    Continue training and implementation PBIS Tier 2 for              Ongoing                      Molly Lutz\n         Elementary and PBIS Tier 1 for the High School, RLC, and\n         Middle School. (SS)",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 6,
+              "definition_and_deadline_raw": "6. Research and define intervention curriculum that aligns with      March 15, 2020\n    Elementary core curriculum. (TL, SS)",
+              "deadline_lines_raw": [
+                "March 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "1/B/6",
+                "task_code_matched": "1/B/6",
+                "source_page": 41,
+                "row_raw": "1/B/6    Research and define intervention curriculum that aligns           March 15, 2020               Randy Stocker,\n         with Elementary core curriculum. (TL, SS)                                                      Molly Lutz",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            }
+          ]
+        },
+        {
+          "objective_code": "2A",
+          "title_raw": "Provide a financial and operational process that strengthens student learning\n            and leverages financial markets to benefit the district taxpayers.",
+          "progress_measurement_raw": "\u2022 Maintain a minimum of a 9% uncommitted general operating fund balance with a\n    periodic School Board\u2019s review of that standard.\n  \u2022 Tasks complete.",
+          "definition_pdf_pages": [
+            25
+          ],
+          "resources_and_return_expectations_raw": "Staffing                             Cost                 ROI\n Office of the Washington State       $30,000; $10,000     \u2022 Comply with state and\n Auditor, Leadership Professional                            federal statutes\n Development                                               \u2022 Maintain financial integrity\n                                                             of district\u2019s operations and\n                                                             assets\n                                                           \u2022 Maintain positive financial\n                                                             standings",
+          "responsibilities_raw": "Primary                                       Secondary\n Meisha Robertson, Director of Business        School Board, Superintendent\n and Operations",
+          "baseline": null,
+          "tasks": [
+            {
+              "task_number": 1,
+              "definition_and_deadline_raw": "1. Effectively manage the budget process to maintain a 9%             Ongoing\n    uncommitted general operating fund balance.",
+              "deadline_lines_raw": [
+                "Ongoing"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/A/1",
+                "task_code_matched": "2/A/1",
+                "source_page": 40,
+                "row_raw": "2/A/1    Effectively manage the budget process to maintain a 9%            Ongoing                      Meisha\n         uncommitted general operating fund balance.                                                    Robertson",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 2,
+              "definition_and_deadline_raw": "2. Update on an annual basis the web-published \u201ccitizens\u201d             December 31, 2019\n    budget which includes an analysis that demonstrates the\n    district\u2019s commitment to student learning.",
+              "deadline_lines_raw": [
+                "December 31, 2019"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/A/2",
+                "task_code_matched": "2/A/2",
+                "source_page": 40,
+                "row_raw": "2/A/2    Update on an annual basis the web-published \u201ccitizens\u201d            December 31,                 Meisha\n         budget which includes an analysis that demonstrates the           2019                  X      Robertson\n         district\u2019s commitment to student learning.",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 3,
+              "definition_and_deadline_raw": "3. Provide annual audited financial statement to the School           After audit\n    Board.                                                             completion",
+              "deadline_lines_raw": [
+                "After audit"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/A/3",
+                "task_code_matched": "2/A/3",
+                "source_page": 42,
+                "row_raw": "2/A/3    Provide annual audited financial statement to the School     After audit                  Meisha\n         Board.                                                       completion                   Robertson",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 4,
+              "definition_and_deadline_raw": "4. Effectively onboard new staff into vital positions by providing    August 31, 2020\n    leadership development and instilling specific occupation\n    proficiencies essential for financial and operational success.",
+              "deadline_lines_raw": [
+                "August 31, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/A/4",
+                "task_code_matched": "2/A/4",
+                "source_page": 42,
+                "row_raw": "2/A/4    Effectively onboard new staff into vital positions by        August 31,                   Meisha\n         providing leadership development and instilling specific     2020                         Robertson\n         occupation proficiencies essential for financial and\n         operational success.",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            }
+          ]
+        },
+        {
+          "objective_code": "2B",
+          "title_raw": "Establish and implement a prioritized list of projects consistent with capital\n            projects levy financing with the consent of the School Board.",
+          "progress_measurement_raw": "\u2022 Produce a prioritized list.\n\u2022 Implement the highest priority items.",
+          "definition_pdf_pages": [
+            26
+          ],
+          "resources_and_return_expectations_raw": "Staffing                             Cost                 ROI\n Project Management Firm              $100,000             Assist in pre-bond planning for\n                                                           the 2020 Capital Bond.\n Architects                           $100,000\n                                                           Assist in conceptualizing the\n                                                           Bond projects for the 2020\n                                                           Capital Bond",
+          "responsibilities_raw": "Primary                                         Secondary\n Meisha Robertson, Director of Business          Dr. Anthony L. Smith, Superintendent;\n and Operations                                  School Board",
+          "baseline": null,
+          "tasks": [
+            {
+              "task_number": 1,
+              "definition_and_deadline_raw": "1. Implement current year prioritized capital project(s) and          September 30, 2019\n    establish new priorities annually.",
+              "deadline_lines_raw": [
+                "September 30, 2019"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/B/1",
+                "task_code_matched": "2/B/1",
+                "source_page": 40,
+                "row_raw": "2/B/1    Implement current year prioritized capital project(s) and         September 30,                Meisha\n         establish new priorities annually.                                2019                  X      Robertson",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 2,
+              "definition_and_deadline_raw": "2. Review district best practices; develop and review final           June 15, 2020\n    process.",
+              "deadline_lines_raw": [
+                "June 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/B/2",
+                "task_code_matched": "2/B/2",
+                "source_page": 42,
+                "row_raw": "2/B/2    Review district best practices; develop and review final     June 15, 2020                Meisha\n         process.                                                                                  Robertson",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 3,
+              "definition_and_deadline_raw": "3. Continue to evaluate current district facility needs and present   June 15, 2020\n    to voters a new Capital Bond in February of 2020.",
+              "deadline_lines_raw": [
+                "June 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/5/3",
+                "task_code_matched": "2/B/3",
+                "source_page": 42,
+                "row_raw": "2/5/3    Continue to evaluate current district facility needs and     June 15, 2020                Meisha\n         present to voters a new Capital Bond in February of 2020.                                 Robertson",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            }
+          ]
+        },
+        {
+          "objective_code": "2C",
+          "title_raw": "Manage all aspects of the District\u2019s Safety and Emergency Operations Plans.",
+          "progress_measurement_raw": "\u2022 Complete 100% disaster container supply itemization.\n  \u2022 Complete 100% of the Emergency Operations Plan and Emergency Operations\n    Field Guide training and procedures.",
+          "definition_pdf_pages": [
+            27,
+            28
+          ],
+          "resources_and_return_expectations_raw": "Staffing                             Cost                ROI\n Emergency Operations Plan            $40,000 per year    \u2022 High level of accountability\n Manager                                                  \u2022 Improved student and staff\n                                                            safety\n\n\n\n                            OBJECTIVE     2C (Continued)\n\nRESOURCES: (Continued)\n Reference Materials                                 ROI\n Disaster and Emergency                              \u2022 2019-20 focus on Run, Hide,\n Preparedness 5-year Plan                              Fight training and\n                                                       implementation",
+          "responsibilities_raw": "Primary                                   Secondary\n Meisha Robertson, Director of Business    Emergency Operations Plan Manger will\n and Operations                            manage Tasks\n                                           Molly Lutz will address the Safety and\n                                           Threat Assessment Process",
+          "baseline": null,
+          "tasks": [
+            {
+              "task_number": 1,
+              "definition_and_deadline_raw": "1. Continue annual implementation of building-level Emergency          October 15, 2019\n   Response Teams and associated tasks to include:\n   a. Assign roles/responsibilities to team members in their\n      Incident Command System Organization Chart.\n   b. Plan a minimum of one meeting each year to discuss the\n      respond plans and maintain a high level of readiness.\n   c. Each Emergency Response Team will drill one scenario a\n      year related to a building emergency.",
+              "deadline_lines_raw": [
+                "October 15, 2019"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/C/1",
+                "task_code_matched": "2/C/1",
+                "source_page": 40,
+                "row_raw": "2/C/1    Continue annual implementation of building-level                  October 15,           X      Meisha\n         Emergency Response Teams and associated tasks to include:         2019                         Robertson\n             a. Assign roles/responsibilities to team members in\n                   their Incident Command System Organization\n                   Chart.\n             b. Plan a minimum of one meeting each year to\n                   discuss the respond plans and maintain a high\n                   level of readiness.\n         Each Emergency Response Team will drill one scenario a\n         year related to a building emergency.",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 2,
+              "definition_and_deadline_raw": "2. Tasks from the 5-year Emergency Management Committee                Ongoing\n   Plan will be updated and implemented. The district will focus\n   on Run, Hide, Fight training and application for the 2019-20\n   school year.",
+              "deadline_lines_raw": [
+                "Ongoing"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/C/2",
+                "task_code_matched": "2/C/2",
+                "source_page": 40,
+                "row_raw": "2/C/2    Tasks from the 5-year Emergency Management Committee              Ongoing                      Meisha\n         Plan will be updated and implemented. The district will                                        Robertson\n         focus on Run, Hide, Fight training and application for the\n         2019-20 school year.",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 3,
+              "definition_and_deadline_raw": "3. Conduct one Ad Team emergency drill or training.                    June 15, 2020",
+              "deadline_lines_raw": [
+                "June 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/C/3",
+                "task_code_matched": "2/C/3",
+                "source_page": 42,
+                "row_raw": "2/C/3    Conduct one Ad Team emergency drill or training.             June 15, 2020                Meisha\n                                                                                                   Robertson",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 4,
+              "definition_and_deadline_raw": "4. Evaluate and revise the Comprehensive Safety Plans.                 June 15, 2020",
+              "deadline_lines_raw": [
+                "June 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/C/4",
+                "task_code_matched": "2/C/4",
+                "source_page": 42,
+                "row_raw": "2/C/4    Evaluate and revise the Comprehensive Safety Plans.          June 15, 2020                Meisha\n                                                                                                   Robertson",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 5,
+              "definition_and_deadline_raw": "5. Complete an annual inventory of each school\u2019s disaster              June 15, 2020\n   container and assess inventory needs.",
+              "deadline_lines_raw": [
+                "June 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/C/5",
+                "task_code_matched": "2/C/5",
+                "source_page": 42,
+                "row_raw": "2/C/5    Complete an annual inventory of each school\u2019s disaster       June 15, 2020                Meisha\n         container and assess inventory needs.                                                     Robertson",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 6,
+              "definition_and_deadline_raw": "6. Collaborate with Parent Teacher Student Association\u2019s to            June 15, 2020\n   educate parents about Riverview School District Emergency\n   Plans and Procedures.",
+              "deadline_lines_raw": [
+                "June 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/C/6",
+                "task_code_matched": "2/C/6",
+                "source_page": 42,
+                "row_raw": "2/C/6    Collaborate with Parent Teacher Student Association\u2019s to     June 15, 2020                Meisha\n         educate parents about Riverview School District Emergency                                 Robertson\n         Plans and Procedures.",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 7,
+              "definition_and_deadline_raw": "7. Research and implement best practices related to Emergency          Ongoing\n   Management.",
+              "deadline_lines_raw": [
+                "Ongoing"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/C/7",
+                "task_code_matched": "2/C/7",
+                "source_page": 40,
+                "row_raw": "2/C/7    Research and implement best practices related to                  Ongoing                      Meisha\n         Emergency Management.                                                                          Robertson",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 8,
+              "definition_and_deadline_raw": "8. Implement a safety threat assessment process in secondary and       June 15, 2020\n   elementary.",
+              "deadline_lines_raw": [
+                "June 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "2/C/8",
+                "task_code_matched": "2/C/8",
+                "source_page": 42,
+                "row_raw": "2/C/8    Implement a safety threat assessment process in secondary    June 15, 2020                Meisha\n         and elementary.                                                                           Robertson",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            }
+          ]
+        },
+        {
+          "objective_code": "3A",
+          "title_raw": "Implement the 2018-2023 Human Resources (HR) Plan.",
+          "progress_measurement_raw": "\u2022 Tasks complete.\n  \u2022 Published evidence based on research and data findings.",
+          "definition_pdf_pages": [
+            30
+          ],
+          "resources_and_return_expectations_raw": "Staffing                          Cost         ROI\nHuman Resources Department        $1,650 Test \u2022 Staff turnover under national averages\n                                  $ 2,690 Subs \u2022 High staff morale\n                                  (Paras)      \u2022 Improved customer service",
+          "responsibilities_raw": "Primary                                      Secondary\nRobert Gallagher, Director of Human          Donna Reier, Human Resources Coordinator\nResources                                    Stacy Cook, HR Specialist\n                                             Sherrie Evans, HRMPlus/Consultant",
+          "baseline": null,
+          "tasks": [
+            {
+              "task_number": 1,
+              "definition_and_deadline_raw": "1. Recruit, select and retain highly qualified staff to increase     November 15, 2019\n    student learning and report turnover/retention data.",
+              "deadline_lines_raw": [
+                "November 15, 2019"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/A/1",
+                "task_code_matched": "3/A/1",
+                "source_page": 40,
+                "row_raw": "3/A/1    Recruit, select and retain highly qualified staff to increase     November 15,                 Robert\n         student learning and report turnover/retention data.              2019                  X      Gallagher",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 2,
+              "definition_and_deadline_raw": "2. Evaluate the implementation of the restructured employee          January 15, 2020\n    orientation/onboarding and mentoring program including\n    professional learning opportunities for continuing employees\n    in their first two years in collaboration with the Teaching &\n    Learning Department.",
+              "deadline_lines_raw": [
+                "January 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/A/2",
+                "task_code_matched": "3/A/2",
+                "source_page": 41,
+                "row_raw": "3/A/2    Evaluate the implementation of the restructured employee          January 15,           X      Robert\n         orientation/onboarding and mentoring program including            2020                         Gallagher\n         professional learning opportunities for continuing\n         employees in their first two years in collaboration with the\n         Teaching & Learning Department.",
+                "completion_mark_raw": "X",
+                "interpretation": "reported complete"
+              }
+            },
+            {
+              "task_number": 3,
+              "definition_and_deadline_raw": "3. Research and generate ideas for building professional             March 15, 2020\n    learning/training opportunities for classified staff for future\n    implementation in cooperation with other district\n    departments.",
+              "deadline_lines_raw": [
+                "March 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/A/3",
+                "task_code_matched": "3/A/3",
+                "source_page": 41,
+                "row_raw": "3/A/3    Research and generate ideas for building professional             March 15, 2020               Robert\n         learning/training opportunities for classified staff for future                                Gallagher\n         implementation in cooperation with other district\n         departments.",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 4,
+              "definition_and_deadline_raw": "4. Continue general training of HR topics for both                   April 15, 2020\n    administrators and building staff in the areas of teacher\n    quality, customer service, endorsements, paraeducator\n    requirements, and other legal requirements.",
+              "deadline_lines_raw": [
+                "April 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/A/4",
+                "task_code_matched": "3/A/4",
+                "source_page": 41,
+                "row_raw": "3/A/4    Continue general training of HR topics for both                   April 15, 2020               Robert\n         administrators and building staff in the areas of teacher                                      Gallagher\n         quality, customer service, endorsements, paraeducator\n         requirements, and other legal requirements.",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 5,
+              "definition_and_deadline_raw": "5. Assess, plan, track, and continue to implement requirements       May 15, 2020\n    as mandated through legislation regarding the Paraeducator\n    certificate requirements and the Professional Educator\n    Standards Board.",
+              "deadline_lines_raw": [
+                "May 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/A/5",
+                "task_code_matched": "3/A/5",
+                "source_page": 41,
+                "row_raw": "3/A/5    Assess, plan, track, and continue to implement requirements       May 15, 2020                 Robert\n         as mandated through legislation regarding the Paraeducator                                     Gallagher\n         certificate requirements and the Professional Educator\n         Standards Board.",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            }
+          ]
+        },
+        {
+          "objective_code": "3B",
+          "title_raw": "Management of the Riverview School District\u2019s Communications Program.",
+          "progress_measurement_raw": "\u2022 Distribution of The Riverview Way 2019-2020.\n  \u2022 Successful February 2020 Bond.\n  \u2022 Tasks complete.",
+          "definition_pdf_pages": [
+            31
+          ],
+          "resources_and_return_expectations_raw": "Staffing                           Cost        ROI\n Communications Coordinator         TBD         \u2022 Updated Riverview Way 2019-2020\n                                                  for all staff.\n                                                \u2022 Successful Bond in 2020.\n                                                \u2022 Students more aware of school\n                                                  delays/closures.\n                                                \u2022 Short-, mid-, and long-term\n                                                  recommendations from program\n                                                  audit.",
+          "responsibilities_raw": "Primary                                   Secondary\n Michael Ward                              Dr. Anthony L. Smith, Goal Managers",
+          "baseline": null,
+          "tasks": [
+            {
+              "task_number": 1,
+              "definition_and_deadline_raw": "1. Collaborate with Superintendent and Goal Managers on            Ongoing\n   updates to The Riverview Way onboarding document.",
+              "deadline_lines_raw": [
+                "Ongoing"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/B/1",
+                "task_code_matched": "3/B/1",
+                "source_page": 40,
+                "row_raw": "3/B/1    Collaborate with Superintendent and Goal Managers on              Ongoing                      Mike Ward\n         updates to The Riverview Way onboarding document.",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 2,
+              "definition_and_deadline_raw": "2. Continue growth with professional learning opportunities        Ongoing\n   regionally and nationally.",
+              "deadline_lines_raw": [
+                "Ongoing"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/B/2",
+                "task_code_matched": "3/B/2",
+                "source_page": 40,
+                "row_raw": "3/B/2    Continue growth with professional learning opportunities          Ongoing                      Mike Ward\n         regionally and nationally.",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 3,
+              "definition_and_deadline_raw": "3. Continue implementation and management of alumni site for       Ongoing\n   the district.",
+              "deadline_lines_raw": [
+                "Ongoing"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/B/3",
+                "task_code_matched": "3/B/3",
+                "source_page": 40,
+                "row_raw": "3/B/3    Continue implementation and management of alumni site             Ongoing                      Mike Ward\n         for the district.",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 4,
+              "definition_and_deadline_raw": "4. Create and manage a Bond 2020 marketing campaign.               February 15, 2020",
+              "deadline_lines_raw": [
+                "February 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/B/4",
+                "task_code_matched": "3/B/4",
+                "source_page": 41,
+                "row_raw": "3/B/4    Create and manage a Bond 2020 marketing campaign.                 February 15,                 Mike Ward\n                                                                           2020",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 5,
+              "definition_and_deadline_raw": "5. Explore SchoolMessenger expansion for student participation.   March 15, 2020",
+              "deadline_lines_raw": [
+                "March 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/B/5",
+                "task_code_matched": "3/B/5",
+                "source_page": 41,
+                "row_raw": "3/B/5    Explore SchoolMessenger expansion for student                     March 15, 2020               Mike Ward\n         participation.",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 6,
+              "definition_and_deadline_raw": "6. Conduct and arrange for audit of Riverview School District     May 15, 2020\n    Communications Program.",
+              "deadline_lines_raw": [
+                "May 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/B/6",
+                "task_code_matched": "3/B/6",
+                "source_page": 42,
+                "row_raw": "3/B/6    Conduct and arrange for audit of Riverview School District   May 15, 2020                 Mike Ward\n         Communications Program.",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            },
+            {
+              "task_number": 7,
+              "definition_and_deadline_raw": "7. Provide annual end-of-year report, including metrics, on       June 15, 2020\n    Communications program accomplishments throughout the\n    year.",
+              "deadline_lines_raw": [
+                "June 15, 2020"
+              ],
+              "timeline_evidence": {
+                "task_code_raw": "3/B/7",
+                "task_code_matched": "3/B/7",
+                "source_page": 42,
+                "row_raw": "3/B/7    Provide annual end-of-year report, including metrics, on     June 15, 2020                Mike Ward\n         Communications program accomplishments throughout the\n         year.",
+                "completion_mark_raw": null,
+                "interpretation": "unmarked; completion unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "task_count": 43,
+      "completed_marks": 10,
+      "postponed_marks": 0,
+      "unmarked": 33
+    }
+  ]
+}

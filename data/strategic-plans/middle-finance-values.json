@@ -1,0 +1,38 @@
+{
+  "kind": "observation",
+  "reserves": [
+    {
+      "source_id": "SAO-RSD407-2017-FIN",
+      "period": "2016-17",
+      "unassigned_balance_raw": "3599390.16",
+      "unassigned_pdf_page": 23,
+      "actual_expenditures_raw": "37480441.28",
+      "expenditures_pdf_page": 24
+    },
+    {
+      "source_id": "SAO-RSD407-2018-FIN",
+      "period": "2017-18",
+      "unassigned_balance_raw": "3809409.68",
+      "unassigned_pdf_page": 20,
+      "actual_expenditures_raw": "40632892.55",
+      "expenditures_pdf_page": 21
+    },
+    {
+      "source_id": "SAO-RSD407-2019-FIN",
+      "period": "2018-19",
+      "unassigned_balance_raw": "6872942.87",
+      "unassigned_pdf_page": 18,
+      "actual_expenditures_raw": "45740916.99",
+      "expenditures_pdf_page": 19
+    },
+    {
+      "source_id": "SAO-RSD407-2020-FIN",
+      "period": "2019-20",
+      "unassigned_balance_raw": "7695323.67",
+      "unassigned_pdf_page": 50,
+      "actual_expenditures_raw": "47257070.37",
+      "expenditures_pdf_page": 21
+    }
+  ],
+  "limitation": "Reused audited PDFs and source IDs; transcribed General Fund unassigned balances, distinct from total/committed/reserved balances."
+}

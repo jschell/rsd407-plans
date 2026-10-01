@@ -1,0 +1,46 @@
+[
+  {
+    "evidence_id": "KC-RSD407-BOND-2020",
+    "publisher": "King County Elections",
+    "title": "King County official final February11,2020 election results",
+    "url": "https://aqua.kingcounty.gov/elections/2020/feb-special/results.pdf",
+    "format": "PDF",
+    "retrieved_at": "2026-10-01T02:30:17.927558+00:00",
+    "sha256": "2b29568858400ad4b404ba3934feb4d1b777707a7c03a99603cad46ec47720ed",
+    "byte_count": 160856,
+    "review": "PDF p.2 rendered and visually inspected; pdftotext -layout",
+    "locator": "PDF p.2 Riverview Proposition1; final update February21,2020",
+    "limitations": "Vote percentage denominator is votes on the measure, not all ballots counted. Election result does not identify cause of campaign outcome.",
+    "retention": "Original reviewed locally and not committed; re-fetch URL and verify sha256.",
+    "internet_archive": {
+      "evidence_id": "KC-RSD407-BOND-2020",
+      "requested_at": "2026-10-01T02:30:17.929425+00:00",
+      "request_url": "https://web.archive.org/save/https://aqua.kingcounty.gov/elections/2020/feb-special/results.pdf",
+      "status": "capture_verified",
+      "capture_url": "https://web.archive.org/web/20261001023025/https://aqua.kingcounty.gov/elections/2020/feb-special/results.pdf",
+      "archived_sha256": "2b29568858400ad4b404ba3934feb4d1b777707a7c03a99603cad46ec47720ed"
+    }
+  },
+  {
+    "evidence_id": "RSD407-BOND-HISTORY",
+    "publisher": "Riverview School District No.407",
+    "title": "District Bond Planning Committee: Bond History",
+    "url": "https://www.rsd407.org/bond-committee",
+    "format": "HTML",
+    "retrieved_at": "2026-10-01T02:30:17.928068+00:00",
+    "sha256": "4d50ef8714bd1688fc3e72b2bdecc9915ff4b2617a5e049357765a56dae4d639",
+    "byte_count": 1036410,
+    "review": "HTML source and retrieved readable page reviewed; exact history figure corroborates official final election PDF",
+    "locator": "Historical Background/Bond History:2020 $125million Failed53.03%",
+    "limitations": "Current retrospective district HTML, not contemporaneous campaign or legal threshold record. Dynamic page archive hash may differ.",
+    "retention": "Original reviewed locally and not committed; re-fetch URL and verify sha256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-BOND-HISTORY",
+      "requested_at": "2026-10-01T02:30:17.929958+00:00",
+      "request_url": "https://web.archive.org/save/https://www.rsd407.org/bond-committee",
+      "status": "capture_hash_mismatch",
+      "capture_url": "https://web.archive.org/web/20261001023028/https://www.rsd407.org/bond-committee",
+      "archived_sha256": "a15e2752ea1c3c46432b807541000ecf569cc8a12478d23cddb5e07402477713"
+    }
+  }
+]
