@@ -1,6 +1,6 @@
 # Plan 08 — Prior-Iteration Inventory and Evaluation Boundaries
 
-Status: queued. Start here. Current 2022–2027 review remains complete within its bounded scope; prior iterations have not received equivalent formal ratings.
+Status: complete. Bounded inventory executed 2026-10-01. Current 2022–2027 review remains complete within its bounded scope; prior iterations have not received equivalent formal ratings.
 
 ## Objective
 
@@ -23,3 +23,7 @@ Every acquired source records URL, retrieval date, original-byte hash, format an
 Every known candidate is confirmed, reconstructed or unresolved with a documented targeted search boundary. No indefinite search for missing adoption artifacts; an unresolved era may close with insufficient authority. Do not invent missing goals or infer new versions from annual updates. Queue only specific missing evidence, not an unrestricted historical data pipeline.
 
 Dependencies: none. Outputs define boundaries for Plans 09–11. No prior-plan attainment ratings until period/authority is established sufficiently for the assertion.
+
+## Results and verification
+
+See [iteration inventory](../../strategic-plans/iteration-inventory.md), machine inventory and bounded search log. Recovered 2015–2020 and 2019–2020 original archived PDFs; early authority and 2020/2022 supersession remain unresolved under the stop rule. Reviewed cited PDF sections and rendered covers, recorded original-byte hashes and archive submissions, matched the reused 2024 source hash, checked JSON/source references and Markdown links, and ran git diff --check. No historical attainment ratings. Plans 09–11 retain bounded recovery tasks.

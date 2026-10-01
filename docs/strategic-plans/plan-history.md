@@ -1,15 +1,7 @@
 # Strategic Plan History
 
-## Confirmed/reconstructed periods
+The [verified inventory and evidence boundaries](iteration-inventory.md) supersede the earlier discovery list. It confirms recovered district documents for 2015–2020 (reviewed July 2016 revision), its year-five 2019–2020 update, and 2022–2027. It reconstructs 2020–2025 from official school HTML, with adoption/replacement unresolved. Early 2008–2014 candidates and the 2014–2015 bridge remain provisional.
 
-- 2008–09 precursor/support-review material.
-- 2009–10 formally adopted strategic plan.
-- 2010–11 status reporting and annual revision evidence.
-- 2011–12 partial reconstruction.
-- 2012–13 strong status-report reconstruction.
-- 2013–14 strong reconstruction.
-- 2014–19 archival gap; evidence suggests a new or substantially refreshed plan around 2013–15, but adoption artifact remains unresolved.
-- 2020–25 district plan confirmed; public strategic plan plus separate business-plan implementation structure.
-- 2022–27 current plan confirmed.
+Legacy discovery leads preserved as RSD407-ITER-HISTORY-LEAD in the machine inventory: 2008–2009 support review; 2009–2010 adoption; 2010–2011 annual updates; partial 2011–2012; 2012–2013 and 2013–2014 status reconstruction. Earlier adjectives such as “formally adopted” and “strong reconstruction” lacked original page-specific provenance and are not independent verification.
 
-The bounded current-plan review is complete; formal earlier-iteration reviews are queued in Plans 08–12. Plan 08 first verifies versions and authority, including the unresolved 2014–2019 gap and 2020–2025/2022–2027 transition. This history list is a discovery inventory, not a rating of each prior plan. See [Plan 08](../plans/queue/08-prior-plan-inventory.md).
+Plan 08 closes the inventory pass, not historical ratings. Plans 09–12 remain queued; current-plan ratings remain limited to their bounded 2022–2027 scope.

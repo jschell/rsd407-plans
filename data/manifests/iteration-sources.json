@@ -1,0 +1,146 @@
+[
+  {
+    "evidence_id": "RSD407-ITER-CHS",
+    "title": "CHS district strategic plan page",
+    "publisher": "Riverview School District No. 407",
+    "url": "https://www.chs.rsd407.org/strategic-plan",
+    "format": "HTML",
+    "sha256": "58546b668637dbb0cb4e3e0e3da732879c6c37601ea148444419d5be857ab4bd",
+    "byte_count": 651463,
+    "retrieved_at": "2026-10-01",
+    "review": {
+      "method": "HTML source and readable rendered text",
+      "locator": "District Strategic Plan heading; 2020\u20132025 link; Goals 1\u20133"
+    },
+    "limitations": "Current HTML cannot prove historical adoption or continuing authority.",
+    "retention": "Original bytes reviewed locally and not committed; retrieve URL and verify SHA-256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-ITER-CHS",
+      "requested_at": "2026-10-01T00:40:45.150202+00:00",
+      "request_url": "https://web.archive.org/save/https://www.chs.rsd407.org/strategic-plan",
+      "status": "capture_hash_mismatch",
+      "capture_url": "https://web.archive.org/web/20260513072852/https://www.chs.rsd407.org/strategic-plan",
+      "archived_sha256": "6b943628c32b2834f2466e17c7bcfbca09529d9091c602ec3a1027867b3ce351"
+    }
+  },
+  {
+    "evidence_id": "RSD407-ITER-P1120",
+    "title": "Commitment to Strategic Planning Policy 1120",
+    "publisher": "Riverview School District No. 407",
+    "url": "https://rsd407.community.diligentoneplatform.com/document/3555/",
+    "format": "PDF",
+    "sha256": "9d2de33425c96c5d46ab1c1dd979ebc638834097e0ccc2d7e8c731cf7c790847",
+    "byte_count": 105298,
+    "retrieved_at": "2026-10-01",
+    "review": {
+      "method": "pdftotext -layout plus rendered page visual inspection",
+      "locator": "PDF p.1; footer Adopted 7/20/10"
+    },
+    "limitations": "One-page PDF labels itself Page 1 of 3. No assertion about unseen pages; this is planning policy, not adoption of a particular plan.",
+    "retention": "Original bytes reviewed locally and not committed; retrieve URL and verify SHA-256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-ITER-P1120",
+      "requested_at": "2026-10-01T00:40:45.150640+00:00",
+      "request_url": "https://web.archive.org/save/https://rsd407.community.diligentoneplatform.com/document/3555/",
+      "status": "capture_verified",
+      "capture_url": "https://web.archive.org/web/20261001004052/https://rsd407.community.diligentoneplatform.com/document/3555/",
+      "archived_sha256": "9d2de33425c96c5d46ab1c1dd979ebc638834097e0ccc2d7e8c731cf7c790847"
+    }
+  },
+  {
+    "evidence_id": "RSD407-ITER-PAGE2017",
+    "publisher": "Riverview School District No. 407",
+    "title": "District strategic plan page July 2017 snapshot",
+    "url": "http://www.rsd407.org:80/districtinfo/strategicplan/default.aspx",
+    "retrieval_url": "https://web.archive.org/web/20170727170257id_/http://www.rsd407.org:80/districtinfo/strategicplan/default.aspx",
+    "format": "HTML",
+    "sha256": "e5a56a9b33623c8bd77623925d9172e047afff2400f11d4a5337a0888d12d68e",
+    "byte_count": 16289,
+    "retrieved_at": "2026-10-01",
+    "review": {
+      "method": "HTML source and text review",
+      "locator": "Strategic Plan heading and two PDF links"
+    },
+    "existing_archive": {
+      "capture_url": "https://web.archive.org/web/20170727170257/http://www.rsd407.org:80/districtinfo/strategicplan/default.aspx",
+      "original_byte_url": "https://web.archive.org/web/20170727170257id_/http://www.rsd407.org:80/districtinfo/strategicplan/default.aspx",
+      "archived_sha256": "e5a56a9b33623c8bd77623925d9172e047afff2400f11d4a5337a0888d12d68e",
+      "status": "retrieved_original_bytes_hashed",
+      "limitation": "Hash identifies reviewed archived bytes; no live original bytes were available for independent comparison."
+    },
+    "limitations": "Page link labels do not establish plan adoption or distinct plan versions.",
+    "retention": "Reviewed locally; originals not committed. Retrieve original-byte archive URL and check SHA-256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-ITER-PAGE2017",
+      "requested_at": "2026-10-01T00:42:21.629818+00:00",
+      "request_url": "https://web.archive.org/save/http://www.rsd407.org:80/districtinfo/strategicplan/default.aspx",
+      "status": "submission_failed",
+      "capture_url": null,
+      "error": "HTTPError: HTTP Error 523: UNKNOWN"
+    }
+  },
+  {
+    "evidence_id": "RSD407-ITER-2019",
+    "publisher": "Riverview School District No. 407",
+    "title": "2015\u20132020 plan: year five, 2019\u20132020",
+    "url": "http://rsd407.org/districtinfo/strategicplan/Strategic%20Plan%202019-2020%20-%20FINAL.pdf",
+    "retrieval_url": "https://web.archive.org/web/20210119123645id_/http://rsd407.org/districtinfo/strategicplan/Strategic%20Plan%202019-2020%20-%20FINAL.pdf",
+    "format": "PDF",
+    "sha256": "4c3a5e565f88394f3f5e62e99c945ccb3004f6c9ca2223ae7733d6f489df9093",
+    "byte_count": 374731,
+    "retrieved_at": "2026-10-01",
+    "review": {
+      "method": "pdftotext -layout; cited goal/revision/timeline sections reviewed; rendered cover inspected",
+      "locator": "PDF pp.1,19\u201336,39\u201342"
+    },
+    "existing_archive": {
+      "capture_url": "https://web.archive.org/web/20210119123645/http://rsd407.org/districtinfo/strategicplan/Strategic%20Plan%202019-2020%20-%20FINAL.pdf",
+      "original_byte_url": "https://web.archive.org/web/20210119123645id_/http://rsd407.org/districtinfo/strategicplan/Strategic%20Plan%202019-2020%20-%20FINAL.pdf",
+      "archived_sha256": "4c3a5e565f88394f3f5e62e99c945ccb3004f6c9ca2223ae7733d6f489df9093",
+      "status": "retrieved_original_bytes_hashed",
+      "limitation": "Hash identifies reviewed archived bytes; no live original bytes were available for independent comparison."
+    },
+    "limitations": "Plan-stated adoption is distinct from separately verified Board motion. Capture date is not publication date. 2019 cover and revision record disagree on adoption date.",
+    "retention": "Reviewed locally; originals not committed. Retrieve original-byte archive URL and check SHA-256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-ITER-2019",
+      "requested_at": "2026-10-01T00:42:21.630395+00:00",
+      "request_url": "https://web.archive.org/save/http://rsd407.org/districtinfo/strategicplan/Strategic%20Plan%202019-2020%20-%20FINAL.pdf",
+      "status": "submission_failed",
+      "capture_url": null,
+      "error": "HTTPError: HTTP Error 523: UNKNOWN"
+    }
+  },
+  {
+    "evidence_id": "RSD407-ITER-2015",
+    "publisher": "Riverview School District No. 407",
+    "title": "2015\u20132020 five-year plan, revised July 11, 2016",
+    "url": "http://rsd407.org/districtinfo/strategicplan/strategic_plan.pdf",
+    "retrieval_url": "https://web.archive.org/web/20201117040135id_/http://rsd407.org/districtinfo/strategicplan/strategic_plan.pdf",
+    "format": "PDF",
+    "sha256": "f44e7bb5a7b3e1f39365d006bb3b5a6274f075c995af0a7030bac5a7eea1dd55",
+    "byte_count": 465004,
+    "retrieved_at": "2026-10-01",
+    "review": {
+      "method": "pdftotext -layout; cited goal/revision/timeline sections reviewed; rendered cover inspected",
+      "locator": "PDF pp.1,8\u201312,30\u201347,54\u201357"
+    },
+    "existing_archive": {
+      "capture_url": "https://web.archive.org/web/20201117040135/http://rsd407.org/districtinfo/strategicplan/strategic_plan.pdf",
+      "original_byte_url": "https://web.archive.org/web/20201117040135id_/http://rsd407.org/districtinfo/strategicplan/strategic_plan.pdf",
+      "archived_sha256": "f44e7bb5a7b3e1f39365d006bb3b5a6274f075c995af0a7030bac5a7eea1dd55",
+      "status": "retrieved_original_bytes_hashed",
+      "limitation": "Hash identifies reviewed archived bytes; no live original bytes were available for independent comparison."
+    },
+    "limitations": "Plan-stated adoption is distinct from separately verified Board motion. Capture date is not publication date. 2019 cover and revision record disagree on adoption date.",
+    "retention": "Reviewed locally; originals not committed. Retrieve original-byte archive URL and check SHA-256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-ITER-2015",
+      "requested_at": "2026-10-01T00:42:21.630949+00:00",
+      "request_url": "https://web.archive.org/save/http://rsd407.org/districtinfo/strategicplan/strategic_plan.pdf",
+      "status": "submission_failed",
+      "capture_url": null,
+      "error": "HTTPError: HTTP Error 523: UNKNOWN"
+    }
+  }
+]
