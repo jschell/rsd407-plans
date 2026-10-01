@@ -318,5 +318,15 @@
     "plan11": [
       "Bounded Plan11 closed; reviewed year-one PDF archived with matching hash; seven objective and14 metric rows. Precise replacement and annual versions remain unresolved."
     ]
+  },
+  "synthesis_closeout": {
+    "plan": "12",
+    "date": "2026-10-01",
+    "candidate_count": 12,
+    "bounded_reviews": 6,
+    "insufficient_evidence_closeouts": 6,
+    "objective_rows": 54,
+    "artifact": "data/synthesis/cross-era-evaluation.json",
+    "limitation": "Observed version-specific objectives only; no ratings invented for unrecovered registers. All Plans08\u201312 closed; no background collection."
   }
 }

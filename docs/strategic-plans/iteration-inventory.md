@@ -42,7 +42,7 @@ Follow-up is limited to a documented delayed outcome or carry-forward: through 2
 
 The committed search log preserves four Board portal queries and their first thirty detail records, archive-index responses and hashes, failed retrievals, and the finite search boundary. The broad newer portal results mostly contain recent records and policies. Targeted web searches found secondary transcription leads but no independently recovered early originals. The bare-host archive PDF query was empty; adding the www host recovered the official page and two PDFs. An older hostname archive query timed out. None of these results establishes exhaustive nonexistence.
 
-The formerly broad 2014–2019 gap is narrowed to a pre-2015 bridge plus missing intermediate revisions and Board motions. Every known candidate is classified, period-matched outcome gaps are handed to Plans 09–11, and authority conflicts remain visible. Plan 08's inventory stopping rule is satisfied; historical objective ratings remain queued.
+The formerly broad 2014–2019 gap is narrowed to a pre-2015 bridge plus missing intermediate revisions and Board motions. Every known candidate is classified, period-matched outcome gaps are handed to Plans 09–11, and authority conflicts remain visible. Plan 08's inventory stopping rule is satisfied; historical objective ratings were handed to Plans 09–11, now closed below.
 
 ## Plan 09 update
 
@@ -50,8 +50,13 @@ June 25, 2013 revised-cycle adoption narrows the early authority gap; it does no
 
 ## Plan 10 closure
 
-The [middle-era review](../evaluations/middle-plan-iterations.md) evaluates twelve objectives in the July 2016 revised copy and seven in the year-five revision. All broad attainment/fidelity judgments remain unknown; the explicit February 2020 bond-success criterion was not met. Target changes and authority gaps remain visible. Plan 11 subsequently closed below; Plan 12 remains queued.
+The [middle-era review](../evaluations/middle-plan-iterations.md) evaluates twelve objectives in the July 2016 revised copy and seven in the year-five revision. All broad attainment/fidelity judgments remain unknown; the explicit February 2020 bond-success criterion was not met. Target changes and authority gaps remain visible. Plan 11 subsequently closed below; Plan 12 subsequently closed below.
 
 ## Plan 11 closure
 
-The [2020–2025 review](../evaluations/plan-2020-2025.md) recovered, reviewed and archive-verified the original year-one PDF. Its embedded action register supplies seven objectives,34 tasks and14 original goal metrics. State grade-three ELA54.8% is below the85% historical benchmark; broad attainment and fidelity remain unknown. Task/title/deadline conflicts and replacement gaps remain visible. Plan12 is the remaining queued synthesis.
+The [2020–2025 review](../evaluations/plan-2020-2025.md) recovered, reviewed and archive-verified the original year-one PDF. Its embedded action register supplies seven objectives,34 tasks and14 original goal metrics. State grade-three ELA54.8% is below the85% historical benchmark; broad attainment and fidelity remain unknown. Task/title/deadline conflicts and replacement gaps remain visible. Plan 12 subsequently closed below.
+
+
+## Plan 12 final closeout — October 1, 2026
+
+The [cross-era synthesis](../evaluations/cross-era-synthesis.md) and [machine-readable coverage/index](../../data/synthesis/cross-era-evaluation.json) close all twelve inventory candidates: six have bounded version-specific reviews and six have insufficient-evidence closeouts. The 54 objective rows preserve 47 historical evaluations and seven current snapshot definitions with their existing domain component findings. Partial early registers are not complete censuses; unknown objective counts remain null. Earlier handoff statements describe the inventory's historical sequence, not outstanding work. All Plans 08–12 are complete, with finite reopening conditions and no background collection.
