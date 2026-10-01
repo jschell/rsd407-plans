@@ -1,0 +1,54 @@
+{
+  "assertion_id": "EARLY-DERIVED-01",
+  "kind": "derived result",
+  "source_id": "RSD407-EARLY-NOVEMBER-26",
+  "pdf_page": 6,
+  "method": "reported endpoint percent minus baseline percent; Decimal arithmetic",
+  "baseline_period": "2011\u20132012",
+  "endpoint_period": "2012\u20132013",
+  "limitations": "Staff counts, denominators, turnover definitions and matched state reference unavailable. Retirements alter comparisons; endpoint predates the new 2013\u20132018 HR plan. No causal claim.",
+  "values": [
+    {
+      "category": "certificated employees overall",
+      "baseline_raw": "7.82",
+      "endpoint_raw": "6.08",
+      "change_percentage_points": "-1.74",
+      "direction": "decreased"
+    },
+    {
+      "category": "certificated employees excluding retirements",
+      "baseline_raw": "3.91",
+      "endpoint_raw": "3.87",
+      "change_percentage_points": "-0.04",
+      "direction": "decreased"
+    },
+    {
+      "category": "classified staff",
+      "baseline_raw": "3.77",
+      "endpoint_raw": "7.50",
+      "change_percentage_points": "3.73",
+      "direction": "increased"
+    },
+    {
+      "category": "certificated administrators overall",
+      "baseline_raw": "14.29",
+      "endpoint_raw": "11.11",
+      "change_percentage_points": "-3.18",
+      "direction": "decreased"
+    },
+    {
+      "category": "classified administrators",
+      "baseline_raw": "0",
+      "endpoint_raw": "0",
+      "change_percentage_points": "0",
+      "direction": "unchanged"
+    },
+    {
+      "category": "classified exempt",
+      "baseline_raw": "25",
+      "endpoint_raw": "11.11",
+      "change_percentage_points": "-13.89",
+      "direction": "decreased"
+    }
+  ]
+}

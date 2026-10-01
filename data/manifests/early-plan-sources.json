@@ -1,0 +1,239 @@
+[
+  {
+    "evidence_id": "RSD407-EARLY-JANUARY-22",
+    "publisher": "Riverview School District No.407",
+    "title": "Board minutes January-22 2013",
+    "url": "http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/January%2022,%202013.pdf",
+    "retrieval_url": "https://web.archive.org/web/20201128221820id_/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/January%2022,%202013.pdf",
+    "format": "PDF",
+    "retrieved_at": "2026-10-01T02:08:58.455544+00:00",
+    "sha256": "6aa223d8c33c8c48e37520a65b209e0146786a31f40c5a84a39891099022cd84",
+    "byte_count": 155962,
+    "review": "pdftotext -layout; cited strategic-plan/status sections reviewed; relevant adoption, task and turnover pages visually inspected",
+    "limitations": "Board minutes report staff statements; not independent verification of all implementation/outcome claims. Archived bytes identify reviewed source; live original unavailable for comparison.",
+    "existing_archive": {
+      "capture_url": "https://web.archive.org/web/20201128221820/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/January%2022,%202013.pdf",
+      "archived_sha256": "6aa223d8c33c8c48e37520a65b209e0146786a31f40c5a84a39891099022cd84",
+      "status": "reviewed_archived_bytes_hashed"
+    },
+    "retention": "PDF reviewed locally; original not committed. Re-fetch retrieval_url and verify sha256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-EARLY-JANUARY-22",
+      "requested_at": "2026-10-01T02:08:58.463698+00:00",
+      "request_url": "https://web.archive.org/save/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/January%2022,%202013.pdf",
+      "status": "submission_failed",
+      "capture_url": null,
+      "error": "HTTPError: HTTP Error 523: UNKNOWN"
+    }
+  },
+  {
+    "evidence_id": "RSD407-EARLY-APRIL-23",
+    "publisher": "Riverview School District No.407",
+    "title": "Board minutes April-23 2013",
+    "url": "http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/April%2023,%202013.pdf",
+    "retrieval_url": "https://web.archive.org/web/20201128235653id_/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/April%2023,%202013.pdf",
+    "format": "PDF",
+    "retrieved_at": "2026-10-01T02:08:58.455802+00:00",
+    "sha256": "258512e4ab36dc8eb5ab4d55b7886f45b204e64da746c8c9c025f2ddcd385d09",
+    "byte_count": 145712,
+    "review": "pdftotext -layout; cited strategic-plan/status sections reviewed; relevant adoption, task and turnover pages visually inspected",
+    "limitations": "Board minutes report staff statements; not independent verification of all implementation/outcome claims. Archived bytes identify reviewed source; live original unavailable for comparison.",
+    "existing_archive": {
+      "capture_url": "https://web.archive.org/web/20201128235653/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/April%2023,%202013.pdf",
+      "archived_sha256": "258512e4ab36dc8eb5ab4d55b7886f45b204e64da746c8c9c025f2ddcd385d09",
+      "status": "reviewed_archived_bytes_hashed"
+    },
+    "retention": "PDF reviewed locally; original not committed. Re-fetch retrieval_url and verify sha256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-EARLY-APRIL-23",
+      "requested_at": "2026-10-01T02:08:58.464294+00:00",
+      "request_url": "https://web.archive.org/save/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/April%2023,%202013.pdf",
+      "status": "submission_failed",
+      "capture_url": null,
+      "error": "HTTPError: HTTP Error 523: UNKNOWN"
+    }
+  },
+  {
+    "evidence_id": "RSD407-EARLY-MAY-28",
+    "publisher": "Riverview School District No.407",
+    "title": "Board minutes May-28 2013",
+    "url": "http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/May%2028,%202013.pdf",
+    "retrieval_url": "https://web.archive.org/web/20201128230121id_/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/May%2028,%202013.pdf",
+    "format": "PDF",
+    "retrieved_at": "2026-10-01T02:08:58.455978+00:00",
+    "sha256": "0a06e93237eaf56936b1715c9c89bc213c72cbe523771c9fe50fe4dd1b087bb1",
+    "byte_count": 150791,
+    "review": "pdftotext -layout; cited strategic-plan/status sections reviewed; relevant adoption, task and turnover pages visually inspected",
+    "limitations": "Board minutes report staff statements; not independent verification of all implementation/outcome claims. Archived bytes identify reviewed source; live original unavailable for comparison.",
+    "existing_archive": {
+      "capture_url": "https://web.archive.org/web/20201128230121/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/May%2028,%202013.pdf",
+      "archived_sha256": "0a06e93237eaf56936b1715c9c89bc213c72cbe523771c9fe50fe4dd1b087bb1",
+      "status": "reviewed_archived_bytes_hashed"
+    },
+    "retention": "PDF reviewed locally; original not committed. Re-fetch retrieval_url and verify sha256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-EARLY-MAY-28",
+      "requested_at": "2026-10-01T02:08:58.465367+00:00",
+      "request_url": "https://web.archive.org/save/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/May%2028,%202013.pdf",
+      "status": "submission_failed",
+      "capture_url": null,
+      "error": "HTTPError: HTTP Error 523: UNKNOWN"
+    }
+  },
+  {
+    "evidence_id": "RSD407-EARLY-AUGUST-27",
+    "publisher": "Riverview School District No.407",
+    "title": "Board minutes August-27 2013",
+    "url": "http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/August%2027,%202013.pdf",
+    "retrieval_url": "https://web.archive.org/web/20201128224714id_/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/August%2027,%202013.pdf",
+    "format": "PDF",
+    "retrieved_at": "2026-10-01T02:08:58.456104+00:00",
+    "sha256": "5dd20322a82cead4458700baf493207ccaeb370dc219321f2b80e8e2a9b97b00",
+    "byte_count": 117987,
+    "review": "pdftotext -layout; cited strategic-plan/status sections reviewed; relevant adoption, task and turnover pages visually inspected",
+    "limitations": "Board minutes report staff statements; not independent verification of all implementation/outcome claims. Archived bytes identify reviewed source; live original unavailable for comparison.",
+    "existing_archive": {
+      "capture_url": "https://web.archive.org/web/20201128224714/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/August%2027,%202013.pdf",
+      "archived_sha256": "5dd20322a82cead4458700baf493207ccaeb370dc219321f2b80e8e2a9b97b00",
+      "status": "reviewed_archived_bytes_hashed"
+    },
+    "retention": "PDF reviewed locally; original not committed. Re-fetch retrieval_url and verify sha256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-EARLY-AUGUST-27",
+      "requested_at": "2026-10-01T02:09:13.149001+00:00",
+      "request_url": "https://web.archive.org/save/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/August%2027,%202013.pdf",
+      "status": "submission_failed",
+      "capture_url": null,
+      "error": "HTTPError: HTTP Error 429: TOO MANY REQUESTS"
+    }
+  },
+  {
+    "evidence_id": "RSD407-EARLY-SEPTEMBER-24",
+    "publisher": "Riverview School District No.407",
+    "title": "Board minutes September-24 2013",
+    "url": "http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/September%2024,%202013.pdf",
+    "retrieval_url": "https://web.archive.org/web/20201128224931id_/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/September%2024,%202013.pdf",
+    "format": "PDF",
+    "retrieved_at": "2026-10-01T02:08:58.456211+00:00",
+    "sha256": "57bfd820736606ac3aef1a13cc6aeac004f63f76eac043c7f7b210ffeefe5d0a",
+    "byte_count": 133057,
+    "review": "pdftotext -layout; cited strategic-plan/status sections reviewed; relevant adoption, task and turnover pages visually inspected",
+    "limitations": "Board minutes report staff statements; not independent verification of all implementation/outcome claims. Archived bytes identify reviewed source; live original unavailable for comparison.",
+    "existing_archive": {
+      "capture_url": "https://web.archive.org/web/20201128224931/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/September%2024,%202013.pdf",
+      "archived_sha256": "57bfd820736606ac3aef1a13cc6aeac004f63f76eac043c7f7b210ffeefe5d0a",
+      "status": "reviewed_archived_bytes_hashed"
+    },
+    "retention": "PDF reviewed locally; original not committed. Re-fetch retrieval_url and verify sha256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-EARLY-SEPTEMBER-24",
+      "requested_at": "2026-10-01T02:09:13.183243+00:00",
+      "request_url": "https://web.archive.org/save/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/September%2024,%202013.pdf",
+      "status": "submission_failed",
+      "capture_url": null,
+      "error": "HTTPError: HTTP Error 429: TOO MANY REQUESTS"
+    }
+  },
+  {
+    "evidence_id": "RSD407-EARLY-NOVEMBER-26",
+    "publisher": "Riverview School District No.407",
+    "title": "Board minutes November-26 2013",
+    "url": "http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/November%2026,%202013.pdf",
+    "retrieval_url": "https://web.archive.org/web/20201128234649id_/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/November%2026,%202013.pdf",
+    "format": "PDF",
+    "retrieved_at": "2026-10-01T02:08:58.456407+00:00",
+    "sha256": "b67ef59d3ad3ff9c1d5b1e6e50a822ed8d83b62c8952001b25aa2a105df0bd16",
+    "byte_count": 157779,
+    "review": "pdftotext -layout; cited strategic-plan/status sections reviewed; relevant adoption, task and turnover pages visually inspected",
+    "limitations": "Board minutes report staff statements; not independent verification of all implementation/outcome claims. Archived bytes identify reviewed source; live original unavailable for comparison.",
+    "existing_archive": {
+      "capture_url": "https://web.archive.org/web/20201128234649/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/November%2026,%202013.pdf",
+      "archived_sha256": "b67ef59d3ad3ff9c1d5b1e6e50a822ed8d83b62c8952001b25aa2a105df0bd16",
+      "status": "reviewed_archived_bytes_hashed"
+    },
+    "retention": "PDF reviewed locally; original not committed. Re-fetch retrieval_url and verify sha256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-EARLY-NOVEMBER-26",
+      "requested_at": "2026-10-01T02:09:13.258368+00:00",
+      "request_url": "https://web.archive.org/save/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/November%2026,%202013.pdf",
+      "status": "submission_failed",
+      "capture_url": null,
+      "error": "HTTPError: HTTP Error 429: TOO MANY REQUESTS"
+    }
+  },
+  {
+    "evidence_id": "RSD407-EARLY-JUNE-25-2013",
+    "publisher": "Riverview School District No.407",
+    "title": "Board minutes June-25-2013",
+    "url": "http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/June%2025,%202013.pdf",
+    "retrieval_url": "https://web.archive.org/web/20201128225408id_/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/June%2025,%202013.pdf",
+    "format": "PDF",
+    "retrieved_at": "2026-10-01T02:08:58.456774+00:00",
+    "sha256": "73194bfca7afc1f6d93c2e47c5a2cbf44d9273e1068776c036f443aaafdac80d",
+    "byte_count": 131590,
+    "review": "pdftotext -layout; cited strategic-plan/status sections reviewed; relevant adoption, task and turnover pages visually inspected",
+    "limitations": "Board minutes report staff statements; not independent verification of all implementation/outcome claims. Archived bytes identify reviewed source; live original unavailable for comparison.",
+    "existing_archive": {
+      "capture_url": "https://web.archive.org/web/20201128225408/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/June%2025,%202013.pdf",
+      "archived_sha256": "73194bfca7afc1f6d93c2e47c5a2cbf44d9273e1068776c036f443aaafdac80d",
+      "status": "reviewed_archived_bytes_hashed"
+    },
+    "retention": "PDF reviewed locally; original not committed. Re-fetch retrieval_url and verify sha256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-EARLY-JUNE-25-2013",
+      "requested_at": "2026-10-01T02:09:20.271622+00:00",
+      "request_url": "https://web.archive.org/save/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/June%2025,%202013.pdf",
+      "status": "submission_failed",
+      "capture_url": null,
+      "error": "HTTPError: HTTP Error 429: TOO MANY REQUESTS"
+    }
+  },
+  {
+    "evidence_id": "RSD407-EARLY-JUNE-3-2013-BWS",
+    "publisher": "Riverview School District No.407",
+    "title": "Board work study June-3-2013-BWS 2013",
+    "url": "http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/June%203,%202013%20BWS.pdf",
+    "retrieval_url": "https://web.archive.org/web/20201128225920id_/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/June%203,%202013%20BWS.pdf",
+    "format": "PDF",
+    "retrieved_at": "2026-10-01T02:08:58.456996+00:00",
+    "sha256": "724951875fd7f808acfaf7b6d16a11cba281c9f9006d8c0393e60aab8d07a34c",
+    "byte_count": 87495,
+    "review": "pdftotext -layout; cited strategic-plan/status sections reviewed; relevant adoption, task and turnover pages visually inspected",
+    "limitations": "Board minutes report staff statements; not independent verification of all implementation/outcome claims. Archived bytes identify reviewed source; live original unavailable for comparison.",
+    "existing_archive": {
+      "capture_url": "https://web.archive.org/web/20201128225920/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/June%203,%202013%20BWS.pdf",
+      "archived_sha256": "724951875fd7f808acfaf7b6d16a11cba281c9f9006d8c0393e60aab8d07a34c",
+      "status": "reviewed_archived_bytes_hashed"
+    },
+    "retention": "PDF reviewed locally; original not committed. Re-fetch retrieval_url and verify sha256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-EARLY-JUNE-3-2013-BWS",
+      "requested_at": "2026-10-01T02:09:20.276377+00:00",
+      "request_url": "https://web.archive.org/save/http://rsd407.org/schoolboard/agendas_minutes/yearly_archives/2013_Agendas_and_Minutes/2013_Minutes/June%203,%202013%20BWS.pdf",
+      "status": "submission_failed",
+      "capture_url": null,
+      "error": "HTTPError: HTTP Error 429: TOO MANY REQUESTS"
+    }
+  },
+  {
+    "evidence_id": "RSD407-EARLY-ENTRY2014",
+    "publisher": "Riverview School District, hosted by WASA",
+    "title": "Superintendent Entry Plan Summary Report to Community: 2014\u201315",
+    "url": "https://wasa-oly.org/WASA/images/WASA/5.0%20Professional%20Development/New%20Supt%20Resources/Entry%20Plan%20Report%20To%20Community%20-%20Final_Smith.pdf",
+    "format": "PDF",
+    "retrieved_at": "2026-10-01T02:08:58.459073+00:00",
+    "sha256": "267298361f593fd01206a5a87faa017bf48b11f5f985158ac05570151b268076",
+    "byte_count": 4767204,
+    "review": "pdftotext -layout; pp.1\u20133,8 inspected",
+    "limitations": "2014\u201315 report summarizing transition; not the 2013 original strategic plan or a historical test-score dataset.",
+    "retention": "PDF reviewed locally; original not committed. Re-fetch URL and verify sha256.",
+    "internet_archive": {
+      "evidence_id": "RSD407-EARLY-ENTRY2014",
+      "requested_at": "2026-10-01T02:09:20.401219+00:00",
+      "request_url": "https://web.archive.org/save/https://wasa-oly.org/WASA/images/WASA/5.0%20Professional%20Development/New%20Supt%20Resources/Entry%20Plan%20Report%20To%20Community%20-%20Final_Smith.pdf",
+      "status": "submission_failed",
+      "capture_url": null,
+      "error": "HTTPError: HTTP Error 429: TOO MANY REQUESTS"
+    }
+  }
+]

@@ -1,6 +1,6 @@
 # Plan 09 — Evaluate Early Plan Iterations, 2009–2014
 
-Status: queued. Depends on Plan 08. Candidate years are discovery boundaries; inventory establishes actual versions.
+Status: complete. Bounded review executed 2026-10-01 after Plan 08. Partial registers and unresolved outcomes are explicit; completion does not mean every early objective or whole cycle was reconstructable.
 
 ## Objective
 
@@ -21,3 +21,9 @@ Era evaluation document(s), machine-readable per-iteration objective matrix, sou
 ## Stop
 
 One bounded primary-plan/status/outcome pass per confirmed iteration. Close missing implementation or incompatible outcomes as limitations. No blanket decade-long collection or individual student/staff data. Reopen only for specific material authoritative evidence.
+
+## Results and verification
+
+[Early-cycle evaluation](../../evaluations/early-plan-iterations.md) and `data/strategic-plans/early-objective-matrix.json` contain 21 observed objectives: 19 partially implemented, 2 implementation Cannot determine; all broad attainment judgments Cannot determine. June 25, 2013 Motion 13-41 confirms revised 2010–2015 authority. Original 2009–2012 registers, original 2010 adoption and matched historical assessment outcomes remain unavailable after the documented bounded pass. Eight Board PDFs and one district-authored entry report reviewed; originals excluded from git; hashes/replay URLs and failed archive submissions recorded. Six category-specific turnover changes reproduced without causal or state-comparison claims.
+
+Verification: source-byte hashes, PDF page ranges, assertion/source-ID resolution, objective counts, deterministic turnover output, JSON/Markdown links and git diff --check. Full 2015 cycle endpoint is outside this partial 2009–2014 review. Reopen only for specific authoritative missing evidence; proceed to Plan 10 for recovered 2015–2020 and year-five documents.
